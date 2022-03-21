@@ -1,0 +1,5 @@
+id,type,child_ids,title,title_code,sub_title,tutorial_manual_id,rank
+100,1,"101,104,105",tutorial_guide-10000100,guide_intermediate,tutorial_guide-20000100,0,0
+101,2,,tutorial_guide-10000101,,tutorial_guide-20000101,202,5
+104,2,,tutorial_guide-10000104,,tutorial_guide-20000104,206,4
+105,2,,tutorial_guide-10000105,,tutorial_guide-20000105,208,3
