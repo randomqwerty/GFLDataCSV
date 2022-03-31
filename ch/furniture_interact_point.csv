@@ -55,6 +55,7 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 56,wait,0,0,action,1,point,0,wait,,
 57,wait,0,0,action,0,point,0,wait,,
 58,wait,-1,20,",action",1,,0,wait,,
+59,sit,-1,15,",action,",1,point,0,sit,,
 104,bird_sit,-1,21,,-1,,0,sit,,
 105,bird_sit,-1,21,action,-1,,0,sit,,
 401,kalina_write,-1,1,,1,,0,sit,,

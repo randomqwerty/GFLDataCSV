@@ -100,6 +100,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 571,gift_item-10000571,2,6,50000,1034,571,30571,gift_bundle_Dropkick2021_Minosu,gift_item-20000571,gift_item-30000571,0,0,0,,gift_item-40000571,0
 572,gift_item-10000572,2,6,50000,122,572,30572,gift_bundle_2021Double11_G11,gift_item-20000572,gift_item-30000572,0,0,0,,gift_item-40000572,0
 573,gift_item-10000573,2,6,50000,116,573,30573,gift_bundle_ChessBonus_Z62,gift_item-20000573,gift_item-30000573,0,0,0,,gift_item-40000573,0
+574,gift_item-10000574,2,6,50000,56,574,30574,gift_bundle_AprilFool2022_M4 SOPMOD II,gift_item-20000574,gift_item-30000574,0,0,0,,gift_item-40000574,0
 601,gift_item-10000601,2,6,50000,6,601,30601,gift_bundle_wedding_tt33,gift_item-20000601,gift_item-30000601,0,0,0,,gift_item-40000601,0
 602,gift_item-10000602,2,6,50000,21,602,30602,gift_bundle_wedding_ppsh41,gift_item-20000602,gift_item-30000602,0,0,0,,gift_item-40000602,0
 603,gift_item-10000603,2,6,50000,29,603,30603,gift_bundle_wedding_stenmkii,gift_item-20000603,gift_item-30000603,0,0,0,,gift_item-40000603,0
@@ -536,7 +537,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 100006,gift_item-10100006,1,5,30000,0,0,0,gift_item_afternoonTea,gift_item-20100006,gift_item-30100006,0,0,0,2,gift_item-40100006,-1009
 100007,gift_item-10100007,1,5,30000,0,0,0,gift_item_whiskey,gift_item-20100007,gift_item-30100007,0,0,0,2,gift_item-40100007,-1011
 100008,gift_item-10100008,1,5,30000,0,0,0,gift_item_edenApple,gift_item-20100008,gift_item-30100008,0,0,0,2,gift_item-40100008,-1014
-200001,gift_item-10200001,3,6,0,0,0,0,battle_report,gift_item-20200001,gift_item-30200001,0,3000,0,"16,6,2",gift_item-40200001,1004
+200001,gift_item-10200001,3,6,0,0,0,0,battle_report,gift_item-20200001,gift_item-30200001,0,3000,0,"24,16,6,2",gift_item-40200001,1004
 200002,gift_item-10200002,3,5,0,0,0,0,gift_item_brightsong,gift_item-20200002,gift_item-30200002,0,10000,0,2,gift_item-40200002,-1006
 200003,gift_item-10200003,3,5,0,0,0,0,gift_item_cheapbeer,gift_item-20200003,gift_item-30200003,0,10000,0,2,gift_item-40200003,-1008
 200004,gift_item-10200004,3,5,0,0,0,0,gift_item_targetPaper,gift_item-20200004,gift_item-30200004,0,10000,0,2,gift_item-40200004,-1010

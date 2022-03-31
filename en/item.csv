@@ -752,6 +752,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1742,5,1,profilePic_Halloween20_B,item-10001742,item-20001742,1,0,,,0,0,,item-30001742
 1743,5,1,card_Halloween20_Theatre,item-10001743,item-20001743,1,0,,,0,0,,item-30001743
 1744,5,1,profilePic_Halloween20_us,item-10001744,item-20001744,1,0,,,0,0,,item-30001744
+1745,5,1,profilePic_sangvis_Prowler_SWAP,item-10001745,item-20001745,1,0,,,0,0,,item-30001745
+1746,5,1,profilePic_sangvis_Golyat_Factory,item-10001746,item-20001746,1,0,,,0,0,,item-30001746
+1747,5,1,profilePic_sangvis_Gager,item-10001747,item-20001747,1,0,,,0,0,,item-30001747
 1748,5,1,profilePic_Division_HK416Agent,item-10001748,item-20001748,1,0,,,0,0,,item-30001748
 1749,5,1,profilePic_Division_VectorAgent,item-10001749,item-20001749,1,0,,,0,0,,item-30001749
 1750,5,1,profilePic_Division_HK416,item-10001750,item-20001750,1,0,,,0,0,,item-30001750
@@ -863,6 +866,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2017,5,1,profilePic_Anime2022_05,item-10002017,item-20002017,1,0,,,0,0,,item-30002017
 2018,5,1,profilePic_Anime2022_06,item-10002018,item-20002018,1,0,,,0,0,,item-30002018
 2019,5,1,card_Anime2022_01,item-10002019,item-20002019,1,0,,,0,0,,item-30002019
+2069,5,1,profilePic_AprilFool2022_M4 SOPMOD II,item-10002069,item-20002069,1,0,,,0,0,,item-30002069
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003

@@ -13,6 +13,6 @@ id,name,level,group_id,code,description,arguments,max_level,is_show
 112,function_skill_config-10000112,1,0,function_skill_icon_112,function_skill_config-20000112,3,5,1
 113,function_skill_config-10000113,1,0,function_skill_icon_113,function_skill_config-20000113,1,5,1
 114,function_skill_config-10000114,1,0,function_skill_icon_114,function_skill_config-20000114,1,5,0
-115,function_skill_config-10000115,1,0,function_skill_icon_115,function_skill_config-20000115,1,5,0
+115,function_skill_config-10000115,1,0,function_skill_icon_115,function_skill_config-20000115,1,5,1
 116,function_skill_config-10000116,1,0,function_skill_icon_116,function_skill_config-20000116,1,5,0
 117,function_skill_config-10000117,1,0,function_skill_icon_117,function_skill_config-20000117,1,5,0

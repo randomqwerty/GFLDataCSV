@@ -82,6 +82,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 569,gift_item-10000569,2,6,50000,1032,569,30569,gift_bundle_Dropkick2021_Medusa,gift_item-20000569,gift_item-30000569,0,0,0,,,0
 570,gift_item-10000570,2,6,50000,1031,570,30570,gift_bundle_Dropkick2021_Pekora,gift_item-20000570,gift_item-30000570,0,0,0,,,0
 571,gift_item-10000571,2,6,50000,1034,571,30571,gift_bundle_Dropkick2021_Minosu,gift_item-20000571,gift_item-30000571,0,0,0,,,0
+574,gift_item-10000574,2,6,50000,56,574,30574,gift_bundle_AprilFool2022_M4 SOPMOD II,gift_item-20000574,gift_item-30000574,0,0,0,,,0
 601,gift_item-10000601,2,6,50000,6,601,30601,gift_bundle_wedding_tt33,gift_item-20000601,gift_item-30000601,0,0,0,,,0
 602,gift_item-10000602,2,6,50000,21,602,30602,gift_bundle_wedding_ppsh41,gift_item-20000602,gift_item-30000602,0,0,0,,,0
 603,gift_item-10000603,2,6,50000,29,603,30603,gift_bundle_wedding_stenmkii,gift_item-20000603,gift_item-30000603,0,0,0,,,0
