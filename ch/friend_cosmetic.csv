@@ -1069,3 +1069,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1071,2071,1,0,0,0,0,160,508-4000,1,0,profilePic_OfficeLady2022_FX05,1,5,,7002,0,4
 1072,2072,1,0,0,0,0,160,508-4000,1,0,profilePic_OfficeLady2022_RexZero1,1,5,,7003,0,4
 1073,2073,1,0,0,0,0,80,508-2000,1,0,profilePic_OfficeLady2022_C14,1,5,,7004,0,4
+1074,2074,2,0,0,0,0,0,508-5000,0,0,card_4years_US,1,5,,0,0,1
+1075,2075,1,0,0,0,0,0,,0,0,profilePic_rank4_PPKMod,1,5,,0,0,5
+1076,2076,1,0,0,0,0,0,,0,0,profilePic_rank5_MG3Mod,1,5,,0,0,5
+1077,2077,1,0,0,0,0,0,,0,0,profilePic_rank6_KP31Mod,1,5,,0,0,5
+1078,2078,1,0,0,0,0,0,,0,0,profilePic_rank4_OBRMod,1,5,,0,0,5
+1079,2079,1,0,0,0,0,0,,0,0,profilePic_sangvis_Cerberus,1,5,,0,0,5

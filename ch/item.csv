@@ -1153,6 +1153,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2071,5,1,profilePic_OfficeLady2022_FX05,item-10002071,item-20002071,1,0,,,0,0,,item-30002071
 2072,5,1,profilePic_OfficeLady2022_RexZero1,item-10002072,item-20002072,1,0,,,0,0,,item-30002072
 2073,5,1,profilePic_OfficeLady2022_C14,item-10002073,item-20002073,1,0,,,0,0,,item-30002073
+2074,5,1,card_4years_US,item-10002074,item-20002074,1,0,,,0,0,,item-30002074
+2075,5,1,profilePic_rank4_PPKMod,item-10002075,item-20002075,1,0,,,0,0,,item-30002075
+2076,5,1,profilePic_rank5_MG3Mod,item-10002076,item-20002076,1,0,,,0,0,,item-30002076
+2077,5,1,profilePic_rank6_KP31Mod,item-10002077,item-20002077,1,0,,,0,0,,item-30002077
+2078,5,1,profilePic_rank4_OBRMod,item-10002078,item-20002078,1,0,,,0,0,,item-30002078
+2079,5,1,profilePic_sangvis_Cerberus,item-10002079,item-20002079,1,0,,,0,0,,item-30002079
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003
@@ -1359,6 +1365,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100135,4,100135,Platinum_medal,item-10100135,item-20100135,1,0,,,0,0,,item-30100135
 100136,9,100136,Roasted_Cocoa,item-10100136,item-20100136,1,0,,60,0,0,,item-30100136
 100137,4,100137,Platinum_medal,item-10100137,item-20100137,1,0,,,0,0,,item-30100137
+100138,4,100138,core_mask_6year,item-10100138,item-20100138,1,0,,,0,0,,item-30100138
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001
 110002,4,110002,PT,item-10110002,item-20110002,1,0,,,0,0,,item-30110002
 110003,4,110003,PT,item-10110003,item-20110003,1,0,,,0,0,,item-30110003

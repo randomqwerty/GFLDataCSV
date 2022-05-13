@@ -786,6 +786,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1773,5,1,profilePic_G36_winter,item-10001773,item-20001773,1,0,,,0,0,,item-30001773
 1774,5,1,card_G36_workingList,item-10001774,item-20001774,1,0,,,0,0,,item-30001774
 1776,5,1,card_Christmas2020_US,item-10001776,item-20001776,1,0,,,0,0,,item-30001776
+1777,5,1,profilePic_sangvis_BossJustice,item-10001777,item-20001777,1,0,,,0,0,,item-30001777
+1778,5,1,profilePic_sangvis_Jaguar_HD,item-10001778,item-20001778,1,0,,,0,0,,item-30001778
+1779,5,1,profilePic_sangvis_Dragoon_SWAP,item-10001779,item-20001779,1,0,,,0,0,,item-30001779
 1780,5,1,profilePic_Christmas2020_VSK,item-10001780,item-20001780,1,0,,,0,0,,item-30001780
 1781,5,1,profilePic_Christmas2020_R5RGP,item-10001781,item-20001781,1,0,,,0,0,,item-30001781
 1782,5,1,profilePic_Christmas2020_SACR,item-10001782,item-20001782,1,0,,,0,0,,item-30001782
@@ -826,10 +829,25 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1858,5,1,profilePic_ChessFlight_season1_2,item-10001858,item-20001858,1,0,,,0,0,,item-30001858
 1859,5,1,profilePic_ChessFlight_season1_3,item-10001859,item-20001859,1,0,,,0,0,,item-30001859
 1860,5,1,card_MF2_Anniversary2021,item-10001860,item-20001860,1,0,,,0,0,,item-30001860
+1867,5,1,profilePic_Carnival2021_M4A1,item-10001867,item-20001867,1,0,,,0,0,,item-30001867
+1868,5,1,profilePic_Carnival2021_M4 SOPMOD II,item-10001868,item-20001868,1,0,,,0,0,,item-30001868
+1869,5,1,profilePic_Carnival2021_AR15,item-10001869,item-20001869,1,0,,,0,0,,item-30001869
 1870,5,1,profilePic_Carnival2021_M16A1,item-10001870,item-20001870,1,0,,,0,0,,item-30001870
+1871,5,1,profilePic_Carnival2021_RO635,item-10001871,item-20001871,1,0,,,0,0,,item-30001871
 1872,5,1,profilePic_Carnival2021_M200,item-10001872,item-20001872,1,0,,,0,0,,item-30001872
+1873,5,1,profilePic_Carnival2021_AUGPARA,item-10001873,item-20001873,1,0,,,0,0,,item-30001873
+1874,5,1,profilePic_Carnival2021_VHS,item-10001874,item-20001874,1,0,,,0,0,,item-30001874
+1875,5,1,profilePic_Carnival2021_GeneralLiu,item-10001875,item-20001875,1,0,,,0,0,,item-30001875
 1876,5,1,profilePic_Carnival2021_SL8,item-10001876,item-20001876,1,0,,,0,0,,item-30001876
 1877,5,1,profilePic_Carnival2021_G36,item-10001877,item-20001877,1,0,,,0,0,,item-30001877
+1878,5,1,profilePic_Anniversary2021_C93,item-10001878,item-20001878,1,0,,,0,0,,item-30001878
+1879,5,1,profilePic_Anniversary2021_PA15,item-10001879,item-20001879,1,0,,,0,0,,item-30001879
+1880,5,1,profilePic_Anniversary2021_M82A1,item-10001880,item-20001880,1,0,,,0,0,,item-30001880
+1881,5,1,profilePic_Anniversary2021_VSK,item-10001881,item-20001881,1,0,,,0,0,,item-30001881
+1882,5,1,profilePic_Anniversary2021_97typeS,item-10001882,item-20001882,1,0,,,0,0,,item-30001882
+1883,5,1,profilePic_Anniversary2021_FX05,item-10001883,item-20001883,1,0,,,0,0,,item-30001883
+1884,5,1,profilePic_Anniversary2021_CZ805,item-10001884,item-20001884,1,0,,,0,0,,item-30001884
+1885,5,1,profilePic_Anniversary2021_PPsh41,item-10001885,item-20001885,1,0,,,0,0,,item-30001885
 1906,5,1,profilePic_Dropkick2021_Yurine,item-10001906,item-20001906,1,0,,,0,0,,item-30001906
 1907,5,1,profilePic_Dropkick2021_Minosu,item-10001907,item-20001907,1,0,,,0,0,,item-30001907
 1908,5,1,profilePic_Dropkick2021_Medusa,item-10001908,item-20001908,1,0,,,0,0,,item-30001908
@@ -860,6 +878,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1975,5,1,profilePic_Halloween2021_KAC,item-10001975,item-20001975,1,0,,,0,0,,item-30001975
 1976,5,1,profilePic_Halloween2021_MP443,item-10001976,item-20001976,1,0,,,0,0,,item-30001976
 1977,5,1,profilePic_Halloween2021_LWMMG,item-10001977,item-20001977,1,0,,,0,0,,item-30001977
+1978,5,1,profilePic_ChessFlight_season3_1,item-10001978,item-20001978,1,0,,,0,0,,item-30001978
+1979,5,1,profilePic_ChessFlight_season3_2,item-10001979,item-20001979,1,0,,,0,0,,item-30001979
+1980,5,1,profilePic_ChessFlight_season3_3,item-10001980,item-20001980,1,0,,,0,0,,item-30001980
 1990,5,1,profilePic_Christmas2021_MK23,item-10001990,item-20001990,1,0,,,0,0,,item-30001990
 1991,5,1,profilePic_Christmas2021_KAC,item-10001991,item-20001991,1,0,,,0,0,,item-30001991
 1992,5,1,card_Christmas2021_CG,item-10001992,item-20001992,1,0,,,0,0,,item-30001992
@@ -971,6 +992,11 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100036,4,100036,core_mask_2year_us,item-10100036,item-20100036,1,0,,,0,0,,item-30100036
 100037,4,100037,Bumdle_2020_2year_us,item-10100037,item-20100037,1,0,,,0,0,,item-30100037
 100040,4,100040,core_mask_4year,item-10100040,item-20100040,1,0,,,0,0,,item-30100040
+100041,4,100041,Bumdle_1year,item-10100041,item-20100041,1,0,,,0,0,,item-30100041
+100042,4,100042,Bumdle_2year,item-10100042,item-20100042,1,0,,,0,0,,item-30100042
+100043,4,100043,Bumdle_3year,item-10100043,item-20100043,1,0,,,0,0,,item-30100043
+100044,4,100044,Bumdle_4year,item-10100044,item-20100044,1,0,,,0,0,,item-30100044
+100045,4,100045,Bumdle_20204year,item-10100045,item-20100045,1,0,,,0,0,,item-30100045
 100046,4,100046,Bumdle_1year,item-10100046,item-20100046,1,0,,,0,0,,item-30100046
 100047,4,100047,Nova_medal,item-10100047,item-20100047,1,0,,,0,0,,item-30100047
 100048,4,100048,Platinum_medal,item-10100048,item-20100048,1,0,,,0,0,,item-30100048

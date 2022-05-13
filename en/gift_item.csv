@@ -69,13 +69,20 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 547,gift_item-10000547,2,6,50000,1028,547,30547,gift_bundle_Division_VectorAgent,gift_item-20000547,gift_item-30000547,0,0,0,,,0
 548,gift_item-10000548,2,6,50000,65,548,30548,gift_bundle_Division_HK416,gift_item-20000548,gift_item-30000548,0,0,0,,,0
 549,gift_item-10000549,2,6,50000,20,549,30549,gift_bundle_Division_Vector,gift_item-20000549,gift_item-30000549,0,0,0,,,0
+550,gift_item-10000550,2,6,50000,55,550,30550,gift_bundle_Carnival2021_M4A1,gift_item-20000550,gift_item-30000550,0,0,0,,,0
+551,gift_item-10000551,2,6,50000,56,551,30551,gift_bundle_Carnival2021_M4 SOPMOD II,gift_item-20000551,gift_item-30000551,0,0,0,,,0
+552,gift_item-10000552,2,6,50000,57,552,30552,gift_bundle_Carnival2021_AR15,gift_item-20000552,gift_item-30000552,0,0,0,,,0
 553,gift_item-10000553,2,6,50000,54,553,30553,gift_bundle_Carnival2021_M16A1,gift_item-20000553,gift_item-30000553,0,0,0,,,0
+554,gift_item-10000554,2,6,50000,143,554,30554,gift_bundle_Carnival2021_RO635,gift_item-20000554,gift_item-30000554,0,0,0,,,0
 555,gift_item-10000555,2,6,50000,103,555,30555,gift_bundle_Carnival2021_UMP45,gift_item-20000555,gift_item-30000555,0,0,0,,,0
 556,gift_item-10000556,2,6,50000,101,556,30556,gift_bundle_Carnival2021_UMP9,gift_item-20000556,gift_item-30000556,0,0,0,,,0
 557,gift_item-10000557,2,6,50000,65,557,30557,gift_bundle_Carnival2021_HK416,gift_item-20000557,gift_item-30000557,0,0,0,,,0
 558,gift_item-10000558,2,6,50000,122,558,30558,gift_bundle_Carnival2021_G11,gift_item-20000558,gift_item-30000558,0,0,0,,,0
 559,gift_item-10000559,2,6,50000,102,559,30559,gift_bundle_Carnival2021_UMP40,gift_item-20000559,gift_item-30000559,0,0,0,,,0
 560,gift_item-10000560,2,6,50000,257,560,30560,gift_bundle_Carnival2021_M200,gift_item-20000560,gift_item-30000560,0,0,0,,,0
+561,gift_item-10000561,2,6,50000,315,561,30561,gift_bundle_Carnival2021_AUGPARA,gift_item-20000561,gift_item-30000561,0,0,0,,,0
+562,gift_item-10000562,2,6,50000,318,562,30562,gift_bundle_Carnival2021_VHS,gift_item-20000562,gift_item-30000562,0,0,0,,,0
+563,gift_item-10000563,2,6,50000,316,563,30563,gift_bundle_Carnival2021_GeneralLiu,gift_item-20000563,gift_item-30000563,0,0,0,,,0
 564,gift_item-10000564,2,6,50000,296,564,30564,gift_bundle_Carnival2021_SL8,gift_item-20000564,gift_item-30000564,0,0,0,,,0
 565,gift_item-10000565,2,6,50000,64,565,30565,gift_bundle_Carnival2021_G36,gift_item-20000565,gift_item-30000565,0,0,0,,,0
 567,gift_item-10000567,2,6,50000,1030,567,30567,gift_bundle_Dropkick2021_Jashinchan,gift_item-20000567,gift_item-30000567,0,0,0,,,0
@@ -418,6 +425,14 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 5606,gift_item-10005606,2,6,50000,216,5606,35606,gift_bundle_WhiteV2021_XM8,gift_item-20005606,gift_item-30005606,0,0,0,,,0
 5607,gift_item-10005607,2,6,50000,174,5607,35607,gift_bundle_WhiteV2021_81typeR,gift_item-20005607,gift_item-30005607,0,0,0,,,0
 5608,gift_item-10005608,2,6,50000,94,5608,35608,gift_bundle_WhiteV2021_64type,gift_item-20005608,gift_item-30005608,0,0,0,,,0
+5801,gift_item-10005801,2,6,50000,285,5801,35801,gift_bundle_Anniversary2021_C93,gift_item-20005801,gift_item-30005801,0,0,0,,,0
+5802,gift_item-10005802,2,6,50000,260,5802,35802,gift_bundle_Anniversary2021_PA15,gift_item-20005802,gift_item-30005802,0,0,0,,,0
+5803,gift_item-10005803,2,6,50000,231,5803,35803,gift_bundle_Anniversary2021_M82A1,gift_item-20005803,gift_item-30005803,0,0,0,,,0
+5804,gift_item-10005804,2,6,50000,312,5804,35804,gift_bundle_Anniversary2021_VSK,gift_item-20005804,gift_item-30005804,0,0,0,,,0
+5805,gift_item-10005805,2,6,50000,161,5805,35805,gift_bundle_Anniversary2021_97typeS,gift_item-20005805,gift_item-30005805,0,0,0,,,0
+5806,gift_item-10005806,2,6,50000,330,5806,35806,gift_bundle_Anniversary2021_FX05,gift_item-20005806,gift_item-30005806,0,0,0,,,0
+5807,gift_item-10005807,2,6,50000,108,5807,35807,gift_bundle_Anniversary2021_CZ805,gift_item-20005807,gift_item-30005807,0,0,0,,,0
+5808,gift_item-10005808,2,6,50000,21,5808,35808,gift_bundle_Anniversary2021_PPsh41,gift_item-20005808,gift_item-30005808,0,0,0,,,0
 6401,gift_item-10006401,2,6,50000,129,6401,36401,gift_bundle_Halloween2021_95type,gift_item-20006401,gift_item-30006401,0,0,0,,,0
 6402,gift_item-10006402,2,6,50000,329,6402,36402,gift_bundle_Halloween2021_SVCh,gift_item-20006402,gift_item-30006402,0,0,0,,,0
 6403,gift_item-10006403,2,6,50000,213,6403,36403,gift_bundle_Halloween2021_CBJMS,gift_item-20006403,gift_item-30006403,0,0,0,,,0

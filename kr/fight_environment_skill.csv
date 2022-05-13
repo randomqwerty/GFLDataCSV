@@ -47,6 +47,6 @@ id,name,desc,if_display,code,skill_group
 738,fight_environment_skill-10000738,fight_environment_skill-20000738,1,fight_skill_buff101,756134
 739,fight_environment_skill-10000739,fight_environment_skill-20000739,1,fight_skill_buff102,756135
 740,fight_environment_skill-10000740,fight_environment_skill-20000740,1,fight_skill_buff103,756136
-741,fight_environment_skill-10000741,fight_environment_skill-20000741,1,fight_skill_hurt101,756144
+741,fight_environment_skill-10000741,fight_environment_skill-20000741,1,fight_skill_hurt201,756144
 742,fight_environment_skill-10000742,fight_environment_skill-20000742,1,fight_skill_buff201,756146
 743,fight_environment_skill-10000743,fight_environment_skill-20000743,1,fight_skill_buff202,756147
