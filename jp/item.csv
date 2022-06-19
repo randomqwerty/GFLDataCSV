@@ -756,6 +756,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1741,5,1,profilePic_Halloween20_A,item-10001741,item-20001741,1,0,,,0,0,,item-30001741
 1742,5,1,profilePic_Halloween20_B,item-10001742,item-20001742,1,0,,,0,0,,item-30001742
 1743,5,1,card_Halloween20_Theatre,item-10001743,item-20001743,1,0,,,0,0,,item-30001743
+1745,5,1,profilePic_sangvis_Prowler_SWAP,item-10001745,item-20001745,1,0,,,0,0,,item-30001745
+1746,5,1,profilePic_sangvis_Golyat_Factory,item-10001746,item-20001746,1,0,,,0,0,,item-30001746
+1747,5,1,profilePic_sangvis_Gager,item-10001747,item-20001747,1,0,,,0,0,,item-30001747
 1748,5,1,profilePic_Division_HK416Agent,item-10001748,item-20001748,1,0,,,0,0,,item-30001748
 1749,5,1,profilePic_Division_VectorAgent,item-10001749,item-20001749,1,0,,,0,0,,item-30001749
 1750,5,1,profilePic_Division_HK416,item-10001750,item-20001750,1,0,,,0,0,,item-30001750
@@ -775,6 +778,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1764,5,1,card_Division_Sunrise,item-10001764,item-20001764,1,0,,,0,0,,item-30001764
 1765,5,1,card_Division_Foundation,item-10001765,item-20001765,1,0,,,0,0,,item-30001765
 1766,5,1,cg_Division_Foundation,item-10001766,item-20001766,1,0,,,0,0,,item-30001766
+1767,5,1,profilePic_rank4_ARMod,item-10001767,item-20001767,1,0,,,0,0,,item-30001767
+1768,5,1,profilePic_rank5_PP19Mod,item-10001768,item-20001768,1,0,,,0,0,,item-30001768
+1769,5,1,profilePic_rank4_M1897Mod,item-10001769,item-20001769,1,0,,,0,0,,item-30001769
 1770,5,1,profilePic_G36_spring,item-10001770,item-20001770,1,0,,,0,0,,item-30001770
 1771,5,1,profilePic_G36_summer,item-10001771,item-20001771,1,0,,,0,0,,item-30001771
 1772,5,1,profilePic_G36_fall,item-10001772,item-20001772,1,0,,,0,0,,item-30001772
@@ -882,6 +888,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2018,5,1,profilePic_Anime2022_06,item-10002018,item-20002018,1,0,,,0,0,,item-30002018
 2019,5,1,card_Anime2022_01,item-10002019,item-20002019,1,0,,,0,0,,item-30002019
 2069,5,1,profilePic_AprilFool2022_M4 SOPMOD II,item-10002069,item-20002069,1,0,,,0,0,,item-30002069
+2070,5,1,profilePic_OfficeLady2022_CZ75,item-10002070,item-20002070,1,0,,,0,0,,item-30002070
+2071,5,1,profilePic_OfficeLady2022_FX05,item-10002071,item-20002071,1,0,,,0,0,,item-30002071
+2072,5,1,profilePic_OfficeLady2022_RexZero1,item-10002072,item-20002072,1,0,,,0,0,,item-30002072
+2073,5,1,profilePic_OfficeLady2022_C14,item-10002073,item-20002073,1,0,,,0,0,,item-30002073
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003
@@ -1072,6 +1082,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 130009,12,130009,Y_Z_zhihuiguan_Sakura,item-10130009,item-20130009,1,0,,,0,0,,item-30130009
 130010,12,130010,Y_Z_zhihuiguan_Agent,item-10130010,item-20130010,1,0,,,0,0,,item-30130010
 130011,12,130011,Y_Z_zhihuiguan_tantei,item-10130011,item-20130011,1,0,,,0,0,,item-30130011
+130012,12,130012,Y_Z_zhihuiguan_Beast,item-10130012,item-20130012,1,0,,,0,0,,item-30130012
 130014,12,130014,Y_Z_zhihuiguan_Five,item-10130014,item-20130014,1,0,,,0,0,,item-30130014
 900030,4,900030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030
 900031,4,900031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031

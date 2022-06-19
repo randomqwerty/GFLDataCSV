@@ -1075,3 +1075,17 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1077,2077,1,0,0,0,0,0,,0,0,profilePic_rank6_KP31Mod,1,5,,0,0,5
 1078,2078,1,0,0,0,0,0,,0,0,profilePic_rank4_OBRMod,1,5,,0,0,5
 1079,2079,1,0,0,0,0,0,,0,0,profilePic_sangvis_Cerberus,1,5,,0,0,5
+1080,2080,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2022_ZB26,1,5,,7101,0,4
+1081,2081,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2022_Type100,1,5,,7102,0,4
+1082,2082,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2022_Rhino,1,5,,7103,0,4
+1083,2083,1,0,0,0,0,160,508-4000,1,0,profilePic_Anniversary2022_ColtDefender,1,5,,7104,0,4
+1084,2084,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2022_MP443,1,5,,7105,0,4
+1085,2085,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2022_88type,1,5,,7106,0,4
+1086,2086,1,0,0,0,0,40,508-1000,1,0,profilePic_Anniversary2022_M1895,1,5,,7107,0,4
+1087,2087,1,0,0,0,0,40,508-1000,1,0,profilePic_Anniversary2022_64type,1,5,,7108,0,4
+1088,2088,1,0,0,0,0,200,508-5000,0,0,profilePic_6years_A,1,5,,0,0,1
+1089,2089,2,0,0,0,0,400,508-10000,0,0,card_6years_A,1,5,,0,0,1
+1090,2090,1,0,0,0,0,200,508-5000,0,0,profilePic_mask_6years,1,5,,0,0,1
+1091,2091,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season6_1,1,5,,0,0,1
+1092,2092,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season6_2,1,5,,0,0,1
+1093,2093,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season6_3,1,5,,0,0,1

@@ -48,7 +48,7 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 47,enemy_illustration-10000047,3,Rodelero,enemy_illustration-20000047,3,0,3,4,3,3,1,2,3,4,enemy_illustration-30000047,"309,312,320",27,2016-5-20 00:00:00,enemy_illustration-40000047,"90,90,1"
 48,enemy_illustration-10000048,3,Doppelsoldner,enemy_illustration-20000048,3,0,2,4,3,0,3,4,1,3,enemy_illustration-30000048,"309,312,319","28,29",2016-5-20 00:00:00,enemy_illustration-40000048,"60,60,1"
 49,enemy_illustration-10000049,4,Uhlan,enemy_illustration-20000049,3,0,4,4,4,0,3,4,3,4,enemy_illustration-30000049,"309,312","31,32",2016-5-20 00:00:00,enemy_illustration-40000049,"50,50,1"
-50,enemy_illustration-10000050,1,Nyto_black,enemy_illustration-20000050,3,0,6,6,5,4,4,3,4,5,enemy_illustration-30000050,"216,309,312","45,47",2016-5-20 00:00:00,enemy_illustration-40000050,"70,70,1"
+50,enemy_illustration-10000050,1,Nyto_black,enemy_illustration-20000050,3,1,6,6,5,4,4,3,4,5,enemy_illustration-30000050,"216,309,312","45,47",2016-5-20 00:00:00,enemy_illustration-40000050,"70,70,1"
 51,enemy_illustration-10000051,1,Nyto_white,enemy_illustration-20000051,3,0,6,6,5,4,4,3,4,5,enemy_illustration-30000051,"216,309,312","46,47",2016-5-20 00:00:00,enemy_illustration-40000051,"70,70,1"
 52,enemy_illustration-10000052,3,Zombie2,enemy_illustration-20000052,0,0,3,3,4,3,4,0,3,4,enemy_illustration-30000052,300,,2016-5-20 00:00:00,enemy_illustration-40000052,"90,90,1"
 53,enemy_illustration-10000053,3,Zombie1,enemy_illustration-20000053,0,0,2,4,4,3,4,0,3,2,enemy_illustration-30000053,303,,2016-5-20 00:00:00,enemy_illustration-40000053,"90,90,1"

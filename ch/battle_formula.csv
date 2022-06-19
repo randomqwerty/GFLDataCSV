@@ -2379,9 +2379,11 @@ id,formula
 4558,tbuffidtier(8275)*60
 4559,sbuffidtier(8272)=1&sbuffidtier(8273)=1?8278:0
 4560,sbuffidtier(8272)=1&sbuffidtier(8273)=1?8276:0
-4561,sbuffidtier(8277)=1?1:0
+4561,sbuffidtier(8277)=1&tbuffidtier(459)=1?1:0
 4562,tbuffidtier(8275)>0?8279:0
 4563,sbuffidtier(8272)=0?1:sbuffidtier(8273)>0?0:1
+4565,sbuffidtier(8301)=1?8302:0
+4566,sbuffidtier(8301)=1&@pow>#armor&GetChance(60)?0:1
 6000,(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(221)+tbufftypetier(403)>0&sbuffidtier(6004)>0?1.1*$1:$1
 6001,$1*(sbuffidtier(60007)*0.01+1)
 6002,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))

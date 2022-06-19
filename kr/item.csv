@@ -43,6 +43,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 108,3,9,Medal_2022winter_rank,item-10000108,item-20000108,1,0,,,0,0,,item-30000108
 109,3,10,Medal_Theater8th,item-10000109,item-20000109,1,0,,,0,0,,item-30000109
 110,3,11,Medal_Theater8th_rank,item-10000110,item-20000110,1,0,,,0,0,,item-30000110
+111,3,12,Medal_2019winter_re_rank,item-10000111,item-20000111,1,0,,,0,0,,item-30000111
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303
@@ -1159,6 +1160,20 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2077,5,1,profilePic_rank6_KP31Mod,item-10002077,item-20002077,1,0,,,0,0,,item-30002077
 2078,5,1,profilePic_rank4_OBRMod,item-10002078,item-20002078,1,0,,,0,0,,item-30002078
 2079,5,1,profilePic_sangvis_Cerberus,item-10002079,item-20002079,1,0,,,0,0,,item-30002079
+2080,5,1,profilePic_Anniversary2022_ZB26,item-10002080,item-20002080,1,0,,,0,0,,item-30002080
+2081,5,1,profilePic_Anniversary2022_Type100,item-10002081,item-20002081,1,0,,,0,0,,item-30002081
+2082,5,1,profilePic_Anniversary2022_Rhino,item-10002082,item-20002082,1,0,,,0,0,,item-30002082
+2083,5,1,profilePic_Anniversary2022_ColtDefender,item-10002083,item-20002083,1,0,,,0,0,,item-30002083
+2084,5,1,profilePic_Anniversary2022_MP443,item-10002084,item-20002084,1,0,,,0,0,,item-30002084
+2085,5,1,profilePic_Anniversary2022_88type,item-10002085,item-20002085,1,0,,,0,0,,item-30002085
+2086,5,1,profilePic_Anniversary2022_M1895,item-10002086,item-20002086,1,0,,,0,0,,item-30002086
+2087,5,1,profilePic_Anniversary2022_64type,item-10002087,item-20002087,1,0,,,0,0,,item-30002087
+2088,5,1,profilePic_6years_A,item-10002088,item-20002088,1,0,,,0,0,,item-30002088
+2089,5,1,card_6years_A,item-10002089,item-20002089,1,0,,,0,0,,item-30002089
+2090,5,1,profilePic_mask_6years,item-10002090,item-20002090,1,0,,,0,0,,item-30002090
+2091,5,1,profilePic_ChessFlight_season6_1,item-10002091,item-20002091,1,0,,,0,0,,item-30002091
+2092,5,1,profilePic_ChessFlight_season6_2,item-10002092,item-20002092,1,0,,,0,0,,item-30002092
+2093,5,1,profilePic_ChessFlight_season6_3,item-10002093,item-20002093,1,0,,,0,0,,item-30002093
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003
@@ -1366,6 +1381,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100136,9,100136,Roasted_Cocoa,item-10100136,item-20100136,1,0,,60,0,0,,item-30100136
 100137,4,100137,Platinum_medal,item-10100137,item-20100137,1,0,,,0,0,,item-30100137
 100138,4,100138,core_mask_6year,item-10100138,item-20100138,1,0,,,0,0,,item-30100138
+100139,4,100139,Bumdle_20226year,item-10100139,item-20100139,1,0,,,0,0,,item-30100139
+100140,4,100140,Bumdle_6year,item-10100140,item-20100140,1,0,,,0,0,,item-30100140
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001
 110002,4,110002,PT,item-10110002,item-20110002,1,0,,,0,0,,item-30110002
 110003,4,110003,PT,item-10110003,item-20110003,1,0,,,0,0,,item-30110003
@@ -1414,6 +1431,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 110046,4,110046,EventPT3,item-10110046,item-20110046,1,0,,,0,0,,item-30110046
 110047,4,110047,PT,item-10110047,item-20110047,1,0,,,0,0,,item-30110047
 110048,4,110048,PT,item-10110048,item-20110048,1,0,,,0,0,,item-30110048
+110049,4,110049,PT,item-10110049,item-20110049,1,0,,,0,0,,item-30110049
+110050,4,110050,EventPT4,item-10110050,item-20110050,1,0,,,0,0,,item-30110050
 120001,10,1,bondage_lines_icon,item-10120001,item-20120001,1,0,,,0,0,,item-30120001
 120002,10,2,bondage_lines_icon,item-10120002,item-20120002,1,0,,,0,0,,item-30120002
 120003,10,3,bondage_lines_icon,item-10120003,item-20120003,1,0,,,0,0,,item-30120003

@@ -806,6 +806,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1794,5,1,profilePic_NewYear2021_UKM2000,item-10001794,item-20001794,1,0,,,0,0,,item-30001794
 1795,5,1,profilePic_NewYear2021_OBR,item-10001795,item-20001795,1,0,,,0,0,,item-30001795
 1796,5,1,profilePic_NewYear2021_EVO3,item-10001796,item-20001796,1,0,,,0,0,,item-30001796
+1798,5,1,profilePic_sangvis_Agent,item-10001798,item-20001798,1,0,,,0,0,,item-30001798
+1799,5,1,profilePic_sangvis_Dinergate_HD,item-10001799,item-20001799,1,0,,,0,0,,item-30001799
+1800,5,1,profilePic_sangvis_Striker_SWAP,item-10001800,item-20001800,1,0,,,0,0,,item-30001800
 1826,5,1,profilePic_SpringFes2021_Lewis,item-10001826,item-20001826,1,0,,,0,0,,item-30001826
 1827,5,1,profilePic_SpringFes2021_QBU88,item-10001827,item-20001827,1,0,,,0,0,,item-30001827
 1828,5,1,profilePic_SpringFes2021_AUGPARA,item-10001828,item-20001828,1,0,,,0,0,,item-30001828
@@ -848,6 +851,14 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1883,5,1,profilePic_Anniversary2021_FX05,item-10001883,item-20001883,1,0,,,0,0,,item-30001883
 1884,5,1,profilePic_Anniversary2021_CZ805,item-10001884,item-20001884,1,0,,,0,0,,item-30001884
 1885,5,1,profilePic_Anniversary2021_PPsh41,item-10001885,item-20001885,1,0,,,0,0,,item-30001885
+1892,5,1,profilePic_Children2021_RPK203,item-10001892,item-20001892,1,0,,,0,0,,item-30001892
+1893,5,1,profilePic_Children2021_Lusa,item-10001893,item-20001893,1,0,,,0,0,,item-30001893
+1894,5,1,profilePic_Children2021_SACR,item-10001894,item-20001894,1,0,,,0,0,,item-30001894
+1895,5,1,profilePic_Children2021_PKP,item-10001895,item-20001895,1,0,,,0,0,,item-30001895
+1896,5,1,profilePic_Children2021_06TypeSMG,item-10001896,item-20001896,1,0,,,0,0,,item-30001896
+1897,5,1,profilePic_Children2021_Ak5,item-10001897,item-20001897,1,0,,,0,0,,item-30001897
+1898,5,1,profilePic_Children2021_M82,item-10001898,item-20001898,1,0,,,0,0,,item-30001898
+1899,5,1,profilePic_Children2021_wz29,item-10001899,item-20001899,1,0,,,0,0,,item-30001899
 1906,5,1,profilePic_Dropkick2021_Yurine,item-10001906,item-20001906,1,0,,,0,0,,item-30001906
 1907,5,1,profilePic_Dropkick2021_Minosu,item-10001907,item-20001907,1,0,,,0,0,,item-30001907
 1908,5,1,profilePic_Dropkick2021_Medusa,item-10001908,item-20001908,1,0,,,0,0,,item-30001908
@@ -1107,6 +1118,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 900040,4,900040,Nova_medal_baiqing,item-10900040,item-20900040,1,0,,,0,0,,item-30900040
 900041,4,900041,Platinum_medal_baiqing,item-10900041,item-20900041,1,0,,,0,0,,item-30900041
 900042,9,900042,orange_coin,item-10900042,item-20900042,1,0,,120,0,0,,item-30900042
+900043,4,900043,Nova_medal,item-10900043,item-20900043,1,0,,,0,0,,item-30900043
+900044,4,900044,Platinum_medal,item-10900044,item-20900044,1,0,,,0,0,,item-30900044
+900045,9,900045,conch_horn,item-10900045,item-20900045,1,0,,120,0,0,,item-30900045
 1100001,11,1,fetter_skill,item-11100001,item-21100001,1,0,,,0,0,,item-31100001
 1100002,11,2,fetter_skill,item-11100002,item-21100002,1,0,,,0,0,,item-31100002
 1100003,11,3,fetter_skill,item-11100003,item-21100003,1,0,,,0,0,,item-31100003

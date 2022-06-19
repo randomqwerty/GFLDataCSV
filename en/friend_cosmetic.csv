@@ -728,6 +728,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 794,1794,1,0,0,0,0,160,508-4000,1,0,profilePic_NewYear2021_UKM2000,1,5,,5406,0,4
 795,1795,1,0,0,0,0,80,508-2000,1,0,profilePic_NewYear2021_OBR,1,5,,5407,0,4
 796,1796,1,0,0,0,0,80,508-2000,1,0,profilePic_NewYear2021_EVO3,1,5,,5408,0,4
+798,1798,1,0,0,0,0,0,,0,0,profilePic_sangvis_Agent,1,5,,0,0,5
+799,1799,1,0,0,0,0,0,,0,0,profilePic_sangvis_Dinergate_HD,1,5,,0,0,5
+800,1800,1,0,0,0,0,0,,0,0,profilePic_sangvis_Striker_SWAP,1,5,,0,0,5
 826,1826,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2021_Lewis,1,5,,5501,0,4
 827,1827,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2021_QBU88,1,5,,5502,0,4
 828,1828,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2021_AUGPARA,1,5,,5503,0,4
@@ -770,6 +773,14 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 883,1883,1,0,0,0,0,160,508-4000,1,0,profilePic_Anniversary2021_FX05,1,5,,5806,0,4
 884,1884,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2021_CZ805,1,5,,5807,0,4
 885,1885,1,0,0,0,0,40,508-1000,1,0,profilePic_Anniversary2021_PPsh41,1,5,,5808,0,4
+892,1892,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2021_RPK203,1,5,,5901,0,4
+893,1893,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2021_Lusa,1,5,,5902,0,4
+894,1894,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2021_SACR,1,5,,5903,0,4
+895,1895,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2021_PKP,1,5,,5904,0,4
+896,1896,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2021_06TypeSMG,1,5,,5905,0,4
+897,1897,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2021_Ak5,1,5,,5906,0,4
+898,1898,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2021_M82,1,5,,5907,0,4
+899,1899,1,0,0,0,0,80,508-2000,1,0,profilePic_Children2021_wz29,1,5,,5908,0,4
 906,1906,1,0,0,0,0,0,,0,0,profilePic_Dropkick2021_Yurine,1,5,,0,0,1
 907,1907,1,0,0,0,0,0,,0,0,profilePic_Dropkick2021_Minosu,1,5,,0,0,1
 908,1908,1,0,0,0,0,0,,0,0,profilePic_Dropkick2021_Medusa,1,5,,0,0,1
