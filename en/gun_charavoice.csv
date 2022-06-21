@@ -28,3 +28,9 @@ id,name,code,is_hidden,is_skin,is_fetter
 30,gun_charavoice-10000030,_TITLECALL_JP,0,0,0
 31,gun_charavoice-10000031,_DIALOGUEWEDDING_JP,0,0,0
 41,gun_charavoice-10000041,_LOADING_JP,0,0,0
+42,gun_charavoice-10000042,_FETTER1_JP,0,0,1
+43,gun_charavoice-10000043,_FETTER1_JP,0,0,2
+44,gun_charavoice-10000044,_FETTER1_JP,0,0,3
+45,gun_charavoice-10000045,_FETTER1_JP,0,0,4
+46,gun_charavoice-10000046,_FETTER1_JP,0,0,5
+47,gun_charavoice-10000047,_FETTER1_JP,0,0,6

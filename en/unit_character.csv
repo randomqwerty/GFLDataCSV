@@ -98,6 +98,13 @@ id,name,character_des
 438,unit_character-10000438,unit_character-20000438
 439,unit_character-10000439,unit_character-20000439
 440,unit_character-10000440,unit_character-20000440
+441,unit_character-10000441,unit_character-20000441
+442,unit_character-10000442,unit_character-20000442
+443,unit_character-10000443,unit_character-20000443
+444,unit_character-10000444,unit_character-20000444
+445,unit_character-10000445,unit_character-20000445
+446,unit_character-10000446,unit_character-20000446
+447,unit_character-10000447,unit_character-20000447
 900,unit_character-10000900,unit_character-20000900
 901,unit_character-10000901,unit_character-20000901
 902,unit_character-10000902,unit_character-20000902
@@ -110,3 +117,7 @@ id,name,character_des
 909,unit_character-10000909,unit_character-20000909
 910,unit_character-10000910,unit_character-20000910
 911,unit_character-10000911,unit_character-20000911
+1001,unit_character-10001001,unit_character-20001001
+1002,unit_character-10001002,unit_character-20001002
+1003,unit_character-10001003,unit_character-20001003
+1004,unit_character-10001004,unit_character-20001004

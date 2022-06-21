@@ -42,3 +42,5 @@ id,name,type,desc,condition_coef,score_coef
 727,fight_success_condition-10000727,12,fight_success_condition-20000727,0|2,100
 728,fight_success_condition-10000728,11,fight_success_condition-20000728,"4,2",100
 729,fight_success_condition-10000729,12,fight_success_condition-20000729,0|5,100
+801,fight_success_condition-10000801,4,fight_success_condition-20000801,"40|10094,1",100
+802,fight_success_condition-10000802,4,fight_success_condition-20000802,"40|10090,2",100

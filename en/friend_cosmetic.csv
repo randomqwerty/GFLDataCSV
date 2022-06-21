@@ -817,6 +817,10 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 990,1990,1,0,0,0,0,0,,0,0,profilePic_Christmas2021_MK23,1,5,,0,0,1
 991,1991,1,0,0,0,0,0,,0,0,profilePic_Christmas2021_KAC,1,5,,0,0,1
 992,1992,2,0,0,0,0,0,,0,0,card_Christmas2021_CG,1,5,,0,0,1
+1009,2009,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season4_1,1,5,,0,0,1
+1010,2010,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season4_2,1,5,,0,0,1
+1011,2011,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season4_3,1,5,,0,0,1
+1012,2012,1,0,0,0,0,80,508-2000,1,0,profilePic_ChessBonus_Z62,1,5,,573,0,4
 1013,2013,1,0,0,0,0,0,,0,0,profilePic_Anime2022_01,1,5,,0,0,1
 1014,2014,1,0,0,0,0,0,,0,0,profilePic_Anime2022_02,1,5,,0,0,1
 1015,2015,1,0,0,0,0,0,,0,0,profilePic_Anime2022_03,1,5,,0,0,1
