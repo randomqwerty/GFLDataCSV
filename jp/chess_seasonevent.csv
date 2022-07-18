@@ -1,3 +1,4 @@
 id,name,start_time,end_time,mission_id
 1,chess_seasonevent-10000001,2022-02-25 13:00:00,2022-05-06 13:00:00,1
 2,chess_seasonevent-10000002,2022-05-09 13:00:00,2022-06-10 13:00:00,2
+3,chess_seasonevent-10000003,2022-06-24 13:00:00,2022-09-02 13:00:00,3

@@ -79,6 +79,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 569,gift_item-10000569,2,6,50000,1032,569,30569,gift_bundle_Dropkick2021_Medusa,gift_item-20000569,gift_item-30000569,0,0,0,,,0
 570,gift_item-10000570,2,6,50000,1031,570,30570,gift_bundle_Dropkick2021_Pekora,gift_item-20000570,gift_item-30000570,0,0,0,,,0
 571,gift_item-10000571,2,6,50000,1034,571,30571,gift_bundle_Dropkick2021_Minosu,gift_item-20000571,gift_item-30000571,0,0,0,,,0
+573,gift_item-10000573,2,6,50000,116,573,30573,gift_bundle_ChessBonus_Z62,gift_item-20000573,gift_item-30000573,0,0,0,,,0
 574,gift_item-10000574,2,6,50000,56,574,30574,gift_bundle_AprilFool2022_M4 SOPMOD II,gift_item-20000574,gift_item-30000574,0,0,0,,,0
 601,gift_item-10000601,2,6,50000,6,601,30601,gift_bundle_wedding_tt33,gift_item-20000601,gift_item-30000601,0,0,0,,,0
 602,gift_item-10000602,2,6,50000,21,602,30602,gift_bundle_wedding_ppsh41,gift_item-20000602,gift_item-30000602,0,0,0,,,0
@@ -355,6 +356,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 4607,gift_item-10004607,2,6,50000,131,4607,34607,gift_bundle_Children2020_EVO3,gift_item-20004607,gift_item-30004607,0,0,0,,,0
 4702,gift_item-10004702,2,6,50000,234,4702,34702,gift_bundle_YZ2020_JS9mm,gift_item-20004702,gift_item-30004702,0,0,0,,,0
 4703,gift_item-10004703,2,6,50000,307,4703,34703,gift_bundle_YZ2020_ZB26,gift_item-20004703,gift_item-30004703,0,0,0,,,0
+4704,gift_item-10004704,2,6,50000,296,4704,34704,gift_bundle_YZ2020_SL8,gift_item-20004704,gift_item-30004704,0,0,0,,,0
 4705,gift_item-10004705,2,6,50000,136,4705,34705,gift_bundle_YZ2020_PP19,gift_item-20004705,gift_item-30004705,0,0,0,,,0
 4706,gift_item-10004706,2,6,50000,286,4706,34706,gift_bundle_YZ2020_KAC,gift_item-20004706,gift_item-30004706,0,0,0,,,0
 4707,gift_item-10004707,2,6,50000,187,4707,34707,gift_bundle_YZ2020_Ak5,gift_item-20004707,gift_item-30004707,0,0,0,,,0
@@ -403,7 +405,14 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 5704,gift_item-10005704,2,6,50000,317,5704,35704,gift_bundle_Detective2021_MondragonM1908,gift_item-20005704,gift_item-30005704,0,0,0,,,0
 5706,gift_item-10005706,2,6,50000,262,5706,35706,gift_bundle_Detective2021_EM2,gift_item-20005706,gift_item-30005706,0,0,0,,,0
 5707,gift_item-10005707,2,6,50000,258,5707,35707,gift_bundle_Detective2021_Magal,gift_item-20005707,gift_item-30005707,0,0,0,,,0
+6101,gift_item-10006101,2,6,50000,323,6101,36101,gift_bundle_YZ2021_LTLX7000,gift_item-20006101,gift_item-30006101,0,0,0,,,0
+6102,gift_item-10006102,2,6,50000,282,6102,36102,gift_bundle_YZ2021_DP12,gift_item-20006102,gift_item-30006102,0,0,0,,,0
+6103,gift_item-10006103,2,6,50000,233,6103,36103,gift_bundle_YZ2021_Px4Storm,gift_item-20006103,gift_item-30006103,0,0,0,,,0
+6105,gift_item-10006105,2,6,50000,336,6105,36105,gift_bundle_YZ2021_PPD40,gift_item-20006105,gift_item-30006105,0,0,0,,,0
+6106,gift_item-10006106,2,6,50000,254,6106,36106,gift_bundle_YZ2021_UKM2000,gift_item-20006106,gift_item-30006106,0,0,0,,,0
 6107,gift_item-10006107,2,6,50000,325,6107,36107,gift_bundle_YZ2021_VPM5,gift_item-20006107,gift_item-30006107,0,0,0,,,0
+6108,gift_item-10006108,2,6,50000,322,6108,36108,gift_bundle_YZ2021_QSB91,gift_item-20006108,gift_item-30006108,0,0,0,,,0
+6109,gift_item-10006109,2,6,50000,10,6109,36109,gift_bundle_YZ2021_PPK,gift_item-20006109,gift_item-30006109,0,0,0,,,0
 6201,gift_item-10006201,2,6,50000,259,6201,36201,gift_bundle_Fur2021_PM9,gift_item-20006201,gift_item-30006201,0,0,0,,,0
 6202,gift_item-10006202,2,6,50000,337,6202,36202,gift_bundle_Fur2021_Delisle,gift_item-20006202,gift_item-30006202,0,0,0,,,0
 6203,gift_item-10006203,2,6,50000,226,6203,36203,gift_bundle_Fur2021_Mk12,gift_item-20006203,gift_item-30006203,0,0,0,,,0

@@ -11,9 +11,9 @@ id,name,code,is_hidden,is_fetter
 10,sangvis_charavoice-10000010,_BREAKTHROUGH02_JP,0,0
 11,sangvis_charavoice-10000011,_UPGRADE01_JP,0,0
 12,sangvis_charavoice-10000012,_UPGRADE02_JP,0,0
-13,sangvis_charavoice-10000013,_DIALOGUE01_JP,1,0
-14,sangvis_charavoice-10000014,_DIALOGUE02_JP,1,0
-15,sangvis_charavoice-10000015,_DIALOGUE03_JP,1,0
+13,sangvis_charavoice-10000013,_DIALOGUE01_JP,0,0
+14,sangvis_charavoice-10000014,_DIALOGUE02_JP,0,0
+15,sangvis_charavoice-10000015,_DIALOGUE03_JP,0,0
 16,sangvis_charavoice-10000016,_GOATTACK_JP,0,0
 17,sangvis_charavoice-10000017,_MEET_JP,0,0
 18,sangvis_charavoice-10000018,_ATTACK_JP,0,0
@@ -27,8 +27,8 @@ id,name,code,is_hidden,is_fetter
 26,sangvis_charavoice-10000026,_SKILL03_JP,0,0
 27,sangvis_charavoice-10000027,_FIX_JP,0,0
 28,sangvis_charavoice-10000028,_BLACKACTION_JP,1,0
-29,sangvis_charavoice-10000029,_SOULCONTRACT_JP,1,0
-30,sangvis_charavoice-10000030,_DIALOGUEWEDDING_JP,1,0
+29,sangvis_charavoice-10000029,_SOULCONTRACT_JP,0,0
+30,sangvis_charavoice-10000030,_DIALOGUEWEDDING_JP,0,0
 31,sangvis_charavoice-10000031,_TITLECALL_JP,0,0
 32,sangvis_charavoice-10000032,_PHRASE_JP,0,0
 33,sangvis_charavoice-10000033,_MOOD1_JP,0,0

@@ -49,7 +49,7 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 48,enemy_illustration-10000048,3,Doppelsoldner,enemy_illustration-20000048,3,0,2,4,3,0,3,4,1,3,enemy_illustration-30000048,"1003,309,312,319","28,29",2016-5-20 00:00:00,enemy_illustration-40000048,"60,60,1"
 49,enemy_illustration-10000049,4,Uhlan,enemy_illustration-20000049,3,0,4,4,4,0,3,4,3,4,enemy_illustration-30000049,"1001,309,312","31,32",2016-5-20 00:00:00,enemy_illustration-40000049,"50,50,1"
 50,enemy_illustration-10000050,1,Nyto_black,enemy_illustration-20000050,3,1,6,6,5,4,4,3,4,5,enemy_illustration-30000050,"1001,216,309,312","45,47",2016-5-20 00:00:00,enemy_illustration-40000050,"70,70,1"
-51,enemy_illustration-10000051,1,Nyto_white,enemy_illustration-20000051,3,0,6,6,5,4,4,3,4,5,enemy_illustration-30000051,"1001,216,309,312","46,47",2016-5-20 00:00:00,enemy_illustration-40000051,"70,70,1"
+51,enemy_illustration-10000051,1,Nyto_white,enemy_illustration-20000051,3,1,6,6,5,4,4,3,4,5,enemy_illustration-30000051,"1001,216,309,312","46,47",2016-5-20 00:00:00,enemy_illustration-40000051,"70,70,1"
 52,enemy_illustration-10000052,3,Zombie2,enemy_illustration-20000052,0,0,3,3,4,3,4,0,3,4,enemy_illustration-30000052,300,,2016-5-20 00:00:00,enemy_illustration-40000052,"90,90,1"
 53,enemy_illustration-10000053,3,Zombie1,enemy_illustration-20000053,0,0,2,4,4,3,4,0,3,2,enemy_illustration-30000053,303,,2016-5-20 00:00:00,enemy_illustration-40000053,"90,90,1"
 54,enemy_illustration-10000054,1,Smasher,enemy_illustration-20000054,0,0,5,6,4,4,4,0,3,5,enemy_illustration-30000054,"1001,301","57,58",2016-5-20 00:00:00,enemy_illustration-40000054,"70,70,1"
@@ -108,6 +108,9 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 108,enemy_illustration-10000108,3,Guard_chm,enemy_illustration-20000108,0,0,1,4,3,1,4,0,2,2,enemy_illustration-30000108,303,,2016-5-20 00:00:00,enemy_illustration-40000108,
 121,enemy_illustration-10000121,3,Vespid_bride,enemy_illustration-20000121,0,0,3,2,4,4,2,0,3,4,enemy_illustration-30000121,300,,2016-5-20 00:00:00,enemy_illustration-40000121,"100,100,1"
 122,enemy_illustration-10000122,3,Brute_Ghost,enemy_illustration-20000122,0,0,5,3,4,3,3,0,4,2,enemy_illustration-30000122,303,,2016-5-20 00:00:00,enemy_illustration-40000122,"85,85,1"
+123,enemy_illustration-10000123,2,RecceCentreSwim,enemy_illustration-20000123,0,0,0,6,0,0,0,4,0,0,enemy_illustration-30000123,"309,321",21,2016-5-20 00:00:00,enemy_illustration-40000123,"40,40,1"
+124,enemy_illustration-10000124,2,PathfinderSwim,enemy_illustration-20000124,0,0,4,2,4,3,4,4,5,2,enemy_illustration-30000124,"303,309",22,2016-5-20 00:00:00,enemy_illustration-40000124,"100,100,1"
+125,enemy_illustration-10000125,3,CyclopsSwim,enemy_illustration-20000125,0,0,4,4,4,3,3,0,4,4,enemy_illustration-30000125,"1001,319",16,2016-5-20 00:00:00,enemy_illustration-40000125,"85,85,1"
 141,enemy_illustration-10000141,3,HKCAWS_XmasEnemy,enemy_illustration-20000141,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30000141,"100,441",141,2035-12-31 00:00:00,enemy_illustration-40000141,
 142,enemy_illustration-10000142,3,VSK_XmasEnemy,enemy_illustration-20000142,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30000142,"100,442",142,2035-12-31 00:00:00,enemy_illustration-40000142,
 143,enemy_illustration-10000143,3,P7_XmasEnemy,enemy_illustration-20000143,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30000143,"100,443",143,2035-12-31 00:00:00,enemy_illustration-40000143,

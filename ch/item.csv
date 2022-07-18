@@ -1174,6 +1174,14 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2091,5,1,profilePic_ChessFlight_season6_1,item-10002091,item-20002091,1,0,,,0,0,,item-30002091
 2092,5,1,profilePic_ChessFlight_season6_2,item-10002092,item-20002092,1,0,,,0,0,,item-30002092
 2093,5,1,profilePic_ChessFlight_season6_3,item-10002093,item-20002093,1,0,,,0,0,,item-30002093
+2094,5,1,profilePic_Children2022_VSK,item-10002094,item-20002094,1,0,,,0,0,,item-30002094
+2095,5,1,profilePic_Children2022_95type,item-10002095,item-20002095,1,0,,,0,0,,item-30002095
+2096,5,1,profilePic_Children2022_Px4Storm,item-10002096,item-20002096,1,0,,,0,0,,item-30002096
+2097,5,1,profilePic_Children2022_Tabuk,item-10002097,item-20002097,1,0,,,0,0,,item-30002097
+2098,5,1,profilePic_Children2022_MG3,item-10002098,item-20002098,1,0,,,0,0,,item-30002098
+2099,5,1,profilePic_Children2022_56typeR,item-10002099,item-20002099,1,0,,,0,0,,item-30002099
+2109,5,1,profilePic_sangvis_Nyto_White_Summer,item-10002109,item-20002109,1,0,,,0,0,,item-30002109
+2110,5,1,profilePic_sangvis_RecceCentreSwim_HD,item-10002110,item-20002110,1,0,,,0,0,,item-30002110
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003
@@ -1226,6 +1234,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 7033,7,7033,qjyd_20220301,item-10007033,item-20007033,1,0,,,0,0,,item-30007033
 7034,7,7034,qjyd_20220302,item-10007034,item-20007034,1,0,,,0,0,,item-30007034
 7035,7,7035,qjyd_20220303,item-10007035,item-20007035,1,0,,,0,0,,item-30007035
+7036,7,7036,qjyd_20220601,item-10007036,item-20007036,1,0,,,0,0,,item-30007036
+7037,7,7037,qjyd_20220602,item-10007037,item-20007037,1,0,,,0,0,,item-30007037
+7038,7,7038,qjyd_20220603,item-10007038,item-20007038,1,0,,,0,0,,item-30007038
 7201,7,7201,se_f_SpadeStorm,item-10007201,item-20007201,1,0,,,0,0,,item-30007201
 8001,8,8001,Coin,item-10008001,item-20008001,1,0,200;30000,200;0,0,0,,item-30008001
 8002,8,8002,Coin,item-10008002,item-20008002,1,0,1000;30000,100;0,0,0,,item-30008002
@@ -1383,6 +1394,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100138,4,100138,core_mask_6year,item-10100138,item-20100138,1,0,,,0,0,,item-30100138
 100139,4,100139,Bumdle_20226year,item-10100139,item-20100139,1,0,,,0,0,,item-30100139
 100140,4,100140,Bumdle_6year,item-10100140,item-20100140,1,0,,,0,0,,item-30100140
+100141,4,100141,Nova_medal,item-10100141,item-20100141,1,0,,,0,0,,item-30100141
+100142,4,100142,Platinum_medal,item-10100142,item-20100142,1,0,,,0,0,,item-30100142
+100143,9,100143,conch_horn,item-10100143,item-20100143,1,0,,120,0,0,,item-30100143
+100144,4,100144,Nova_medal_black,item-10100144,item-20100144,1,0,,,0,0,,item-30100144
+100145,4,100145,Platinum_medal_black,item-10100145,item-20100145,1,0,,,0,0,,item-30100145
+100146,9,100146,Star_sign,item-10100146,item-20100146,1,0,,120,0,0,,item-30100146
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001
 110002,4,110002,PT,item-10110002,item-20110002,1,0,,,0,0,,item-30110002
 110003,4,110003,PT,item-10110003,item-20110003,1,0,,,0,0,,item-30110003

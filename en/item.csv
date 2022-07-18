@@ -810,6 +810,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1798,5,1,profilePic_sangvis_Agent,item-10001798,item-20001798,1,0,,,0,0,,item-30001798
 1799,5,1,profilePic_sangvis_Dinergate_HD,item-10001799,item-20001799,1,0,,,0,0,,item-30001799
 1800,5,1,profilePic_sangvis_Striker_SWAP,item-10001800,item-20001800,1,0,,,0,0,,item-30001800
+1823,5,1,profilePic_sangvis_Nyto_black,item-10001823,item-20001823,1,0,,,0,0,,item-30001823
+1824,5,1,profilePic_sangvis_Scouts_HD,item-10001824,item-20001824,1,0,,,0,0,,item-30001824
+1825,5,1,profilePic_sangvis_Aegis_SWAP,item-10001825,item-20001825,1,0,,,0,0,,item-30001825
 1826,5,1,profilePic_SpringFes2021_Lewis,item-10001826,item-20001826,1,0,,,0,0,,item-30001826
 1827,5,1,profilePic_SpringFes2021_QBU88,item-10001827,item-20001827,1,0,,,0,0,,item-30001827
 1828,5,1,profilePic_SpringFes2021_AUGPARA,item-10001828,item-20001828,1,0,,,0,0,,item-30001828
@@ -852,6 +855,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1883,5,1,profilePic_Anniversary2021_FX05,item-10001883,item-20001883,1,0,,,0,0,,item-30001883
 1884,5,1,profilePic_Anniversary2021_CZ805,item-10001884,item-20001884,1,0,,,0,0,,item-30001884
 1885,5,1,profilePic_Anniversary2021_PPsh41,item-10001885,item-20001885,1,0,,,0,0,,item-30001885
+1889,5,1,profilePic_YZ2021_A,item-10001889,item-20001889,1,0,,,0,0,,item-30001889
+1890,5,1,profilePic_YZ2021_B,item-10001890,item-20001890,1,0,,,0,0,,item-30001890
+1891,5,1,profilePic_YZ2021_C,item-10001891,item-20001891,1,0,,,0,0,,item-30001891
 1892,5,1,profilePic_Children2021_RPK203,item-10001892,item-20001892,1,0,,,0,0,,item-30001892
 1893,5,1,profilePic_Children2021_Lusa,item-10001893,item-20001893,1,0,,,0,0,,item-30001893
 1894,5,1,profilePic_Children2021_SACR,item-10001894,item-20001894,1,0,,,0,0,,item-30001894
@@ -860,6 +866,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1897,5,1,profilePic_Children2021_Ak5,item-10001897,item-20001897,1,0,,,0,0,,item-30001897
 1898,5,1,profilePic_Children2021_M82,item-10001898,item-20001898,1,0,,,0,0,,item-30001898
 1899,5,1,profilePic_Children2021_wz29,item-10001899,item-20001899,1,0,,,0,0,,item-30001899
+1900,5,1,card_Summer2021,item-10001900,item-20001900,1,0,,,0,0,,item-30001900
+1902,5,1,profilePic_YZ2021_VPM5,item-10001902,item-20001902,1,0,,,0,0,,item-30001902
 1906,5,1,profilePic_Dropkick2021_Yurine,item-10001906,item-20001906,1,0,,,0,0,,item-30001906
 1907,5,1,profilePic_Dropkick2021_Minosu,item-10001907,item-20001907,1,0,,,0,0,,item-30001907
 1908,5,1,profilePic_Dropkick2021_Medusa,item-10001908,item-20001908,1,0,,,0,0,,item-30001908
@@ -876,6 +884,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1919,5,1,profilePic_Dropkick2021_MedusaSkin,item-10001919,item-20001919,1,0,,,0,0,,item-30001919
 1920,5,1,profilePic_Dropkick2021_PekoraSkin,item-10001920,item-20001920,1,0,,,0,0,,item-30001920
 1921,5,1,profilePic_Dropkick2021_MinosuSkin,item-10001921,item-20001921,1,0,,,0,0,,item-30001921
+1923,5,1,profilePic_YZ2021_LTLX7000,item-10001923,item-20001923,1,0,,,0,0,,item-30001923
+1924,5,1,profilePic_YZ2021_DP12,item-10001924,item-20001924,1,0,,,0,0,,item-30001924
+1925,5,1,profilePic_YZ2021_Px4Storm,item-10001925,item-20001925,1,0,,,0,0,,item-30001925
+1926,5,1,profilePic_YZ2021_PPD40,item-10001926,item-20001926,1,0,,,0,0,,item-30001926
+1927,5,1,profilePic_YZ2021_UKM2000,item-10001927,item-20001927,1,0,,,0,0,,item-30001927
+1928,5,1,profilePic_YZ2021_QSB91,item-10001928,item-20001928,1,0,,,0,0,,item-30001928
+1929,5,1,profilePic_YZ2021_PPK,item-10001929,item-20001929,1,0,,,0,0,,item-30001929
 1932,5,1,profilePic_ChessFlight_season2_1,item-10001932,item-20001932,1,0,,,0,0,,item-30001932
 1933,5,1,profilePic_ChessFlight_season2_2,item-10001933,item-20001933,1,0,,,0,0,,item-30001933
 1934,5,1,profilePic_ChessFlight_season2_3,item-10001934,item-20001934,1,0,,,0,0,,item-30001934
@@ -1048,6 +1063,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100092,4,100092,Nova_medal,item-10100092,item-20100092,1,0,,,0,0,,item-30100092
 100093,4,100093,Platinum_medal,item-10100093,item-20100093,1,0,,,0,0,,item-30100093
 100094,9,100094,conch_horn,item-10100094,item-20100094,1,0,,60,0,0,,item-30100094
+100095,4,100095,Nova_medal,item-10100095,item-20100095,1,0,,,0,0,,item-30100095
+100096,4,100096,Platinum_medal,item-10100096,item-20100096,1,0,,,0,0,,item-30100096
+100097,9,100097,Star_sign,item-10100097,item-20100097,1,0,,60,0,0,,item-30100097
 100098,4,100098,Nova_medal,item-10100098,item-20100098,1,0,,,0,0,,item-30100098
 100099,4,100099,Platinum_medal,item-10100099,item-20100099,1,0,,,0,0,,item-30100099
 100100,9,100100,Life_coin,item-10100100,item-20100100,1,0,,60,0,0,,item-30100100

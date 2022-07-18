@@ -541,6 +541,12 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 7106,gift_item-10007106,2,6,50000,95,7106,37106,gift_bundle_Anniversary2022_88type,gift_item-20007106,gift_item-30007106,0,0,0,,gift_item-40007106,0
 7107,gift_item-10007107,2,6,50000,5,7107,37107,gift_bundle_Anniversary2022_M1895,gift_item-20007107,gift_item-30007107,0,0,0,,gift_item-40007107,0
 7108,gift_item-10007108,2,6,50000,94,7108,37108,gift_bundle_Anniversary2022_64type,gift_item-20007108,gift_item-30007108,0,0,0,,gift_item-40007108,0
+7201,gift_item-10007201,2,6,50000,312,7201,37201,gift_bundle_Children2022_VSK,gift_item-20007201,gift_item-30007201,0,0,0,,gift_item-40007201,0
+7202,gift_item-10007202,2,6,50000,129,7202,37202,gift_bundle_Children2022_95type,gift_item-20007202,gift_item-30007202,0,0,0,,gift_item-40007202,0
+7203,gift_item-10007203,2,6,50000,233,7203,37203,gift_bundle_Children2022_Px4Storm,gift_item-20007203,gift_item-30007203,0,0,0,,gift_item-40007203,0
+7204,gift_item-10007204,2,6,50000,305,7204,37204,gift_bundle_Children2022_Tabuk,gift_item-20007204,gift_item-30007204,0,0,0,,gift_item-40007204,0
+7205,gift_item-10007205,2,6,50000,88,7205,37205,gift_bundle_Children2022_MG3,gift_item-20007205,gift_item-30007205,0,0,0,,gift_item-40007205,0
+7206,gift_item-10007206,2,6,50000,49,7206,37206,gift_bundle_Children2022_56typeR,gift_item-20007206,gift_item-30007206,0,0,0,,gift_item-40007206,0
 100001,gift_item-10100001,1,2,1000,0,0,0,gift_item_lollipop_N,gift_item-20100001,gift_item-30100001,0,0,0,21,gift_item-40100001,1001
 100002,gift_item-10100002,1,3,3000,0,0,0,gift_item_icecream_R,gift_item-20100002,gift_item-30100002,0,0,0,21,gift_item-40100002,1002
 100003,gift_item-10100003,1,4,10000,0,0,0,gift_item_cake_SR,gift_item-20100003,gift_item-30100003,0,0,0,"21,19,11,2",gift_item-40100003,1003

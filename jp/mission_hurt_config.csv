@@ -2,6 +2,8 @@ id,name,target_type,type,is_number,life_type,value,hostage_value,is_armor,effect
 1,mission_hurt_config-10000001,2,1,0,1,*0,1,0,3,0,0,0,0
 2,mission_hurt_config-10000002,2,1,0,1,*0,0,0,3,0,0,4,0
 8,mission_hurt_config-10000008,1,2,1,2,-100.0,0,0,0,0,0,0,0
+21,mission_hurt_config-10000021,2,2,0,1,*0,0,0,0,0,0,0,0
+22,mission_hurt_config-10000022,2,2,0,2,*0,0,0,0,0,0,0,0
 1002,mission_hurt_config-10001002,2,1,0,1,*0,0,0,1003,0,0,0,0
 482401,mission_hurt_config-10482401,2,2,1,2,*0,0,0,1000083,0,0,0,0
 483901,mission_hurt_config-10483901,2,2,0,1,100,0,0,0,0,0,0,0
@@ -36,6 +38,11 @@ id,name,target_type,type,is_number,life_type,value,hostage_value,is_armor,effect
 6440004,mission_hurt_config-16440004,2,2,1,2,0,0,0,0,0,0,0,99999
 6480001,mission_hurt_config-16480001,2,2,1,1,35,0,0,0,0,0,0,99999
 6480002,mission_hurt_config-16480002,2,2,1,1,35,0,0,0,0,0,0,0
+6510001,mission_hurt_config-16510001,2,2,1,1,30,0,0,0,0,0,0,
+6510002,mission_hurt_config-16510002,2,2,1,1,80,0,0,0,0,0,0,
+6510003,mission_hurt_config-16510003,2,2,1,1,100,0,0,0,0,0,0,
+6510004,mission_hurt_config-16510004,2,2,1,1,10,0,0,0,0,0,0,
+6510005,mission_hurt_config-16510005,2,2,1,2,30,0,0,0,0,0,0,99999
 8120701,mission_hurt_config-18120701,0,1,0,2,0,0,0,0,0,0,0,8599
 9130610,mission_hurt_config-19130610,2,1,0,2,999999,1,0,0,0,0,0,0
 9334951,mission_hurt_config-19334951,2,1,1,1,99999,5,0,0,0,0,0,0

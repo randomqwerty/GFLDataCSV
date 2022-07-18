@@ -89,3 +89,11 @@ id,parameter_name,parameter_type,parameter_value
 94,tiptxt_chipcollect,string,"280341,280342"
 95,tiptxt_fivechipmax,string,"280343,280344"
 113,chess_first_goal_point,int,3
+124,hosting_propotion,int,60
+126,gasha_cost_ensure,string,"20,4500"
+127,time_ticket_limit,string,"1:5,100,100"
+128,ticket_get_limit,int,9999
+129,rank_ticket_get,string,"7,5,4,2"
+130,blacklist_limit,string,"1800,3"
+131,ai_invade_time,int,120
+132,ticket_dailyget_max,int,700

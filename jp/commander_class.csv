@@ -21,9 +21,11 @@ id,name,description,group_id,code,bonus_plastic,skill_id,path,is_class,des_year,
 29,commander_class-10000029,commander_class-20000029,71,commander_2920_icon,,0,CLASS29,0,commander_class-30000029,2,commander_class-40000029
 30,commander_class-10000030,commander_class-20000030,72,commander_3020_icon,130010,107,CLASS30,1,commander_class-30000030,1,commander_class-40000030
 31,commander_class-10000031,commander_class-20000031,73,commander_3120_icon,,0,CLASS31,0,commander_class-30000031,2,commander_class-40000031
+33,commander_class-10000033,commander_class-20000033,75,commander_3310_icon,,0,CLASS33,0,commander_class-30000033,2,commander_class-40000033
 34,commander_class-10000034,commander_class-20000034,76,commander_3432_icon,130011,105,CLASS34,1,commander_class-30000034,1,commander_class-40000034
 36,commander_class-10000036,commander_class-20000036,78,commander_3640_icon,,0,CLASS36,0,commander_class-30000036,2,commander_class-40000036
 37,commander_class-10000037,commander_class-20000037,79,commander_3700_icon,,0,CLASS37,0,commander_class-30000037,2,commander_class-40000037
 39,commander_class-10000039,commander_class-20000039,81,commander_3932_icon,130012,103,CLASS39,1,commander_class-30000039,1,commander_class-40000039
 41,commander_class-10000041,commander_class-20000041,83,commander_4120_icon,,0,CLASS41,0,commander_class-30000041,2,commander_class-40000041
 42,commander_class-10000042,commander_class-20000042,84,commander_4232_icon,130014,113,CLASS42,1,commander_class-30000042,1,commander_class-40000042
+46,commander_class-10000046,commander_class-20000046,88,commander_4640_icon,,0,CLASS46,0,commander_class-30000046,2,commander_class-40000046
