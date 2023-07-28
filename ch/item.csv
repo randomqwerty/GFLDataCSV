@@ -1432,6 +1432,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2338,5,1,profilePic_Swimsuit2023_AR18,item-10002338,item-20002338,1,0,,,0,0,,item-30002338,0
 2339,5,1,profilePic_Swimsuit2023_LAMG,item-10002339,item-20002339,1,0,,,0,0,,item-30002339,0
 2340,5,1,profilePic_Swimsuit2023_SuperShorty,item-10002340,item-20002340,1,0,,,0,0,,item-30002340,0
+2341,5,1,profilePic_friendmall_HK416,item-10002341,item-20002341,1,0,,,0,0,,item-30002341,0
+2342,5,1,card_friendmall_HK416,item-10002342,item-20002342,1,0,,,0,0,,item-30002342,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -1882,6 +1884,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200024,5,1,profileFrame_Concert2023,item-10200024,item-20200024,1,0,,,0,0,,item-30200024,0
 200025,5,1,profileFrame_friendmall_MK3A1,item-10200025,item-20200025,1,0,,,0,0,,item-30200025,0
 200026,1,1,profileFrame_BattlePass_Saiga12,item-10200026,item-20200026,1,0,,,0,0,,item-30200026,0
+200027,5,1,profileFrame_friendmall_HK416,item-10200027,item-20200027,1,0,,,0,0,,item-30200027,0
 900030,4,100030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0
 900031,4,100031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0
 1100001,11,1,fetter_skill,item-11100001,item-21100001,1,0,,,0,0,26,item-31100001,0
