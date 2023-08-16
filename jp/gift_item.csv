@@ -101,6 +101,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 591,gift_item-10000591,2,6,50000,1040,591,30591,gift_bundle_Saga2023_Yuugiri,gift_item-20000591,gift_item-30000591,0,0,0,,gift_item-40000591,0
 592,gift_item-10000592,2,6,50000,1036,592,30592,gift_bundle_Saga2023_Lily,gift_item-20000592,gift_item-30000592,0,0,0,,gift_item-40000592,0
 593,gift_item-10000593,2,6,50000,1035,593,30593,gift_bundle_Saga2023_Tae,gift_item-20000593,gift_item-30000593,0,0,0,,gift_item-40000593,0
+594,gift_item-10000594,2,6,50000,152,594,30594,gift_bundle_ChessBonus_M1897,gift_item-20000594,gift_item-30000594,0,0,0,,gift_item-40000594,0
 595,gift_item-10000595,2,6,50000,283,595,30595,gift_bundle_AprilFool2023_Liberator,gift_item-20000595,gift_item-30000595,0,0,0,,gift_item-40000595,0
 601,gift_item-10000601,2,6,50000,6,601,30601,gift_bundle_wedding_tt33,gift_item-20000601,gift_item-30000601,0,0,0,,gift_item-40000601,0
 602,gift_item-10000602,2,6,50000,21,602,30602,gift_bundle_wedding_ppsh41,gift_item-20000602,gift_item-30000602,0,0,0,,gift_item-40000602,0
@@ -532,6 +533,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 7105,gift_item-10007105,2,6,50000,220,7105,37105,gift_bundle_Anniversary2022_MP443,gift_item-20007105,gift_item-30007105,0,0,0,,gift_item-40007105,0
 7106,gift_item-10007106,2,6,50000,95,7106,37106,gift_bundle_Anniversary2022_88type,gift_item-20007106,gift_item-30007106,0,0,0,,gift_item-40007106,0
 7107,gift_item-10007107,2,6,50000,5,7107,37107,gift_bundle_Anniversary2022_M1895,gift_item-20007107,gift_item-30007107,0,0,0,,gift_item-40007107,0
+7108,gift_item-10007108,2,6,50000,94,7108,37108,gift_bundle_Anniversary2022_64type,gift_item-20007108,gift_item-30007108,0,0,0,,gift_item-40007108,0
 7301,gift_item-10007301,2,6,50000,324,7301,37301,gift_bundle_Swimsuit2022_M6ASW,gift_item-20007301,gift_item-30007301,0,0,0,,gift_item-40007301,0
 7302,gift_item-10007302,2,6,50000,334,7302,37302,gift_bundle_Swimsuit2022_Savage99,gift_item-20007302,gift_item-30007302,0,0,0,,gift_item-40007302,0
 7303,gift_item-10007303,2,6,50000,359,7303,37303,gift_bundle_Swimsuit2022_Sterling,gift_item-20007303,gift_item-30007303,0,0,0,,gift_item-40007303,0

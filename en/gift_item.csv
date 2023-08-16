@@ -569,10 +569,17 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 7504,gift_item-10007504,2,6,50000,304,7504,37504,gift_bundle_Sport2022_SAF,gift_item-20007504,gift_item-30007504,0,0,0,,gift_item-40007504,0
 7505,gift_item-10007505,2,6,50000,352,7505,37505,gift_bundle_Sport2022_Nova,gift_item-20007505,gift_item-30007505,0,0,0,,gift_item-40007505,0
 7506,gift_item-10007506,2,6,50000,308,7506,37506,gift_bundle_Sport2022_C14,gift_item-20007506,gift_item-30007506,0,0,0,,gift_item-40007506,0
+8201,gift_item-10008201,2,6,50000,276,8201,38201,gift_bundle_Piracy2023_Kord,gift_item-20008201,gift_item-30008201,0,0,0,,gift_item-40008201,0
+8202,gift_item-10008202,2,6,50000,342,8202,38202,gift_bundle_Piracy2023_KH2002,gift_item-20008202,gift_item-30008202,0,0,0,,gift_item-40008202,0
+8203,gift_item-10008203,2,6,50000,338,8203,38203,gift_bundle_Piracy2023_SIGMCX,gift_item-20008203,gift_item-30008203,0,0,0,,gift_item-40008203,0
+8204,gift_item-10008204,2,6,50000,42,8204,38204,gift_bundle_Piracy2023_PTRD,gift_item-20008204,gift_item-30008204,0,0,0,,gift_item-40008204,0
+8205,gift_item-10008205,2,6,50000,321,8205,38205,gift_bundle_Piracy2023_TavorTS12,gift_item-20008205,gift_item-30008205,0,0,0,,gift_item-40008205,0
+8206,gift_item-10008206,2,6,50000,267,8206,38206,gift_bundle_Piracy2023_MP41,gift_item-20008206,gift_item-30008206,0,0,0,,gift_item-40008206,0
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,0,0,0,,gift_item-40030001,0
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,0,0,0,,gift_item-40030002,0
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,0,0,0,,gift_item-40030003,0
 30004,gift_item-10030004,2,6,50000,375,30004,330004,gift_bundle_BattlePass_ColtWalker,gift_item-20030004,gift_item-30030004,0,0,0,,gift_item-40030004,0
+30005,gift_item-10030005,2,6,50000,378,30005,330005,gift_bundle_BattlePass_scarL,gift_item-20030005,gift_item-30030005,0,0,0,,gift_item-40030005,0
 30006,gift_item-10030006,2,6,50000,285,30006,330006,gift_bundle_BattlePass_C93,gift_item-20030006,gift_item-30030006,0,0,0,,gift_item-40030006,0
 30007,gift_item-10030007,2,6,50000,367,30007,330007,gift_bundle_BattlePass_MK3A1,gift_item-20030007,gift_item-30030007,0,0,0,,gift_item-40030007,0
 100001,gift_item-10100001,1,2,1000,0,0,0,gift_item_lollipop_N,gift_item-20100001,gift_item-30100001,0,0,0,21,gift_item-40100001,1001

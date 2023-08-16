@@ -1091,9 +1091,14 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2084,5,1,profilePic_Anniversary2022_MP443,item-10002084,item-20002084,1,0,,,0,0,,item-30002084,0
 2085,5,1,profilePic_Anniversary2022_88type,item-10002085,item-20002085,1,0,,,0,0,,item-30002085,0
 2086,5,1,profilePic_Anniversary2022_M1895,item-10002086,item-20002086,1,0,,,0,0,,item-30002086,0
+2087,5,1,profilePic_Anniversary2022_64type,item-10002087,item-20002087,1,0,,,0,0,,item-30002087,0
+2088,5,1,profilePic_6years_A,item-10002088,item-20002088,1,0,,,0,0,,item-30002088,0
+2089,5,1,card_6years_A,item-10002089,item-20002089,1,0,,,0,0,,item-30002089,0
 2091,5,1,profilePic_ChessFlight_season6_1,item-10002091,item-20002091,1,0,,,0,0,,item-30002091,0
 2092,5,1,profilePic_ChessFlight_season6_2,item-10002092,item-20002092,1,0,,,0,0,,item-30002092,0
 2093,5,1,profilePic_ChessFlight_season6_3,item-10002093,item-20002093,1,0,,,0,0,,item-30002093,0
+2109,5,1,profilePic_sangvis_Nyto_White_Summer,item-10002109,item-20002109,1,0,,,0,0,,item-30002109,0
+2110,5,1,profilePic_sangvis_RecceCentreSwim_HD,item-10002110,item-20002110,1,0,,,0,0,,item-30002110,0
 2111,5,1,profilePic_YZActivity2022_A,item-10002111,item-20002111,1,0,,,0,0,,item-30002111,0
 2112,5,1,profilePic_YZActivity2022_B,item-10002112,item-20002112,1,0,,,0,0,,item-30002112,0
 2113,5,1,profilePic_YZActivity2022_C,item-10002113,item-20002113,1,0,,,0,0,,item-30002113,0
@@ -1129,6 +1134,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2162,5,1,profilePic_Sport2022_C14,item-10002162,item-20002162,1,0,,,0,0,,item-30002162,0
 2166,5,1,profilePic_Carnival2022_GeneralLiu,item-10002166,item-20002166,1,0,,,0,0,,item-30002166,0
 2173,5,1,card_BattlePass_GeneralLiu,item-10002173,item-20002173,1,0,,,0,0,,item-30002173,0
+2183,5,1,profilePic_ChessFlight_season8_1,item-10002183,item-20002183,1,0,,,0,0,,item-30002183,0
+2184,5,1,profilePic_ChessFlight_season8_2,item-10002184,item-20002184,1,0,,,0,0,,item-30002184,0
+2185,5,1,profilePic_ChessFlight_season8_3,item-10002185,item-20002185,1,0,,,0,0,,item-30002185,0
 2186,5,1,profilePic_BattlePass_DSR50,item-10002186,item-20002186,1,0,,,0,0,,item-30002186,0
 2187,5,1,card_BattlePass_DSR50,item-10002187,item-20002187,1,0,,,0,0,,item-30002187,0
 2188,5,1,profilePic_KungFu2022_GeneralLiu,item-10002188,item-20002188,1,0,,,0,0,,item-30002188,0
@@ -1193,6 +1201,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2259,5,1,cg_SagaActivity2023_02,item-10002259,item-20002259,1,0,,,0,0,,item-30002259,0
 2260,5,1,profilePic_BattlePass_scarL,item-10002260,item-20002260,1,0,,,0,0,,item-30002260,0
 2261,5,1,card_BattlePass_scarL,item-10002261,item-20002261,1,0,,,0,0,,item-30002261,0
+2269,5,1,profilePic_ChessBonus_M1897,item-10002269,item-20002269,1,0,,,0,0,,item-30002269,0
 2275,5,1,profilePic_rank6_Type100Mod,item-10002275,item-20002275,1,0,,,0,0,,item-30002275,0
 2277,5,1,profilePic_BattlePass_C93,item-10002277,item-20002277,1,0,,,0,0,,item-30002277,0
 2278,5,1,card_BattlePass_C93,item-10002278,item-20002278,1,0,,,0,0,,item-30002278,0
@@ -1260,6 +1269,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 7036,7,7036,qjyd_20220601,item-10007036,item-20007036,1,0,,,0,0,,item-30007036,0
 7037,7,7037,qjyd_20220602,item-10007037,item-20007037,1,0,,,0,0,,item-30007037,0
 7038,7,7038,qjyd_20220603,item-10007038,item-20007038,1,0,,,0,0,,item-30007038,0
+7039,7,7039,qjyd_20220901,item-10007039,item-20007039,1,0,,,0,0,,item-30007039,0
+7040,7,7040,qjyd_20220902,item-10007040,item-20007040,1,0,,,0,0,,item-30007040,0
+7041,7,7041,qjyd_20220903,item-10007041,item-20007041,1,0,,,0,0,,item-30007041,0
 7201,7,7201,se_f_SpadeStorm,item-10007201,item-20007201,1,0,,,0,0,,item-30007201,0
 8001,8,8001,Coin,item-10008001,item-20008001,1,0,200;30000,250;0,0,0,,item-30008001,0
 8002,8,8002,Coin,item-10008002,item-20008002,1,0,1000;30000,100;0,0,0,,item-30008002,0
@@ -1479,6 +1491,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 120005,10,5,bondage_lines_icon,item-10120005,item-20120005,1,0,,,0,0,,item-30120005,0
 120006,10,6,bondage_lines_icon,item-10120006,item-20120006,1,0,,,0,0,,item-30120006,0
 121001,1,1,FlightChessMap3_small,item-10121001,item-20121001,1,0,,,0,0,,item-30121001,0
+121002,1,1,FlightChessMap5_small,item-10121002,item-20121002,1,0,,,0,0,,item-30121002,0
 130001,12,130001,Y_Z_zhihuiguan,item-10130001,item-20130001,1,0,,,0,0,,item-30130001,0
 130002,12,130002,Y_Z_zhihuiguan_19summer,item-10130002,item-20130002,1,0,,,0,0,,item-30130002,0
 130003,12,130003,Y_Z_zhihuiguan_yukata,item-10130003,item-20130003,1,0,,,0,0,,item-30130003,0

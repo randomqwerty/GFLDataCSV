@@ -9,7 +9,7 @@ id,parent_id,sort,name,description
 1007,1000,7,mall_classification-10001007,
 1008,1000,8,mall_classification-10001008,
 2000,0,2,mall_classification-10002000,
-2002,6000,1,mall_classification-10002002,
+2002,6000,3,mall_classification-10002002,
 3000,0,4,mall_classification-10003000,所有礼包内容
 3001,3000,1,mall_classification-10003001,
 3002,3000,2,mall_classification-10003002,物资
@@ -23,4 +23,4 @@ id,parent_id,sort,name,description
 5004,5000,4,mall_classification-10005004,
 6000,0,3,mall_classification-10006000,
 6002,6000,2,mall_classification-10006002,
-6003,6000,3,mall_classification-10006003,
+6003,6000,1,mall_classification-10006003,
