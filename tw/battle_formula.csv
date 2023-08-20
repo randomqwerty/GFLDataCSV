@@ -2323,7 +2323,7 @@ id,formula
 4340,sbuffidtier(7839)=3?1:-1
 4341,sbuffidtier(7839)=4?1:-1
 4342,sbuffidtier(7839)<5?-1:1
-4343,subffidtier(7839)<@formation?0:1
+4343,sbuffidtier(7839)<@formation?0:1
 4344,@Maxlife*0.1
 4345,@pow*0.5
 4346,@hit*1

@@ -1083,6 +1083,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2071,5,1,profilePic_OfficeLady2022_FX05,item-10002071,item-20002071,1,0,,,0,0,,item-30002071,0
 2072,5,1,profilePic_OfficeLady2022_RexZero1,item-10002072,item-20002072,1,0,,,0,0,,item-30002072,0
 2073,5,1,profilePic_OfficeLady2022_C14,item-10002073,item-20002073,1,0,,,0,0,,item-30002073,0
+2075,5,1,profilePic_rank4_PPKMod,item-10002075,item-20002075,1,0,,,0,0,,item-30002075,0
+2076,5,1,profilePic_rank5_MG3Mod,item-10002076,item-20002076,1,0,,,0,0,,item-30002076,0
+2077,5,1,profilePic_rank6_KP31Mod,item-10002077,item-20002077,1,0,,,0,0,,item-30002077,0
+2078,5,1,profilePic_rank4_OBRMod,item-10002078,item-20002078,1,0,,,0,0,,item-30002078,0
 2079,5,1,profilePic_sangvis_Cerberus,item-10002079,item-20002079,1,0,,,0,0,,item-30002079,0
 2080,5,1,profilePic_Anniversary2022_ZB26,item-10002080,item-20002080,1,0,,,0,0,,item-30002080,0
 2081,5,1,profilePic_Anniversary2022_Type100,item-10002081,item-20002081,1,0,,,0,0,,item-30002081,0
