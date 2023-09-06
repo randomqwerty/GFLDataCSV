@@ -52,8 +52,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 51,1051,2,0,0,0,0,160,508-4000,1,0,card_rank10_manticore.prefab,1,1,,0,0,3,0,,2754
 52,1052,2,0,0,0,0,240,508-6000,1,0,card_rank2_vespidripper.prefab,2,2,,0,0,3,0,,2787
 53,1053,2,0,0,0,0,320,508-8000,1,0,card_rankJ_m4a1.prefab,3,3,,0,0,2,0,,2788
-54,1054,2,0,0,0,0,320,508-8000,1,0,card_rankJ_spp1.prefab,3,3,,0,0,2,0,,0
-55,1055,2,0,0,0,0,400,508-10000,1,0,card_rankQ_dreamer.prefab,4,4,,0,0,3,0,,0
+54,1054,2,0,0,0,0,320,508-8000,1,0,card_rankJ_spp1.prefab,3,3,,0,0,2,0,,2809
+55,1055,2,0,0,0,0,400,508-10000,1,0,card_rankQ_dreamer.prefab,4,4,,0,0,3,0,,2810
 56,1056,1,0,0,0,0,200,508-5000,1,0,profilePic_rank0_deepdive_ump40.png,1,5,,0,0,1,200005,,2739
 57,1057,2,0,0,0,0,400,508-10000,1,0,card_rankA_deepdive.prefab,1,5,,0,0,"1,2",0,,0
 58,1058,1,0,0,0,0,40,508-1000,1,100,profilePic_rank2_FNP-9.png,1,2,100001:1,0,0,5,0,,0
@@ -219,8 +219,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 219,1221,1,0,0,0,0,80,508-2000,1,0,profilePic_OC44_xmas2,1,5,,1608,0,4,200005,,0
 220,1213,3,0,0,0,0,600,508-15000,1,0,cg_christmas_bed,1,10,,0,0,,0,,0
 221,1214,3,0,0,0,0,400,508-8000,0,0,cg_christmas_room,1,10,,0,1,6,0,,0
-222,1222,1,0,0,0,0,200,508-5000,1,0,profilePic_bonus1_xmas2,1,5,,0,0,1,200005,,0
-223,1223,1,0,0,0,0,200,508-5000,1,0,profilePic_bonus2_xmas2,1,5,,0,0,1,200005,,0
+222,1222,1,0,0,0,0,200,508-5000,1,0,profilePic_bonus1_xmas2,1,5,,0,0,1,200005,,2812
+223,1223,1,0,0,0,0,200,508-5000,1,0,profilePic_bonus2_xmas2,1,5,,0,0,1,200005,,2813
 224,1224,1,0,0,0,0,200,508-5000,1,0,profilePic_bonus3_xmas2,1,5,,0,0,1,200005,,0
 225,1225,1,0,0,0,0,200,508-5000,1,0,profilePic_bonus4_xmas2,1,5,,0,0,1,200005,,0
 226,1226,2,0,0,0,0,400,508-10000,1,0,card_bonus5_xmas,1,5,,0,0,"1,2",0,,0
@@ -1345,6 +1345,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1357,2357,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season12_1,1,5,,0,0,1,200008,logo_flightchess_major,0
 1358,2358,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season12_2,1,5,,0,0,1,200007,logo_flightchess_general,0
 1359,2359,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season12_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
+1360,2360,1,0,0,0,0,200,508-5000,0,0,profilePic_friendmall_AUG,1,5,,0,0,,0,,2811
+1361,2361,2,0,0,0,0,320,508-8000,0,0,card_friendmall_AUG,1,5,,0,0,,0,,2808
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
@@ -1371,3 +1373,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100026,200026,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Saiga12,1,5,,0,0,5,0,,0
 100027,200027,4,0,0,0,0,200,508-5000,1,0,profileFrame_friendmall_HK416,1,5,,0,0,5,0,,2792
 100028,200028,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1895,1,5,,0,0,5,0,,0
+100029,200029,4,0,0,0,0,200,508-5000,0,0,profileFrame_friendmall_AUG,1,5,,0,0,5,0,,2814

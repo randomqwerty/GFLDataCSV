@@ -1450,10 +1450,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2357,5,1,profilePic_ChessFlight_season12_1,item-10002357,item-20002357,1,0,,,0,0,,item-30002357,0
 2358,5,1,profilePic_ChessFlight_season12_2,item-10002358,item-20002358,1,0,,,0,0,,item-30002358,0
 2359,5,1,profilePic_ChessFlight_season12_3,item-10002359,item-20002359,1,0,,,0,0,,item-30002359,0
-2360,5,1,profilePic_OfficeLady2023_STG44,item-10002360,item-20002360,1,0,,,0,0,,item-30002360,0
-2361,5,1,profilePic_OfficeLady2023_STG44,item-10002361,item-20002361,1,0,,,0,0,,item-30002361,0
-2362,5,1,profilePic_OfficeLady2023_STG44,item-10002362,item-20002362,1,0,,,0,0,,item-30002362,0
-2363,5,1,profilePic_OfficeLady2023_STG44,item-10002363,item-20002363,1,0,,,0,0,,item-30002363,0
+2360,5,1,profilePic_friendmall_AUG,item-10002360,item-20002360,1,0,,,0,0,,item-30002360,0
+2361,5,1,card_friendmall_AUG,item-10002361,item-20002361,1,0,,,0,0,,item-30002361,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -1909,6 +1907,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200026,1,1,profileFrame_BattlePass_Saiga12,item-10200026,item-20200026,1,0,,,0,0,,item-30200026,0
 200027,5,1,profileFrame_friendmall_HK416,item-10200027,item-20200027,1,0,,,0,0,,item-30200027,0
 200028,1,1,profileFrame_BattlePass_M1895,item-10200028,item-20200028,1,0,,,0,0,,item-30200028,0
+200029,5,1,profileFrame_friendmall_AUG,item-10200029,item-20200029,1,0,,,0,0,,item-30200029,0
 900030,4,100030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0
 900031,4,100031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0
 1100001,11,1,fetter_skill,item-11100001,item-21100001,1,0,,,0,0,26,item-31100001,0
