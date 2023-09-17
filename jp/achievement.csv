@@ -1010,3 +1010,6 @@ identity,type,count,user_exp,mp,ammo,mre,part,core,gem,gun_id,item_ids,equip_ids
 1017,special_develop_fairy,1000,3000,3000,3000,3000,1000,15,0,0,2-10,,,,achievement-10001017,achievement-20001017,9,298,妖精重型制造,0,,,achievement-30001017,1
 1018,special_develop_fairy,2000,4000,4000,4000,4000,1300,15,0,0,2-15,,,,achievement-10001018,achievement-20001018,9,298,妖精重型制造,0,,,achievement-30001018,1
 1019,special_develop_fairy,5000,5000,5000,5000,5000,1600,20,0,0,2-15,,,,achievement-10001019,achievement-20001019,9,298,妖精重型制造,0,,,achievement-30001019,1
+1030,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001030,achievement-20001030,100,300,玛姬的钥匙,0,,11138:1113899,achievement-30001030,0
+1031,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001031,achievement-20001031,100,301,机芯中的宇宙,0,,"11147:1115701,11152:1115701,11157:1115701",achievement-30001031,0
+1032,c_no_skip_activity,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001032,achievement-20001032,100,302,就是这个人,0,,11209,achievement-30001032,0

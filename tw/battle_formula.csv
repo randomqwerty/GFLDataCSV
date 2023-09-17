@@ -3282,6 +3282,7 @@ id,formula
 5372,sbuffidtier(889)+sbuffidtier(879)
 5373,$1<sbuffidtier(889)+sbuffidtier(879)?1:0
 5374,sbuffidtier(9221)
+5375,#pow<100?$1+$1*(100-#pow)*sbuffidtier(9224)/10000:$1
 6000,(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(221)+tbufftypetier(403)>0&sbuffidtier(6004)>0?1.1*$1:$1
 6001,$1*(sbuffidtier(60007)*0.01+1)
 6002,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))

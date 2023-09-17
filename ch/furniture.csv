@@ -1749,6 +1749,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 20103,furniture-10020103,81,201,0,"5,5,0,0,0,0",1000,100003,furniture-20020103,2023Concert_deco_A,1,20,"0.008,0.000,-0.120",2,0,0,0,0,0,0
 20104,furniture-10020104,81,201,0,"4,3,0,0,0,0",1000,100003,furniture-20020104,2023PA15_deco_A,1,0,"0,0,0",2,0,0,0,0,0,0
 20105,furniture-10020105,81,201,0,"3,3,0,0,0,0",1000,100003,furniture-20020105,2023RougeSummer_Mixer_deco,2,0,"0,0,0",2,64,"*3.996,0.000,0.000",0,"3,3,0",0,0
+20106,furniture-10020106,81,201,0,"2,2,0,0,0,0",1000,100003,furniture-20020106,2023PA15_deco_B,1,0,"0,0,0",2,0,0,0,0,0,0
 30001,furniture-10030001,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20030001,poster_pm_halloween,1,5,"0,0,0",2,0,0,0,0,0,0
 30002,furniture-10030002,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20030002,poster_vector_halloween,1,5,"0,0,0",2,0,0,0,0,0,0
 30003,furniture-10030003,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20030003,poster_mp5_halloween,1,5,"0,0,0",2,0,0,0,0,0,0
@@ -2724,3 +2725,4 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 330008,furniture-10330008,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330008,poster_BattlePass_QBZ191,1,5,"0,0,0",3,0,0,0,0,0,0
 330009,furniture-10330009,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330009,poster_BattlePass_Saiga12,1,5,"0,0,0",3,0,0,0,0,0,0
 330010,furniture-10330010,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330010,poster_BattlePass_M1895,1,5,"0,0,0",3,0,0,0,0,0,0
+330011,furniture-10330011,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330011,poster_BattlePass_SPAS15,1,5,"0,0,0",3,0,0,0,0,0,0
