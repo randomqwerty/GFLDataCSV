@@ -7,6 +7,7 @@ id,name,rank,bonus_picture,k_bonus,bonus_number,description,bonus_description,co
 6,furniture_classes-10000006,4,0,8:2000,16,furniture_classes-20000006,furniture_classes-30000006,loft2020_bicycle_icon,1,1,2020
 7,furniture_classes-10000007,3,0,,16,furniture_classes-20000007,furniture_classes-30000007,sn2018_dresser_icon,1,1,2018
 8,furniture_classes-10000008,3,0,,16,furniture_classes-20000008,furniture_classes-30000008,sn2018_dresser_bs_icon,1,1,2018
+9,furniture_classes-10000009,5,3001,"6:2000,9:5000,12:8000",16,furniture_classes-20000009,furniture_classes-30000009,zhs2016_walldeco_01_icon,1,1,2023
 10,furniture_classes-10000010,3,0,,13,furniture_classes-20000010,furniture_classes-30000010,kft2018_walldeco_03_icon,1,1,2018
 11,furniture_classes-10000011,4,0,6:2000,13,furniture_classes-20000011,furniture_classes-30000011,rs2018_window_icon,1,1,2018
 12,furniture_classes-10000012,4,0,6:2000,13,furniture_classes-20000012,furniture_classes-30000012,rs2018_table_bs_icon,1,1,2018

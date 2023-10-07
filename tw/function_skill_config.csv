@@ -8,8 +8,8 @@ id,name,level,group_id,code,description,arguments,max_level,is_show,type,functio
 107,function_skill_config-10000107,1,0,function_skill_icon_107,function_skill_config-20000107,3,5,1,1,battle_squad_exp_up
 108,function_skill_config-10000108,1,0,function_skill_icon_108,function_skill_config-20000108,10,3,1,1,repair_time_reduce
 109,function_skill_config-10000109,1,0,function_skill_icon_109,function_skill_config-20000109,1,5,1,1,report_time_reduce
-110,function_skill_config-10000110,1,0,function_skill_icon_110,function_skill_config-20000110,5,3,0,1,exploration_reward_up
-111,function_skill_config-10000111,1,0,function_skill_icon_111,function_skill_config-20000111,1,5,0,1,exploration_mid_rate_up
+110,function_skill_config-10000110,1,0,function_skill_icon_110,function_skill_config-20000110,5,3,1,1,exploration_reward_up
+111,function_skill_config-10000111,1,0,function_skill_icon_111,function_skill_config-20000111,1,5,1,1,exploration_mid_rate_up
 112,function_skill_config-10000112,1,0,function_skill_icon_112,function_skill_config-20000112,3,5,1,1,skill_time_reduce
 113,function_skill_config-10000113,1,0,function_skill_icon_113,function_skill_config-20000113,1,5,1,1,equip_upgrade_up
 114,function_skill_config-10000114,1,0,function_skill_icon_114,function_skill_config-20000114,1,5,0,1,fairy_upgrade_up

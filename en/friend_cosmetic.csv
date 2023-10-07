@@ -782,6 +782,12 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 844,1844,2,0,0,0,0,0,508-5000,0,0,card_Spring2021_US,1,5,,0,0,1,0,
 846,1846,1,0,0,0,0,200,508-5000,0,0,profilePic_Anniversary2020_coffee,1,5,,0,0,1,200005,logo_anniversary
 847,1847,2,0,0,0,0,400,508-10000,0,0,card_Anniversary2020_coffee,1,5,,0,0,1,0,
+849,1849,1,0,0,0,0,200,508-5000,1,0,profilePic_Detective2021_P90,1,5,,5701,0,4,200005,
+850,1850,1,0,0,0,0,200,508-5000,1,0,profilePic_Detective2021_Type64-AR,1,5,,5702,0,4,200005,
+851,1851,1,0,0,0,0,200,508-5000,1,0,profilePic_Detective2021_M1928A1,1,5,,5703,0,4,200005,
+852,1852,1,0,0,0,0,160,508-4000,1,0,profilePic_Detective2021_MondragonM1908,1,5,,5704,0,4,200005,
+853,1853,1,0,0,0,0,160,508-4000,1,0,profilePic_Detective2021_EM2,1,5,,5706,0,4,200005,
+854,1854,1,0,0,0,0,80,508-2000,1,0,profilePic_Detective2021_Magal,1,5,,5707,0,4,200005,
 855,1855,1,0,0,0,0,0,,0,0,profilePic_sangvis_Nyto_white,1,5,,0,0,5,200002,
 856,1856,1,0,0,0,0,0,,0,0,profilePic_sangvis_Tarantula_HD,1,5,,0,0,5,200001,
 857,1857,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season1_1,1,5,,0,0,1,200008,logo_flightchess_major
@@ -1061,6 +1067,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1160,2160,1,0,0,0,0,160,508-4000,1,0,profilePic_Sport2022_SAF,1,5,,7504,0,4,0,
 1161,2161,1,0,0,0,0,160,508-4000,1,0,profilePic_Sport2022_Nova,1,5,,7505,0,4,0,
 1162,2162,1,0,0,0,0,80,508-2000,1,0,profilePic_Sport2022_C14,1,5,,7506,0,4,0,
+1163,2163,1,0,0,0,0,200,508-5000,1,0,profilePic_Carnival2022_QBZ191,1,5,,575,0,4,0,
 1164,2164,1,0,0,0,0,200,508-5000,1,0,profilePic_Carnival2022_SL8,1,5,,576,0,4,0,
 1165,2165,1,0,0,0,0,200,508-5000,1,0,profilePic_Carnival2022_VHS,1,5,,577,0,4,0,
 1166,2166,1,0,0,0,0,200,508-5000,1,0,profilePic_Carnival2022_GeneralLiu,1,5,,578,0,4,0,

@@ -92,6 +92,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 571,gift_item-10000571,2,6,50000,1034,571,30571,gift_bundle_Dropkick2021_Minosu,gift_item-20000571,gift_item-30000571,0,0,0,,gift_item-40000571,0
 573,gift_item-10000573,2,6,50000,116,573,30573,gift_bundle_ChessBonus_Z62,gift_item-20000573,gift_item-30000573,0,0,0,,gift_item-40000573,0
 574,gift_item-10000574,2,6,50000,56,574,30574,gift_bundle_AprilFool2022_M4 SOPMOD II,gift_item-20000574,gift_item-30000574,0,0,0,,gift_item-40000574,0
+575,gift_item-10000575,2,6,50000,361,575,30575,gift_bundle_Carnival2022_QBZ191,gift_item-20000575,gift_item-30000575,0,0,0,,gift_item-40000575,0
 576,gift_item-10000576,2,6,50000,296,576,30576,gift_bundle_Carnival2022_SL8,gift_item-20000576,gift_item-30000576,0,0,0,,gift_item-40000576,0
 577,gift_item-10000577,2,6,50000,318,577,30577,gift_bundle_Carnival2022_VHS,gift_item-20000577,gift_item-30000577,0,0,0,,gift_item-40000577,0
 578,gift_item-10000578,2,6,50000,316,578,30578,gift_bundle_Carnival2022_GeneralLiu,gift_item-20000578,gift_item-30000578,0,0,0,,gift_item-40000578,0
@@ -449,6 +450,12 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 5606,gift_item-10005606,2,6,50000,216,5606,35606,gift_bundle_WhiteV2021_XM8,gift_item-20005606,gift_item-30005606,0,0,0,,gift_item-40005606,0
 5607,gift_item-10005607,2,6,50000,174,5607,35607,gift_bundle_WhiteV2021_81typeR,gift_item-20005607,gift_item-30005607,0,0,0,,gift_item-40005607,0
 5608,gift_item-10005608,2,6,50000,94,5608,35608,gift_bundle_WhiteV2021_64type,gift_item-20005608,gift_item-30005608,0,0,0,,gift_item-40005608,0
+5701,gift_item-10005701,2,6,50000,245,5701,35701,gift_bundle_Detective2021_P90,gift_item-20005701,gift_item-30005701,0,0,0,,gift_item-40005701,0
+5702,gift_item-10005702,2,6,50000,243,5702,35702,gift_bundle_Detective2021_Type64-AR,gift_item-20005702,gift_item-30005702,0,0,0,,gift_item-40005702,0
+5703,gift_item-10005703,2,6,50000,16,5703,35703,gift_bundle_Detective2021_M1928A1,gift_item-20005703,gift_item-30005703,0,0,0,,gift_item-40005703,0
+5704,gift_item-10005704,2,6,50000,317,5704,35704,gift_bundle_Detective2021_MondragonM1908,gift_item-20005704,gift_item-30005704,0,0,0,,gift_item-40005704,0
+5706,gift_item-10005706,2,6,50000,262,5706,35706,gift_bundle_Detective2021_EM2,gift_item-20005706,gift_item-30005706,0,0,0,,gift_item-40005706,0
+5707,gift_item-10005707,2,6,50000,258,5707,35707,gift_bundle_Detective2021_Magal,gift_item-20005707,gift_item-30005707,0,0,0,,gift_item-40005707,0
 5801,gift_item-10005801,2,6,50000,285,5801,35801,gift_bundle_Anniversary2021_C93,gift_item-20005801,gift_item-30005801,0,0,0,,gift_item-40005801,0
 5802,gift_item-10005802,2,6,50000,260,5802,35802,gift_bundle_Anniversary2021_PA15,gift_item-20005802,gift_item-30005802,0,0,0,,gift_item-40005802,0
 5803,gift_item-10005803,2,6,50000,231,5803,35803,gift_bundle_Anniversary2021_M82A1,gift_item-20005803,gift_item-30005803,0,0,0,,gift_item-40005803,0

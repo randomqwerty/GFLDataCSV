@@ -887,6 +887,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1862,5,1,profilePic_rank6_MG4Mod,item-10001862,item-20001862,1,0,,,0,0,,item-30001862,0
 1863,5,1,profilePic_rank4_RMB93Mod,item-10001863,item-20001863,1,0,,,0,0,,item-30001863,0
 1864,5,1,profilePic_rank5_xm3Mod,item-10001864,item-20001864,1,0,,,0,0,,item-30001864,0
+1865,5,1,profilePic_sangvis_Manticore_HD,item-10001865,item-20001865,1,0,,,0,0,,item-30001865,0
 1866,5,1,profilePic_mask_5years,item-10001866,item-20001866,1,0,,,0,0,,item-30001866,0
 1867,5,1,profilePic_Carnival2021_M4A1,item-10001867,item-20001867,1,0,,,0,0,,item-30001867,0
 1868,5,1,profilePic_Carnival2021_M4 SOPMOD II,item-10001868,item-20001868,1,0,,,0,0,,item-30001868,0
@@ -1248,6 +1249,17 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2302,5,1,profilePic_BattlePass_MK3A1,item-10002302,item-20002302,1,0,,,0,0,,item-30002302,0
 2316,5,1,card_BattlePass_QBZ191,item-10002316,item-20002316,1,0,,,0,0,,item-30002316,0
 2317,5,1,profilePic_BattlePass_QBZ191,item-10002317,item-20002317,1,0,,,0,0,,item-30002317,0
+2345,5,1,profilePic_OfficeLady2023_DP12,item-10002345,item-20002345,1,0,,,0,0,,item-30002345,0
+2346,5,1,profilePic_OfficeLady2023_LTLX7000,item-10002346,item-20002346,1,0,,,0,0,,item-30002346,0
+2347,5,1,profilePic_OfficeLady2023_Grizzly,item-10002347,item-20002347,1,0,,,0,0,,item-30002347,0
+2348,5,1,profilePic_OfficeLady2023_Savage99,item-10002348,item-20002348,1,0,,,0,0,,item-30002348,0
+2349,5,1,profilePic_OfficeLady2023_AK12,item-10002349,item-20002349,1,0,,,0,0,,item-30002349,0
+2350,5,1,profilePic_OfficeLady2023_AN94,item-10002350,item-20002350,1,0,,,0,0,,item-30002350,0
+2351,5,1,profilePic_OfficeLady2023_AK15,item-10002351,item-20002351,1,0,,,0,0,,item-30002351,0
+2352,5,1,profilePic_OfficeLady2023_RPK16,item-10002352,item-20002352,1,0,,,0,0,,item-30002352,0
+2353,5,1,profilePic_OfficeLady2023_G36,item-10002353,item-20002353,1,0,,,0,0,,item-30002353,0
+2354,5,1,profilePic_OfficeLady2023_6P62,item-10002354,item-20002354,1,0,,,0,0,,item-30002354,0
+2356,5,1,profilePic_OfficeLady2023_STG44,item-10002356,item-20002356,1,0,,,0,0,,item-30002356,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -1554,6 +1566,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 130016,12,130016,Y_Z_zhihuiguan_OL,item-10130016,item-20130016,1,0,,,0,0,,item-30130016,0
 130017,12,130017,Y_Z_zhihuiguan_Charm,item-10130017,item-20130017,1,0,,,0,0,,item-30130017,0
 130018,12,130018,Y_Z_zhihuiguan_Athlete,item-10130018,item-20130018,1,0,,,0,0,,item-30130018,0
+130019,12,130019,Y_Z_zhihuiguan_Hagunsei,item-10130019,item-20130019,1,0,,,0,0,,item-30130019,0
 130020,12,130020,Y_Z_zhihuiguan_Cannon,item-10130020,item-20130020,1,0,,,0,0,,item-30130020,0
 140001,14,1,Y_Z_zhihuiguan_Chessman,item-10140001,item-20140001,1,0,,,0,0,,item-30140001,0
 140002,14,1,Y_Z_zhihuiguan_Chessman,item-10140002,item-20140002,1,0,,,0,0,,item-30140002,0

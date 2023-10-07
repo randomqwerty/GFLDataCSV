@@ -878,6 +878,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1844,5,1,card_Spring2021_US,item-10001844,item-20001844,1,0,,,0,0,,item-30001844,0
 1846,5,1,profilePic_Anniversary2020_coffee,item-10001846,item-20001846,1,0,,,0,0,,item-30001846,0
 1847,5,1,card_Anniversary2020_coffee,item-10001847,item-20001847,1,0,,,0,0,,item-30001847,0
+1849,5,1,profilePic_Detective2021_P90,item-10001849,item-20001849,1,0,,,0,0,,item-30001849,0
+1850,5,1,profilePic_Detective2021_Type64-AR,item-10001850,item-20001850,1,0,,,0,0,,item-30001850,0
+1851,5,1,profilePic_Detective2021_M1928A1,item-10001851,item-20001851,1,0,,,0,0,,item-30001851,0
+1852,5,1,profilePic_Detective2021_MondragonM1908,item-10001852,item-20001852,1,0,,,0,0,,item-30001852,0
+1853,5,1,profilePic_Detective2021_EM2,item-10001853,item-20001853,1,0,,,0,0,,item-30001853,0
+1854,5,1,profilePic_Detective2021_Magal,item-10001854,item-20001854,1,0,,,0,0,,item-30001854,0
 1855,5,1,profilePic_sangvis_Nyto_white,item-10001855,item-20001855,1,0,,,0,0,,item-30001855,0
 1856,5,1,profilePic_sangvis_Tarantula_HD,item-10001856,item-20001856,1,0,,,0,0,,item-30001856,0
 1857,5,1,profilePic_ChessFlight_season1_1,item-10001857,item-20001857,1,0,,,0,0,,item-30001857,0
@@ -1157,6 +1163,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2160,5,1,profilePic_Sport2022_SAF,item-10002160,item-20002160,1,0,,,0,0,,item-30002160,0
 2161,5,1,profilePic_Sport2022_Nova,item-10002161,item-20002161,1,0,,,0,0,,item-30002161,0
 2162,5,1,profilePic_Sport2022_C14,item-10002162,item-20002162,1,0,,,0,0,,item-30002162,0
+2163,5,1,profilePic_Carnival2022_QBZ191,item-10002163,item-20002163,1,0,,,0,0,,item-30002163,0
 2164,5,1,profilePic_Carnival2022_SL8,item-10002164,item-20002164,1,0,,,0,0,,item-30002164,0
 2165,5,1,profilePic_Carnival2022_VHS,item-10002165,item-20002165,1,0,,,0,0,,item-30002165,0
 2166,5,1,profilePic_Carnival2022_GeneralLiu,item-10002166,item-20002166,1,0,,,0,0,,item-30002166,0

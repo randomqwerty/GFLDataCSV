@@ -201,4 +201,14 @@ id,name,description,code,icon,type,gender,uniform_class,color_normal,color_0,col
 5440,commander_uniform-10005440,commander_uniform-20005440,BodyAcco,commander_5440_icon,4,0,54,Commander_5440_N,,,,,,0,BodyBinder1,0,0.2,"-0.065,0.068",955
 5451,commander_uniform-10005451,commander_uniform-20005451,Foot1,commander_5451_icon,5,1,54,Commander_5451_N,,,,,,0,,0,0.0,,956
 5452,commander_uniform-10005452,commander_uniform-20005452,Foot2,commander_5452_icon,5,2,54,Commander_5452_N,,,,,,0,,0,0.0,,957
+5511,commander_uniform-10005511,commander_uniform-20005511,Head1,commander_5511_icon,1,1,55,Commander_5511_N,Commander_5511_0,Commander_5511_1,Commander_5511_2,Commander_5511_3,Commander_5511_4,0,,0,0.0,,"900,901,902,903,904,905"
+5512,commander_uniform-10005512,commander_uniform-20005512,Head2,commander_5512_icon,1,2,55,Commander_5512_N,Commander_5512_0,Commander_5512_1,Commander_5512_2,Commander_5512_3,Commander_5512_4,0,,0,0.0,,"906,907,908,909,910,911"
+5520,commander_uniform-10005520,commander_uniform-20005520,HeadAcco,commander_5520_icon,2,0,55,Commander_5520_N,Commander_5520_0,Commander_5520_1,Commander_5520_2,Commander_5520_3,Commander_5520_4,0,HairBinder2,0,0.2,"0.297,0.353","912,913,914,915,916,917"
+5531,commander_uniform-10005531,commander_uniform-20005531,Body1,commander_5531_icon,3,1,55,Commander_5531_N,Commander_5531_0,Commander_5531_1,Commander_5531_2,Commander_5531_3,Commander_5531_4,0,,0,0.0,,"918,919,920,921,922,923"
+5532,commander_uniform-10005532,commander_uniform-20005532,Body2,commander_5532_icon,3,2,55,Commander_5532_N,Commander_5532_0,Commander_5532_1,Commander_5532_2,Commander_5532_3,Commander_5532_4,0,,0,0.0,,"924,925,926,927,928,929"
+5540,commander_uniform-10005540,commander_uniform-20005540,BodyAcco,commander_5540_icon,4,0,55,Commander_5540_N,Commander_5540_0,Commander_5540_1,Commander_5540_2,Commander_5540_3,Commander_5540_4,0,BodyBinder1,0,0.2,"-0.123,0.007","930,931,932,933,934,935"
+5551,commander_uniform-10005551,commander_uniform-20005551,Foot1,commander_5551_icon,5,1,55,Commander_5551_N,Commander_5551_0,Commander_5551_1,Commander_5551_2,Commander_5551_3,Commander_5551_4,0,,0,0.0,,"936,937,938,939,940,941"
+5552,commander_uniform-10005552,commander_uniform-20005552,Foot2,commander_5552_icon,5,2,55,Commander_5552_N,Commander_5552_0,Commander_5552_1,Commander_5552_2,Commander_5552_3,Commander_5552_4,0,,0,0.0,,"942,943,944,945,946,947"
+5640,commander_uniform-10005640,commander_uniform-20005640,BodyAcco,commander_5640_icon,4,0,56,Commander_5640_N,,,,,,0,BodyBinder1,0,0.2,"-0.126,0.332",956
+5643,commander_uniform-10005643,commander_uniform-20005643,BodyAcco,commander_5643_icon,4,0,56,Commander_5643_N,,,,,,0,BodyBinder1,0,0.2,"-0.126,0.332",957
 9920,commander_uniform-10009920,commander_uniform-20009920,HeadAcco,commander_9920_icon,2,0,99,Commander_9920_N,,,,,,0,HairBinder2,0,0.4,"-0.051,0.187",277

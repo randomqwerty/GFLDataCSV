@@ -195,7 +195,7 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 195,enemy_illustration-10000195,1,Scarecrow,enemy_illustration-20000195,1,0,5,4,4,4,4,0,4,3,enemy_illustration-30000195,"1001,306,307","184,185,186",2035-05-20,enemy_illustration-40000195,"70,70,1",0,0,0
 196,enemy_illustration-10000196,1,BossArchitect,enemy_illustration-20000196,1,0,6,5,4,3,3,0,3,5,enemy_illustration-30000196,"1001,319","187,188,189",2035-05-20,enemy_illustration-40000196,"85,85,1",0,0,0
 197,enemy_illustration-10000197,1,Intruder,enemy_illustration-20000197,1,0,4,4,3,4,5,0,3,3,enemy_illustration-30000197,"1001,306","190,191,192",2035-05-20,enemy_illustration-40000197,"85,85,1",0,0,0
-198,enemy_illustration-10000198,1,Destroyer,enemy_illustration-20000198,1,0,5,5,4,3,3,0,4,5,enemy_illustration-30000198,"1001,319","193,194,195",2035-05-20,enemy_illustration-40000198,"85,85,1",0,0,0
+198,enemy_illustration-10000198,1,DestroyerPlus,enemy_illustration-20000198,1,0,5,5,4,3,3,0,4,5,enemy_illustration-30000198,"1001,319","193,194,195",2035-05-20,enemy_illustration-40000198,"85,85,1",0,0,0
 199,enemy_illustration-10000199,1,Justice,enemy_illustration-20000199,1,0,5,6,4,4,4,3,4,5,enemy_illustration-30000199,"1001,309,307","196,197,198",2035-05-20,enemy_illustration-40000199,"70,70,1",0,0,0
 200,enemy_illustration-10000200,2,MechanicalSpiderM,enemy_illustration-20000200,3,0,3,5,5,4,3,5,3,2,enemy_illustration-30000200,"1001,1005,302,309,321","199,200,201",2016-05-20,enemy_illustration-40000200,"70,70,1",0,0,3
 201,enemy_illustration-10000201,2,MechanicalSpiderS,enemy_illustration-20000201,3,0,3,1,5,5,4,1,5,1,enemy_illustration-30000201,"303,304,306,309,316",202,2016-05-20,enemy_illustration-40000201,"70,70,1",0,0,0
