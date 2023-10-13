@@ -1137,6 +1137,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1316,2316,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_QBZ191,1,5,,0,0,,0,
 1317,2317,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_QBZ191,1,5,,30008,0,,0,
 1321,2321,2,0,0,0,0,0,,0,0,card_Children2022_us,1,5,,0,0,,0,
+1331,2331,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_Saiga12,1,5,,0,0,,0,
+1332,2332,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_Saiga12,1,5,,30009,0,,0,
 1345,2345,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_DP12,1,5,,8601,0,,0,
 1346,2346,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_LTLX7000,1,5,,8602,0,,0,
 1347,2347,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_Grizzly,1,5,,8603,0,,0,
@@ -1167,3 +1169,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100020,200020,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_C93,1,5,,0,0,5,0,
 100021,200021,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_MK3A1,1,5,,0,0,5,0,
 100023,200023,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_QBZ191,1,5,,0,0,5,0,
+100026,200026,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Saiga12,1,5,,0,0,5,0,
