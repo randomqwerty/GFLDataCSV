@@ -90,3 +90,9 @@ id,code,type_id,basic_scores,k_slopes,x_counts
 89,sp_gun_level,201,1.2,0.5;4.5;2;13;5,0;90;100;110;115
 90,sp_combine_gun,205,1.2,1;1;2;3,1;2;3;4
 91,different_sangvis,804,1.0,1;0.8;0.6;0.5,0;20;40;80
+93,defferent_vehicle,1201,100.0,,
+94,vehicle_level,1202,0.1,,
+95,vehicle_progress,1203,1.0,,
+96,get_vehicle_component_rank5,1204,1.0,,
+97,vehicle_component_level_rank5,1205,2.0,,
+98,vehicle_component_level,1206,1.0,1;1.5;2;,1;4;7

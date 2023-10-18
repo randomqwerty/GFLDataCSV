@@ -23,7 +23,7 @@ id,class_id,title,desc,weight,page_to_go
 604,6,commander_ranking_types-10000604,commander_ranking_types-20000604,0.2,0
 605,6,commander_ranking_types-10000605,commander_ranking_types-20000605,2.0,0
 801,8,commander_ranking_types-10000801,commander_ranking_types-20000801,1.0,0
-802,8,commander_ranking_types-10000802,commander_ranking_types-20000802,0.8,0
+802,8,commander_ranking_types-10000802,commander_ranking_types-20000802,1.0,0
 803,8,commander_ranking_types-10000803,commander_ranking_types-20000803,1.0,0
 804,8,commander_ranking_types-10000804,commander_ranking_types-20000804,1.0,0
 901,9,commander_ranking_types-10000901,commander_ranking_types-20000901,1.0,0
@@ -43,3 +43,9 @@ id,class_id,title,desc,weight,page_to_go
 1106,11,commander_ranking_types-10001106,commander_ranking_types-20001106,5.0,0
 1107,11,commander_ranking_types-10001107,commander_ranking_types-20001107,1.0,0
 1108,11,commander_ranking_types-10001108,commander_ranking_types-20001108,1.0,0
+1201,12,commander_ranking_types-10001201,commander_ranking_types-20001201,1.0,0
+1202,12,commander_ranking_types-10001202,commander_ranking_types-20001202,0.1,0
+1203,12,commander_ranking_types-10001203,commander_ranking_types-20001203,10.0,0
+1204,12,commander_ranking_types-10001204,commander_ranking_types-20001204,1.0,0
+1205,12,commander_ranking_types-10001205,commander_ranking_types-20001205,3.0,0
+1206,12,commander_ranking_types-10001206,commander_ranking_types-20001206,1.0,0

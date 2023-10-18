@@ -1071,6 +1071,12 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1171,2171,1,0,0,0,0,160,508-4000,1,0,profilePic_Carnival2022_UMP45,1,5,,584,0,4,0,
 1172,2172,1,0,0,0,0,160,508-4000,1,0,profilePic_Carnival2022_UMP40,1,5,,585,0,4,0,
 1173,2173,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_GeneralLiu,1,5,,0,0,,0,
+1175,2175,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween2022_M327,1,5,,7601,0,4,0,
+1176,2176,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween2022_KH2002,1,5,,7602,0,4,0,
+1177,2177,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween2022_JS9mm,1,5,,7603,0,4,0,
+1178,2178,1,0,0,0,0,160,508-4000,1,0,profilePic_Halloween2022_PPQ,1,5,,7604,0,4,0,
+1179,2179,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2022_StenMK2,1,5,,7605,0,4,0,
+1181,2181,1,0,0,0,0,40,508-1000,1,0,profilePic_Halloween2022_G43,1,5,,7607,0,4,0,
 1183,2183,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season8_1,1,5,,0,0,1,200008,logo_flightchess_major
 1184,2184,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season8_2,1,5,,0,0,1,200007,logo_flightchess_general
 1185,2185,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season8_3,1,5,,0,0,1,200006,logo_flightchess_chief
@@ -1153,6 +1159,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1302,2302,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_MK3A1,1,5,,30007,0,,0,
 1316,2316,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_QBZ191,1,5,,0,0,,0,
 1317,2317,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_QBZ191,1,5,,30008,0,,0,
+1331,2331,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_Saiga12,1,5,,0,0,,0,
+1332,2332,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_Saiga12,1,5,,30009,0,,0,
 1345,2345,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_DP12,1,5,,8601,0,,0,
 1346,2346,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_LTLX7000,1,5,,8602,0,,0,
 1347,2347,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_Grizzly,1,5,,8603,0,,0,
@@ -1184,3 +1192,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100020,200020,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_C93,1,5,,0,0,5,0,
 100021,200021,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_MK3A1,1,5,,0,0,5,0,
 100023,200023,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_QBZ191,1,5,,0,0,5,0,
+100026,200026,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Saiga12,1,5,,0,0,5,0,

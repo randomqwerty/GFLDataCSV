@@ -234,7 +234,7 @@ id,type,arguments,extra_language,is_hidden,is_show_count
 490404,1101,94839|94840,mission_win_type_config-10490404,0,1
 500000,1409,"1,2,3,301,302,303,304,305,7,8,10:0",mission_win_type_config-10500000,2,
 500001,1409,301:0,mission_win_type_config-10500001,0,0
-550500,1402,3,mission_win_type_config-10550500,0,
+550500,1402,6,mission_win_type_config-10550500,0,
 580001,1406,580098:0,mission_win_type_config-10580001,0,0
 580002,1407,580097:1,mission_win_type_config-10580002,0,0
 581101,1101,"3500616,3500617",mission_win_type_config-10581101,0,1

@@ -1,0 +1,6 @@
+id,name,name_en,code
+0,vehicle_component_type-10000000,vehicle_component_type-20000000,common_component
+1,vehicle_component_type-10000001,vehicle_component_type-20000001,h_weapon
+2,vehicle_component_type-10000002,vehicle_component_type-20000002,l_weapon
+3,vehicle_component_type-10000003,vehicle_component_type-20000003,functional_component
+4,vehicle_component_type-10000004,vehicle_component_type-20000004,protective_component
