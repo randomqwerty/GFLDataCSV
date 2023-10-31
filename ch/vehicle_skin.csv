@@ -102,3 +102,9 @@ id,name,type,group_id,vehicle_id,blueprint_id,class_id,code,item_id,obtain,featu
 11103,vehicle_skin-10011103,2,143,,,11,LaserSup_1011,133115,40,0,vehicle_skin-20011103,1
 11104,vehicle_skin-10011104,2,118,,,11,Small_Missile_Launcher_1011,133116,40,0,vehicle_skin-20011104,1
 11105,vehicle_skin-10011105,2,107,,,11,MG_Cannon_1011,133117,40,0,vehicle_skin-20011105,1
+11300,vehicle_skin-10011300,1,0,2,,13,Warjack_1013,133124,40,0,vehicle_skin-20011300,1
+11301,vehicle_skin-10011301,2,118,,,13,Small_Missile_Launcher_1013,133125,40,0,vehicle_skin-20011301,1
+11302,vehicle_skin-10011302,2,101,,,13,MG_Single_1013,133126,40,0,vehicle_skin-20011302,1
+11303,vehicle_skin-10011303,2,107,,,13,MG_Cannon_1013,133127,40,0,vehicle_skin-20011303,1
+11304,vehicle_skin-10011304,2,124,,,13,AutoDef_1013,133128,40,0,vehicle_skin-20011304,1
+11305,vehicle_skin-10011305,2,116,,,13,Signal_Tower_1013,133129,40,0,vehicle_skin-20011305,1

@@ -1175,6 +1175,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2177,5,1,profilePic_Halloween2022_JS9mm,item-10002177,item-20002177,1,0,,,0,0,,item-30002177,0
 2178,5,1,profilePic_Halloween2022_PPQ,item-10002178,item-20002178,1,0,,,0,0,,item-30002178,0
 2179,5,1,profilePic_Halloween2022_StenMK2,item-10002179,item-20002179,1,0,,,0,0,,item-30002179,0
+2180,5,1,profilePic_Halloween2022_MG42,item-10002180,item-20002180,1,0,,,0,0,,item-30002180,0
 2181,5,1,profilePic_Halloween2022_G43,item-10002181,item-20002181,1,0,,,0,0,,item-30002181,0
 2183,5,1,profilePic_ChessFlight_season8_1,item-10002183,item-20002183,1,0,,,0,0,,item-30002183,0
 2184,5,1,profilePic_ChessFlight_season8_2,item-10002184,item-20002184,1,0,,,0,0,,item-30002184,0
@@ -1200,6 +1201,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2204,5,1,cg_EclipseActivity2022_01,item-10002204,item-20002204,1,0,,,0,0,,item-30002204,0
 2205,5,1,card_BattlePass_Lewis,item-10002205,item-20002205,1,0,,,0,0,,item-30002205,0
 2206,5,1,profilePic_BattlePass_Lewis,item-10002206,item-20002206,1,0,,,0,0,,item-30002206,0
+2214,5,1,profilePic_ChessFlight_season9_1,item-10002214,item-20002214,1,0,,,0,0,,item-30002214,0
+2215,5,1,profilePic_ChessFlight_season9_2,item-10002215,item-20002215,1,0,,,0,0,,item-30002215,0
+2216,5,1,profilePic_ChessFlight_season9_3,item-10002216,item-20002216,1,0,,,0,0,,item-30002216,0
 2217,5,1,profilePic_NewYear2023_A545,item-10002217,item-20002217,1,0,,,0,0,,item-30002217,0
 2218,5,1,profilePic_NewYear2023_SL8,item-10002218,item-20002218,1,0,,,0,0,,item-30002218,0
 2219,5,1,profilePic_NewYear2023_FX05,item-10002219,item-20002219,1,0,,,0,0,,item-30002219,0
