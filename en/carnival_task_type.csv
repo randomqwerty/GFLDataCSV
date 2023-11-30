@@ -130,3 +130,4 @@ id,type,title,content,function_control_id
 129,consume_sangvis_skill_coin2,carnival_task_type-10000129,carnival_task_type-20000129,0
 130,consume_sangvis_material1_coin,carnival_task_type-10000130,carnival_task_type-20000130,0
 131,special_develop_fairy,carnival_task_type-10000131,carnival_task_type-20000131,1
+132,map_capture,carnival_task_type-10000132,carnival_task_type-20000132,0

@@ -45,6 +45,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 108,3,9,Medal_2022winter_rank,item-10000108,item-20000108,1,0,,,0,0,,item-30000108,0
 109,3,10,Medal_Theater8th,item-10000109,item-20000109,1,0,,,0,0,,item-30000109,0
 110,3,11,Medal_Theater8th_rank,item-10000110,item-20000110,1,0,,,0,0,,item-30000110,0
+111,3,12,Medal_2019winter_re_rank,item-10000111,item-20000111,1,0,,,0,0,,item-30000111,0
 112,3,13,Medal_2022summer,item-10000112,item-20000112,1,0,,,0,0,,item-30000112,0
 113,3,14,Medal_2022summer_rank,item-10000113,item-20000113,1,0,,,0,0,,item-30000113,0
 114,3,15,Medal_Theater9th,item-10000114,item-20000114,1,0,,,0,0,,item-30000114,0
@@ -883,6 +884,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1853,5,1,profilePic_Detective2021_EM2,item-10001853,item-20001853,1,0,,,0,0,,item-30001853,0
 1854,5,1,profilePic_Detective2021_Magal,item-10001854,item-20001854,1,0,,,0,0,,item-30001854,0
 1855,5,1,profilePic_sangvis_Nyto_white,item-10001855,item-20001855,1,0,,,0,0,,item-30001855,0
+1856,5,1,profilePic_sangvis_Tarantula_HD,item-10001856,item-20001856,1,0,,,0,0,,item-30001856,0
 1857,5,1,profilePic_ChessFlight_season1_1,item-10001857,item-20001857,1,0,,,0,0,,item-30001857,0
 1858,5,1,profilePic_ChessFlight_season1_2,item-10001858,item-20001858,1,0,,,0,0,,item-30001858,0
 1859,5,1,profilePic_ChessFlight_season1_3,item-10001859,item-20001859,1,0,,,0,0,,item-30001859,0
@@ -1177,6 +1179,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2179,5,1,profilePic_Halloween2022_StenMK2,item-10002179,item-20002179,1,0,,,0,0,,item-30002179,0
 2180,5,1,profilePic_Halloween2022_MG42,item-10002180,item-20002180,1,0,,,0,0,,item-30002180,0
 2181,5,1,profilePic_Halloween2022_G43,item-10002181,item-20002181,1,0,,,0,0,,item-30002181,0
+2182,5,1,profilePic_sangvis_Excutioner_Halloween,item-10002182,item-20002182,1,0,,,0,0,,item-30002182,0
 2183,5,1,profilePic_ChessFlight_season8_1,item-10002183,item-20002183,1,0,,,0,0,,item-30002183,0
 2184,5,1,profilePic_ChessFlight_season8_2,item-10002184,item-20002184,1,0,,,0,0,,item-30002184,0
 2185,5,1,profilePic_ChessFlight_season8_3,item-10002185,item-20002185,1,0,,,0,0,,item-30002185,0
@@ -1262,8 +1265,16 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2302,5,1,profilePic_BattlePass_MK3A1,item-10002302,item-20002302,1,0,,,0,0,,item-30002302,0
 2316,5,1,card_BattlePass_QBZ191,item-10002316,item-20002316,1,0,,,0,0,,item-30002316,0
 2317,5,1,profilePic_BattlePass_QBZ191,item-10002317,item-20002317,1,0,,,0,0,,item-30002317,0
+2323,5,1,profilePic_Children2023_G11,item-10002323,item-20002323,1,0,,,0,0,,item-30002323,0
+2324,5,1,profilePic_Children2023_M240L,item-10002324,item-20002324,1,0,,,0,0,,item-30002324,0
+2325,5,1,profilePic_Children2023_AA12,item-10002325,item-20002325,1,0,,,0,0,,item-30002325,0
+2326,5,1,profilePic_Children2023_PSG1,item-10002326,item-20002326,1,0,,,0,0,,item-30002326,0
+2327,5,1,profilePic_Children2023_C96,item-10002327,item-20002327,1,0,,,0,0,,item-30002327,0
+2328,5,1,profilePic_Children2023_M1911,item-10002328,item-20002328,1,0,,,0,0,,item-30002328,0
 2331,5,1,card_BattlePass_Saiga12,item-10002331,item-20002331,1,0,,,0,0,,item-30002331,0
 2332,5,1,profilePic_BattlePass_Saiga12,item-10002332,item-20002332,1,0,,,0,0,,item-30002332,0
+2343,5,1,card_BattlePass_M1895,item-10002343,item-20002343,1,0,,,0,0,,item-30002343,0
+2344,5,1,profilePic_BattlePass_M1895,item-10002344,item-20002344,1,0,,,0,0,,item-30002344,0
 2345,5,1,profilePic_OfficeLady2023_DP12,item-10002345,item-20002345,1,0,,,0,0,,item-30002345,0
 2346,5,1,profilePic_OfficeLady2023_LTLX7000,item-10002346,item-20002346,1,0,,,0,0,,item-30002346,0
 2347,5,1,profilePic_OfficeLady2023_Grizzly,item-10002347,item-20002347,1,0,,,0,0,,item-30002347,0
@@ -1503,6 +1514,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100163,9,100163,Scar2022,item-10100163,item-20100163,1,0,,60,0,0,,item-30100163,0
 100164,4,100164,Nova_medal,item-10100164,item-20100164,1,0,,,0,0,,item-30100164,0
 100165,4,100165,Platinum_medal,item-10100165,item-20100165,1,0,,,0,0,,item-30100165,0
+100166,9,100166,Christmas_Coin,item-10100166,item-20100166,1,0,,120,0,0,,item-30100166,0
+100167,4,100167,Nova_medal_black,item-10100167,item-20100167,1,0,,,0,0,,item-30100167,0
+100168,4,100168,Platinum_medal_black,item-10100168,item-20100168,1,0,,,0,0,,item-30100168,0
 100175,9,100175,Koutarou_Coin,item-10100175,item-20100175,1,0,,60,0,0,,item-30100175,0
 100176,4,100176,Platinum_medal_black,item-10100176,item-20100176,1,0,,,0,0,,item-30100176,0
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001,0
@@ -1606,6 +1620,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 140018,14,1,Y_Z_zhihuiguan_Chessman,item-10140018,item-20140018,1,0,,,0,0,,item-30140018,0
 140019,14,1,Y_Z_zhihuiguan_Chessman,item-10140019,item-20140019,1,0,,,0,0,,item-30140019,0
 140020,14,1,Y_Z_zhihuiguan_Chessman,item-10140020,item-20140020,1,0,,,0,0,,item-30140020,0
+140021,14,1,Y_Z_zhihuiguan_Chessman,item-10140021,item-20140021,1,0,,,0,0,,item-30140021,0
+140022,14,1,Y_Z_zhihuiguan_Chessman,item-10140022,item-20140022,1,0,,,0,0,,item-30140022,0
 160001,1,1,PT,item-10160001,item-20160001,1,0,,,0,0,,item-30160001,0
 200001,5,1,profileFrame_sr_gun,item-10200001,item-20200001,1,0,,,0,0,,item-30200001,0
 200002,5,1,profileFrame_ssr_gun,item-10200002,item-20200002,1,0,,,0,0,,item-30200002,0
@@ -1628,6 +1644,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200021,5,1,profileFrame_BattlePass_MK3A1,item-10200021,item-20200021,1,0,,,0,0,,item-30200021,0
 200023,1,1,profileFrame_BattlePass_QBZ191,item-10200023,item-20200023,1,0,,,0,0,,item-30200023,0
 200026,1,1,profileFrame_BattlePass_Saiga12,item-10200026,item-20200026,1,0,,,0,0,,item-30200026,0
+200028,1,1,profileFrame_BattlePass_M1895,item-10200028,item-20200028,1,0,,,0,0,,item-30200028,0
 900030,4,900030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0
 900031,4,900031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0
 900032,4,900032,Nova_medal,item-10900032,item-20900032,1,0,,,0,0,,item-30900032,0
@@ -1726,5 +1743,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500082,15,1500082,package_choose,item-11500082,item-21500082,1,-1,,,0,0,,item-31500082,0
 1500083,15,1500083,package_random,item-11500083,item-21500083,1,-1,,,0,0,,item-31500083,0
 1500084,15,1500084,package_random,item-11500084,item-21500084,1,-1,,,0,0,,item-31500084,0
+1500091,15,1500091,package_choose,item-11500091,item-21500091,1,-1,,,0,0,,item-31500091,0
+1500092,15,1500092,package_choose,item-11500092,item-21500092,1,-1,,,0,0,,item-31500092,0
+1500093,15,1500093,package_random,item-11500093,item-21500093,1,-1,,,0,0,,item-31500093,0
+1500094,15,1500094,package_random,item-11500094,item-21500094,1,-1,,,0,0,,item-31500094,0
 9500001,15,9500001,package_choose,item-19500001,item-29500001,1,-1,,,0,0,,item-39500001,0
 9500002,15,9500002,package_choose,item-19500002,item-29500002,1,-1,,,0,0,,item-39500002,0

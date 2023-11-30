@@ -2254,6 +2254,12 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 38204,furniture-10038204,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038204,poster_Piracy2023_PTRD,1,5,"0,0,0",3,0,0,0,0,0,0
 38205,furniture-10038205,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038205,poster_Piracy2023_TavorTS12,1,5,"0,0,0",3,0,0,0,0,0,0
 38206,furniture-10038206,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038206,poster_Piracy2023_MP41,1,5,"0,0,0",3,0,0,0,0,0,0
+38401,furniture-10038401,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038401,poster_Children2023_G11,1,5,"0,0,0",3,0,0,0,0,0,0
+38402,furniture-10038402,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038402,poster_Children2023_M240L,1,5,"0,0,0",3,0,0,0,0,0,0
+38403,furniture-10038403,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038403,poster_Children2023_AA12,1,5,"0,0,0",3,0,0,0,0,0,0
+38404,furniture-10038404,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038404,poster_Children2023_PSG1,1,5,"0,0,0",3,0,0,0,0,0,0
+38405,furniture-10038405,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038405,poster_Children2023_C96,1,5,"0,0,0",3,0,0,0,0,0,0
+38406,furniture-10038406,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038406,poster_Children2023_M1911,1,5,"0,0,0",3,0,0,0,0,0,0
 38601,furniture-10038601,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038601,poster_OfficeLady2023_DP12,1,5,"0,0,0",3,0,0,0,0,0,0
 38602,furniture-10038602,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038602,poster_OfficeLady2023_LTLX7000,1,5,"0,0,0",3,0,0,0,0,0,0
 38603,furniture-10038603,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20038603,poster_OfficeLady2023_Grizzly,1,5,"0,0,0",3,0,0,0,0,0,0
@@ -2561,3 +2567,4 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 330007,furniture-10330007,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330007,poster_BattlePass_MK3A1,1,5,"0,0,0",3,0,0,0,0,0,0
 330008,furniture-10330008,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330008,poster_BattlePass_QBZ191,1,5,"0,0,0",3,0,0,0,0,0,0
 330009,furniture-10330009,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330009,poster_BattlePass_Saiga12,1,5,"0,0,0",3,0,0,0,0,0,0
+330010,furniture-10330010,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330010,poster_BattlePass_M1895,1,5,"0,0,0",3,0,0,0,0,0,0

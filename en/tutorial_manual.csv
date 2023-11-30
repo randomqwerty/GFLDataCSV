@@ -175,3 +175,12 @@ id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
 2008,2,,tutorial_manual-10002008,tutorial_manual-20002008,,38105403231d5363_draw_220305182400.jpg,16,0
 2009,2,,tutorial_manual-10002009,tutorial_manual-20002009,,55aa886fc76d0777_draw_220305182400.jpg,16,0
 2010,2,,tutorial_manual-10002010,tutorial_manual-20002010,,6f93506f9a9daa6e_draw_220305182400.jpg,16,0
+2100,1,"2101,2102,2103,2104,2105,2106,2107,2108",tutorial_manual-10002100,tutorial_manual-20002100,manual_daily,,29,0
+2101,2,,tutorial_manual-10002101,tutorial_manual-20002101,,"33005a33b4ce42c6_draw_231107210145.jpg,aad9d639eacd2668_draw_231107210145.jpg",29,0
+2102,2,,tutorial_manual-10002102,tutorial_manual-20002102,,"3b4bc5f11e7d443e_draw_231107210145.jpg,d6d4c87021b33021_draw_231107210146.jpg,35f8decb5421f867_draw_231107210146.jpg",29,0
+2103,2,,tutorial_manual-10002103,tutorial_manual-20002103,,"adec433d929adfd7_draw_231107210146.jpg,d0abcfbf85146fb5_draw_231107210146.jpg",29,0
+2104,2,,tutorial_manual-10002104,tutorial_manual-20002104,,"59604ba35167bf3a_draw_231107210147.jpg,51726c7e92b80a57_draw_231107210147.jpg,f028cf6f03369656_draw_231107210147.jpg",29,0
+2105,2,,tutorial_manual-10002105,tutorial_manual-20002105,,"80e31fe4afeb0cc1_draw_231107210147.jpg,58e846ab2c1ab695_draw_231107210148.jpg",29,0
+2106,2,,tutorial_manual-10002106,tutorial_manual-20002106,,217c6b99879d3b32_draw_231107210148.jpg,29,0
+2107,2,,tutorial_manual-10002107,tutorial_manual-20002107,,23337f128059ca60_draw_231107210148.jpg,29,0
+2108,2,,tutorial_manual-10002108,tutorial_manual-20002108,,71143da57a33252b_draw_231107211148.jpg,29,0

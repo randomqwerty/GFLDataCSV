@@ -784,6 +784,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 853,1853,1,0,0,0,0,160,508-4000,1,0,profilePic_Detective2021_EM2,1,5,,5706,0,4,200005,
 854,1854,1,0,0,0,0,80,508-2000,1,0,profilePic_Detective2021_Magal,1,5,,5707,0,4,200005,
 855,1855,1,0,0,0,0,0,,0,0,profilePic_sangvis_Nyto_white,1,5,,0,0,5,200002,
+856,1856,1,0,0,0,0,0,,0,0,profilePic_sangvis_Tarantula_HD,1,5,,0,0,5,200001,
 857,1857,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season1_1,1,5,,0,0,1,200008,logo_flightchess_major
 858,1858,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season1_2,1,5,,0,0,1,200007,logo_flightchess_general
 859,1859,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season1_3,1,5,,0,0,1,200006,logo_flightchess_chief
@@ -1078,6 +1079,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1179,2179,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2022_StenMK2,1,5,,7605,0,4,0,
 1180,2180,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2022_MG42,1,5,,7606,0,4,0,
 1181,2181,1,0,0,0,0,40,508-1000,1,0,profilePic_Halloween2022_G43,1,5,,7607,0,4,0,
+1182,2182,1,0,0,0,0,0,,0,0,profilePic_sangvis_Excutioner_Halloween,1,5,,0,0,5,200002,
 1183,2183,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season8_1,1,5,,0,0,1,200008,logo_flightchess_major
 1184,2184,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season8_2,1,5,,0,0,1,200007,logo_flightchess_general
 1185,2185,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season8_3,1,5,,0,0,1,200006,logo_flightchess_chief
@@ -1163,8 +1165,16 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1302,2302,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_MK3A1,1,5,,30007,0,,0,
 1316,2316,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_QBZ191,1,5,,0,0,,0,
 1317,2317,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_QBZ191,1,5,,30008,0,,0,
+1323,2323,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2023_G11,1,5,,8401,0,,0,
+1324,2324,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2023_M240L,1,5,,8402,0,,0,
+1325,2325,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2023_AA12,1,5,,8403,0,,0,
+1326,2326,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2023_PSG1,1,5,,8404,0,,0,
+1327,2327,1,0,0,0,0,80,508-2000,1,0,profilePic_Children2023_C96,1,5,,8405,0,,0,
+1328,2328,1,0,0,0,0,40,508-1000,1,0,profilePic_Children2023_M1911,1,5,,8406,0,,0,
 1331,2331,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_Saiga12,1,5,,0,0,,0,
 1332,2332,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_Saiga12,1,5,,30009,0,,0,
+1343,2343,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M1895,1,5,,0,0,,0,
+1344,2344,1,0,0,0,0,40,508-1000,1,0,profilePic_BattlePass_M1895,1,5,,30010,0,,0,
 1345,2345,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_DP12,1,5,,8601,0,,0,
 1346,2346,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_LTLX7000,1,5,,8602,0,,0,
 1347,2347,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_Grizzly,1,5,,8603,0,,0,
@@ -1197,3 +1207,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100021,200021,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_MK3A1,1,5,,0,0,5,0,
 100023,200023,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_QBZ191,1,5,,0,0,5,0,
 100026,200026,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Saiga12,1,5,,0,0,5,0,
+100028,200028,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1895,1,5,,0,0,5,0,

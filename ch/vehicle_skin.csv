@@ -73,6 +73,12 @@ id,name,type,group_id,vehicle_id,blueprint_id,class_id,code,item_id,obtain,featu
 10074,vehicle_skin-10010074,2,107,,,9,MG_Cannon_1009,133080,40,0,vehicle_skin-20010074,1
 10075,vehicle_skin-10010075,2,124,,,9,AutoDef_1009,133081,40,0,vehicle_skin-20010075,1
 10076,vehicle_skin-10010076,2,115,,,9,Jammer_1009,133082,40,0,vehicle_skin-20010076,1
+10077,vehicle_skin-10010077,1,0,1,,10,TankM1_1010,133083,40,0,vehicle_skin-20010077,1
+10078,vehicle_skin-10010078,2,117,,,10,Smoke_Emitter_1010,133084,40,0,vehicle_skin-20010078,1
+10079,vehicle_skin-10010079,2,119,,,10,Medium_Missile_Launcher_1010,133085,40,0,vehicle_skin-20010079,1
+10080,vehicle_skin-10010080,2,142,,,10,ElecGun_1010,133086,40,0,vehicle_skin-20010080,1
+10081,vehicle_skin-10010081,2,107,,,10,MG_Cannon_1010,133087,40,0,vehicle_skin-20010081,1
+10082,vehicle_skin-10010082,2,115,,,10,Jammer_1010,133088,40,0,vehicle_skin-20010082,1
 10083,vehicle_skin-10010083,2,101,,,3,MG_Single_1003,133089,40,0,vehicle_skin-20010083,1
 10084,vehicle_skin-10010084,2,105,,,3,Searchlight_1003,133090,40,0,vehicle_skin-20010084,1
 10085,vehicle_skin-10010085,2,141,,,3,Protective_Generator_1003,133091,40,0,vehicle_skin-20010085,1

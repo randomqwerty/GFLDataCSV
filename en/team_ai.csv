@@ -23,3 +23,4 @@ id,force_id,ai_type,name,description,pic,color
 22,1,999,team_ai-10000022,team_ai-20000022,ai_stand,ffffff
 23,3,104,team_ai-10000023,team_ai-20000023,ai_patrol,ffffff
 24,2,106,team_ai-10000024,team_ai-20000024,ai_guard,ffffff
+25,3,106,team_ai-10000025,team_ai-20000025,ai_guard,ffffff
