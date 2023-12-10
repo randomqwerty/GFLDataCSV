@@ -8,7 +8,7 @@ id,task_type,title,content,function_control_id
 7,consume_iop_contract,bingo_task_type-10000007,bingo_task_type-20000007,0
 8,consume_equip_contract,bingo_task_type-10000008,bingo_task_type-20000008,0
 9,consume_quick_develop,bingo_task_type-10000009,bingo_task_type-20000009,0
-10,consume_quick_reinforce,bingo_task_type-10000010,bingo_task_type-20000010,0
+10,map_capture,bingo_task_type-10000010,bingo_task_type-20000010,0
 11,consume_mp,bingo_task_type-10000011,bingo_task_type-20000011,0
 12,consume_ammo,bingo_task_type-10000012,bingo_task_type-20000012,0
 13,consume_mre,bingo_task_type-10000013,bingo_task_type-20000013,0
@@ -27,7 +27,7 @@ id,task_type,title,content,function_control_id
 26,special_develop_gun,bingo_task_type-10000026,bingo_task_type-20000026,0
 27,special_develop_equip,bingo_task_type-10000027,bingo_task_type-20000027,0
 28,operation_quick_develop,bingo_task_type-10000028,bingo_task_type-20000028,0
-29,operation_quick_reinforce,bingo_task_type-10000029,bingo_task_type-20000029,0
+29,daily_game_buff,bingo_task_type-10000029,bingo_task_type-20000029,0
 30,operation_equip_contract,bingo_task_type-10000030,bingo_task_type-20000030,0
 31,operation_iop_contract,bingo_task_type-10000031,bingo_task_type-20000031,0
 32,win_boss,bingo_task_type-10000032,bingo_task_type-20000032,0

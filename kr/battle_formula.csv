@@ -1096,7 +1096,7 @@ id,formula
 2187,#shield>0?40:400
 2188,@Maxlife*0.01
 2189,@life*0.01
-2190,$1*(1+tbuffidtier(5046）*0.15）
+2190,$1*(1+tbuffidtier(5046)*0.15)
 2191,100+(sbufftype(201)>0?20:0)+(sbufftype(202)>0?20:0)+(sbufftype(203)>0?20:0)+(sbufftype(204)>0?20:0)+(sbufftype(206)>0?20:0)+(sbufftype(208)>0?20:0)+(sbufftype(205)>0?20:0)
 2192,#life*(1-#def/#maxdef)*0.05>10000?10000:#life*(1-#def/#maxdef)*0.05
 2193,#life*0.05>10000?10000:#life*0.05
@@ -3441,6 +3441,7 @@ id,formula
 5395,sbuffidtier(9275)=1?1:0
 5396,(@maxlife-@life)*0.2
 5397,(@maxlife-@life)*0.2>0?1:0
+5398,sbuffidtier(9269)=1?100:0
 6000,(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(221)+tbufftypetier(403)>0&sbuffidtier(6004)>0?1.1*$1:$1
 6001,$1*(sbuffidtier(60007)*0.01+1)
 6002,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))

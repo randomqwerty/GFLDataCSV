@@ -1502,6 +1502,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2394,5,1,card_BattlePass_HK433,item-10002394,item-20002394,1,0,,,0,0,,item-30002394,0
 2395,5,1,profilePic_BattlePass_HK433,item-10002395,item-20002395,1,0,,,0,0,,item-30002395,0
 2396,5,1,profilePic_sangvis_Dreamer_Halloween,item-10002396,item-20002396,1,0,,,0,0,,item-30002396,0
+2397,5,1,profilePic_friendmall_NTW20,item-10002397,item-20002397,1,0,,,0,0,,item-30002397,0
+2398,5,1,card_friendmall_NTW20,item-10002398,item-20002398,1,0,,,0,0,,item-30002398,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -1629,6 +1631,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10707,18,10707,daily_points,item-10010707,item-20010707,1,0,,,0,0,,item-30010707,0
 10708,18,10708,daily_points,item-10010708,item-20010708,1,0,,,0,0,,item-30010708,0
 10709,18,10709,daily_points,item-10010709,item-20010709,1,0,,,0,0,,item-30010709,0
+10710,18,10710,daily_points,item-10010710,item-20010710,1,0,,,0,0,,item-30010710,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0
 100002,4,100002,Bumdle_package,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0
 100003,4,100003,Activity_Seithr,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0
@@ -2002,6 +2005,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 133080,13,55,MG_Cannon_1009_icon,item-10133080,item-20133080,5,0,,,0,0,,item-30133080,0
 133081,13,55,Protective_Generator_1009_icon,item-10133081,item-20133081,5,0,,,0,0,,item-30133081,0
 133082,13,55,Jammer_1009_icon,item-10133082,item-20133082,5,0,,,0,0,,item-30133082,0
+133083,13,55,TankM1_1010,item-10133083,item-20133083,5,0,,,0,0,,item-30133083,0
+133084,13,55,Smoke_Emitter_1010,item-10133084,item-20133084,5,0,,,0,0,,item-30133084,0
+133085,13,55,Medium_Missile_Launcher_1010,item-10133085,item-20133085,5,0,,,0,0,,item-30133085,0
+133086,13,55,ElecGun_1010,item-10133086,item-20133086,5,0,,,0,0,,item-30133086,0
+133087,13,55,MG_Cannon_1010,item-10133087,item-20133087,5,0,,,0,0,,item-30133087,0
+133088,13,55,Jammer_1010,item-10133088,item-20133088,5,0,,,0,0,,item-30133088,0
 133089,13,55,MG_Single_1003_icon,item-10133089,item-20133089,5,0,,,0,0,,item-30133089,0
 133090,13,55,Searchlight_1003_icon,item-10133090,item-20133090,5,0,,,0,0,,item-30133090,0
 133091,13,55,Protective_Generator_1003_icon,item-10133091,item-20133091,5,0,,,0,0,,item-30133091,0
@@ -2100,6 +2109,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200032,1,1,profileFrame_BattlePass_M327,item-10200032,item-20200032,1,0,,,0,0,,item-30200032,0
 200033,5,1,profileFrame_friendmall_MLEMK1,item-10200033,item-20200033,1,0,,,0,0,,item-30200033,0
 200034,1,1,profileFrame_BattlePass_HK433,item-10200034,item-20200034,1,0,,,0,0,,item-30200034,0
+200035,5,1,profileFrame_friendmall_NTW20,item-10200035,item-20200035,1,0,,,0,0,,item-30200035,0
 900030,4,100030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0
 900031,4,100031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0
 1100001,11,1,fetter_skill,item-11100001,item-21100001,1,0,,,0,0,26,item-31100001,0
@@ -2210,6 +2220,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500104,15,1500104,package_choose,item-11500104,item-21500104,1,-1,,,0,0,,item-31500104,0
 1500105,15,1500105,package_random,item-11500105,item-21500105,1,-1,,,0,0,,item-31500105,0
 1500106,15,1500106,package_random,item-11500106,item-21500106,1,-1,,,0,0,,item-31500106,0
+1500107,15,1500023,Bumdle_invocation_1,item-11500107,item-21500107,1,-1,,,0,0,,item-31500107,0
+1500108,15,1500030,Bumdle_invocation_2,item-11500108,item-21500108,1,-1,,,0,0,,item-31500108,0
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0
@@ -2219,6 +2231,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700004,15,1700004,package_choose,item-11700004,item-21700004,1,-1,,,0,0,,item-31700004,0
 1700005,15,1700005,package_choose,item-11700005,item-21700005,1,-1,,,0,0,,item-31700005,0
 1700006,15,1700006,package_choose,item-11700006,item-21700006,1,-1,,,0,0,,item-31700006,0
+1700007,15,1700007,package_choose,item-11700007,item-21700007,1,-1,,,0,0,,item-31700007,0
+1700008,15,1700008,package_choose,item-11700008,item-21700008,1,-1,,,0,0,,item-31700008,0
+1700009,15,1700009,package_choose,item-11700009,item-21700009,1,-1,,,0,0,,item-31700009,0
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0

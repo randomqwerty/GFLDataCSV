@@ -1383,8 +1383,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1394,2394,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_HK433,1,5,,0,0,,0,,0
 1395,2395,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_HK433,1,5,,30013,0,,0,,0
 1396,2396,1,0,0,0,0,0,,0,0,profilePic_sangvis_Dreamer_Halloween,1,5,,0,0,5,200002,,0
-1397,2397,1,0,0,0,0,200,508-5000,0,0,profilePic_friendmall_NTW20,1,5,,0,0,,0,,2945
-1398,2398,2,0,0,0,0,320,508-8000,0,0,card_friendmall_NTW20,1,5,,0,0,,0,,2942
+1397,2397,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_NTW20,1,5,,0,0,,0,,2945
+1398,2398,2,0,0,0,0,320,508-8000,1,0,card_friendmall_NTW20,1,5,,0,0,,0,,2942
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
@@ -1417,4 +1417,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100032,200032,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M327,1,5,,0,0,5,0,,0
 100033,200033,4,0,0,0,0,200,508-5000,1,0,profileFrame_friendmall_MLEMK1,1,5,,0,0,5,0,,2911
 100034,200034,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_HK433,1,5,,0,0,5,0,,0
-100035,200035,4,0,0,0,0,200,508-5000,0,0,profileFrame_friendmall_NTW20,1,5,,0,0,5,0,,2948
+100035,200035,4,0,0,0,0,200,508-5000,1,0,profileFrame_friendmall_NTW20,1,5,,0,0,5,0,,2948

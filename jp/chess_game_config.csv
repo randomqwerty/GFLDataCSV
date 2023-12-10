@@ -99,3 +99,4 @@ id,parameter_name,parameter_type,parameter_value
 132,ticket_dailyget_max,int,700
 133,socore_effect,string,"400,bq_400;650,bq_650;1000,bq_1000"
 134,chess_wait_time_limit,int,3600
+135,chess_match_num,int,4
