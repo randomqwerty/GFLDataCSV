@@ -173,7 +173,7 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 173,enemy_illustration-10000173,1,Nyto_mecha,enemy_illustration-20000173,3,0,5,5,5,5,5,5,5,5,enemy_illustration-30000173,"1001,320,302","174,175,176",2016-05-20,enemy_illustration-40000173,"50,50,1",0,0,0
 174,enemy_illustration-10000174,1,Oldlady_boss,enemy_illustration-20000174,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000174,"1001,329","177,178",2016-05-20,enemy_illustration-40000174,,0,0,0
 175,enemy_illustration-10000175,1,Excutioner_Halloween,enemy_illustration-20000175,1,1,5,4,4,5,3,3,3,2,enemy_illustration-30000175,"1001,202",60,2035-05-20,enemy_illustration-40000175,,10604,0,0
-176,enemy_illustration-10000176,1,Nyto_tareus,enemy_illustration-20000176,3,0,5,5,5,5,5,5,5,5,enemy_illustration-30000176,"1001,320","174,175,176",2035-05-20,enemy_illustration-40000176,"50,50,1",10603,0,0
+176,enemy_illustration-10000176,1,Nyto_tareus,enemy_illustration-20000176,3,1,5,5,5,5,5,5,5,5,enemy_illustration-30000176,"1001,320","174,175,176",2035-05-20,enemy_illustration-40000176,"50,50,1",10603,0,0
 177,enemy_illustration-10000177,4,Pumpkin_Dactyl,enemy_illustration-20000177,2,0,5,2,4,0,0,2,3,5,enemy_illustration-30000177,"1001,309,322",19,2016-05-20,enemy_illustration-40000177,"100,100,1",0,0,0
 178,enemy_illustration-10000178,5,Mop_Aegis,enemy_illustration-20000178,2,0,2,3,2,0,3,5,3,2,enemy_illustration-30000178,"303,309,310",9,2016-05-20,enemy_illustration-40000178,"100,100,1",0,0,0
 179,enemy_illustration-10000179,3,Chief_Cyclops,enemy_illustration-20000179,2,0,4,4,4,3,3,0,4,4,enemy_illustration-30000179,"1001,319",16,2016-05-20,enemy_illustration-40000179,"85,85,1",0,0,0

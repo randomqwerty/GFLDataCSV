@@ -3,3 +3,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 2,equip_group-10000002,equip_group-20000002,EgroupHk416,"202,203,204","2:992052,3:992053",1029,1
 3,equip_group-10000003,equip_group-20000003,EgroupM1891,"337,111,86","2:778217,3:759100",20039,0
 4,equip_group-10000004,equip_group-20000004,EgroupAR15,"100,338,60","2:778217,3:759094",20057,0
+9,equip_group-10000009,equip_group-20000009,EgroupPM,"180,238,351","2:778217,3:759219",20008,0
+10,equip_group-10000010,equip_group-20000010,EgroupPPSh41,"352,272,219","2:778217,3:759224",20021,0

@@ -1504,6 +1504,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2396,5,1,profilePic_sangvis_Dreamer_Halloween,item-10002396,item-20002396,1,0,,,0,0,,item-30002396,0
 2397,5,1,profilePic_friendmall_NTW20,item-10002397,item-20002397,1,0,,,0,0,,item-30002397,0
 2398,5,1,card_friendmall_NTW20,item-10002398,item-20002398,1,0,,,0,0,,item-30002398,0
+2399,5,1,profilePic_Christmas2023_M26MASS,item-10002399,item-20002399,1,0,,,0,0,,item-30002399,0
+2400,5,1,profilePic_Christmas2023_SPAS15,item-10002400,item-20002400,1,0,,,0,0,,item-30002400,0
+2401,5,1,profilePic_Christmas2023_TKB408,item-10002401,item-20002401,1,0,,,0,0,,item-30002401,0
+2402,5,1,profilePic_Christmas2023_Mk23,item-10002402,item-20002402,1,0,,,0,0,,item-30002402,0
+2403,5,1,profilePic_Christmas2023_MP5,item-10002403,item-20002403,1,0,,,0,0,,item-30002403,0
+2404,5,1,profilePic_Christmas2023_ZasM76,item-10002404,item-20002404,1,0,,,0,0,,item-30002404,0
+2405,5,1,profilePic_Christmas2023_PPsh41,item-10002405,item-20002405,1,0,,,0,0,,item-30002405,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -1899,6 +1906,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 110064,4,110064,EventPT7,item-10110064,item-20110064,1,0,,,0,0,,item-30110064,0
 110065,4,110065,PT,item-10110065,item-20110065,1,0,,,0,0,,item-30110065,0
 110066,4,110066,EventPT8,item-10110066,item-20110066,1,0,,,0,0,,item-30110066,0
+110067,4,110067,PT,item-10110067,item-20110067,1,0,,,0,0,,item-30110067,0
+110068,4,110068,PT,item-10110068,item-20110068,1,0,,,0,0,,item-30110068,0
 120001,10,1,bondage_lines_icon,item-10120001,item-20120001,1,0,,,0,0,,item-30120001,0
 120002,10,2,bondage_lines_icon,item-10120002,item-20120002,1,0,,,0,0,,item-30120002,0
 120003,10,3,bondage_lines_icon,item-10120003,item-20120003,1,0,,,0,0,,item-30120003,0
@@ -2239,6 +2248,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0
 1800004,15,1800004,package_random,item-11800004,item-21800004,3,-1,,,0,0,,item-31800004,0
 1800005,15,1800005,package_random,item-11800005,item-21800005,2,-1,,,0,0,,item-31800005,0
+1800006,15,1800006,package_random,item-11800006,item-21800006,5,-1,,,0,0,,item-31800006,0
+1800007,15,1800007,package_random,item-11800007,item-21800007,5,-1,,,0,0,,item-31800007,0
 1800011,15,1800011,package_choose,item-11800011,item-21800011,1,-1,,,0,0,,item-31800011,0
 1800012,15,1800012,package_choose,item-11800012,item-21800012,1,-1,,,0,0,,item-31800012,0
 1800013,15,1800013,package_choose,item-11800013,item-21800013,1,-1,,,0,0,,item-31800013,0

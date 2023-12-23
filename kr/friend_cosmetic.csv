@@ -1385,6 +1385,13 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1396,2396,1,0,0,0,0,0,,0,0,profilePic_sangvis_Dreamer_Halloween,1,5,,0,0,5,200002,,0
 1397,2397,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_NTW20,1,5,,0,0,,0,,2945
 1398,2398,2,0,0,0,0,320,508-8000,1,0,card_friendmall_NTW20,1,5,,0,0,,0,,2942
+1399,2399,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2023_M26MASS,1,5,,9001,0,,0,,0
+1400,2400,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2023_SPAS15,1,5,,9003,0,,0,,0
+1401,2401,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2023_TKB408,1,5,,9004,0,,0,,0
+1402,2402,1,0,0,0,0,160,508-4000,1,0,profilePic_Christmas2023_Mk23,1,5,,9005,0,,0,,0
+1403,2403,1,0,0,0,0,160,508-4000,1,0,profilePic_Christmas2023_MP5,1,5,,9006,0,,0,,0
+1404,2404,1,0,0,0,0,80,508-2000,1,0,profilePic_Christmas2023_ZasM76,1,5,,9007,0,,0,,0
+1405,2405,1,0,0,0,0,40,508-1000,1,0,profilePic_Christmas2023_PPsh41,1,5,,9008,0,,0,,0
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
