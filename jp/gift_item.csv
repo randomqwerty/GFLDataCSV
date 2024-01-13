@@ -25,6 +25,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 207,gift_item-10000207,2,6,50000,-1,207,0,gift_bundle_kalina_207,gift_item-30000207,gift_item-50000207,0,0,0,,gift_item-40000207,0,gift_item-20000207
 208,gift_item-10000208,2,6,50000,-1,208,0,gift_bundle_kalina_208,gift_item-30000208,gift_item-50000208,0,0,0,,gift_item-40000208,0,gift_item-20000208
 209,gift_item-10000209,2,6,50000,-1,209,0,gift_bundle_kalina_209,gift_item-30000209,gift_item-50000209,0,0,0,,gift_item-40000209,0,gift_item-20000209
+210,gift_item-10000210,2,6,50000,-5,210,0,gift_bundle_Persica_210,gift_item-30000210,gift_item-50000210,0,0,0,,gift_item-40000210,0,gift_item-20000210
 301,gift_item-10000301,2,6,50000,1,301,30301,gift_bundle_xmas_M1873,gift_item-30000301,gift_item-50000301,0,0,0,,gift_item-40000301,0,gift_item-20000301
 302,gift_item-10000302,2,6,50000,36,302,30302,gift_bundle_xmas_M1903,gift_item-30000302,gift_item-50000302,0,0,0,,gift_item-40000302,0,gift_item-20000302
 303,gift_item-10000303,2,6,50000,37,303,30303,gift_bundle_xmas_M14,gift_item-30000303,gift_item-50000303,0,0,0,,gift_item-40000303,0,gift_item-20000303
@@ -628,6 +629,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 8609,gift_item-10008609,2,6,50000,64,8609,38609,gift_bundle_OfficeLady2023_G36,gift_item-30008609,gift_item-50008609,0,0,0,,gift_item-40008609,0,gift_item-20008609
 8610,gift_item-10008610,2,6,50000,138,8610,38610,gift_bundle_OfficeLady2023_6P62,gift_item-30008610,gift_item-50008610,0,0,0,,gift_item-40008610,0,gift_item-20008610
 8612,gift_item-10008612,2,6,50000,61,8612,38612,gift_bundle_OfficeLady2023_STG44,gift_item-30008612,gift_item-50008612,0,0,0,,gift_item-40008612,0,gift_item-20008612
+10001,gift_item-10010001,2,6,50000,46,10001,310001,gift_bundle_NewYear2024_98K,gift_item-30010001,gift_item-50010001,0,0,0,,gift_item-40010001,0,gift_item-20010001
+10002,gift_item-10010002,2,6,50000,381,10002,310002,gift_bundle_NewYear2024_M110,gift_item-30010002,gift_item-50010002,0,0,0,,gift_item-40010002,0,gift_item-20010002
+10004,gift_item-10010004,2,6,50000,307,10004,310004,gift_bundle_NewYear2024_ZB26,gift_item-30010004,gift_item-50010004,0,0,0,,gift_item-40010004,0,gift_item-20010004
+10005,gift_item-10010005,2,6,50000,343,10005,310005,gift_bundle_NewYear2024_APC556,gift_item-30010005,gift_item-50010005,0,0,0,,gift_item-40010005,0,gift_item-20010005
+10006,gift_item-10010006,2,6,50000,308,10006,310006,gift_bundle_NewYear2024_C14,gift_item-30010006,gift_item-50010006,0,0,0,,gift_item-40010006,0,gift_item-20010006
+10007,gift_item-10010007,2,6,50000,167,10007,310007,gift_bundle_NewYear2024_HK45,gift_item-30010007,gift_item-50010007,0,0,0,,gift_item-40010007,0,gift_item-20010007
+10008,gift_item-10010008,2,6,50000,34,10008,310008,gift_bundle_NewYear2024_M1,gift_item-30010008,gift_item-50010008,0,0,0,,gift_item-40010008,0,gift_item-20010008
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,0,gift_item-20030001
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,0,gift_item-20030002
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,0,gift_item-20030003

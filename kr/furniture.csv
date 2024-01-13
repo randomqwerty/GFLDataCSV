@@ -2768,6 +2768,13 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 110002,furniture-10110002,400,302,"10,3","1,1,1,1,1,0",0,0,furniture-20110002,"Seven_Picture_LOCKED,Seven_Exhibition_2_D,Seven_Light_D","1,1,1","0,10,50","0,0,0|0.959,-3.24,-3.836|1.1,-1.53,-2","3,2,2",0,0,0,0,0,0
 110003,furniture-10110003,400,302,"17,3","1,1,1,1,1,0",0,0,furniture-20110003,"Seven_Picture_LOCKED,Seven_Exhibition_3_D,Seven_Light_D","1,1,1","0,10,50","0,0,0|0.17,-2.2,-3.836|0.2,-0.51,-2","3,2,2",0,0,0,0,0,0
 110004,furniture-10110004,400,302,"17,3","1,1,1,1,1,0",0,0,furniture-20110004,"Seven_Picture_LOCKED,Seven_Exhibition_4_D,Seven_Light_D","1,1,1","0,10,50","0,0,0|0.5,-2.08,-3.836|0.7,-1.53,-2","3,2,2",0,0,0,0,0,0
+310001,furniture-10310001,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20310001,poster_NewYear2024_98K,1,5,"0,0,0",3,0,0,0,0,0,0
+310002,furniture-10310002,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20310002,poster_NewYear2024_M110,1,5,"0,0,0",3,0,0,0,0,0,0
+310004,furniture-10310004,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20310004,poster_NewYear2024_ZB26,1,5,"0,0,0",3,0,0,0,0,0,0
+310005,furniture-10310005,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20310005,poster_NewYear2024_APC556,1,5,"0,0,0",3,0,0,0,0,0,0
+310006,furniture-10310006,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20310006,poster_NewYear2024_C14,1,5,"0,0,0",3,0,0,0,0,0,0
+310007,furniture-10310007,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20310007,poster_NewYear2024_HK45,1,5,"0,0,0",3,0,0,0,0,0,0
+310008,furniture-10310008,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20310008,poster_NewYear2024_M1,1,5,"0,0,0",3,0,0,0,0,0,0
 330001,furniture-10330001,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330001,poster_BattlePass_AR15,1,5,"0,0,0",3,0,0,0,0,0,0
 330002,furniture-10330002,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330002,poster_BattlePass_DSR50,1,5,"0,0,0",3,0,0,0,0,0,0
 330003,furniture-10330003,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330003,poster_BattlePass_Lewis,1,5,"0,0,0",3,0,0,0,0,0,0
@@ -2781,6 +2788,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 330011,furniture-10330011,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330011,poster_BattlePass_SPAS15,1,5,"0,0,0",3,0,0,0,0,0,0
 330012,furniture-10330012,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330012,poster_BattlePass_M327,1,5,"0,0,0",3,0,0,0,0,0,0
 330013,furniture-10330013,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330013,poster_BattlePass_HK433,1,5,"0,0,0",3,0,0,0,0,0,0
+330014,furniture-10330014,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20330014,poster_BattlePass_M950A,1,5,"0,0,0",3,0,0,0,0,0,0
 410010,furniture-10410010,400,201,0,"16,14,1,1,1,1",0,0,furniture-20410010,"vehicleDorm_stageA,vehicleDorm_stageB","2,2","0,20","0.000,-0.448,3.357|0.000,-0.386,3.170","2,2",70,"0,0,0",BGM_vehicle_garage_main,"12,6,0",0,0
 410020,furniture-10410020,400,201,0,"6,6,0,0,0,0",0,0,furniture-20410020,"vehicleDorm_energyDevice,vehicleDorm_battery","1,2","0,0","-0.270,0.081,0.000|-0.042,0.540,0.137","2,2",0,0,0,0,0,0
 410030,furniture-10410030,400,201,0,"5,4,0,0,0,0",0,0,furniture-20410030,"vehicleDorm_OperationA,vehicleDorm_OperationB,vehicleDorm_chair","1,1,1","0,0,20","-0.443,0.000,0.000|1.861,0.005,0.000|0.382,0.000,-0.360","2,2,2",0,0,0,0,0,0

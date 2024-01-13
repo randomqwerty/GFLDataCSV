@@ -1243,7 +1243,7 @@ id,formula
 2334,@dodge*0.5
 2335,@armor*0.5
 2336,#distance>10?0:1
-2337,svisualdebuffcount(105)>0?$1*1.2:$1
+2337,tvisualdebuffcount(105)>0?$1*1.2:$1
 2338,(sbufftypetier(201)+sbufftypetier(202)+sbufftypetier(203)+sbufftypetier(204)+sbufftypetier(205)+sbufftypetier(206)+sbufftypetier(403)+sbufftypetier(221)+sbufftypetier(451)>0)?1:0
 3001,170+sbuffidtier(3300)*22
 3002,180+sbuffidtier(3300)*26

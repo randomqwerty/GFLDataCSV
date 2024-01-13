@@ -1043,3 +1043,6 @@ identity,type,count,user_exp,mp,ammo,mre,part,core,gem,gun_id,item_ids,equip_ids
 1068,daily_game_bonus,200,3000,3000,3000,3000,1000,0,0,0,,,,,achievement-10001068,achievement-20001068,1,305,日常_彩蛋,0,,,achievement-30001068,0
 1069,daily_game_bonus,500,4000,4000,4000,4000,1300,0,0,0,,,,,achievement-10001069,achievement-20001069,1,305,日常_彩蛋,0,,,achievement-30001069,0
 1070,daily_game_bonus,1000,5000,5000,5000,5000,1600,0,0,0,,,,,achievement-10001070,achievement-20001070,1,305,日常_彩蛋,0,,,achievement-30001070,0
+1071,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001071,achievement-20001071,100,306,无处落脚,0,,11382:1138202,achievement-30001071,0
+1072,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001072,achievement-20001072,100,307,与死神击掌,0,,"11355:1135502,11384:1138402",achievement-30001072,0
+1073,c_no_skip_activity,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001073,achievement-20001073,100,308,谷底回声,0,,11418,achievement-30001073,0

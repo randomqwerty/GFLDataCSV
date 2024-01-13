@@ -19,3 +19,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 18,equip_group-10000018,equip_group-20000018,EgroupMG3,"369,285,107",3:759289,20088,0
 19,equip_group-10000019,equip_group-20000019,EgroupNTW20,"170,0,371",2:759295,20053,0
 20,equip_group-10000020,equip_group-20000020,Egroup97typeS,"193,372,0",2:759300,20161,0
+21,equip_group-10000021,equip_group-20000021,EgroupG3,"124,0,374",2:759308,20063,0
+22,equip_group-10000022,equip_group-20000022,EgroupM1911,"375,101,0",2:759312,20002,0

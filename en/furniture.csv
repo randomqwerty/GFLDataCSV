@@ -1614,6 +1614,16 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 20089,furniture-10020089,81,201,0,"3,2,1,1,1,0",1000,100003,furniture-20020089,Saga_deco_recorder,1,0,"0,0,0",2,0,0,0,0,0,0
 20090,furniture-10020090,19,302,0,"2,5,1,1,1,0",1000,100003,furniture-20020090,2023SagaActivity_Medal,1,0,"0,0,0",3,0,0,0,0,0,0
 20091,furniture-10020091,299,299,0,"3,2,0,0,0,0",1000,100003,furniture-20020091,2023SagaActivity_Romero,1,0,"0,0,0",2,4,"*0.061,0.848,-0.285",0,"3,3,3",3104,0
+20092,furniture-10020092,19,201,0,"7,4,1,1,1,0",1000,100003,furniture-20020092,2023WinterActivity_Library_deco,1,0,"0,0,0",2,0,0,0,0,0,0
+20093,furniture-10020093,19,201,0,"5,3,1,1,1,0",1000,100003,furniture-20020093,2023WinterActivity_cdplayer_deco,1,0,"0,0,0",2,0,0,0,0,0,0
+20094,furniture-10020094,19,101,0,"10,4,1,1,1,0",1000,100003,furniture-20020094,2023WinterActivity_floor,1,0,"0,0,0",1,0,0,0,0,0,0
+20095,furniture-10020095,19,201,0,"2,2,1,1,1,0",1000,100003,furniture-20020095,2023WinterActivity_Gospelaxis_deco,2,0,"0,0,0",2,0,0,0,"3,3,3",0,0
+20096,furniture-10020096,19,302,0,"5,8,1,1,1,0",1000,100003,furniture-20020096,2023WinterActivity_uniform_deco,1,0,"0.000,0.365,0.000",3,0,0,0,0,0,0
+20097,furniture-10020097,19,302,0,"4,9,1,1,1,0",1000,100003,furniture-20020097,"2023WinterActivity_Laplace,2023WinterActivity_Laplace_deco_A,2023WinterActivity_Laplace_deco_B","1,2,2","0,10,20","0.000,0.198,0.000|0.052,-0.038,0.000|0.000,-1.092,0.000","3,3,3",106,"*-0.399,4.265,-0.523",0,0,0,0
+20098,furniture-10020098,19,201,0,"9,4,1,1,1,0",1000,100003,furniture-20020098,"2023WinterActivity_Defy,2023WinterActivity_Defy_deco","1,2","0,10","0.000,0.000,0.000|0.177,0.031,0.010","2,2",0,0,0,0,0,0
+20099,furniture-10020099,19,301,0,"3,3,1,1,1,0",1000,100003,furniture-20020099,2023WinterActivity_wall,1,0,"0,0,0",3,0,0,0,0,0,0
+20100,furniture-10020100,19,201,0,"2,2,1,1,1,0",1000,100003,furniture-20020100,"2023WinterActivity_Ange_deco,2023WinterActivity_Ange_decoA","2,1","10,0","0.001,1.140,0.264|0.081,-0.035,-0.008","2,2",64,"*2.771,0.000,0.000",0,"3,3,3",0,0
+20101,furniture-10020101,19,302,0,"2,5,1,1,1,0",1000,100003,furniture-20020101,2023WinterActivity_Medal,1,0,"0,0,0",3,0,0,0,0,0,0
 30001,furniture-10030001,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20030001,poster_pm_halloween,1,5,"0,0,0",2,0,0,0,0,0,0
 30002,furniture-10030002,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20030002,poster_vector_halloween,1,5,"0,0,0",2,0,0,0,0,0,0
 30003,furniture-10030003,300,303,0,"3,6,1,1,1,0",750,100003,furniture-20030003,poster_mp5_halloween,1,5,"0,0,0",2,0,0,0,0,0,0
