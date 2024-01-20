@@ -105,6 +105,7 @@ id,name,rank,bonus_picture,k_bonus,bonus_number,description,bonus_description,co
 105,furniture_classes-10000105,5,3097,"6:2000,9:5000,12:8000",12,furniture_classes-20000105,furniture_classes-30000105,Space2022_deco_16_icon,1,1,2022
 106,furniture_classes-10000106,5,3098,"6:2000,9:5000,12:8000",12,furniture_classes-20000106,furniture_classes-30000106,Carnival2022_deco_12_icon,1,1,2023
 107,furniture_classes-10000107,5,3099,"6:2000,9:5000,12:8000",14,furniture_classes-20000107,furniture_classes-30000107,KungFu2022_deco_11_icon,1,1,2023
+108,furniture_classes-10000108,5,3102,"6:2000,9:5000,12:8000",12,furniture_classes-20000108,furniture_classes-30000108,HotSpring2023_deco_10_icon,1,1,2024
 299,furniture_classes-10000299,5,0,0,10,furniture_classes-20000299,furniture_classes-30000299,SP_CatHouseLabel01_icon,0,0,0
 300,furniture_classes-10000300,5,0,,3,furniture_classes-20000300,furniture_classes-30000300,poster_wa2000_halloween_icon,1,0,0
 301,furniture_classes-10000301,5,0,,0,furniture_classes-20000301,furniture_classes-30000301,poster_wa2000_halloween_icon,0,0,0

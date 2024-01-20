@@ -90,13 +90,14 @@ id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
 905,2,,tutorial_manual-10000905,tutorial_manual-20000905,,"11d7b4ebdbd4589e_draw_200717024.jpg,9d3f93188014356e_draw_200717025.jpg",0,0
 906,2,,tutorial_manual-10000906,tutorial_manual-20000906,,"95e88e418888fcdb_draw_200717027.jpg,0481b319b34abe46_draw_200717026.jpg",0,0
 907,2,,tutorial_manual-10000907,tutorial_manual-20000907,,313b45e0823329d2_draw_200717023.jpg,0,0
-1000,1,"1001,1002,1003,1004,1005,1006",tutorial_manual-10001000,tutorial_manual-20001000,manual_formation,,0,0
+1000,1,"1001,1002,1003,1004,1005,1006,1007",tutorial_manual-10001000,tutorial_manual-20001000,manual_formation,,0,0
 1001,2,,tutorial_manual-10001001,tutorial_manual-20001001,,"ab96b68184b23f30_draw_200803009.jpg,ec30408e51a1f307_draw_200803008.jpg",0,0
 1002,2,,tutorial_manual-10001002,tutorial_manual-20001002,,"96ad25310bf7dfb8_draw_200807004.jpg,d716f284a325908f_draw_200807002.jpg,225583cf63033015_draw_200807003.jpg,5f28498535c1cc89_draw_200807001.jpg",0,0
 1003,2,,tutorial_manual-10001003,tutorial_manual-20001003,,"a64d9d0375b16173_draw_200728002.jpg,6ecf6fbe86be2fcd_draw_200728004.jpg,47cf2387d017c225_draw_230906001.jpg,872b30d9dd775550_draw_200728003.jpg",21,0
 1004,2,,tutorial_manual-10001004,tutorial_manual-20001004,,"19ed14e21e5c51bf_draw_200807008.jpg,e03a23fb1ef9b052_draw_200807007.jpg,c563c9b4a15ac2bb_draw_200807006.jpg,b5ccb946ecfb11a3_draw_200807005.jpg",21,0
 1005,2,,tutorial_manual-10001005,tutorial_manual-20001005,,"b774b4eb853aa1e7_draw_200807010.jpg,cd42d2dade79f87f_draw_200807011.jpg,6dfe2ccfef8f52d1_draw_200807009.jpg",2,0
 1006,2,,tutorial_manual-10001006,tutorial_manual-20001006,,"4514bc465095ece6_draw_230906002.jpg,47cf2387d017c225_draw_230906001.jpg",0,0
+1007,2,,tutorial_manual-10001007,tutorial_manual-20001007,,"c5d13b8506729866_draw_240103010.jpg,4d65f19804d1ebbf_draw_240103011.jpg",0,0
 1100,1,"1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114",tutorial_manual-10001100,tutorial_manual-20001100,manual_dorm,,0,0
 1101,2,,tutorial_manual-10001101,tutorial_manual-20001101,,"4f108ff6a767bdff_draw_200716081.jpg,2e1b65babccbe8eb_draw_200716082.jpg",0,11
 1102,2,,tutorial_manual-10001102,tutorial_manual-20001102,,"d5139ff4acb525cf_draw_200716063.jpg,712d0e6ca3a11fb1_draw_200716066.jpg,f92defb6cfdf0eb0_draw_200716067.jpg,7d8b91baf9bd7682_draw_200716064.jpg,20c6008040786fcc_draw_200716065.jpg",0,251
@@ -184,10 +185,10 @@ id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
 2105,2,,tutorial_manual-10002105,tutorial_manual-20002105,,"d075dd6ac04e85a1_draw_230328007.jpg,a9aeb584caedd582_draw_230328008.jpg",29,0
 2106,2,,tutorial_manual-10002106,tutorial_manual-20002106,,37e7839484daf72f_draw_230330007.jpg,29,0
 2107,2,,tutorial_manual-10002107,tutorial_manual-20002107,,e1c94d4240ae9bc9_draw_230330009.jpg,29,0
-2108,2,,tutorial_manual-10002108,tutorial_manual-20002108,,e3f76b439e9ad47a_draw_230328018.jpg,29,0
+2108,2,,tutorial_manual-10002108,tutorial_manual-20002108,,"e3f76b439e9ad47a_draw_230328018.jpg,b246b0c6a6660b2d_draw_240103012.jpg,272f48b7cea6f1e1_draw_240103013.jpg",29,0
 2109,2,,tutorial_manual-10002109,tutorial_manual-20002109,,"dbde401733bb112f_draw_230905003.jpg,22e82ecddda03562_draw_230904001.jpg,572285e2ff46e4f6_draw_230904002.jpg,21be0288774db751_draw_230904003.jpg",29,0
-2110,2,,tutorial_manual-10002110,tutorial_manual-20002110,,"cdebe7620667f437_draw_230905002.jpg,b9860d460f1cf7a7_draw_230905001.jpg,867bedca8deeb7bf_draw_230831002.jpg,7fc519511da81ade_draw_230831003.jpg",30,0
-2200,1,"2201,2202,2203,2204,2205,2206,2207,2208",tutorial_manual-10002200,tutorial_manual-20002200,manual_vehicle,,30,0
+2110,2,,tutorial_manual-10002110,tutorial_manual-20002110,,"cdebe7620667f437_draw_230905002.jpg,b9860d460f1cf7a7_draw_230905001.jpg,867bedca8deeb7bf_draw_230831002.jpg,7fc519511da81ade_draw_230831003.jpg,97f81c5644abc8be_draw_231201006.jpg",30,0
+2200,1,"2201,2202,2203,2204,2205,2206,2207,2208,2209",tutorial_manual-10002200,tutorial_manual-20002200,manual_vehicle,,30,0
 2201,2,,tutorial_manual-10002201,tutorial_manual-20002201,,"9f31eb421f9c2aec_draw_230905004.jpg,712d7b7caf6956a0_draw_230905006.jpg,08de8e6ebed4dd17_draw_230905005.jpg,608da17e7d641d00_draw_230905007.jpg,aada115dbcfacaff_draw_230912001.jpg,793c064c9f24a80c_draw_230905008.jpg",30,0
 2202,2,,tutorial_manual-10002202,tutorial_manual-20002202,,"e8bf9523e3cdb9f5_draw_230905010.jpg,033ec9d1f7e38c5c_draw_230918001.jpg,16f2f80f9844abce_draw_230905021.jpg",30,0
 2203,2,,tutorial_manual-10002203,tutorial_manual-20002203,,"cdebe7620667f437_draw_230905002.jpg,867bedca8deeb7bf_draw_230831002.jpg,df8179c29d676fc1_draw_230905009.jpg",30,0
@@ -196,3 +197,4 @@ id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
 2206,2,,tutorial_manual-10002206,tutorial_manual-20002206,,"58ab717df9aea87d_draw_230905001.jpg,1208cfc9ca878a80_draw_230905002.jpg,33b080514f70f23b_draw_230905003.jpg",30,0
 2207,2,,tutorial_manual-10002207,tutorial_manual-20002207,,"611c9463d55df9ad_draw_230905018.jpg,670b524525413a8b_draw_230905019.jpg",30,0
 2208,2,,tutorial_manual-10002208,tutorial_manual-20002208,,634c1601f641e756_draw_230905020.jpg,30,0
+2209,2,,tutorial_manual-10002209,tutorial_manual-20002209,,"5bd310ddc8837ed2_draw_240103005.jpg,2a83b037c0df84ae_draw_240103006.jpg,e624b8a80c7cb7de_draw_240103007.jpg",30,0

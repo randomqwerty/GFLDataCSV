@@ -1119,6 +1119,11 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1211,2211,1,0,0,0,0,160,508-4000,1,0,profilePic_Christmas2022_KSVK,1,5,,7807,0,,0,,0
 1212,2212,1,0,0,0,0,40,508-1000,1,0,profilePic_Christmas2022_BrenTen,1,5,,7809,0,,0,,0
 1213,2213,1,0,0,0,0,0,,0,0,profilePic_sangvis_Nyto_tareus,1,5,,0,0,5,200002,,0
+1217,2217,1,0,0,0,0,200,508-5000,1,0,profilePic_NewYear2023_A545,1,5,,7902,0,,0,,0
+1218,2218,1,0,0,0,0,200,508-5000,1,0,profilePic_NewYear2023_SL8,1,5,,7903,0,,0,,0
+1219,2219,1,0,0,0,0,160,508-4000,1,0,profilePic_NewYear2023_FX05,1,5,,7904,0,,0,,0
+1220,2220,1,0,0,0,0,160,508-4000,1,0,profilePic_NewYear2023_PPD40,1,5,,7905,0,,0,,0
+1221,2221,1,0,0,0,0,80,508-2000,1,0,profilePic_NewYear2023_OTs39,1,5,,7906,0,,0,,0
 1224,2224,2,0,0,0,0,400,508-10000,0,0,card_FixedPoint_us,1,5,,0,0,,0,,0
 1225,2225,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_ColtWalker,1,5,,0,0,,0,,0
 1226,2226,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_ColtWalker,1,5,,30004,0,4,200005,,0

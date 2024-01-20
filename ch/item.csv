@@ -111,6 +111,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 532,1,532,assess202309_item2,item-10000532,item-20000532,1,0,,,0,0,,item-30000532,1
 533,1,533,assess202309_item3,item-10000533,item-20000533,1,0,,,0,0,,item-30000533,1
 534,1,534,assess202309_item3,item-10000534,item-20000534,1,0,,,0,0,,item-30000534,1
+535,1,1,gun_material1_coin1,item-10000535,item-20000535,1,0,,,0,0,,item-30000535,0
 601,1,1,DressUpRandomColoring,item-10000601,item-20000601,1,120,,,0,0,"1,2",item-30000601,0
 602,1,1,DressUpSpecifyColoring,item-10000602,item-20000602,1,125,,,0,0,2,item-30000602,0
 603,1,1,sangvis_material1_coin1,item-10000603,item-20000603,1,0,,,0,1,,item-30000603,0

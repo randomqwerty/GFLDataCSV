@@ -1222,6 +1222,11 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2211,5,1,profilePic_Christmas2022_KSVK,item-10002211,item-20002211,1,0,,,0,0,,item-30002211,0
 2212,5,1,profilePic_Christmas2022_BrenTen,item-10002212,item-20002212,1,0,,,0,0,,item-30002212,0
 2213,5,1,profilePic_sangvis_Nyto_tareus,item-10002213,item-20002213,1,0,,,0,0,,item-30002213,0
+2217,5,1,profilePic_NewYear2023_A545,item-10002217,item-20002217,1,0,,,0,0,,item-30002217,0
+2218,5,1,profilePic_NewYear2023_SL8,item-10002218,item-20002218,1,0,,,0,0,,item-30002218,0
+2219,5,1,profilePic_NewYear2023_FX05,item-10002219,item-20002219,1,0,,,0,0,,item-30002219,0
+2220,5,1,profilePic_NewYear2023_PPD40,item-10002220,item-20002220,1,0,,,0,0,,item-30002220,0
+2221,5,1,profilePic_NewYear2023_OTs39,item-10002221,item-20002221,1,0,,,0,0,,item-30002221,0
 2224,5,1,card_FixedPoint_us,item-10002224,item-20002224,1,0,,,0,0,,item-30002224,0
 2225,5,1,card_BattlePass_ColtWalker,item-10002225,item-20002225,1,0,,,0,0,,item-30002225,0
 2226,5,1,profilePic_BattlePass_ColtWalker,item-10002226,item-20002226,1,0,,,0,0,,item-30002226,0
