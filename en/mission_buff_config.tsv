@@ -1,0 +1,657 @@
+id	name	description	code	type	duration_type	duration_time	limit_buff	exp_buff	is_resource_buff	vision_buff	cannot_move	battle_skill_config_id	property_type	property_data_pool	special_spot_config_id	conditions_type	conditions_time	birth_effect	effect_process_star	effect_process_end	effect_process_duration	manual_ui_code	ammo_mre_reduce	free_ap_move	extra_ammo_mre	conflict_type	priority	carry_mission_skill	sangvis_chip_id	ext_move	is_still_alive	ext_ap_cost	effect_birth	effect_death	effect_duration
+1	mission_buff_config-10000001	mission_buff_config-20000001	buff	1	1	3	0	1	3	0		0	0	0	0	0	0	0	0	0	0			0		1	0			0	0	0	0	0	0
+2	mission_buff_config-10000002	mission_buff_config-20000002	buff	1	1	3	0	1	0	0		100502	0	0	0	0	0	0	0	0	0			0		2	0			0	0	0	0	0	0
+3	mission_buff_config-10000003	mission_buff_config-20000003	buff	1	1	3	0	1	0	0		100502	0	0	0	0	0	0	0	0	0			0		3	0			0	0	0	0	0	0
+5	mission_buff_config-10000005	mission_buff_config-20000005	buff	1	1	1	0	1	0	0		900106	0	0	0	0	0	0	0	0	0			0		5	0			0	0	0	0	0	0
+6	mission_buff_config-10000006	mission_buff_config-20000006	buff	1	1	1	0	1	0	0		900113	0	0	0	0	0	0	0	0	0			0		6	0			0	0	0	0	0	0
+8	mission_buff_config-10000008	mission_buff_config-20000008	buff	1	1	1	0	1	0	0		900116	0	0	0	0	0	0	0	0	0			0		8	0			0	0	0	0	0	0
+13	mission_buff_config-10000013	mission_buff_config-20000013	buff	1	2	1	0	*0	0	0		0	0	0	0	0	0	0	0	0	0			0		13	0			0	0	0	0	0	0
+14	mission_buff_config-10000014	mission_buff_config-20000014	buff	1	2	1	*0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		14	0			0	0	0	0	0	0
+15	mission_buff_config-10000015	mission_buff_config-20000015	buff	1	1	2	0	1	0	*0		900114	0	0	0	0	0	0	0	0	0			0		15	0			0	0	0	0	0	0
+1004	mission_buff_config-10001004	mission_buff_config-20001004	buff	1	4	1	0	1	0	0		900154	0	0	0	0	0	0	0	0	0			0		1004	0			0	0	0	0	0	0
+1301	mission_buff_config-10001301	mission_buff_config-20001301	buff	1	2	1	0	1.05	0	0		0	0	0	0	0	0	0	0	0	0			0		1301	0			0	0	0	0	0	0
+1302	mission_buff_config-10001302	mission_buff_config-20001302	buff	1	2	1	0	1.08	0	0		0	0	0	0	0	0	0	0	0	0			0		1302	0			0	0	0	0	0	0
+1303	mission_buff_config-10001303	mission_buff_config-20001303	buff	1	2	1	0	1.1	0	0		0	0	0	0	0	0	0	0	0	0			0		1303	0			0	0	0	0	0	0
+1304	mission_buff_config-10001304	mission_buff_config-20001304	buff	1	2	1	0	1.12	0	0		0	0	0	0	0	0	0	0	0	0			0		1304	0			0	0	0	0	0	0
+1305	mission_buff_config-10001305	mission_buff_config-20001305	buff	1	2	1	0	1.14	0	0		0	0	0	0	0	0	0	0	0	0			0		1305	0			0	0	0	0	0	0
+1306	mission_buff_config-10001306	mission_buff_config-20001306	buff	1	2	1	0	1.16	0	0		0	0	0	0	0	0	0	0	0	0			0		1306	0			0	0	0	0	0	0
+1307	mission_buff_config-10001307	mission_buff_config-20001307	buff	1	2	1	0	1.18	0	0		0	0	0	0	0	0	0	0	0	0			0		1307	0			0	0	0	0	0	0
+1308	mission_buff_config-10001308	mission_buff_config-20001308	buff	1	2	1	0	1.2	0	0		0	0	0	0	0	0	0	0	0	0			0		1308	0			0	0	0	0	0	0
+1309	mission_buff_config-10001309	mission_buff_config-20001309	buff	1	2	1	0	1.22	0	0		0	0	0	0	0	0	0	0	0	0			0		1309	0			0	0	0	0	0	0
+1310	mission_buff_config-10001310	mission_buff_config-20001310	buff	1	2	1	0	1.25	0	0		0	0	0	0	0	0	0	0	0	0			0		1310	0			0	0	0	0	0	0
+1501	mission_buff_config-10001501	mission_buff_config-20001501	buff	1	1	2	0	1	0	0		102506	0	0	0	0	0	0	0	0	0			0		1501	0			0	0	0	0	0	0
+1502	mission_buff_config-10001502	mission_buff_config-20001502	buff	1	1	2	0	1	0	0		102506	0	0	0	0	0	0	0	0	0			0		1502	0			0	0	0	0	0	0
+1503	mission_buff_config-10001503	mission_buff_config-20001503	buff	1	1	2	0	1	0	1		102506	0	0	0	0	0	0	0	0	0			0		1503	0			0	0	0	0	0	0
+1504	mission_buff_config-10001504	mission_buff_config-20001504	buff	1	1	2	0	1	0	1		102506	0	0	0	0	0	0	0	0	0			0		1504	0			0	0	0	0	0	0
+1505	mission_buff_config-10001505	mission_buff_config-20001505	buff	1	1	2	0	1	0	1		102506	0	0	0	0	0	0	0	0	0			0		1505	0			0	0	0	0	0	0
+1506	mission_buff_config-10001506	mission_buff_config-20001506	buff	1	1	2	0	1	0	1		102506	0	0	0	0	0	0	0	0	0			0		1506	0			0	0	0	0	0	0
+1507	mission_buff_config-10001507	mission_buff_config-20001507	buff	1	1	2	0	1	0	1		102506	0	0	0	0	0	0	0	0	0			0		1507	0			0	0	0	0	0	0
+1508	mission_buff_config-10001508	mission_buff_config-20001508	buff	1	1	2	0	1	0	1		102506	0	0	0	0	0	0	0	0	0			0		1508	0			0	0	0	0	0	0
+1509	mission_buff_config-10001509	mission_buff_config-20001509	buff	1	1	2	0	1	0	1		102506	0	0	0	0	0	0	0	0	0			0		1509	0			0	0	0	0	0	0
+1510	mission_buff_config-10001510	mission_buff_config-20001510	buff	1	1	2	0	1	0	2		102506	0	0	0	0	0	0	0	0	0			0		1510	0			0	0	0	0	0	0
+1700	mission_buff_config-10001700	mission_buff_config-20001700	combo	1	1	1	0	1	0	0		900167	0	0	1701	2	1-1	0	0	0	0			0		1700	-1			0	0	0	0	0	0
+1701	mission_buff_config-10001701	mission_buff_config-20001701	combo	1	1	1	0	1	0	0		900173	0	0	1702	2	0-1	0	0	0	0			0		1701	-1			0	0	0	0	0	0
+1702	mission_buff_config-10001702	mission_buff_config-20001702	combo	1	1	1	0	1	0	0		900174	0	0	0	0	0	0	0	0	0			0		1702	-1			0	0	0	0	0	0
+1801	mission_buff_config-10001801	mission_buff_config-20001801	buff	1	4	1	0	1	0	0		115501	0	0	0	0	0	0	0	0	0			0		1801	0			0	0	0	0	0	0
+1811	mission_buff_config-10001811	mission_buff_config-20001811	debuff	2	4	1	0	1	0	0		115502	0	0	0	0	0	0	0	0	0			0		1811	0			0	0	0	0	0	0
+1900	mission_buff_config-10001900	mission_buff_config-20001900	ExtraAp	1	4	1	0	1	0	0		900900	0	0	0	0	0	0	0	0	0			0		1900	1			0	0	0	0	0	0
+2000	mission_buff_config-10002000	mission_buff_config-20002000	ExtraAp	1	1	99	0	1	0	0		900903	0	0	0	0	0	0	0	0	0			0		2000	1			0	0	0	0	0	0
+2100	mission_buff_config-10002100	mission_buff_config-20002100	Theresa_Back	2	1	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		2100	1			0	0	0	0	0	0
+2300	mission_buff_config-10002300	mission_buff_config-20002300	SpeedUp	1	4	1	0	1	0	0		757059	0	0	0	0	0	0	0	0	0			0		2300	-1			0	0	0	0	0	0
+10001	mission_buff_config-10010001	mission_buff_config-20010001		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		10001	-1	10002		0	0	0	0	0	0
+10086	mission_buff_config-10010086	mission_buff_config-20010086	debuff	2	1	2	0	1	0	0		900112	0	0	0	0	0	0	0	0	0			0		10086	0			0	0	0	0	0	0
+10101	mission_buff_config-10010101	mission_buff_config-20010101		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		10101	-1	10102		0	0	0	0	0	0
+20101	mission_buff_config-10020101	mission_buff_config-20020101		1	1	99	0	1	0	0		0	0	0	20102	1	0-1	0	0	0	0			0		20101	1			0	0	0	0	0	0
+20102	mission_buff_config-10020102	mission_buff_config-20020102	SpeedUp	1	5	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		20102	1			0	0	0	0	0	0
+20201	mission_buff_config-10020201	mission_buff_config-20020201		1	1	99	0	1	0	0		0	0	0	20202	1	0-1	0	0	0	0			0		20201	1			0	0	0	0	0	0
+20202	mission_buff_config-10020202	mission_buff_config-20020202	SpeedUp	1	5	2	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		20202	1			0	0	0	0	0	0
+20301	mission_buff_config-10020301	mission_buff_config-20020301		1	1	99	0	1	0	0		0	0	0	20302	1	0-1	0	0	0	0			0		20301	1			0	0	0	0	0	0
+20302	mission_buff_config-10020302	mission_buff_config-20020302	SpeedUp	1	5	3	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		20302	1			0	0	0	0	0	0
+20401	mission_buff_config-10020401	mission_buff_config-20020401	ExtraMove	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		20401	0			1	0	0	0	0	0
+20402	mission_buff_config-10020402	mission_buff_config-20020402	ExtraMove2	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		20402	0			2	0	0	0	0	0
+20403	mission_buff_config-10020403	mission_buff_config-20020403	ExtraMove3	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		20403	0			3	0	0	0	0	0
+50000	mission_buff_config-10050000	mission_buff_config-20050000	ExtraAmmo	1	1	1000	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0	2,2	50000	0			0	0	0	0	0	0
+50001	mission_buff_config-10050001	mission_buff_config-20050001	ExtraAp	1	1,5	1,1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		50001	0			0	0	0	0	0	0
+50002	mission_buff_config-10050002	mission_buff_config-20050002	AmmoReduce	1	4	1	0	1	1	0		610011	0	0	0	0	0	0	0	0	0		2,1	0		50002	0			0	0	0	0	0	0
+50003	mission_buff_config-10050003	mission_buff_config-20050003	NightView	1	1	1000	0	1	0	1		0	0	0	0	0	0	0	0	0	0			0		50003	0			0	0	0	0	0	0
+50004	mission_buff_config-10050004	mission_buff_config-20050004	nighthitBuff	1	1	1000	0	1	0	0		910421	0	0	0	0	0	0	0	0	0			0		50004	0			0	0	0	0	0	0
+50005	mission_buff_config-10050005	mission_buff_config-20050005	SpeedUp	1	4	1	0	1	0	0		900641	0	0	0	0	0	0	0	0	0			0		50005	0			0	0	0	0	0	0
+50006	mission_buff_config-10050006	mission_buff_config-20050006	debuff	2	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1007	0			0		50006	0			0	0	0	0	0	0
+50007	mission_buff_config-10050007	mission_buff_config-20050007	buff	1	4	1	0	1	0	0		901240	0	0	0	0	0	0	0	0	0			0		50007	1			0	0	0	0	0	0
+50008	mission_buff_config-10050008	mission_buff_config-20050008	debuff	1	1	2	0	1	0	0		902202	0	0	0	0	0	0	0	0	0			0		50008	1			0	0	0	0	0	0
+70015	mission_buff_config-10070015	mission_buff_config-20070015	ExtraAp	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			5		70015	0			0	0	0	0	0	0
+70016	mission_buff_config-10070016	mission_buff_config-20070016	ExtraAp	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			5		70016	0			0	0	0	0	0	0
+70021	mission_buff_config-10070021	mission_buff_config-20070021		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		70021	0			0	0	0	0	0	70021
+70022	mission_buff_config-10070022	mission_buff_config-20070022		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		70022	0			0	0	0	0	0	70022
+78001	mission_buff_config-10078001	mission_buff_config-20078001	SpeedUp	1	5	3	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		78001	1			0	0	0	0	0	0
+78002	mission_buff_config-10078002	mission_buff_config-20078002	SpeedUp	1	5	15	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		78002	1			0	0	0	0	0	0
+78003	mission_buff_config-10078003	mission_buff_config-20078003	SpeedUp	1	5	16	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		78003	1			0	0	0	0	0	0
+363001	mission_buff_config-10363001	mission_buff_config-20363001		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		363001	1	363001		0	0	0	0	0	0
+363002	mission_buff_config-10363002	mission_buff_config-20363002		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		363002	1	363002		0	0	0	0	0	0
+381402	mission_buff_config-10381402	mission_buff_config-20381402	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381402	0			0	0	0	0	0	0
+381403	mission_buff_config-10381403	mission_buff_config-20381403	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381403	0			0	0	0	0	0	0
+381404	mission_buff_config-10381404	mission_buff_config-20381404	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381404	0			0	0	0	0	0	0
+381405	mission_buff_config-10381405	mission_buff_config-20381405	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381405	0			0	0	0	0	0	0
+381406	mission_buff_config-10381406	mission_buff_config-20381406	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381406	0			0	0	0	0	0	0
+381407	mission_buff_config-10381407	mission_buff_config-20381407	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381407	0			0	0	0	0	0	0
+381408	mission_buff_config-10381408	mission_buff_config-20381408	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381408	0			0	0	0	0	0	0
+381409	mission_buff_config-10381409	mission_buff_config-20381409	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381409	0			0	0	0	0	0	0
+381410	mission_buff_config-10381410	mission_buff_config-20381410	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381410	0			0	0	0	0	0	0
+381411	mission_buff_config-10381411	mission_buff_config-20381411	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381411	0			0	0	0	0	0	0
+381412	mission_buff_config-10381412	mission_buff_config-20381412	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381412	0			0	0	0	0	0	0
+381413	mission_buff_config-10381413	mission_buff_config-20381413	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381413	0			0	0	0	0	0	0
+381414	mission_buff_config-10381414	mission_buff_config-20381414	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381414	0			0	0	0	0	0	0
+381415	mission_buff_config-10381415	mission_buff_config-20381415	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381415	0			0	0	0	0	0	0
+381416	mission_buff_config-10381416	mission_buff_config-20381416	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381416	0			0	0	0	0	0	0
+381417	mission_buff_config-10381417	mission_buff_config-20381417	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381417	0			0	0	0	0	0	0
+381418	mission_buff_config-10381418	mission_buff_config-20381418	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381418	0			0	0	0	0	0	0
+381419	mission_buff_config-10381419	mission_buff_config-20381419	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381419	0			0	0	0	0	0	0
+381420	mission_buff_config-10381420	mission_buff_config-20381420	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381420	0			0	0	0	0	0	0
+381421	mission_buff_config-10381421	mission_buff_config-20381421	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381421	0			0	0	0	0	0	0
+381422	mission_buff_config-10381422	mission_buff_config-20381422	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381422	0			0	0	0	0	0	0
+381423	mission_buff_config-10381423	mission_buff_config-20381423	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381423	0			0	0	0	0	0	0
+381424	mission_buff_config-10381424	mission_buff_config-20381424	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381424	0			0	0	0	0	0	0
+381425	mission_buff_config-10381425	mission_buff_config-20381425	GunBox	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		381425	0			0	0	0	0	0	0
+381468	mission_buff_config-10381468	mission_buff_config-20381468	SpeedUp	1	1	99	0	1	0	0		910676	0	0	0	0	0	0	0	0	0			0		381468	0			0	0	0	0	0	0
+381602	mission_buff_config-10381602	mission_buff_config-20381602	SpeedUp	1	1	99	0	1	0	0		0	0	0	381602	1	0-1	0	0	0	0			0		381602	0			0	0	0	0	0	0
+381603	mission_buff_config-10381603	mission_buff_config-20381603	SpeedUp	1	1	99	0	1	0	0		0	0	0	381603	1	0-1	0	0	0	0			0		381603	0			0	0	0	0	0	0
+381903	mission_buff_config-10381903	mission_buff_config-20381903	fighting	1	1	3	0	1	0	0		100502	0	0	0	0	0	0	0	0	0			0		381903	0			0	0	0	0	0	0
+410301	mission_buff_config-10410301	mission_buff_config-20410301		1	1	99	0	1	0	0		0	0	0	410301	1	0-1	0	0	0	0			0		410301	-1			0	0	0	0	0	0
+410363	mission_buff_config-10410363	mission_buff_config-20410363		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		410363	-1	410365		0	0	0	0	0	0
+410364	mission_buff_config-10410364	mission_buff_config-20410364		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		410364	-1	410366		0	0	0	0	0	0
+410501	mission_buff_config-10410501	mission_buff_config-20410501	debuff	1	1	2	0	1	0	0		900942	0	0	0	0	0	0	0	0	0			0		410501	1			0	0	0	0	0	0
+410502	mission_buff_config-10410502	mission_buff_config-20410502	buff	1	1	99	0	1	0	0		900941	0	0	0	0	0	0	0	0	0			0		410501	2			0	0	0	0	0	0
+440000	mission_buff_config-10440000	mission_buff_config-20440000		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		440000	1	440011,440021,440031,440041,440051,440061,440071,440081,440091,440001,440002		0	0	0	0	0	0
+440001	mission_buff_config-10440001	mission_buff_config-20440001	buff	1	1	1	0	1	0	0		902370	0	0	0	0	0	0	0	0	0			0		440001	1			0	0	0	0	0	0
+440002	mission_buff_config-10440002	mission_buff_config-20440002	debuff	1	1	1	0	1	0	0		902373	0	0	0	0	0	0	0	0	0			0		440002	1			0	0	0	0	0	0
+440003	mission_buff_config-10440003	mission_buff_config-20440003		1	1	1	0	1	0	0		0	0	0	0	0	0	0	1000049	0	0			0		440003	1			0	0	0	0	0	0
+440004	mission_buff_config-10440004	mission_buff_config-20440004		1	1	1	0	1	0	0		0	0	0	0	0	0	0	1000050	0	0			0		440004	1			0	0	0	0	0	0
+440005	mission_buff_config-10440005	mission_buff_config-20440005		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		440005	1			0	0	0	0	0	0
+440006	mission_buff_config-10440006	mission_buff_config-20440006		1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		440006	1	440011,440021,440031,440041,440051,440061,440071,440081,440091,440001,440002		0	0	0	0	0	0
+440301	mission_buff_config-10440301	mission_buff_config-20440301		1	1	99	0	1	0	1		0	0	0	0	0	0	0	0	0	0			0		440301	1			0	0	0	0	0	0
+460501	mission_buff_config-10460501	mission_buff_config-20460501		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		460501	1			0	0	0	0	0	0
+460502	mission_buff_config-10460502	mission_buff_config-20460502		1	1	99	0	1	0	0		755021	0	0	0	0	0	0	0	0	0			0		460502	1			0	0	0	0	0	0
+480000	mission_buff_config-10480000	mission_buff_config-20480000		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		480000	1	480112		0	0	0	0	0	0
+480102	mission_buff_config-10480102	mission_buff_config-20480102		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		480102	1	480122		0	0	0	0	0	0
+481400	mission_buff_config-10481400	mission_buff_config-20481400		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		481400	1			0	0	0	0	0	0
+482000	mission_buff_config-10482000	mission_buff_config-20482000	Theresa_Back	2	1	3	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		482000	1			0	0	0	0	0	0
+482001	mission_buff_config-10482001	mission_buff_config-20482001		1	1	99	0	1	0	0		0	0	0	482004	1	0-1	0	0	0	0			0		482001	1			0	0	0	0	0	0
+482002	mission_buff_config-10482002	mission_buff_config-20482002	SpeedUp	1	5	3	0	1	0	0		0	0	0	0	0	0	0	0	0	0			1		482002	1			0	0	0	0	0	0
+482101	mission_buff_config-10482101	mission_buff_config-20482101		1	1	99	0	1	0	1		759008	0	0	0	0	0	0	0	0	0			0		482101	1			0	0	0	0	0	0
+482300	mission_buff_config-10482300	mission_buff_config-20482300		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		482300	1	482300		0	0	0	0	0	0
+482301	mission_buff_config-10482301	mission_buff_config-20482301		1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		482301	1			0	0	0	0	0	0
+482430	mission_buff_config-10482430	mission_buff_config-20482430		1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		482430	-1	482431,482432,482433,482434,482435		0	0	0	0	0	0
+482505	mission_buff_config-10482505	mission_buff_config-20482505	debuff	2	1	99	0	1	0	0		117801	0	0	0	0	0	1000021	0	0	0			0		482505	1			0	0	0	0	0	0
+482506	mission_buff_config-10482506	mission_buff_config-20482506	debuff	2	1	99	0	1	0	0		117804	0	0	0	0	0	1000022	0	0	0			0		482506	1			0	0	0	0	0	0
+482507	mission_buff_config-10482507	mission_buff_config-20482507	debuff	2	1	99	0	1	0	0		117805	0	0	0	0	0	1000023	0	0	0			0		482507	1			0	0	0	0	0	0
+483501	mission_buff_config-10483501	mission_buff_config-20483501		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		483501	1	483511		0	0	0	0	0	0
+483600	mission_buff_config-10483600	mission_buff_config-20483600	Theresa_Back	2	1	99	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		483600	1			0	0	0	0	0	0
+483601	mission_buff_config-10483601	mission_buff_config-20483601		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		483601	-1	483611		0	0	0	0	0	0
+483901	mission_buff_config-10483901	mission_buff_config-20483901		1	1	99	0	1	0	0		0	0	0	483911	5	0-3	0	0	0	0			1		483901	1			0	0	0	0	0	0
+483903	mission_buff_config-10483903	mission_buff_config-20483903		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		483903	-1			0	0	0	0	0	0
+483911	mission_buff_config-10483911	mission_buff_config-20483911	Theresa_Back	2	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		483911	1			0	0	0	0	0	0
+483921	mission_buff_config-10483921	mission_buff_config-20483921	SpeedUp	1	5	3	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		482002	1			0	0	0	0	0	0
+500020	mission_buff_config-10500020	mission_buff_config-20500020		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV01#1E90FF		0		500020	0			0	0	0	0	0	0
+500021	mission_buff_config-10500021	mission_buff_config-20500021		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV10#1E90FF		0		500021	0			0	0	0	0	0	0
+500022	mission_buff_config-10500022	mission_buff_config-20500022		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV02#1E90FF		0		500022	0			0	0	0	0	0	0
+500023	mission_buff_config-10500023	mission_buff_config-20500023		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV03#1E90FF		0		500023	0			0	0	0	0	0	0
+500024	mission_buff_config-10500024	mission_buff_config-20500024		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV04#1E90FF		0		500024	0			0	0	0	0	0	0
+500025	mission_buff_config-10500025	mission_buff_config-20500025		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV05#1E90FF		0		500025	0			0	0	0	0	0	0
+500026	mission_buff_config-10500026	mission_buff_config-20500026		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV06#1E90FF		0		500026	0			0	0	0	0	0	0
+500027	mission_buff_config-10500027	mission_buff_config-20500027		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV07#1E90FF		0		500027	0			0	0	0	0	0	0
+500028	mission_buff_config-10500028	mission_buff_config-20500028		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV08#1E90FF		0		500028	0			0	0	0	0	0	0
+500029	mission_buff_config-10500029	mission_buff_config-20500029		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV09#1E90FF		0		500029	0			0	0	0	0	0	0
+500099	mission_buff_config-10500099	mission_buff_config-20500099		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		500099	-1			0	0	0	0	0	0
+500401	mission_buff_config-10500401	mission_buff_config-20500401		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV21#1E90FF		0		500401	0			0	0	0	0	0	0
+500402	mission_buff_config-10500402	mission_buff_config-20500402		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV22#1E90FF		0		500402	0			0	0	0	0	0	0
+500403	mission_buff_config-10500403	mission_buff_config-20500403		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV23#1E90FF		0		500403	0			0	0	0	0	0	0
+500404	mission_buff_config-10500404	mission_buff_config-20500404		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV24#1E90FF		0		500404	0			0	0	0	0	0	0
+500405	mission_buff_config-10500405	mission_buff_config-20500405		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV25#1E90FF		0		500405	0			0	0	0	0	0	0
+500406	mission_buff_config-10500406	mission_buff_config-20500406		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV11#EC4702		0		500406	0	500491,500492,500493,500494,500495		0	0	0	0	0	0
+500407	mission_buff_config-10500407	mission_buff_config-20500407		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV12#EC4702		0		500407	0	500496		0	0	0	0	0	0
+500499	mission_buff_config-10500499	mission_buff_config-20500499		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		500499	0			0	0	0	0	0	0
+510201	mission_buff_config-10510201	mission_buff_config-20510201		1	1	99	0	1	0	0		0	0	0	510201	1	0-1	0	0	0	0			0		510201	1			0	0	0	0	0	0
+510701	mission_buff_config-10510701	mission_buff_config-20510701		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		510701	1			0	0	0	0	0	0
+510703	mission_buff_config-10510703	mission_buff_config-20510703		2	1	99	0	1	0	0		0	0	0	510713	5	0-3	0	0	0	0			0		510703	-2			0	0	0	0	0	0
+510704	mission_buff_config-10510704	mission_buff_config-20510704		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		510704	1	510705		0	0	0	0	0	0
+510705	mission_buff_config-10510705	mission_buff_config-20510705	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		510705	2			0	0	0	0	0	0
+510713	mission_buff_config-10510713	mission_buff_config-20510713	Theresa_Back	2	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		510705	1			0	0	0	0	0	0
+510904	mission_buff_config-10510904	mission_buff_config-20510904	Theresa_Back	2	1	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		510904	1			0	0	0	0	0	0
+510914	mission_buff_config-10510914	mission_buff_config-20510914	Theresa_Back	2	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		510914	1			0	0	0	0	0	0
+511012	mission_buff_config-10511012	mission_buff_config-20511012	powBuff	1	4	1	0	1	0	0		759020	0	0	0	0	0	0	0	0	0			0		511012	-1			0	0	0	0	0	0
+511013	mission_buff_config-10511013	mission_buff_config-20511013	shield	1	4	1	0	1	0	0		759028	0	0	0	0	0	0	0	0	0			0		511013	-1			0	0	0	0	0	0
+511022	mission_buff_config-10511022	mission_buff_config-20511022	powBuff	1	4	1	0	1	0	0		759020	0	0	0	0	0	0	0	0	0			0		511012	-1			0	0	0	0	0	0
+511023	mission_buff_config-10511023	mission_buff_config-20511023	shield	1	4	1	0	1	0	0		759021	0	0	0	0	0	0	0	0	0			0		511013	-1			0	0	0	0	0	0
+520600	mission_buff_config-10520600	mission_buff_config-20520600	SpeedUp	1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			1		520600	1			0	0	0	0	0	0
+520800	mission_buff_config-10520800	mission_buff_config-20520800		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		520800	-1			0	0	0	0	0	0
+520801	mission_buff_config-10520801	mission_buff_config-20520801		1	1	99	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		520801	-1			0	0	0	0	0	0
+541201	mission_buff_config-10541201	mission_buff_config-20541201	Chloe	1	1	999	0	1	0			0	0	0	541205	4	0-1	0	0	0	0			0		541201	0			0	0	0	0	0	0
+541212	mission_buff_config-10541212	mission_buff_config-20541212		1	1	999	0	1	0			0	0	0	541200	51	0-1	0	0	0	0	2022WV25#1E90FF		0		541212	0			0	0	0	0	0	0
+541301	mission_buff_config-10541301	mission_buff_config-20541301		1	1	999	0	1	0	3		759008	0	0	0	0	0	0	0	0	0			0		541301	0	541311		0	0	0	0	0	0
+541311	mission_buff_config-10541311	mission_buff_config-20541311		1	1	1	0	1	0		1	0	0	0	541311	51	0-1	0	0	0	0			0		541311	0			0	0	0	0	0	0
+541314	mission_buff_config-10541314	mission_buff_config-20541314		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		541314	-1	541313		0	0	0	0	0	0
+541401	mission_buff_config-10541401	mission_buff_config-20541401		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		541401	0	541411		0	0	0	0	0	0
+542401	mission_buff_config-10542401	mission_buff_config-20542401		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		542401	0	542411		0	0	0	0	0	0
+543114	mission_buff_config-10543114	mission_buff_config-20543114		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		543114	-1	543124,543134		0	0	0	0	0	0
+544101	mission_buff_config-10544101	mission_buff_config-20544101		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		544101	0	544111,544121,544112		0	0	0	0	0	0
+544112	mission_buff_config-10544112	mission_buff_config-20544112	shield	2	1	999	0	1	0			755252	0	0	0	0	0	0	0	0	0			0		544112	0			0	0	0	0	0	0
+544114	mission_buff_config-10544114	mission_buff_config-20544114		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		544114	-1	544124		0	0	0	0	0	0
+544124	mission_buff_config-10544124	mission_buff_config-20544124		1	1	2	0	1	0			0	0	0	544124	1	0-1	0	0	0	0			0		544124	0			0	0	0	0	0	0
+544201	mission_buff_config-10544201	mission_buff_config-20544201		1	1	999	0	1	0			0	0	0	544211	1	0-1	0	0	0	0			0		544201	0			0	0	0	0	0	0
+544211	mission_buff_config-10544211	mission_buff_config-20544211		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		544211	0	544211		0	0	0	0	0	0
+544212	mission_buff_config-10544212	mission_buff_config-20544212		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		544212	0	544213		0	0	0	0	0	0
+570000	mission_buff_config-10570000	mission_buff_config-20570000	wota	1	1	999	0	1	0			0	0	0	0	0	0	1000123	0	0	0			0		0	0			0	0	0	0	0	0
+570001	mission_buff_config-10570001	mission_buff_config-20570001	ZLSR_happy	1	1	999	0	1	0			0	0	0	0	0	0	1000118	0	0	0			0		570001	1			0	0	0	0	0	0
+570002	mission_buff_config-10570002	mission_buff_config-20570002	ZLSR_sad	2	1	999	0	1	0			0	0	0	0	0	0	1000117	0	0	0			0		570001	1			0	0	0	0	0	0
+570003	mission_buff_config-10570003	mission_buff_config-20570003	Angelica	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570003	0			0	0	0	0	0	0
+570004	mission_buff_config-10570004	mission_buff_config-20570004		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570004	-1			0	0	0	0	0	0
+570010	mission_buff_config-10570010	mission_buff_config-20570010		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570010	0	570011,570012,570013,570111,570112,570113		0	0	0	0	0	0
+570020	mission_buff_config-10570020	mission_buff_config-20570020		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570020	0	570021,570022,570023,570121,570122,570123		0	0	0	0	0	0
+570030	mission_buff_config-10570030	mission_buff_config-20570030		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570030	0	570031,570032,570033,570131,570132,570133		0	0	0	0	0	0
+570040	mission_buff_config-10570040	mission_buff_config-20570040		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570040	0	570041,570042,570043,570141,570142,570143		0	0	0	0	0	0
+570050	mission_buff_config-10570050	mission_buff_config-20570050		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570050	0	570051,570052,570053,570151,570152,570153		0	0	0	0	0	0
+570060	mission_buff_config-10570060	mission_buff_config-20570060		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570060	0	570061,570062,570063,570161,570162,570163		0	0	0	0	0	0
+570070	mission_buff_config-10570070	mission_buff_config-20570070		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		570070	0	570071,570072,570073,570171,570172,570173		0	0	0	0	0	0
+570501	mission_buff_config-10570501	mission_buff_config-20570501		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			1		570501	0			0	0	0	0	0	0
+570601	mission_buff_config-10570601	mission_buff_config-20570601		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV11#EC4702		0		-1	0	570605		0	0	0	0	0	0
+570602	mission_buff_config-10570602	mission_buff_config-20570602		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	2022WV21#1E90FF		0		-1	0	570606		0	0	0	0	0	0
+571000	mission_buff_config-10571000	mission_buff_config-20571000	SpeedUp	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		571000	0			0	0	0	0	0	0
+571001	mission_buff_config-10571001	mission_buff_config-20571001	QBZ191	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		571000	1			0	0	0	0	0	0
+580001	mission_buff_config-10580001	mission_buff_config-20580001		1	1	999	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			0		580001	0			0	0	0	0	0	0
+580002	mission_buff_config-10580002	mission_buff_config-20580002	Weak	2	1	999	0	1	0		0	759110	0	0	0	0	0-0	0	0	0	0			0		580002	0			0	0	0	0	0	0
+580003	mission_buff_config-10580003	mission_buff_config-20580003		1	1	999	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			0		580003	0			0	0	0	0	0	0
+580004	mission_buff_config-10580004	mission_buff_config-20580004	561mod	1	1	999	0	1	0		0	759109	0	0	0	0	0-0	0	0	0	0			0		580004	0			1	0	0	0	0	0
+580005	mission_buff_config-10580005	mission_buff_config-20580005	Rouge_593303	2	1	999	0	1	0		1	759111	0	0	0	0	0-0	0	0	0	0			0		580005	0			0	0	0	0	0	0
+580099	mission_buff_config-10580099	mission_buff_config-20580099		1	1	999	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			0		580099	0			0	0	0	0	0	0
+580101	mission_buff_config-10580101	mission_buff_config-20580101	LBLLMOD	1	1	999	0	1	0		1	759115	0	0	0	0	0	0	0	0	0			0		580101	0			0	0	0	0	0	0
+580102	mission_buff_config-10580102	mission_buff_config-20580102	Vpm5	1	1	999	0	1	0			759113	0	0	0	0	0	0	0	0	0			0		580102	0			0	0	1	0	0	0
+580103	mission_buff_config-10580103	mission_buff_config-20580103		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		580103	0			0	0	0	0	0	0
+580104	mission_buff_config-10580104	mission_buff_config-20580104	UTS15	1	1	999	0	1	0			759112	0	0	0	0	0	0	0	0	0			0		580104	0			0	0	0	0	0	0
+580105	mission_buff_config-10580105	mission_buff_config-20580105	medusa	2	1	999	0	1	0			759114	0	0	0	0	0	0	0	0	0			0		580105	0			0	0	0	0	0	0
+580120	mission_buff_config-10580120	mission_buff_config-20580120	Energytowerdebuff	2	1	1	0	1	0			0	0	0	580121	5	0-3	0	0	0	0			0		580120	-2			0	0	0	0	0	0
+580121	mission_buff_config-10580121	mission_buff_config-20580121	combo	2	1	1	0	1	0		1	759115	0	0	0	0	0	0	0	0	0			0		580121	1			0	0	0	0	0	1000143
+580122	mission_buff_config-10580122	mission_buff_config-20580122	AK74M	1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		580120	2			0	0	0	0	0	0
+580123	mission_buff_config-10580123	mission_buff_config-20580123	Energytowerdebuff	2	1	1	0	1	0			0	0	0	580121	5	0-2	0	0	0	0			0		580120	1			0	0	0	0	0	0
+580124	mission_buff_config-10580124	mission_buff_config-20580124		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		580124	0			0	0	0	0	0	0
+580125	mission_buff_config-10580125	mission_buff_config-20580125		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		580125	0			0	0	0	0	0	0
+580205	mission_buff_config-10580205	mission_buff_config-20580205	medusa	2	1	999	0	1	0			759125	0	0	0	0	0	0	0	0	0			0		580205	0			0	0	0	0	0	0
+580302	mission_buff_config-10580302	mission_buff_config-20580302	ExtraMove	1	1	999	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			0		580302	0			1	0	0	0	0	0
+580303	mission_buff_config-10580303	mission_buff_config-20580303	ExtraMove2	1	1	999	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			0		580303	0			2	0	0	0	0	0
+580401	mission_buff_config-10580401	mission_buff_config-20580401		1	1	999	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			0		580401	0	580119,580118,580122		0	0	0	0	0	0
+580411	mission_buff_config-10580411	mission_buff_config-20580411		1	1	999	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			0		580411	0	580119,580118,580122		0	0	0	0	0	0
+581700	mission_buff_config-10581700	mission_buff_config-20581700		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		581700	0	581702		0	0	0	0	0	0
+583600	mission_buff_config-10583600	mission_buff_config-20583600		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		583600	0	583601,580118,580119		0	0	0	0	0	0
+583601	mission_buff_config-10583601	mission_buff_config-20583601	debuff	2	1	1	0	1	0			900112	0	0	0	0	0	0	0	0	0			0		583601	0			0	0	0	0	0	0
+583602	mission_buff_config-10583602	mission_buff_config-20583602		1	1	1	0	1	0			0	0	0	583602	4	0-1	0	0	0	0			0		583602	0			0	0	0	0	0	0
+584900	mission_buff_config-10584900	mission_buff_config-20584900		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		584900	0	584901,584903		0	0	0	0	0	0
+584905	mission_buff_config-10584905	mission_buff_config-20584905		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		584905	0	584902,584904		0	0	0	0	0	0
+590000	mission_buff_config-10590000	mission_buff_config-20590000	Theresa_Back	1	1	999	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		590000	0			0	0	0	0	0	0
+590001	mission_buff_config-10590001	mission_buff_config-20590001		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590001	0			0	0	0	0	0	0
+590002	mission_buff_config-10590002	mission_buff_config-20590002		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590002	0			0	0	0	0	0	0
+590003	mission_buff_config-10590003	mission_buff_config-20590003		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590003	0			0	0	0	0	0	0
+590004	mission_buff_config-10590004	mission_buff_config-20590004		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590004	0			0	0	0	0	0	0
+590005	mission_buff_config-10590005	mission_buff_config-20590005		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590005	0			0	0	0	0	0	0
+590006	mission_buff_config-10590006	mission_buff_config-20590006		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590006	0			0	0	0	0	0	0
+590101	mission_buff_config-10590101	mission_buff_config-20590101		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590101	0			0	0	0	0	0	0
+590102	mission_buff_config-10590102	mission_buff_config-20590102		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590102	0			0	0	0	0	0	0
+590103	mission_buff_config-10590103	mission_buff_config-20590103		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590103	0			0	0	0	0	0	0
+590104	mission_buff_config-10590104	mission_buff_config-20590104		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590104	0			0	0	0	0	0	0
+590105	mission_buff_config-10590105	mission_buff_config-20590105		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590105	0			0	0	0	0	0	0
+590106	mission_buff_config-10590106	mission_buff_config-20590106		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590106	0			0	0	0	0	0	0
+590201	mission_buff_config-10590201	mission_buff_config-20590201		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590201	0			0	0	0	0	0	0
+590202	mission_buff_config-10590202	mission_buff_config-20590202		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590202	0			0	0	0	0	0	0
+590203	mission_buff_config-10590203	mission_buff_config-20590203		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590203	0			0	0	0	0	0	0
+590204	mission_buff_config-10590204	mission_buff_config-20590204		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590204	0			0	0	0	0	0	0
+590205	mission_buff_config-10590205	mission_buff_config-20590205		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590205	0			0	0	0	0	0	0
+590206	mission_buff_config-10590206	mission_buff_config-20590206		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590206	0			0	0	0	0	0	0
+590301	mission_buff_config-10590301	mission_buff_config-20590301		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590301	0			0	0	0	0	0	0
+590302	mission_buff_config-10590302	mission_buff_config-20590302		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590302	0			0	0	0	0	0	0
+590303	mission_buff_config-10590303	mission_buff_config-20590303		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590303	0			0	0	0	0	0	0
+590401	mission_buff_config-10590401	mission_buff_config-20590401		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590401	0			0	0	0	0	0	0
+590402	mission_buff_config-10590402	mission_buff_config-20590402		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590402	0			0	0	0	0	0	0
+590403	mission_buff_config-10590403	mission_buff_config-20590403		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590403	0			0	0	0	0	0	0
+590501	mission_buff_config-10590501	mission_buff_config-20590501		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590501	0			0	0	0	0	0	0
+590502	mission_buff_config-10590502	mission_buff_config-20590502		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590502	0			0	0	0	0	0	0
+590503	mission_buff_config-10590503	mission_buff_config-20590503		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590503	0			0	0	0	0	0	0
+590601	mission_buff_config-10590601	mission_buff_config-20590601		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590601	0			0	0	0	0	0	0
+590602	mission_buff_config-10590602	mission_buff_config-20590602		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590602	0			0	0	0	0	0	0
+590603	mission_buff_config-10590603	mission_buff_config-20590603		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590603	0			0	0	0	0	0	0
+590604	mission_buff_config-10590604	mission_buff_config-20590604		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590604	0			0	0	0	0	0	0
+590605	mission_buff_config-10590605	mission_buff_config-20590605		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590605	0			0	0	0	0	0	0
+590606	mission_buff_config-10590606	mission_buff_config-20590606		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590606	0			0	0	0	0	0	0
+590701	mission_buff_config-10590701	mission_buff_config-20590701		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590701	0			0	0	0	0	0	0
+590702	mission_buff_config-10590702	mission_buff_config-20590702		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590702	0			0	0	0	0	0	0
+590703	mission_buff_config-10590703	mission_buff_config-20590703		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590703	0			0	0	0	0	0	0
+590704	mission_buff_config-10590704	mission_buff_config-20590704		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590704	0			0	0	0	0	0	0
+590705	mission_buff_config-10590705	mission_buff_config-20590705		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590705	0			0	0	0	0	0	0
+590706	mission_buff_config-10590706	mission_buff_config-20590706		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590706	0			0	0	0	0	0	0
+590801	mission_buff_config-10590801	mission_buff_config-20590801		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590801	0			0	0	0	0	0	0
+590802	mission_buff_config-10590802	mission_buff_config-20590802		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590802	0			0	0	0	0	0	0
+590901	mission_buff_config-10590901	mission_buff_config-20590901		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590901	0			0	0	0	0	0	0
+590902	mission_buff_config-10590902	mission_buff_config-20590902		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590902	0			0	0	0	0	0	0
+591001	mission_buff_config-10591001	mission_buff_config-20591001		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591001	0			0	0	0	0	0	0
+591002	mission_buff_config-10591002	mission_buff_config-20591002		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591002	0			0	0	0	0	0	0
+591003	mission_buff_config-10591003	mission_buff_config-20591003		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591003	0			0	0	0	0	0	0
+591004	mission_buff_config-10591004	mission_buff_config-20591004		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591004	0			0	0	0	0	0	0
+591101	mission_buff_config-10591101	mission_buff_config-20591101		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591101	0			0	0	0	0	0	0
+591102	mission_buff_config-10591102	mission_buff_config-20591102		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591102	0			0	0	0	0	0	0
+591103	mission_buff_config-10591103	mission_buff_config-20591103		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591103	0			0	0	0	0	0	0
+591104	mission_buff_config-10591104	mission_buff_config-20591104		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591104	0			0	0	0	0	0	0
+591201	mission_buff_config-10591201	mission_buff_config-20591201		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591201	0			0	0	0	0	0	0
+591202	mission_buff_config-10591202	mission_buff_config-20591202		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591202	0			0	0	0	0	0	0
+591203	mission_buff_config-10591203	mission_buff_config-20591203		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591203	0			0	0	0	0	0	0
+591204	mission_buff_config-10591204	mission_buff_config-20591204		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591204	0			0	0	0	0	0	0
+591301	mission_buff_config-10591301	mission_buff_config-20591301		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591301	0			0	0	0	0	0	0
+591302	mission_buff_config-10591302	mission_buff_config-20591302		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591302	0			0	0	0	0	0	0
+591303	mission_buff_config-10591303	mission_buff_config-20591303		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591303	0			0	0	0	0	0	0
+591304	mission_buff_config-10591304	mission_buff_config-20591304		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591304	0			0	0	0	0	0	0
+591401	mission_buff_config-10591401	mission_buff_config-20591401		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591401	0			0	0	0	0	0	0
+591402	mission_buff_config-10591402	mission_buff_config-20591402		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591402	0			0	0	0	0	0	0
+591403	mission_buff_config-10591403	mission_buff_config-20591403		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591403	0			0	0	0	0	0	0
+591404	mission_buff_config-10591404	mission_buff_config-20591404		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591404	0			0	0	0	0	0	0
+591501	mission_buff_config-10591501	mission_buff_config-20591501		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591501	0			0	0	0	0	0	0
+591502	mission_buff_config-10591502	mission_buff_config-20591502		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591502	0			0	0	0	0	0	0
+591503	mission_buff_config-10591503	mission_buff_config-20591503		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591503	0			0	0	0	0	0	0
+591504	mission_buff_config-10591504	mission_buff_config-20591504		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		591504	0			0	0	0	0	0	0
+592001	mission_buff_config-10592001	mission_buff_config-20592001		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592001	0			0	0	0	0	0	0
+592002	mission_buff_config-10592002	mission_buff_config-20592002		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592002	0			0	0	0	0	0	0
+592003	mission_buff_config-10592003	mission_buff_config-20592003		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592003	0			0	0	0	0	0	0
+592004	mission_buff_config-10592004	mission_buff_config-20592004		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592004	0			0	0	0	0	0	0
+592101	mission_buff_config-10592101	mission_buff_config-20592101		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592101	0			0	0	0	0	0	0
+592102	mission_buff_config-10592102	mission_buff_config-20592102		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592102	0			0	0	0	0	0	0
+592103	mission_buff_config-10592103	mission_buff_config-20592103		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592103	0			0	0	0	0	0	0
+592104	mission_buff_config-10592104	mission_buff_config-20592104		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592104	0			0	0	0	0	0	0
+592105	mission_buff_config-10592105	mission_buff_config-20592105		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592105	0			0	0	0	0	0	0
+592106	mission_buff_config-10592106	mission_buff_config-20592106		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592106	0			0	0	0	0	0	0
+592107	mission_buff_config-10592107	mission_buff_config-20592107		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592107	0			0	0	0	0	0	0
+592108	mission_buff_config-10592108	mission_buff_config-20592108		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592108	0			0	0	0	0	0	0
+592201	mission_buff_config-10592201	mission_buff_config-20592201		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592201	0			0	0	0	0	0	0
+592202	mission_buff_config-10592202	mission_buff_config-20592202		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592202	0			0	0	0	0	0	0
+592203	mission_buff_config-10592203	mission_buff_config-20592203		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592203	0			0	0	0	0	0	0
+592204	mission_buff_config-10592204	mission_buff_config-20592204		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592204	0			0	0	0	0	0	0
+592205	mission_buff_config-10592205	mission_buff_config-20592205		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592205	0			0	0	0	0	0	0
+592206	mission_buff_config-10592206	mission_buff_config-20592206		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		592206	0			0	0	0	0	0	0
+593001	mission_buff_config-10593001	mission_buff_config-20593001		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593001	0	593011		0	0	0	0	0	0
+593002	mission_buff_config-10593002	mission_buff_config-20593002		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593002	0	593012		0	0	0	0	0	0
+593011	mission_buff_config-10593011	mission_buff_config-20593011	MK3A1	1	4	1	0	1	0			778086	0	0	0	0	0	0	0	0	0			0		593011	0			0	0	0	0	0	0
+593012	mission_buff_config-10593012	mission_buff_config-20593012	MK3A1	1	4	1	0	1	0			778087	0	0	0	0	0	0	0	0	0			0		593012	0			0	0	0	0	0	0
+593021	mission_buff_config-10593021	mission_buff_config-20593021		1	4	1	0	1	0			778068	0	0	0	0	0	0	0	0	0			0		593021	0			0	0	0	0	0	0
+593022	mission_buff_config-10593022	mission_buff_config-20593022		1	4	1	0	1	0			778068	0	0	0	0	0	0	0	0	0			0		593022	0			0	0	0	0	0	0
+593103	mission_buff_config-10593103	mission_buff_config-20593103		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593103	0	593113		0	0	0	0	0	0
+593104	mission_buff_config-10593104	mission_buff_config-20593104		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593104	0	593114		0	0	0	0	0	0
+593105	mission_buff_config-10593105	mission_buff_config-20593105		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593105	0	593115		0	0	0	0	0	0
+593106	mission_buff_config-10593106	mission_buff_config-20593106		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593106	0	593116		0	0	0	0	0	0
+593113	mission_buff_config-10593113	mission_buff_config-20593113	MK3A1	1	4	1	0	1	0			778088	0	0	0	0	0	0	0	0	0			0		593113	0			0	0	0	0	0	0
+593114	mission_buff_config-10593114	mission_buff_config-20593114	MK3A1	1	4	1	0	1	0			778089	0	0	0	0	0	0	0	0	0			0		593114	0			0	0	0	0	0	0
+593115	mission_buff_config-10593115	mission_buff_config-20593115	MK3A1	1	4	1	0	1	0			778090	0	0	0	0	0	0	0	0	0			0		593115	0			0	0	0	0	0	0
+593116	mission_buff_config-10593116	mission_buff_config-20593116	MK3A1	1	4	1	0	1	0			778094	0	0	0	0	0	0	0	0	0			0		593116	0			0	0	0	0	0	0
+593123	mission_buff_config-10593123	mission_buff_config-20593123		1	4	1	0	1	0			778070	0	0	0	0	0	0	0	0	0			0		593123	0			0	0	0	0	0	0
+593124	mission_buff_config-10593124	mission_buff_config-20593124		1	4	1	0	1	0			778070	0	0	0	0	0	0	0	0	0			0		593124	0			0	0	0	0	0	0
+593125	mission_buff_config-10593125	mission_buff_config-20593125		1	4	1	0	1	0			778070	0	0	0	0	0	0	0	0	0			0		593125	0			0	0	0	0	0	0
+593126	mission_buff_config-10593126	mission_buff_config-20593126		1	4	1	0	1	0			778070	0	0	0	0	0	0	0	0	0			0		593126	0			0	0	0	0	0	0
+593201	mission_buff_config-10593201	mission_buff_config-20593201		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593201	0	593211		0	0	0	0	0	0
+593202	mission_buff_config-10593202	mission_buff_config-20593202		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593202	0	593212		0	0	0	0	0	0
+593203	mission_buff_config-10593203	mission_buff_config-20593203		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593203	0	593213		0	0	0	0	0	0
+593211	mission_buff_config-10593211	mission_buff_config-20593211	MK3A1	1	4	1	0	1	0			778093	0	0	0	0	0	0	0	0	0			0		593211	0			0	0	0	0	0	0
+593212	mission_buff_config-10593212	mission_buff_config-20593212	MK3A1	1	4	1	0	1	0			778092	0	0	0	0	0	0	0	0	0			0		593212	0			0	0	0	0	0	0
+593213	mission_buff_config-10593213	mission_buff_config-20593213	MK3A1	1	4	1	0	1	0			778091	0	0	0	0	0	0	0	0	0			0		593213	0			0	0	0	0	0	0
+593221	mission_buff_config-10593221	mission_buff_config-20593221		1	4	1	0	1	0			778068	0	0	0	0	0	0	0	0	0			0		593221	0			0	0	0	0	0	0
+593222	mission_buff_config-10593222	mission_buff_config-20593222		1	4	1	0	1	0			778068	0	0	0	0	0	0	0	0	0			0		593222	0			0	0	0	0	0	0
+593223	mission_buff_config-10593223	mission_buff_config-20593223		1	4	1	0	1	0			778068	0	0	0	0	0	0	0	0	0			0		593223	0			0	0	0	0	0	0
+593301	mission_buff_config-10593301	mission_buff_config-20593301		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593301	0	593311		0	0	0	0	0	0
+593302	mission_buff_config-10593302	mission_buff_config-20593302		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593302	0	593312		0	0	0	0	0	0
+593303	mission_buff_config-10593303	mission_buff_config-20593303		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		593303	0	593313		0	0	0	0	0	0
+593311	mission_buff_config-10593311	mission_buff_config-20593311	MK3A1	1	4	1	0	1	0			778072	0	0	0	0	0	0	0	0	0			0		593311	0			0	0	0	0	0	0
+593312	mission_buff_config-10593312	mission_buff_config-20593312	MK3A1	1	4	1	0	1	0			778076	0	0	0	0	0	0	0	0	0			0		593312	0			0	0	0	0	0	0
+593313	mission_buff_config-10593313	mission_buff_config-20593313	MK3A1	1	4	1	0	1	0			778080	0	0	0	0	0	0	0	0	0			0		593313	0			0	0	0	0	0	0
+593321	mission_buff_config-10593321	mission_buff_config-20593321		1	4	1	0	1	0			778074	0	0	0	0	0	0	0	0	0			0		593321	0			0	0	0	0	0	0
+593322	mission_buff_config-10593322	mission_buff_config-20593322		1	4	1	0	1	0			778078	0	0	0	0	0	0	0	0	0			0		593322	0			0	0	0	0	0	0
+593323	mission_buff_config-10593323	mission_buff_config-20593323		1	4	1	0	1	0			778082	0	0	0	0	0	0	0	0	0			0		593323	0			0	0	0	0	0	0
+593333	mission_buff_config-10593333	mission_buff_config-20593333		1	4	1	0	1	0			778084	0	0	0	0	0	0	0	0	0			0		593333	0			0	0	0	0	0	0
+595001	mission_buff_config-10595001	mission_buff_config-20595001		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			1		595001	0	595101,595111,597021,597022,597023		0	0	0	0	0	0
+595002	mission_buff_config-10595002	mission_buff_config-20595002		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		595002	0	595102,595112,597021,597022,597023		0	0	0	0	0	0
+596001	mission_buff_config-10596001	mission_buff_config-20596001		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			1		596001	0	596101,596111,597021,597022,597023		0	0	0	0	0	0
+596002	mission_buff_config-10596002	mission_buff_config-20596002		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			1		596002	0	596102,596112,597021,597022,597023		0	0	0	0	0	0
+596003	mission_buff_config-10596003	mission_buff_config-20596003		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			1		596003	0	596103,596113,597021,597022,597023		0	0	0	0	0	0
+596004	mission_buff_config-10596004	mission_buff_config-20596004		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		596004	0	596104,596114,597021,597022,597023		0	0	0	0	0	0
+597001	mission_buff_config-10597001	mission_buff_config-20597001		1	5	2	0	1	0			0	0	0	597011	4	0-1	0	0	0	0			0		597001	1			0	0	0	0	0	0
+597002	mission_buff_config-10597002	mission_buff_config-20597002		1	5	2	0	1	0			0	0	0	597012	4	0-1	0	0	0	0			0		597002	1			0	0	0	0	0	0
+597003	mission_buff_config-10597003	mission_buff_config-20597003		1	5	2	0	1	0			0	0	0	597013	4	0-1	0	0	0	0			0		597003	1			0	0	0	0	0	0
+597004	mission_buff_config-10597004	mission_buff_config-20597004		1	5	2	0	1	0			0	0	0	597014	4	0-1	0	0	0	0			0		597004	1			0	0	0	0	0	0
+597005	mission_buff_config-10597005	mission_buff_config-20597005		1	5	2	0	1	0			0	0	0	597015	4	0-1	0	0	0	0			0		597001	2			0	0	0	0	0	0
+597006	mission_buff_config-10597006	mission_buff_config-20597006		1	5	2	0	1	0			0	0	0	597016	4	0-1	0	0	0	0			0		597002	2			0	0	0	0	0	0
+597007	mission_buff_config-10597007	mission_buff_config-20597007		1	5	2	0	1	0			0	0	0	597017	4	0-1	0	0	0	0			0		597003	2			0	0	0	0	0	0
+597008	mission_buff_config-10597008	mission_buff_config-20597008		1	5	2	0	1	0			0	0	0	597018	4	0-1	0	0	0	0			0		597004	2			0	0	0	0	0	0
+597011	mission_buff_config-10597011	mission_buff_config-20597011	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597001	3	590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591001,591002,591003,591101,591102,591103,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205		0	0	0	0	0	0
+597012	mission_buff_config-10597012	mission_buff_config-20597012	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597002	3	590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591201,591202,591203,591301,591302,591303,591304,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205		0	0	0	0	0	0
+597013	mission_buff_config-10597013	mission_buff_config-20597013	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597003	3	590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591401,591402,591403,591501,591502,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205		0	0	0	0	0	0
+597014	mission_buff_config-10597014	mission_buff_config-20597014	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597004	3	590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591001,591002,591003,591101,591102,591103,591201,591202,591203,591301,591302,591303,591304,591401,591402,591403,591501,591502,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205		0	0	0	0	0	0
+597015	mission_buff_config-10597015	mission_buff_config-20597015	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597001	4	590002,590102,590202,590602,590605,590702,590705,590802,590902,591004,591104,592202,592204,592206		0	0	0	0	0	0
+597016	mission_buff_config-10597016	mission_buff_config-20597016	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597002	4	590002,590102,590202,590602,590605,590702,590705,590802,590902,591204,592202,592204,592206		0	0	0	0	0	0
+597017	mission_buff_config-10597017	mission_buff_config-20597017	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597003	4	590002,590102,590202,590602,590605,590702,590705,590802,590902,591404,591503,591504,592202,592204,592206		0	0	0	0	0	0
+597018	mission_buff_config-10597018	mission_buff_config-20597018	buff	1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597004	4	590002,590102,590202,590602,590605,590702,590705,590802,590902,591004,591104,591204,591404,591503,591504,592202,592204,592206		0	0	0	0	0	0
+597021	mission_buff_config-10597021	mission_buff_config-20597021		1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597021	0	597021		0	0	0	0	0	0
+597022	mission_buff_config-10597022	mission_buff_config-20597022		1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597022	0	597022		0	0	0	0	0	0
+597023	mission_buff_config-10597023	mission_buff_config-20597023		1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		597023	0	597023		0	0	0	0	0	0
+598001	mission_buff_config-10598001	mission_buff_config-20598001	buff	1	5	2	0	1	0			0	0	0	0	0	0	0	0	0	0			0		598001	0	593001,593002,593103,593104,593105,593106,593201,593202,593203,593301,593302,593303		0	0	0	0	0	0
+599002	mission_buff_config-10599002	mission_buff_config-20599002		1	5	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		590000	1			0	0	0	0	0	0
+599901	mission_buff_config-10599901	mission_buff_config-20599901		1	5	2	0	1	0			0	0	0	599911	4	0-1	0	0	0	0			0		599901	0			0	0	0	0	0	0
+599902	mission_buff_config-10599902	mission_buff_config-20599902		1	5	2	0	1	0			0	0	0	599912	4	0-1	0	0	0	0			0		599902	0			0	0	0	0	0	0
+599903	mission_buff_config-10599903	mission_buff_config-20599903		1	5	2	0	1	0			0	0	0	599913	4	0-1	0	0	0	0			0		599903	0			0	0	0	0	0	0
+599904	mission_buff_config-10599904	mission_buff_config-20599904		1	5	2	0	1	0			0	0	0	599914	4	0-1	0	0	0	0			0		599904	0			0	0	0	0	0	0
+599905	mission_buff_config-10599905	mission_buff_config-20599905		1	5	2	0	1	0			0	0	0	599915	4	0-1	0	0	0	0			0		599905	0			0	0	0	0	0	0
+599906	mission_buff_config-10599906	mission_buff_config-20599906		1	5	2	0	1	0			0	0	0	599916	4	0-1	0	0	0	0			0		599906	0			0	0	0	0	0	0
+599907	mission_buff_config-10599907	mission_buff_config-20599907		1	5	2	0	1	0			0	0	0	599917	4	0-1	0	0	0	0			0		599907	0			0	0	0	0	0	0
+599908	mission_buff_config-10599908	mission_buff_config-20599908		1	5	2	0	1	0			0	0	0	599918	4	0-1	0	0	0	0			0		599908	0			0	0	0	0	0	0
+599909	mission_buff_config-10599909	mission_buff_config-20599909		1	5	2	0	1	0			0	0	0	599919	4	0-1	0	0	0	0			0		599909	0			0	0	0	0	0	0
+599910	mission_buff_config-10599910	mission_buff_config-20599910		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		599910	1			0	0	0	0	0	0
+610011	mission_buff_config-10610011	mission_buff_config-20610011		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	2307RG01#57D498		0		610011	-1	610021		0	0	0	0	0	0
+610012	mission_buff_config-10610012	mission_buff_config-20610012		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	2307RG02#57D498		0		610012	-1	610022		0	0	0	0	0	0
+610013	mission_buff_config-10610013	mission_buff_config-20610013		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	2307RG03#57D498		0		610013	-1	610023		0	0	0	0	0	0
+610014	mission_buff_config-10610014	mission_buff_config-20610014		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	2307RG04#57D498		0		610014	-1	610024		0	0	0	0	0	0
+610015	mission_buff_config-10610015	mission_buff_config-20610015		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0	2307RG05#57D498		0		610015	-1	610025		0	0	0	0	0	0
+610021	mission_buff_config-10610021	mission_buff_config-20610021	Theresa	1	1	1	0	1	0		1	759178	0	0	0	0	0	0	0	0	0			0		610021	1			0	0	0	0	0	0
+610022	mission_buff_config-10610022	mission_buff_config-20610022	shield	1	4	1	0	1	0			759180	0	0	0	0	0	0	0	0	0			0		610022	1			0	0	0	0	0	0
+610023	mission_buff_config-10610023	mission_buff_config-20610023	Theresa	1	1	2	0	1	0		1	759179	0	0	0	0	0	0	0	0	0			0		610023	1			0	0	0	0	0	0
+610024	mission_buff_config-10610024	mission_buff_config-20610024	shield	1	4	1	0	1	0			759181	0	0	0	0	0	0	0	0	0			0		610024	1			0	0	0	0	0	0
+610025	mission_buff_config-10610025	mission_buff_config-20610025	stella	1	4	1	0	1	0			759227	0	0	0	0	0	0	0	0	0			0		610025	1			0	0	0	0	0	0
+910630	mission_buff_config-10910630	mission_buff_config-20910630	shield	1	1,5	2,1	0	1	0	0		910630	0	0	0	0	0	0	0	0	0			0		910630	0			0	0	0	0	0	0
+1000000	mission_buff_config-11000000	mission_buff_config-21000000		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		1000000	0			0	0	0	0	0	0
+1000001	mission_buff_config-11000001	mission_buff_config-21000001	debuff	2	1	1	0	1	0	0	1	900112	0	0	0	0	0	0	0	0	0			0		1000001	0			0	0	0	0	0	0
+1000002	mission_buff_config-11000002	mission_buff_config-21000002	buff	1	4	1	0	1	0	0		900106	0	0	0	0	0	0	0	0	0			0		1000002	0			0	0	0	0	0	0
+1000003	mission_buff_config-11000003	mission_buff_config-21000003	Theresa_Back	2	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		1000003	0			0	0	0	0	0	0
+1000004	mission_buff_config-11000004	mission_buff_config-21000004	Theresa_Back	2	1	99	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		1000004	0			0	0	0	0	0	0
+1000005	mission_buff_config-11000005	mission_buff_config-21000005	SpeedUp	2	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		1000005	0			0	0	0	0	0	0
+1000006	mission_buff_config-11000006	mission_buff_config-21000006		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		1000006	0			0	0	0	0	0	0
+1000007	mission_buff_config-11000007	mission_buff_config-21000007	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		1000007	0			0	0	0	0	0	0
+1000008	mission_buff_config-11000008	mission_buff_config-21000008	Chasing_AntiMissile	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		1000008	0			0	0	0	0	0	0
+1000009	mission_buff_config-11000009	mission_buff_config-21000009	debuff	2	1	1	0	1	0	0		900491	0	0	0	0	0	0	0	0	0			0		1000009	0			0	0	0	0	0	0
+1000010	mission_buff_config-11000010	mission_buff_config-21000010	debuff	2	1	1	0	1	0	0		900491	0	0	0	0	0	0	0	0	0			0		1000010	0			0	0	0	0	0	0
+1000011	mission_buff_config-11000011	mission_buff_config-21000011	ExtraAp	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		1000011	0			0	0	0	0	0	0
+4040901	mission_buff_config-14040901	mission_buff_config-24040901	SpeedUp	1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		4040901	0	94040901		0	0	0	0	0	0
+6000001	mission_buff_config-16000001	mission_buff_config-26000001		1	1	99	0	1	0		0	0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6000001	0	6000213		0	0	0	0	0	0
+6000002	mission_buff_config-16000002	mission_buff_config-26000002		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		6000002	-1	6000303		0	0	0	0	0	0
+6000003	mission_buff_config-16000003	mission_buff_config-26000003	debuff	1	1	99	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		6000003	-1			0	0	0	0	0	0
+6360000	mission_buff_config-16360000	mission_buff_config-26360000		1	5,1	1,1	0	1	0			0	0	0	6360001	5	0-1	0	0	0	0			0		6360000	0			0	0	0	0	0	0
+6360001	mission_buff_config-16360001	mission_buff_config-26360001		1	5,1	1,1	0	1	0			0	0	0	6360002	5	0-1	0	0	0	0			0		6360000	1			0	0	0	0	0	0
+6360002	mission_buff_config-16360002	mission_buff_config-26360002		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6360000	2	6360004		0	0	0	0	0	0
+6360003	mission_buff_config-16360003	mission_buff_config-26360003	debuff	2	1	1	0	1	0			759177	0	0	0	0	0	1000162	0	0	0			0		-1	0			0	0	0	0	0	0
+6360004	mission_buff_config-16360004	mission_buff_config-26360004		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6360004	0	6360011		0	0	0	0	0	0
+6360005	mission_buff_config-16360005	mission_buff_config-26360005		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6360005	0	6360012		0	0	0	0	0	0
+6360006	mission_buff_config-16360006	mission_buff_config-26360006		1	1	1	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6360006	0	6360013		0	0	0	0	0	0
+6360007	mission_buff_config-16360007	mission_buff_config-26360007	buff	1	1	1	0	1	0			759039	0	0	0	0	0	0	0	0	0			0		6360007	0			0	0	0	0	0	0
+6360008	mission_buff_config-16360008	mission_buff_config-26360008	Theresa_Back	1	1	999	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		6360008	0			0	0	0	0	0	0
+6410101	mission_buff_config-16410101	mission_buff_config-26410101	Wea2	2	1	99	0		0		1	0	0	0	0	0	0	0	0	0	0			0		6410101	0			0	0	0	0	0	0
+6410102	mission_buff_config-16410102	mission_buff_config-26410102	Wea2	2	1	99	0		0		1	0	0	0	0	0	0	0	0	0	0			0		6410102	0			0	0	0	0	0	0
+6410103	mission_buff_config-16410103	mission_buff_config-26410103	Wea2	2	1	99	0		0		1	0	0	0	0	0	0	0	0	0	0			0		6410103	0			0	0	0	0	0	0
+6410104	mission_buff_config-16410104	mission_buff_config-26410104		1	1	99	0		0		0	0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6410104	0	6411112		0	0	0	0	0	0
+6430001	mission_buff_config-16430001	mission_buff_config-26430001		1	1	99	0		0			0	0	0	0	0	0	0	0	0	0			0		6430001	1	6430022,6430025,6430026,6430011,6430012,6430013,6430005,6430006,6430007,6430028		0	0	0	0	0	0
+6430002	mission_buff_config-16430002	mission_buff_config-26430002	debuff	2	1	1	0		0			900913	0	0	0	0	0	0	0	1000026	1000025			0		6430002	1			0	0	0	0	0	0
+6430003	mission_buff_config-16430003	mission_buff_config-26430003		1	1	99	0		0			0	0	0	0	0	0	0	0	0	0			0		6430003	1	6430022,6430025,6430026,6430011,6430012,6430013,6430015,6430006,6430016,6430029		0	0	0	0	0	0
+6430004	mission_buff_config-16430004	mission_buff_config-26430004		1	1	99	0		0			0	0	0	0	0	0	0	0	0	0			0		6430004	1			0	0	0	0	0	0
+6430005	mission_buff_config-16430005	mission_buff_config-26430005		1	1	99	0		0	1		0	0	0	0	0	0	0	0	0	0			0		6430005	1			0	0	0	0	0	0
+6440001	mission_buff_config-16440001	mission_buff_config-26440001	debuff	1	1	1	0		0	0	1	0	0	0	0	0	0	1000044	0	0	0			0		6440001	1			0	0	0	0	0	0
+6440002	mission_buff_config-16440002	mission_buff_config-26440002		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		6440051	1	6440051		0	0	0	0	0	0
+6440003	mission_buff_config-16440003	mission_buff_config-26440003	debuff	2	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		6440003	1			0	0	0	0	0	0
+6440004	mission_buff_config-16440004	mission_buff_config-26440004		2	1	1	0	1	0	0		900112	0	0	0	0	0	0	0	0	0			0		6440004	1			0	0	0	0	0	0
+6440005	mission_buff_config-16440005	mission_buff_config-26440005		2	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		6440004	2			0	0	0	0	0	0
+6440006	mission_buff_config-16440006	mission_buff_config-26440006		1	1	99	0	1	0	1		0	0	0	0	0	0	0	0	0	0			0		6440006	1	6449999		0	0	0	0	0	0
+6480001	mission_buff_config-16480001	mission_buff_config-26480001	debuff	2	1	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		6480001	1			0	0	0	0	0	0
+6480002	mission_buff_config-16480002	mission_buff_config-26480002		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6480002	1	6480036		0	0	0	0	0	0
+6480003	mission_buff_config-16480003	mission_buff_config-26480003		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		-1	1	6480049		0	0	0	0	0	0
+6480004	mission_buff_config-16480004	mission_buff_config-26480004		1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		-1	1			0	0	0	0	0	0
+6510001	mission_buff_config-16510001	mission_buff_config-26510001	debuff	1	1	1	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		6510001	0			0	0	0	0	0	0
+6510002	mission_buff_config-16510002	mission_buff_config-26510002	ExtraAp	1	5,1	1,1	0	1	0			0	0	0	0	0	0	0	0	0	0			1		6510002	1			0	0	0	0	0	0
+6510003	mission_buff_config-16510003	mission_buff_config-26510003	ExtraAp	1	5,1	2,1	0	1	0			0	0	0	0	0	0	0	0	0	0			1		6510002	2			0	0	0	0	0	0
+6510004	mission_buff_config-16510004	mission_buff_config-26510004	ExtraAp	1	5,1	3,1	0	1	0			0	0	0	0	0	0	0	0	0	0			1		6510002	3			0	0	0	0	0	0
+6510005	mission_buff_config-16510005	mission_buff_config-26510005	shield	1	4,1	1,1	0	1	0			759013	0	0	0	0	0	1000092	0	0	0			0		6510005	1			0	0	0	0	0	0
+6510006	mission_buff_config-16510006	mission_buff_config-26510006	shield	1	4,1	1,1	0	1	0			759014	0	0	0	0	0	1000092	0	0	0			0		6510006	2			0	0	0	0	0	0
+6510007	mission_buff_config-16510007	mission_buff_config-26510007	shield	1	4,1	1,1	0	1	0			759015	0	0	0	0	0	1000092	0	0	0			0		6510006	3			0	0	0	0	0	0
+6510008	mission_buff_config-16510008	mission_buff_config-26510008	powBuff	1	4,1	1,1	0	1	0			759016	0	0	0	0	0	1000093	0	0	0			0		6510008	1			0	0	0	0	0	0
+6510009	mission_buff_config-16510009	mission_buff_config-26510009	powBuff	1	4,1	1,1	0	1	0			759017	0	0	0	0	0	1000093	0	0	0			0		6510008	2			0	0	0	0	0	0
+6510010	mission_buff_config-16510010	mission_buff_config-26510010	buff	1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryDataIcon#EC4702		0		6510010	0	6510087		0	0	0	0	0	0
+6510011	mission_buff_config-16510011	mission_buff_config-26510011	buff	1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6510011	0			0	0	0	0	0	0
+6510012	mission_buff_config-16510012	mission_buff_config-26510012	buff	1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6510012	0			0	0	0	0	0	0
+6510013	mission_buff_config-16510013	mission_buff_config-26510013	buff	1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6510013	0	6510157		0	0	0	0	0	0
+6510014	mission_buff_config-16510014	mission_buff_config-26510014		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6510014	0			0	0	0	0	0	0
+6510015	mission_buff_config-16510015	mission_buff_config-26510015	debuff	2	1	2	0	1	0		1	900112	0	0	0	0	0	0	0	0	0			0		6510015	0			0	0	0	0	0	0
+6510016	mission_buff_config-16510016	mission_buff_config-26510016	buff	1	5,1	3,1	0	1	0			0	0	0	0	0	0	0	0	0	0			1		6510016	0			0	0	0	0	0	0
+6510017	mission_buff_config-16510017	mission_buff_config-26510017		1	1	99	0	1	0			759023	0	0	0	0	0	0	0	0	0			0		6510017	0			0	0	0	0	0	0
+6510018	mission_buff_config-16510018	mission_buff_config-26510018		1	1	99	0	1	0			759026	0	0	0	0	0	0	0	0	0			0		6510018	0			0	0	0	0	0	0
+6510019	mission_buff_config-16510019	mission_buff_config-26510019	ExtraAp	1	5,1	4,1	0	1	0			0	0	0	0	0	0	0	0	0	0			1		6510019	3			0	0	0	0	0	0
+6510020	mission_buff_config-16510020	mission_buff_config-26510020		1	1	99	0	1	0			0	0	0	6510124	51	0-1	0	0	0	0			0		6510020	0			0	0	0	0	0	0
+6520001	mission_buff_config-16520001	mission_buff_config-26520001	powBuff	1	1	1	0	1	0			759016	0	0	0	0	0	0	0	0	0			0		6520001	0			0	0	0	0	0	0
+6520002	mission_buff_config-16520002	mission_buff_config-26520002	dodgeBuff	1	1	1	0	1	0			759033	0	0	0	0	0	0	0	0	0			0		6520002	0			0	0	0	0	0	0
+6520003	mission_buff_config-16520003	mission_buff_config-26520003	dodgeBuff	1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6520003	0	6520022		0	0	0	0	0	0
+6540000	mission_buff_config-16540000	mission_buff_config-26540000		1	1	99	0	1	0			759035	0	0	6540001	4	0-1	0	0	0	0	griffin_warrant_officer#A5881F		0		6540000	0	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540001	mission_buff_config-16540001	mission_buff_config-26540001		1	1	99	0	1	0			759035	0	0	6540002	4	0-1	0	0	0	0	griffin_warrant_officer#A5881F		0		6540000	1	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540002	mission_buff_config-16540002	mission_buff_config-26540002		1	1	99	0	1	0			759035	0	0	6540003	4	0-1	0	0	0	0	griffin_warrant_officer#A5881F		0		6540000	2	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540003	mission_buff_config-16540003	mission_buff_config-26540003		1	1	99	0	1	0			759036	0	0	6540004	4	0-1	0	0	0	0	griffin_lieutenant#A5881F		0		6540000	3	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540004	mission_buff_config-16540004	mission_buff_config-26540004		1	1	99	0	1	0			759036	0	0	6540005	4	0-1	0	0	0	0	griffin_lieutenant#A5881F		0		6540000	4	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540005	mission_buff_config-16540005	mission_buff_config-26540005		1	1	99	0	1	0			759036	0	0	6540006	4	0-1	0	0	0	0	griffin_lieutenant#A5881F		0		6540000	5	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540006	mission_buff_config-16540006	mission_buff_config-26540006		1	1	99	0	1	0			759037	0	0	6540007	4	0-1	0	0	0	0	griffin_first_lieutenant#A5881F		0		6540000	6	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540007	mission_buff_config-16540007	mission_buff_config-26540007		1	1	99	0	1	0			759037	0	0	6540008	4	0-1	0	0	0	0	griffin_first_lieutenant#A5881F		0		6540000	7	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540008	mission_buff_config-16540008	mission_buff_config-26540008		1	1	99	0	1	0			759037	0	0	6540009	4	0-1	0	0	0	0	griffin_first_lieutenant#A5881F		0		6540000	8	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540009	mission_buff_config-16540009	mission_buff_config-26540009		1	1	99	0	1	0			759037	0	0	6540010	4	0-1	0	0	0	0	griffin_first_lieutenant#A5881F		0		6540000	9	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540010	mission_buff_config-16540010	mission_buff_config-26540010		1	1	99	0	1	0			759038	0	0	0	0	0	0	0	0	0	griffin_captain#A5881F		0		6540000	10	6540038,6540039,6540040,6540041		0	0	0	0	0	0
+6540100	mission_buff_config-16540100	mission_buff_config-26540100		1	1	99	0	1	0			759035	0	0	6540016	4	0-1	0	0	0	0	sangvis_corporal#D20000		0		6540100	0	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540101	mission_buff_config-16540101	mission_buff_config-26540101		1	1	99	0	1	0			759035	0	0	6540017	4	0-1	0	0	0	0	sangvis_corporal#D20000		0		6540100	1	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540102	mission_buff_config-16540102	mission_buff_config-26540102		1	1	99	0	1	0			759035	0	0	6540018	4	0-1	0	0	0	0	sangvis_corporal#D20000		0		6540100	2	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540103	mission_buff_config-16540103	mission_buff_config-26540103		1	1	99	0	1	0			759036	0	0	6540019	4	0-1	0	0	0	0	sangvis_sergeant#D20000		0		6540100	3	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540104	mission_buff_config-16540104	mission_buff_config-26540104		1	1	99	0	1	0			759036	0	0	6540020	4	0-1	0	0	0	0	sangvis_sergeant#D20000		0		6540100	4	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540105	mission_buff_config-16540105	mission_buff_config-26540105		1	1	99	0	1	0			759036	0	0	6540021	4	0-1	0	0	0	0	sangvis_sergeant#D20000		0		6540100	5	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540106	mission_buff_config-16540106	mission_buff_config-26540106		1	1	99	0	1	0			759037	0	0	6540022	4	0-1	0	0	0	0	sangvis_ staff_sergeant#D20000		0		6540100	6	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540107	mission_buff_config-16540107	mission_buff_config-26540107		1	1	99	0	1	0			759037	0	0	6540023	4	0-1	0	0	0	0	sangvis_ staff_sergeant#D20000		0		6540100	7	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540108	mission_buff_config-16540108	mission_buff_config-26540108		1	1	99	0	1	0			759037	0	0	6540024	4	0-1	0	0	0	0	sangvis_ staff_sergeant#D20000		0		6540100	8	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540109	mission_buff_config-16540109	mission_buff_config-26540109		1	1	99	0	1	0			759037	0	0	6540025	4	0-1	0	0	0	0	sangvis_ staff_sergeant#D20000		0		6540100	9	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540110	mission_buff_config-16540110	mission_buff_config-26540110		1	1	99	0	1	0			759038	0	0	0	0	0	0	0	0	0	sangvis_chief_ergeant#D20000		0		6540100	10	6540042,6540043,6540044,6540045		0	0	0	0	0	0
+6540200	mission_buff_config-16540200	mission_buff_config-26540200		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540200	0	6540012,6540013,6540014,6540015		0	0	0	0	0	0
+6540201	mission_buff_config-16540201	mission_buff_config-26540201		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540201	0			0	0	0	0	0	0
+6540202	mission_buff_config-16540202	mission_buff_config-26540202		1	1	99	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		6540202	0			0	0	0	0	0	0
+6540203	mission_buff_config-16540203	mission_buff_config-26540203		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540203	0			0	0	0	0	0	0
+6540204	mission_buff_config-16540204	mission_buff_config-26540204		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540204	0			0	0	0	0	0	0
+6540205	mission_buff_config-16540205	mission_buff_config-26540205		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryDataIcon#EC4702		0		6540205	0	6540018		0	0	0	0	0	0
+6540206	mission_buff_config-16540206	mission_buff_config-26540206		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540206	0			0	0	0	0	0	0
+6540207	mission_buff_config-16540207	mission_buff_config-26540207		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540207	0			0	0	0	0	0	0
+6540208	mission_buff_config-16540208	mission_buff_config-26540208		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540208	0			0	0	0	0	0	0
+6540209	mission_buff_config-16540209	mission_buff_config-26540209		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540209	0			0	0	0	0	0	0
+6540210	mission_buff_config-16540210	mission_buff_config-26540210		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540210	0			0	0	0	0	0	0
+6540211	mission_buff_config-16540211	mission_buff_config-26540211		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540211	0			0	0	0	0	0	0
+6540212	mission_buff_config-16540212	mission_buff_config-26540212		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540212	0			0	0	0	0	0	0
+6540213	mission_buff_config-16540213	mission_buff_config-26540213		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540213	0	6540057		0	0	0	0	0	0
+6540214	mission_buff_config-16540214	mission_buff_config-26540214		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540214	0	6540058		0	0	0	0	0	0
+6540215	mission_buff_config-16540215	mission_buff_config-26540215		1	1	99	0	1	0			759053	0	0	0	0	0	0	0	0	0			0		6540215	0			0	0	0	0	0	0
+6540216	mission_buff_config-16540216	mission_buff_config-26540216		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6540216	0	6540059		0	0	0	0	0	0
+6540217	mission_buff_config-16540217	mission_buff_config-26540217		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6540217	0	6540060		0	0	0	0	0	0
+6540218	mission_buff_config-16540218	mission_buff_config-26540218	powBuff	1	1	999	0	1	0	1		0	0	0	0	0	0	0	0	0	0			0		6540218	0			0	0	0	0	0	0
+6540220	mission_buff_config-16540220	mission_buff_config-26540220	powBuff	1	1	999	0	1	0			759039	0	0	0	0	0	0	0	0	0			0		6540220	0			0	0	0	0	0	0
+6540221	mission_buff_config-16540221	mission_buff_config-26540221		1	1	2	0	1	0			0	0	0	6540125	1	0-1	0	0	0	0			0		6540221	0			0	0	0	0	0	0
+6540222	mission_buff_config-16540222	mission_buff_config-26540222		1	1	2	0	1	0			0	0	0	6540126	1	0-1	0	0	0	0			0		6540222	0			0	0	0	0	0	0
+6540223	mission_buff_config-16540223	mission_buff_config-26540223		1	1	2	0	1	0			0	0	0	6540127	1	0-1	0	0	0	0			0		6540223	0			0	0	0	0	0	0
+6540224	mission_buff_config-16540224	mission_buff_config-26540224		1	1	2	0	1	0			0	0	0	6540128	1	0-1	0	0	0	0			0		6540224	0			0	0	0	0	0	0
+6540225	mission_buff_config-16540225	mission_buff_config-26540225		1	1	3	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6540225	0	6540065		0	0	0	0	0	0
+6540226	mission_buff_config-16540226	mission_buff_config-26540226	ExtraMove	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		6540226	0			1	0	0	0	0	0
+6540227	mission_buff_config-16540227	mission_buff_config-26540227		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6540227	0	6540109		0	0	0	0	0	0
+6540228	mission_buff_config-16540228	mission_buff_config-26540228		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6540228	0	6540120		0	1	0	0	0	0
+6540229	mission_buff_config-16540229	mission_buff_config-26540229		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6540229	0	6540122		0	0	0	0	0	0
+6540230	mission_buff_config-16540230	mission_buff_config-26540230		1	1	99	0	1	0	1		0	0	0	0	0	0	0	0	0	0			0		6540230	0	6540124		0	0	0	0	0	0
+6540231	mission_buff_config-16540231	mission_buff_config-26540231		1	1	99	0	1	0			0	0	0	6540176	51,1	0-1,0-1	0	0	0	0			0		6540231	0	6540126		0	0	0	0	0	0
+6540232	mission_buff_config-16540232	mission_buff_config-26540232		1	1	99	0	1	0			0	0	0	6540177	51,1	0-1,0-1	0	0	0	0			0		6540232	0	6540126		0	0	0	0	0	0
+6540233	mission_buff_config-16540233	mission_buff_config-26540233		1	1	99	0	1	0			0	0	0	6540178	51,1	0-1,0-1	0	0	0	0			0		6540233	0	6540126		0	0	0	0	0	0
+6540234	mission_buff_config-16540234	mission_buff_config-26540234		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540234	0	6540136,6540153,6540165		0	0	0	0	0	0
+6540235	mission_buff_config-16540235	mission_buff_config-26540235		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540235	0	6540138,6540154,6540166		0	0	0	0	0	0
+6540236	mission_buff_config-16540236	mission_buff_config-26540236		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540236	0	6540140,6540155,6540167		0	0	0	0	0	0
+6540237	mission_buff_config-16540237	mission_buff_config-26540237		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6540237	0	6540142,6540156,6540168		0	0	0	0	0	0
+6540238	mission_buff_config-16540238	mission_buff_config-26540238	ExtraMove	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		6540238	0			1	0	0	0	0	0
+6540239	mission_buff_config-16540239	mission_buff_config-26540239		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6540239	0	6540163		0	0	0	0	0	0
+6540240	mission_buff_config-16540240	mission_buff_config-26540240	buff	1	1	999	0	1	0			759048	0	0	6540186	1	0-1	0	0	0	0			0		6540240	1			0	0	0	0	0	0
+6540241	mission_buff_config-16540241	mission_buff_config-26540241	buff	1	1	999	0	1	0			759049	0	0	6540187	1	0-1	0	0	0	0			0		6540240	2			0	0	0	0	0	0
+6540242	mission_buff_config-16540242	mission_buff_config-26540242	buff	1	1	999	0	1	0			759050	0	0	6540188	1	0-1	0	0	0	0			0		6540240	3			0	0	0	0	0	0
+6540243	mission_buff_config-16540243	mission_buff_config-26540243		1	1	99	0	1	0			0	0	0	6540189	1	0-1	0	0	0	0			0		6540240	4			0	0	0	0	0	0
+6540244	mission_buff_config-16540244	mission_buff_config-26540244	debuff	1	1	999	0	1	0			759051	0	0	6540190	1	0-1	0	0	0	0			0		6540240	5			0	0	0	0	0	0
+6540245	mission_buff_config-16540245	mission_buff_config-26540245	debuff	1	1	999	0	1	0			759052	0	0	0	0	0	0	0	0	0			0		6540240	6			0	0	0	0	0	0
+6540246	mission_buff_config-16540246	mission_buff_config-26540246		1	4	1	0	1	0			755255	0	0	0	0	0	0	0	0	0			0		6540246	6			0	0	0	0	0	0
+6540247	mission_buff_config-16540247	mission_buff_config-26540247		1	1	99	0	1	0	1		0	0	0	0	0	0	0	0	0	0			0		6540247	0			0	0	0	0	0	0
+6540248	mission_buff_config-16540248	mission_buff_config-26540248		1	1	99	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		6540248	0			0	0	0	0	0	0
+6540249	mission_buff_config-16540249	mission_buff_config-26540249	powBuff	1	1	999	0	1	0	2		0	0	0	0	0	0	0	0	0	0			0		6540249	0			0	0	0	0	0	0
+6560001	mission_buff_config-16560001	mission_buff_config-26560001		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6560001	0	6560043		0	0	0	0	0	0
+6560002	mission_buff_config-16560002	mission_buff_config-26560002		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0	CarryBoomerIcon#EC4702		0		6560002	0	6560042		0	0	0	0	0	0
+6560003	mission_buff_config-16560003	mission_buff_config-26560003		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		-1	0	6560046		0	0	0	0	0	0
+6560004	mission_buff_config-16560004	mission_buff_config-26560004		1	1	99	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		6560004	0			0	0	0	0	0	0
+6560005	mission_buff_config-16560005	mission_buff_config-26560005		1	1	99	0	1	0			119801	0	0	0	0	0	0	0	0	0			0		6560005	0			0	0	0	0	0	0
+6580000	mission_buff_config-16580000	mission_buff_config-26580000		1	1	999	0	1	0			0	0	0	6580014	4	0-1	0	0	0	0	100morale#57d498		0		6580000	0			0	0	0	0	0	0
+6580001	mission_buff_config-16580001	mission_buff_config-26580001		1	1	1	0	1	0			0	0	0	6580015	4	0-1	0	0	0	0	100morale#57d498		0		6580000	1			0	0	0	0	0	0
+6580002	mission_buff_config-16580002	mission_buff_config-26580002		1	1	1	0	1	0			0	0	0	6580016	4	0-1	0	0	0	0	100morale#57d498		0		6580000	2			0	0	0	0	0	0
+6580003	mission_buff_config-16580003	mission_buff_config-26580003		1	1	1	0	1	0			759120	0	0	6580017	4	0-1	0	0	0	0	90morale#59d9c2		0		6580000	3			0	0	0	0	0	0
+6580004	mission_buff_config-16580004	mission_buff_config-26580004		1	1	1	0	1	0			759120	0	0	6580018	4	0-1	0	0	0	0	90morale#59d9c2		0		6580000	4			0	0	0	0	0	0
+6580005	mission_buff_config-16580005	mission_buff_config-26580005		1	1	1	0	1	0			759120	0	0	6580019	4	0-1	0	0	0	0	90morale#59d9c2		0		6580000	5			0	0	0	0	0	0
+6580006	mission_buff_config-16580006	mission_buff_config-26580006		1	1	1	0	1	0			759121	0	0	6580020	4	0-1	0	0	0	0	70morale#aad632		0		6580000	6			0	0	0	0	0	0
+6580007	mission_buff_config-16580007	mission_buff_config-26580007		1	1	1	0	1	0			759121	0	0	6580021	4	0-1	0	0	0	0	70morale#aad632		0		6580000	7			0	0	0	0	0	0
+6580008	mission_buff_config-16580008	mission_buff_config-26580008		1	1	1	0	1	0			759122	0	0	6580022	4	0-1	0	0	0	0	50morale#ffbf26		0		6580000	8			0	0	0	0	0	0
+6580009	mission_buff_config-16580009	mission_buff_config-26580009		1	1	1	0	1	0			759123	0	0	0			0	0	0	0	30morale#fb3950		0		6580000	9			0	0	0	0	0	0
+6580010	mission_buff_config-16580010	mission_buff_config-26580010		1	1	999	0	1	0			0	0	0	0			0	0	0	0	CarryBoomerIcon#EC4702		0		6580010	0	6580006,6580043		0	0	0	0	0	0
+6580011	mission_buff_config-16580011	mission_buff_config-26580011		1	1	999	0	1	0			0	0	0	0			0	0	0	0	CarryBoomerIcon#EC4702		0		6580011	0	6580007,6580006,6580044,6580043		0	0	0	0	0	0
+6580012	mission_buff_config-16580012	mission_buff_config-26580012		1	1	999	0	1	0			0	0	0	0			0	0	0	0	CarryBoomerIcon#EC4702		0		6580012	0	6580008,6580007,6580006,6580045,6580044,6580043		0	0	0	0	0	0
+6580013	mission_buff_config-16580013	mission_buff_config-26580013		1	1	999	0	1	0	2		0	0	0	0			0	0	0	0			0		6580013	0			0	0	0	0	0	0
+6580014	mission_buff_config-16580014	mission_buff_config-26580014		1	2	1	0	1	0			0	0	0	0			0	0	0	0			0		6580014	0			0	0	0	0	0	0
+6580015	mission_buff_config-16580015	mission_buff_config-26580015		1	1	999	0	1	0			0	0	0	0			0	0	0	0	CarryEMPIcon#1E90FF		0		6580015	0	6589071		0	0	0	0	0	0
+6580016	mission_buff_config-16580016	mission_buff_config-26580016	AK74M	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		580120	3			0	0	0	0	0	0
+6580100	mission_buff_config-16580100	mission_buff_config-26580100		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580100	0	6580106		0	0	0	0	0	0
+6580101	mission_buff_config-16580101	mission_buff_config-26580101		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580101	0	6580109,6580107		0	0	0	0	0	0
+6580102	mission_buff_config-16580102	mission_buff_config-26580102		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580102	0	6580108		0	0	0	0	0	0
+6580103	mission_buff_config-16580103	mission_buff_config-26580103		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580103	0	6580110		0	0	0	0	0	0
+6580104	mission_buff_config-16580104	mission_buff_config-26580104		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580104	0	6580116		0	0	0	0	0	0
+6580105	mission_buff_config-16580105	mission_buff_config-26580105		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580105	0	6580114		0	0	0	0	0	0
+6580106	mission_buff_config-16580106	mission_buff_config-26580106		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580106	0	6580123		0	0	0	0	0	0
+6580107	mission_buff_config-16580107	mission_buff_config-26580107	Theresa_Back	2	1	1	0	1	0		1	0	0	0	0	0	0	0	0	0	0			0		6580107	0			0	0	0	0	0	0
+6580108	mission_buff_config-16580108	mission_buff_config-26580108		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580108	0	6580125		0	0	0	0	0	0
+6580109	mission_buff_config-16580109	mission_buff_config-26580109		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580109	0	6580126		0	0	0	0	0	0
+6580110	mission_buff_config-16580110	mission_buff_config-26580110	Theresa_Back	2	1	999	0	1	0		1	759130	0	0	0	0	0	0	0	0	0			0		6580110	0			0	0	0	0	0	0
+6580111	mission_buff_config-16580111	mission_buff_config-26580111		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		6580111	0	6580139,6580149,6580140,6580150,6580141,6580151,6580142,6580152,6580143,6580153,6580144,6580154,6580145,6580155,6580146,6580156,6580147,6580157,6580148,6580158,6580169		0	0	0	0	0	0
+7000001	mission_buff_config-17000001	mission_buff_config-27000001		1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		7000001	0			0	0	0	0	0	0
+9100001	mission_buff_config-19100001	mission_buff_config-29100001	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100001	0			0	0	0	0	0	0
+9100002	mission_buff_config-19100002	mission_buff_config-29100002	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100002	0			0	0	0	0	0	0
+9100003	mission_buff_config-19100003	mission_buff_config-29100003	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100003	0			0	0	0	0	0	0
+9100004	mission_buff_config-19100004	mission_buff_config-29100004	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100004	0			0	0	0	0	0	0
+9100005	mission_buff_config-19100005	mission_buff_config-29100005	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100005	0			0	0	0	0	0	0
+9100006	mission_buff_config-19100006	mission_buff_config-29100006	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100006	0			0	0	0	0	0	0
+9100007	mission_buff_config-19100007	mission_buff_config-29100007	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100007	0			0	0	0	0	0	0
+9100008	mission_buff_config-19100008	mission_buff_config-29100008	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100008	0			0	0	0	0	0	0
+9100009	mission_buff_config-19100009	mission_buff_config-29100009	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100009	0			0	0	0	0	0	0
+9100010	mission_buff_config-19100010	mission_buff_config-29100010	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100010	0			0	0	0	0	0	0
+9100011	mission_buff_config-19100011	mission_buff_config-29100011	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100011	0			0	0	0	0	0	0
+9100012	mission_buff_config-19100012	mission_buff_config-29100012	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100012	0			0	0	0	0	0	0
+9100013	mission_buff_config-19100013	mission_buff_config-29100013	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100013	0			0	0	0	0	0	0
+9100014	mission_buff_config-19100014	mission_buff_config-29100014	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100014	0			0	0	0	0	0	0
+9100015	mission_buff_config-19100015	mission_buff_config-29100015	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100015	0			0	0	0	0	0	0
+9100016	mission_buff_config-19100016	mission_buff_config-29100016	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100016	0			0	0	0	0	0	0
+9100017	mission_buff_config-19100017	mission_buff_config-29100017	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100017	0			0	0	0	0	0	0
+9100018	mission_buff_config-19100018	mission_buff_config-29100018	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100018	0			0	0	0	0	0	0
+9100019	mission_buff_config-19100019	mission_buff_config-29100019	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100019	0			0	0	0	0	0	0
+9100020	mission_buff_config-19100020	mission_buff_config-29100020	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100020	0			0	0	0	0	0	0
+9100021	mission_buff_config-19100021	mission_buff_config-29100021	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100021	0			0	0	0	0	0	0
+9100022	mission_buff_config-19100022	mission_buff_config-29100022	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100022	0			0	0	0	0	0	0
+9100023	mission_buff_config-19100023	mission_buff_config-29100023	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100023	0			0	0	0	0	0	0
+9100024	mission_buff_config-19100024	mission_buff_config-29100024	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100024	0			0	0	0	0	0	0
+9100025	mission_buff_config-19100025	mission_buff_config-29100025	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100025	0			0	0	0	0	0	0
+9100026	mission_buff_config-19100026	mission_buff_config-29100026	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100026	0			0	0	0	0	0	0
+9100027	mission_buff_config-19100027	mission_buff_config-29100027	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100027	0			0	0	0	0	0	0
+9100028	mission_buff_config-19100028	mission_buff_config-29100028	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100028	0			0	0	0	0	0	0
+9100029	mission_buff_config-19100029	mission_buff_config-29100029	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100029	0			0	0	0	0	0	0
+9100030	mission_buff_config-19100030	mission_buff_config-29100030	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100030	0			0	0	0	0	0	0
+9100031	mission_buff_config-19100031	mission_buff_config-29100031	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100031	0			0	0	0	0	0	0
+9100032	mission_buff_config-19100032	mission_buff_config-29100032	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100032	0			0	0	0	0	0	0
+9100033	mission_buff_config-19100033	mission_buff_config-29100033	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100033	0			0	0	0	0	0	0
+9100034	mission_buff_config-19100034	mission_buff_config-29100034	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100034	0			0	0	0	0	0	0
+9100035	mission_buff_config-19100035	mission_buff_config-29100035	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100035	0			0	0	0	0	0	0
+9100036	mission_buff_config-19100036	mission_buff_config-29100036	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100036	0			0	0	0	0	0	0
+9100037	mission_buff_config-19100037	mission_buff_config-29100037	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100037	0			0	0	0	0	0	0
+9100038	mission_buff_config-19100038	mission_buff_config-29100038	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100038	0			0	0	0	0	0	0
+9100039	mission_buff_config-19100039	mission_buff_config-29100039	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100039	0			0	0	0	0	0	0
+9100040	mission_buff_config-19100040	mission_buff_config-29100040	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100040	0			0	0	0	0	0	0
+9100041	mission_buff_config-19100041	mission_buff_config-29100041	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100041	0			0	0	0	0	0	0
+9100042	mission_buff_config-19100042	mission_buff_config-29100042	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100042	0			0	0	0	0	0	0
+9100043	mission_buff_config-19100043	mission_buff_config-29100043	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100043	0			0	0	0	0	0	0
+9100044	mission_buff_config-19100044	mission_buff_config-29100044	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100044	0			0	0	0	0	0	0
+9100045	mission_buff_config-19100045	mission_buff_config-29100045	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100045	0			0	0	0	0	0	0
+9100046	mission_buff_config-19100046	mission_buff_config-29100046	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100046	0			0	0	0	0	0	0
+9100047	mission_buff_config-19100047	mission_buff_config-29100047	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100047	0			0	0	0	0	0	0
+9100048	mission_buff_config-19100048	mission_buff_config-29100048	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100048	0			0	0	0	0	0	0
+9100049	mission_buff_config-19100049	mission_buff_config-29100049	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100049	0			0	0	0	0	0	0
+9100050	mission_buff_config-19100050	mission_buff_config-29100050	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100050	0			0	0	0	0	0	0
+9100051	mission_buff_config-19100051	mission_buff_config-29100051	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100051	0			0	0	0	0	0	0
+9100052	mission_buff_config-19100052	mission_buff_config-29100052	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100052	0			0	0	0	0	0	0
+9100053	mission_buff_config-19100053	mission_buff_config-29100053	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100053	0			0	0	0	0	0	0
+9100054	mission_buff_config-19100054	mission_buff_config-29100054	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100054	0			0	0	0	0	0	0
+9100055	mission_buff_config-19100055	mission_buff_config-29100055	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100055	0			0	0	0	0	0	0
+9100056	mission_buff_config-19100056	mission_buff_config-29100056	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100056	0			0	0	0	0	0	0
+9100057	mission_buff_config-19100057	mission_buff_config-29100057	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100057	0			0	0	0	0	0	0
+9100058	mission_buff_config-19100058	mission_buff_config-29100058	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100058	0			0	0	0	0	0	0
+9100059	mission_buff_config-19100059	mission_buff_config-29100059	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100059	0			0	0	0	0	0	0
+9100060	mission_buff_config-19100060	mission_buff_config-29100060	SpeedUp	1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9100060	0			0	0	0	0	0	0
+9130601	mission_buff_config-19130601	mission_buff_config-29130601	SpeedUp	1	1	99	0	1	0	0		0	0	0	9130612	2	0-1	0	0	0	0			0		9130601	0			0	0	0	0	0	0
+9200001	mission_buff_config-19200001	mission_buff_config-29200001	SpeedUp	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9200001	0			0	0	0	0	0	0
+9200002	mission_buff_config-19200002	mission_buff_config-29200002	SpeedUp	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9200002	0			0	0	0	0	0	0
+9410201	mission_buff_config-19410201	mission_buff_config-29410201	Landmines	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9410201	-1			0	0	0	0	0	0
+9410216	mission_buff_config-19410216	mission_buff_config-29410216	Racing_Fly	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			99999999		9410216	-1			0	0	0	0	0	0
+9410331	mission_buff_config-19410331	mission_buff_config-29410331	DJMAX_ArrowLeft	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9410331	-1			0	0	0	0	0	0
+9410332	mission_buff_config-19410332	mission_buff_config-29410332	TurnLeft	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9410332	-1			0	0	0	0	0	0
+9410333	mission_buff_config-19410333	mission_buff_config-29410333	TurnRight	1	1	99	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9410333	-1			0	0	0	0	0	0
+9411870	mission_buff_config-19411870	mission_buff_config-29411870	claes	1	1	99	0	1	0	0		0	0	0	9411871	1	0-1	0	0	0	0			0		9410333	-1			0	0	0	0	0	0
+9490101	mission_buff_config-19490101	mission_buff_config-29490101	Theresa_Back	2	1	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0			0		9490101	1			0	0	0	0	0	0
+9490102	mission_buff_config-19490102	mission_buff_config-29490102	GunBox	1	1	99	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0			0		9490102	1	9490105		0	0	0	0	0	0
+9490103	mission_buff_config-19490103	mission_buff_config-29490103	GunBox	1	1	99	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0			0		9490103	1	9490106		0	0	0	0	0	0
+9490201	mission_buff_config-19490201	mission_buff_config-29490201	GunBox	1	1	99	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0			0		9490201	1			0	0	0	0	0	0
+9521000	mission_buff_config-19521000	mission_buff_config-29521000	SpeedUp	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		9521000	0	9521002		0	0	0	0	0	0
+9521401	mission_buff_config-19521401	mission_buff_config-29521401	SpeedUp	1	1	999	0	1	0			0	0	0	0	0	0	0	0	0	0			0		9521401	0			0	0	0	0	0	0
+9550101	mission_buff_config-19550101	mission_buff_config-29550101		1	1	99	0	1	0			0	0	0	0	0	0	0	0	0	0			0		9550101	0			0	0	0	0	0	0
+9583801	mission_buff_config-19583801	mission_buff_config-29583801		1	1	999	0	1	0	0		0	0	0	0	0	0	0	0	0	0	CarryEMPIcon#1E90FF		0		9583801	9583801	95838010,95838023,95838024,580122		0	0	0	0	0	0
+9583802	mission_buff_config-19583802	mission_buff_config-29583802	Racing_Fly	1	1	999	0	1	0	0		0	0	0	0	0	0	0	0	0	0			99999999		9583802	9583802			0	0	0	0	0	0
+9583803	mission_buff_config-19583803	mission_buff_config-29583803		1	1	999	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9583803	9583803			0	0	0	0	0	0
+9583804	mission_buff_config-19583804	mission_buff_config-29583804		1	1	1	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9583804	9583804			0	0	0	0	0	0
+9583805	mission_buff_config-19583805	mission_buff_config-29583805	ExtraMove	1	1	999	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9583805	9583805			1	0	0	0	0	0
+9583806	mission_buff_config-19583806	mission_buff_config-29583806		1	1	999	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9583806	9583806			0	0	0	0	0	0
+9584001	mission_buff_config-19584001	mission_buff_config-29584001	Invincible	1	1	999	0	1	0	0		900915	0	0	0	0	0	0	0	0	0			0		9584001	9584001			0	0	0	0	0	0
+9584002	mission_buff_config-19584002	mission_buff_config-29584002		1	1	999	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9584002	9584002	95840015,95840016,580122		0	0	0	0	0	0
+9584201	mission_buff_config-19584201	mission_buff_config-29584201		1	1	999	0	1	0	0		0	0	0	0	0	0	0	0	0	0			0		9584201	9584201	95842010		0	0	0	0	0	0
+58000401	mission_buff_config-68000401	mission_buff_config-78000401	SpeedUp	1	5	1	0	1	0		0	0	0	0	0	0	0-0	0	0	0	0			1		58000401	0			0	0	0	0	0	0

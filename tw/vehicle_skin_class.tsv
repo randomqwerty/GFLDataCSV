@@ -1,0 +1,13 @@
+id	name	vehicle_ids	pic_code	desc
+1	vehicle_skin_class-10000001	1,2	1:TankM1_1001_set,2:Warjack_1001_set	vehicle_skin_class-20000001
+2	vehicle_skin_class-10000002	1,2	1:TankM1_1002_set,2:Warjack_1002_set	vehicle_skin_class-20000002
+3	vehicle_skin_class-10000003	1,2	1:TankM1_1003_set	vehicle_skin_class-20000003
+4	vehicle_skin_class-10000004	1,2	1:TankM1_1004_set	vehicle_skin_class-20000004
+5	vehicle_skin_class-10000005	1,2	1:TankM1_1005_set	vehicle_skin_class-20000005
+6	vehicle_skin_class-10000006	1,2	1:TankM1_1006_set	vehicle_skin_class-20000006
+7	vehicle_skin_class-10000007	1,2	1:TankM1_1007_set	vehicle_skin_class-20000007
+8	vehicle_skin_class-10000008	1,2	1:TankM1_1008_set	vehicle_skin_class-20000008
+9	vehicle_skin_class-10000009	1,2	2:Warjack_1009_set	vehicle_skin_class-20000009
+10	vehicle_skin_class-10000010	1,2	1:TankM1_1010_set	vehicle_skin_class-20000010
+11	vehicle_skin_class-10000011	1,2	1:TankM1_1011_set	vehicle_skin_class-20000011
+13	vehicle_skin_class-10000013	1,2	2:Warjack_1013_set	vehicle_skin_class-20000013

@@ -1,0 +1,114 @@
+id	name	rank	bonus_picture	k_bonus	bonus_number	description	bonus_description	code	is_showed	placement	years
+1	furniture_classes-10000001	5	3000	6:2000,9:5000,12:8000	15	furniture_classes-20000001	furniture_classes-30000001	ws2018_deco_small_icon	1	1	2018
+2	furniture_classes-10000002	2	0		7	furniture_classes-20000002	furniture_classes-30000002	cs2018_chair_b_icon	1	1	2018
+3	furniture_classes-10000003	3	0		15	furniture_classes-20000003	furniture_classes-30000003	ft2018_deco_small_01_icon	1	1	2018
+4	furniture_classes-10000004	4	0	8:2000	16	furniture_classes-20000004	furniture_classes-30000004	qj2018_floordeco_icon	1	1	2018
+5	furniture_classes-10000005	3	0		15	furniture_classes-20000005	furniture_classes-30000005	ft2018_deco_small_01_icon	1	1	2018
+6	furniture_classes-10000006	4	0	8:2000	16	furniture_classes-20000006	furniture_classes-30000006	loft2021_bicycle_icon	1	1	2021
+7	furniture_classes-10000007	3	0		16	furniture_classes-20000007	furniture_classes-30000007	sn2018_dresser_icon	1	1	2018
+8	furniture_classes-10000008	3	0		16	furniture_classes-20000008	furniture_classes-30000008	sn2018_dresser_bs_icon	1	1	2018
+9	furniture_classes-10000009	5	3001	6:2000,9:5000,12:8000	16	furniture_classes-20000009	furniture_classes-30000009	zhs2021_walldeco_01_icon	1	1	2021
+10	furniture_classes-10000010	3	0		13	furniture_classes-20000010	furniture_classes-30000010	kft2018_walldeco_03_icon	1	1	2018
+11	furniture_classes-10000011	4	0	6:2000	13	furniture_classes-20000011	furniture_classes-30000011	rs2019_window_icon	1	1	2019
+12	furniture_classes-10000012	4	0	6:2000	13	furniture_classes-20000012	furniture_classes-30000012	rs2019_table_bs_icon	1	1	2019
+13	furniture_classes-10000013	5	3002	6:2000,9:5000,12:8000	17	furniture_classes-20000013	furniture_classes-30000013	tx2019_deco_big_icon	1	1	2019
+14	furniture_classes-10000014	5	3003	6:2000,9:5000,12:8000	13	furniture_classes-20000014	furniture_classes-30000014	sd2018_tree_icon	1	1	2018
+15	furniture_classes-10000015	3	0		15	furniture_classes-20000015	furniture_classes-30000015	bld2018_floordeco_06_icon	1	1	2018
+16	furniture_classes-10000016	4	0	8:2000	15	furniture_classes-20000016	furniture_classes-30000016	north2018_deco_02_icon	1	1	2018
+17	furniture_classes-10000017	5	3004	6:2000,9:5000,12:8000	15	furniture_classes-20000017	furniture_classes-30000017	cj2019_deco_04_icon	1	1	2019
+18	furniture_classes-10000018	4	0	8:2000	16	furniture_classes-20000018	furniture_classes-30000018	sb2019_deco_05_icon	1	1	2019
+19	furniture_classes-10000019	5	0	6:2000,9:5000,12:8000	20	furniture_classes-20000019	furniture_classes-30000019	sp2019_deco_09_icon	1	0	2019
+20	furniture_classes-10000020	5	0	0	6	furniture_classes-20000020	furniture_classes-30000020	pv_2018winter_icon	2	0	0
+21	furniture_classes-10000021	5	3005	6:2000,9:5000,12:8000	13	furniture_classes-20000021	furniture_classes-30000021	qrj2018_deco_01_icon	1	1	2018
+22	furniture_classes-10000022	4	0	8:2000	15	furniture_classes-20000022	furniture_classes-30000022	js2018_desk_c_icon	1	1	2018
+23	furniture_classes-10000023	4	0	8:2000	13	furniture_classes-20000023	furniture_classes-30000023	lm2018_deco_04_icon	1	1	2018
+24	furniture_classes-10000024	5	3006	6:2000,9:5000,12:8000	14	furniture_classes-20000024	furniture_classes-30000024	bwg2018_deco_07_icon	1	1	2018
+25	furniture_classes-10000025	5	3007	6:2000,9:5000,12:8000	13	furniture_classes-20000025	furniture_classes-30000025	dtz2018_walldeco_02_icon	1	1	2018
+26	furniture_classes-10000026	4	0	8:2000	13	furniture_classes-20000026	furniture_classes-30000026	xsh2018_deco_02_icon	1	1	2018
+27	furniture_classes-10000027	4	0	8:2000	13	furniture_classes-20000027	furniture_classes-30000027	syp2019_deco_03_icon	1	1	2019
+28	furniture_classes-10000028	5	3008	6:2000,8:5000,10:8000	11	furniture_classes-20000028	furniture_classes-30000028	yht2019_deco_03_icon	1	1	2019
+29	furniture_classes-10000029	4	0	8:2000	13	furniture_classes-20000029	furniture_classes-30000029	etj2018_deco_02_a_icon	1	1	2018
+30	furniture_classes-10000030	5	3009	6:2000,9:5000,12:8000	12	furniture_classes-20000030	furniture_classes-30000030	tgw2018_table_icon	1	1	2018
+31	furniture_classes-10000031	5	0	0	6	furniture_classes-20000031	furniture_classes-30000031	SP_GGBB_1A_icon	2	0	0
+32	furniture_classes-10000032	4	0	8:2000	16	furniture_classes-20000032	furniture_classes-30000032	gys2018_deco_01_icon	1	1	2018
+33	furniture_classes-10000033	5	3010	6:2000,8:5000,12:8000	15	furniture_classes-20000033	furniture_classes-30000033	sz2018_deco_03_A_icon	1	1	2018
+34	furniture_classes-10000034	4	0	8:2000	15	furniture_classes-20000034	furniture_classes-30000034	kr2019_deco_01_icon	1	1	2019
+35	furniture_classes-10000035	5	3011	6:2000,8:5000,12:8000	14	furniture_classes-20000035	furniture_classes-30000035	wq2019_chair_icon	1	1	2019
+36	furniture_classes-10000036	3	0		17	furniture_classes-20000036	furniture_classes-30000036	sh2018_walldeco_03_icon	1	1	2018
+37	furniture_classes-10000037	5	3012	6:2000,8:5000,12:8000	16	furniture_classes-20000037	furniture_classes-30000037	tsg2019_deco_03_icon	1	1	2019
+38	furniture_classes-10000038	4	0	8:2000	13	furniture_classes-20000038	furniture_classes-30000038	cf2019_deco_01_A_icon	1	1	2019
+39	furniture_classes-10000039	5	3013	6:2000,8:5000,12:8000	15	furniture_classes-20000039	furniture_classes-30000039	ws2019_chair_01_A_icon	1	1	2019
+40	furniture_classes-10000040	4	0	8:2000	14	furniture_classes-20000040	furniture_classes-30000040	hf2019_deco_05_icon	1	1	2019
+41	furniture_classes-10000041	4	0	8:2000	16	furniture_classes-20000041	furniture_classes-30000041	cfd2019_deco_07_icon	1	1	2019
+42	furniture_classes-10000042	5	3014	6:2000,9:5000,12:8000	15	furniture_classes-20000042	furniture_classes-30000042	fj2019_deco_06_icon	1	1	2019
+43	furniture_classes-10000043	4	0	8:2000	15	furniture_classes-20000043	furniture_classes-30000043	bank2019_deco_05_icon	1	1	2019
+44	furniture_classes-10000044	5	3015	6:2000,9:5000,12:8000	12	furniture_classes-20000044	furniture_classes-30000044	sd2019_deco_03_icon	1	1	2019
+45	furniture_classes-10000045	4	0	8:2000	15	furniture_classes-20000045	furniture_classes-30000045	hdc2019_deco_01_A_icon	1	1	2019
+46	furniture_classes-10000046	5	3016	6:2000,9:5000,12:8000	12	furniture_classes-20000046	furniture_classes-30000046	xs2019_deco_01_icon	1	1	2019
+47	furniture_classes-10000047	4	0	8:2000	14	furniture_classes-20000047	furniture_classes-30000047	zxc2020_deco_07_icon	1	1	2020
+48	furniture_classes-10000048	5	3017	6:2000,9:5000,12:8000	15	furniture_classes-20000048	furniture_classes-30000048	xn2020_deco_05_icon	1	1	2020
+49	furniture_classes-10000049	4	0	8:2000	18	furniture_classes-20000049	furniture_classes-30000049	sz2019_deco_08_A_icon	1	1	2019
+50	furniture_classes-10000050	5	3018	6:2000,9:5000,12:8000	16	furniture_classes-20000050	furniture_classes-30000050	hl2019_deco_03_icon	1	1	2019
+52	furniture_classes-10000052	5	3019	6:2000,9:5000,12:8000	13	furniture_classes-20000052	furniture_classes-30000052	ty2021_bed_01_icon	1	1	2021
+53	furniture_classes-10000053	4	0	8:2000	18	furniture_classes-20000053	furniture_classes-30000053	mz2020_deco_08_icon	1	1	2020
+54	furniture_classes-10000054	5	3020	6:2000,9:5000,12:8000	15	furniture_classes-20000054	furniture_classes-30000054	znq2020_deco_03_icon	1	1	2020
+55	furniture_classes-10000055	5	3021	6:2000,9:5000,12:8000	13	furniture_classes-20000055	furniture_classes-30000055	etj2019_deco_11_icon	1	1	2019
+56	furniture_classes-10000056	5	3023	6:2000,9:5000,12:8000	15	furniture_classes-20000056	furniture_classes-30000056	jxnp2019_deco_02_icon	1	1	2019
+57	furniture_classes-10000057	4	0	8:2000	14	furniture_classes-20000057	furniture_classes-30000057	hjdt2019_walldeco_01_A_icon	1	1	2019
+58	furniture_classes-10000058	5	3025	6:2000,9:5000,12:8000	12	furniture_classes-20000058	furniture_classes-30000058	swimpool2019_deco_04_icon	1	1	2019
+59	furniture_classes-10000059	5	3026	6:2000,9:5000,12:8000	13	furniture_classes-20000059	furniture_classes-30000059	rockroll2019_deco_01_icon	1	1	2019
+60	furniture_classes-10000060	5	3028	6:2000,9:5000,12:8000	15	furniture_classes-20000060	furniture_classes-30000060	halloweenus2020_deco_01_icon	1	1	2020
+61	furniture_classes-10000061	4	0	8:2000	18	furniture_classes-20000061	furniture_classes-30000061	noshery2018_walldeco_01_icon	1	1	2018
+62	furniture_classes-10000062	5	3029	6:2000,9:5000,12:8000	15	furniture_classes-20000062	furniture_classes-30000062	idol2020_deco_04_icon	1	1	2020
+63	furniture_classes-10000063	5	3030	6:2000,9:5000,12:8000	14	furniture_classes-20000063	furniture_classes-30000063	Xmas2018_deco_tree_icon	1	1	2018
+64	furniture_classes-10000064	5	3032	6:2000,9:5000,12:8000	15	furniture_classes-20000064	furniture_classes-30000064	newyear2019_deco_11_A_icon	1	1	2019
+65	furniture_classes-10000065	5	3038	6:2000,9:5000,12:8000	14	furniture_classes-20000065	furniture_classes-30000065	xnjp2021_deco_02_icon	1	1	2021
+66	furniture_classes-10000066	5	3040	6:2000,9:5000,12:8000	15	furniture_classes-20000066	furniture_classes-30000066	wv2020_deco_06_icon	1	1	2020
+67	furniture_classes-10000067	5	3041	6:2000,9:5000,12:8000	14	furniture_classes-20000067	furniture_classes-30000067	yjss2019_deco_02_icon	1	1	2019
+68	furniture_classes-10000068	5	3042	6:2000,9:5000,12:8000	14	furniture_classes-20000068	furniture_classes-30000068	znq2020_deco_09_A_icon	1	1	2020
+69	furniture_classes-10000069	4	3043	8:2000	18	furniture_classes-20000069	furniture_classes-30000069	jill2019_walldeco_01_icon	2	1	2019
+70	furniture_classes-10000070	5	3043	6:2000,9:5000,12:8000	18	furniture_classes-20000070	furniture_classes-30000070	bar2019_deco_05_A_icon	2	1	2019
+71	furniture_classes-10000071	5	3052	6:2000,9:5000,12:8000	13	furniture_classes-20000071	furniture_classes-30000071	etj2019_walldeco_01_A_icon	1	1	2019
+72	furniture_classes-10000072	5	0	6:2000,9:2500,12:3000	8	furniture_classes-20000072	furniture_classes-30000072	Stepmania_icon	1	0	0
+73	furniture_classes-10000073	5	3054	6:2000,9:5000,12:8000	14	furniture_classes-20000073	furniture_classes-30000073	aquarium2020_wall_icon	1	1	2020
+74	furniture_classes-10000074	5	3055	6:2000,9:5000,12:8000	13	furniture_classes-20000074	furniture_classes-30000074	yukata2020_deco_04_A_icon	1	1	2020
+75	furniture_classes-10000075	5	3056	6:2000,9:5000,12:8000	14	furniture_classes-20000075	furniture_classes-30000075	bltt2020_deco02_icon	1	1	2020
+76	furniture_classes-10000076	5	3059	6:2000,9:5000,12:8000	14	furniture_classes-20000076	furniture_classes-30000076	hallo2020_wall_icon	1	1	2020
+77	furniture_classes-10000077	5	3061	6:2000,9:5000,12:8000	13	furniture_classes-20000077	furniture_classes-30000077	racing2019_deco_01_FL_icon	1	1	2019
+78	furniture_classes-10000078	5	3063	6:2000,9:5000,12:8000	13	furniture_classes-20000078	furniture_classes-30000078	Xmasus2020_01_icon	1	1	2020
+79	furniture_classes-10000079	5	3064	6:2000,9:5000,12:8000	14	furniture_classes-20000079	furniture_classes-30000079	zy2020_light_02_icon	1	1	2020
+80	furniture_classes-10000080	5	3065	6:2000,9:5000,12:8000	13	furniture_classes-20000080	furniture_classes-30000080	SPF2020_wall_icon	1	1	2020
+81	furniture_classes-10000081	5	0	0	6	furniture_classes-20000081	furniture_classes-30000081	harp_2019_icon	3	0	0
+82	furniture_classes-10000082	5	3066	6:2000,9:5000,12:8000	13	furniture_classes-20000082	furniture_classes-30000082	WhiteVus2021_deco_01_icon	1	1	2021
+83	furniture_classes-10000083	5	3068	6:2000,9:5000,12:8000	13	furniture_classes-20000083	furniture_classes-30000083	Pajamas2020_deco_01_icon	1	1	2020
+84	furniture_classes-10000084	5	3069	6:2000,9:5000,12:8000	13	furniture_classes-20000084	furniture_classes-30000084	Anniversaryjp2021_deco_03_icon	1	1	2021
+85	furniture_classes-10000085	5	3070	6:2000,9:5000,12:8000	13	furniture_classes-20000085	furniture_classes-30000085	Children2020_deco_05_icon	1	1	2020
+86	furniture_classes-10000086	5	3072	6:2000,9:5000,12:8000	13	furniture_classes-20000086	furniture_classes-30000086	Island2020_deco_01_icon	1	1	2020
+87	furniture_classes-10000087	5	0	0	5	furniture_classes-20000087	furniture_classes-30000087	Fetter_Repository_icon	1	0	0
+88	furniture_classes-10000088	5	3073	6:2000,9:5000,12:8000	13	furniture_classes-20000088	furniture_classes-30000088	MidCentury2021_deco_06_icon	1	1	2021
+89	furniture_classes-10000089	4	0	8:2000	13	furniture_classes-20000089	furniture_classes-30000089	Izakaya2020_deco_01_icon	1	1	2020
+90	furniture_classes-10000090	5	3074	6:2000,9:5000,12:8000	14	furniture_classes-20000090	furniture_classes-30000090	Edo2020_deco_06_icon	1	1	2020
+91	furniture_classes-10000091	5	3077	6:2000,9:5000,12:8000	14	furniture_classes-20000091	furniture_classes-30000091	Halloween2020_deco_23_icon	1	1	2020
+92	furniture_classes-10000092	5	3078	6:2000,9:5000,12:8000	13	furniture_classes-20000092	furniture_classes-30000092	Agent2020_deco_01_icon	1	1	2020
+93	furniture_classes-10000093	5	3079	6:2000,9:5000,12:8000	13	furniture_classes-20000093	furniture_classes-30000093	Christmas2020_deco_13_icon	1	1	2020
+94	furniture_classes-10000094	5	3080	6:2000,9:5000,12:8000	13	furniture_classes-20000094	furniture_classes-30000094	NewYear2021_deco_21_icon	1	1	2021
+96	furniture_classes-10000096	5	3082	6:2000,9:5000,12:8000	13	furniture_classes-20000096	furniture_classes-30000096	WhiteV2021_deco_05_icon	1	1	2021
+97	furniture_classes-10000097	5	3083	6:2000,9:5000,12:8000	13	furniture_classes-20000097	furniture_classes-30000097	MiniGameFlightChess_deco_01_icon	1	1	0
+98	furniture_classes-10000098	5	3084	6:2000,9:5000,12:8000	12	furniture_classes-20000098	furniture_classes-30000098	Anniversary2021_deco_02_icon	1	1	2022
+99	furniture_classes-10000099	5	3089	6:2000,9:5000,12:8000	13	furniture_classes-20000099	furniture_classes-30000099	Summer2021_deco_01_icon	1	1	2022
+100	furniture_classes-10000100	5	3091	6:2000,9:5000,12:8000	14	furniture_classes-20000100	furniture_classes-30000100	Halloween2021_deco_08_icon	1	1	2021
+101	furniture_classes-10000101	5	3093	6:2000,9:5000,12:8000	13	furniture_classes-20000101	furniture_classes-30000101	WhiteV2022_deco_25_icon	1	1	2023
+102	furniture_classes-10000102	5	3094	6:2000,9:5000,12:8000	12	furniture_classes-20000102	furniture_classes-30000102	Anniversary2022_deco_03_icon	1	1	2023
+103	furniture_classes-10000103	5	3095	6:2000,9:5000,12:8000	12	furniture_classes-20000103	furniture_classes-30000103	Children2022_deco_01_icon	1	1	2022
+104	furniture_classes-10000104	5	3096	6:2000,9:5000,12:8000	13	furniture_classes-20000104	furniture_classes-30000104	SummerSwim2022_deco_11_icon	1	1	2023
+105	furniture_classes-10000105	5	3097	6:2000,9:5000,12:8000	12	furniture_classes-20000105	furniture_classes-30000105	Space2022_deco_16_icon	1	1	2023
+106	furniture_classes-10000106	5	3098	6:2000,9:5000,12:8000	12	furniture_classes-20000106	furniture_classes-30000106	Carnival2022_deco_12_icon	1	1	2023
+107	furniture_classes-10000107	5	3099	6:2000,9:5000,12:8000	14	furniture_classes-20000107	furniture_classes-30000107	KungFu2022_deco_11_icon	1	1	2023
+108	furniture_classes-10000108	5	3102	6:2000,9:5000,12:8000	12	furniture_classes-20000108	furniture_classes-30000108	HotSpring2023_deco_10_icon	1	1	2023
+109	furniture_classes-10000109	5	3103	6:2000,9:5000,12:8000	12	furniture_classes-20000109	furniture_classes-30000109	SpringFes2023_deco_06_icon	1	1	2023
+299	furniture_classes-10000299	5	0	0	10	furniture_classes-20000299	furniture_classes-30000299	SP_CatHouseLabel01_icon	0	0	0
+300	furniture_classes-10000300	5	0		3	furniture_classes-20000300	furniture_classes-30000300	poster_wa2000_halloween_icon	1	0	0
+301	furniture_classes-10000301	5	0		0	furniture_classes-20000301	furniture_classes-30000301	poster_wa2000_halloween_icon	0	0	0
+400	furniture_classes-10000400	5	0		100	furniture_classes-20000400	furniture_classes-30000400	xsh2017_deco_02_icon	0	0	0
+500	furniture_classes-10000500	5	0	0	7	furniture_classes-20000500	furniture_classes-30000500	poster_2016xmas_icon	2	0	0
+600	furniture_classes-10000600	5	0	0	28	furniture_classes-20000600	furniture_classes-30000600	Fetter_Stations_icon	1	0	0

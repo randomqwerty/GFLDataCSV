@@ -1,0 +1,6 @@
+star_id	lv_unlock	cost_data	chip_point	unlock_waiting_time	cpu_rate
+1	1	500	80	0	50
+2	1	300	130	3600	60
+3	1	600	230	3600	70
+4	1	1200	430	3600	85
+5	1	1800	830	3600	100

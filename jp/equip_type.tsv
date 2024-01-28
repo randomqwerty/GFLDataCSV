@@ -1,0 +1,25 @@
+type	name	category	code	fit_gun_type	des
+0	equip_type-10000000	0		0	equip_type-20000000
+1	equip_type-10000001	1	Optical_Sight	2,3,4,5,6	equip_type-20000001
+2	equip_type-10000002	1	Holographic_Sight	2,3,4,5,6	equip_type-20000002
+3	equip_type-10000003	1	RedDot_Sight	2,3,4,5,6	equip_type-20000003
+4	equip_type-10000004	1	NightBattle_Equipment	1,2,4,6	equip_type-20000004
+5	equip_type-10000005	2	AP_Ammo	3,5	equip_type-20000005
+6	equip_type-10000006	2	HP_Ammo	1,2	equip_type-20000006
+7	equip_type-10000007	2	Shotgun_Shells	6	equip_type-20000007
+8	equip_type-10000008	2	HV_Ammo	4	equip_type-20000008
+9	equip_type-10000009	3	Chip	2,4	equip_type-20000009
+10	equip_type-10000010	3	Exoskeleton	1,2,4	equip_type-20000010
+11	equip_type-10000011	3	ArmorPlate	6	equip_type-20000011
+12	equip_type-10000012	3	Medal	0	equip_type-20000012
+13	equip_type-10000013	1	Suppressor	1,2,3,4	equip_type-20000013
+14	equip_type-10000014	3	Ammunition_Box	5	equip_type-20000014
+15	equip_type-10000015	3	Camouflage_Cloak	3	equip_type-20000015
+16	equip_type-10000016	1	Spare_Sight	1,5	equip_type-20000016
+17	equip_type-10000017	2	Special_AP_Ammo	5	equip_type-20000017
+18	equip_type-10000018	1	Special_Accessories	0	equip_type-20000018
+19	equip_type-10000019	2	Special_Magazine	0	equip_type-20000019
+20	equip_type-10000020	3	Special_TDoll	0	equip_type-20000020
+21	equip_type-10000021	3	GroundMount	5	equip_type-20000021
+22	equip_type-10000022	1	Cylinder	6	equip_type-20000022
+23	equip_type-10000023	3	RangeFinder	3	equip_type-20000023
