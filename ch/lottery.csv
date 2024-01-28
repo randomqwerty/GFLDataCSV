@@ -1,7 +1,7 @@
-"id","item","name","first_info","first_count","first_code","second_info","second_count","second_code","third_info","third_count","third_code"
-"1","1600050","lottery-10000001","lottery-20000001","lottery-30000001","设定集","lottery-40000001","lottery-50000001","粘土人1","lottery-60000001","lottery-70000001","亚克力"
-"2","1600050","lottery-10000002","lottery-20000002","lottery-30000002","手办2","lottery-40000002","lottery-50000002","粘土人1","lottery-60000002","lottery-70000002","亚克力"
-"3","1600050","lottery-10000003","lottery-20000003","lottery-30000003","手办3","lottery-40000003","lottery-50000003","粘土人2","lottery-60000003","lottery-70000003","亚克力"
-"4","1600050","lottery-10000004","lottery-20000004","lottery-30000004","手办4","lottery-40000004","lottery-50000004","粘土人2","lottery-60000004","lottery-70000004","亚克力"
-"5","1600050","lottery-10000005","lottery-20000005","lottery-30000005","手办1","lottery-40000005","lottery-50000005","粘土人3","lottery-60000005","lottery-70000005","亚克力"
-"6","1600050","lottery-10000006","lottery-20000006","lottery-30000006","手办5","lottery-40000006","lottery-50000006","粘土人3","lottery-60000006","lottery-70000006","亚克力"
+id,item,name,first_info,first_count,first_code,second_info,second_count,second_code,third_info,third_count,third_code
+1,1600050,lottery-10000001,lottery-20000001,lottery-30000001,设定集,lottery-40000001,lottery-50000001,粘土人1,lottery-60000001,lottery-70000001,亚克力
+2,1600050,lottery-10000002,lottery-20000002,lottery-30000002,手办2,lottery-40000002,lottery-50000002,粘土人1,lottery-60000002,lottery-70000002,亚克力
+3,1600050,lottery-10000003,lottery-20000003,lottery-30000003,手办3,lottery-40000003,lottery-50000003,粘土人2,lottery-60000003,lottery-70000003,亚克力
+4,1600050,lottery-10000004,lottery-20000004,lottery-30000004,手办4,lottery-40000004,lottery-50000004,粘土人2,lottery-60000004,lottery-70000004,亚克力
+5,1600050,lottery-10000005,lottery-20000005,lottery-30000005,手办1,lottery-40000005,lottery-50000005,粘土人3,lottery-60000005,lottery-70000005,亚克力
+6,1600050,lottery-10000006,lottery-20000006,lottery-30000006,手办5,lottery-40000006,lottery-50000006,粘土人3,lottery-60000006,lottery-70000006,亚克力

@@ -1,6 +1,6 @@
-"type_id","name","en_name","class_name","class_en_name","hp","assist_damage","assist_reload","assist_hit","assist_def_break","damage","atk_speed","hit","def","fix_type","fix_time","mp_fix","part_fix"
-"1","squad_type-10000001","squad_type-20000001","squad_type-30000001","squad_type-40000001","1","147.51","53.53","126.96","157.82","0","0","0","0","1","60","1","0.5"
-"2","squad_type-10000002","squad_type-20000002","squad_type-30000002","squad_type-40000002","1","172.22","95.2","71.4","36.43","0","0","0","0","1","60","1","0.5"
-"3","squad_type-10000003","squad_type-20000003","squad_type-30000003","squad_type-40000003","1","84.61","219.7","96.87","78.49","0","0","0","0","1","60","1","0.5"
-"101","squad_type-10000101","squad_type-20000101","squad_type-30000101","squad_type-40000101","1","390.0","170.0","162.0","182.0","0","0","0","0","1","60","1","0.5"
-"102","squad_type-10000102","squad_type-20000102","squad_type-30000102","squad_type-40000102","1","390.0","170.0","162.0","182.0","0","0","0","0","1","60","1","0.5"
+type_id,name,en_name,class_name,class_en_name,hp,assist_damage,assist_reload,assist_hit,assist_def_break,damage,atk_speed,hit,def,fix_type,fix_time,mp_fix,part_fix
+1,squad_type-10000001,squad_type-20000001,squad_type-30000001,squad_type-40000001,1,147.51,53.53,126.96,157.82,0,0,0,0,1,60,1,0.5
+2,squad_type-10000002,squad_type-20000002,squad_type-30000002,squad_type-40000002,1,172.22,95.2,71.4,36.43,0,0,0,0,1,60,1,0.5
+3,squad_type-10000003,squad_type-20000003,squad_type-30000003,squad_type-40000003,1,84.61,219.7,96.87,78.49,0,0,0,0,1,60,1,0.5
+101,squad_type-10000101,squad_type-20000101,squad_type-30000101,squad_type-40000101,1,390.0,170.0,162.0,182.0,0,0,0,0,1,60,1,0.5
+102,squad_type-10000102,squad_type-20000102,squad_type-30000102,squad_type-40000102,1,390.0,170.0,162.0,182.0,0,0,0,0,1,60,1,0.5

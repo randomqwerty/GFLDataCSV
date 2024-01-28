@@ -1,5 +1,5 @@
-"id","name","des","camp_skill","passive_skill","color","code"
-"1","chess_camp_type-10000001","chess_camp_type-20000001","303","30320,30321","#C7E001FF","MiniGameFlightChessCamp1"
-"2","chess_camp_type-10000002","chess_camp_type-20000002","302","","#00D9C1FF","MiniGameFlightChessCamp2"
-"3","chess_camp_type-10000003","chess_camp_type-20000003","305","31002,31102,31202","#DFB801FF","MiniGameFlightChessCamp3"
-"4","chess_camp_type-10000004","chess_camp_type-20000004","304","","#E04900FF","MiniGameFlightChessCamp4"
+id,name,des,camp_skill,passive_skill,color,code
+1,chess_camp_type-10000001,chess_camp_type-20000001,303,"30320,30321",#C7E001FF,MiniGameFlightChessCamp1
+2,chess_camp_type-10000002,chess_camp_type-20000002,302,,#00D9C1FF,MiniGameFlightChessCamp2
+3,chess_camp_type-10000003,chess_camp_type-20000003,305,"31002,31102,31202",#DFB801FF,MiniGameFlightChessCamp3
+4,chess_camp_type-10000004,chess_camp_type-20000004,304,,#E04900FF,MiniGameFlightChessCamp4
