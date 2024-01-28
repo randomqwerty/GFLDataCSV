@@ -1,6 +1,6 @@
-id,type,name,code,voice,substitute_voice,obtain_txt,item_id,pos_info
-1001,2:1022,adjutant_skin-10001001,NPC-Tareus/0,0,,adjutant_skin-20001001,161000,
-1003,2:1024,adjutant_skin-10001003,NPC-Tareus/3,0,,adjutant_skin-20001003,0,"1.2;-99,-191"
-1004,2:1025,adjutant_skin-10001004,NPC-Tareus/4,0,,adjutant_skin-20001004,0,"1.2;-99,-191"
-1010,2:1031,adjutant_skin-10001010,NPC-Sana/5,0,,adjutant_skin-20001010,161001,
-1012,2:1033,adjutant_skin-10001012,NPC-Sana/7,0,,adjutant_skin-20001012,0,
+"id","type","name","code","voice","substitute_voice","obtain_txt","item_id","pos_info"
+"1001","2:1022","adjutant_skin-10001001","NPC-Tareus/0","0","","adjutant_skin-20001001","161000",""
+"1003","2:1024","adjutant_skin-10001003","NPC-Tareus/3","0","","adjutant_skin-20001003","0","1.2;-99,-191"
+"1004","2:1025","adjutant_skin-10001004","NPC-Tareus/4","0","","adjutant_skin-20001004","0","1.2;-99,-191"
+"1010","2:1031","adjutant_skin-10001010","NPC-Sana/5","0","","adjutant_skin-20001010","161001",""
+"1012","2:1033","adjutant_skin-10001012","NPC-Sana/7","0","","adjutant_skin-20001012","0",""

@@ -1,3 +1,3 @@
-id,name,name_en,code,fix_time,mp_fix,part_fix
-1,vehicle_type-10000001,vehicle_type-20000001,Tank,60,1,0.5
-2,vehicle_type-10000002,vehicle_type-20000002,Warjack,60,1,0.5
+"id","name","name_en","code","fix_time","mp_fix","part_fix"
+"1","vehicle_type-10000001","vehicle_type-20000001","Tank","60","1","0.5"
+"2","vehicle_type-10000002","vehicle_type-20000002","Warjack","60","1","0.5"

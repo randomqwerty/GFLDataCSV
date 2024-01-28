@@ -1,5 +1,5 @@
-id,name,type,parameter,init_time,cd,code,description,probability
-1,chess_choice_stage-10000001,1,60301,"1,2",3,AirdropIcon_1,chess_choice_stage-20000001,10000
-2,chess_choice_stage-10000002,2,5,"1,2",3,AirdropIcon_2,chess_choice_stage-20000002,10000
-3,chess_choice_stage-10000003,0,,,0,,chess_choice_stage-20000003,0
-4,chess_choice_stage-10000004,0,,,0,,chess_choice_stage-20000004,0
+"id","name","type","parameter","init_time","cd","code","description","probability"
+"1","chess_choice_stage-10000001","1","60301","1,2","3","AirdropIcon_1","chess_choice_stage-20000001","10000"
+"2","chess_choice_stage-10000002","2","5","1,2","3","AirdropIcon_2","chess_choice_stage-20000002","10000"
+"3","chess_choice_stage-10000003","0","","","0","","chess_choice_stage-20000003","0"
+"4","chess_choice_stage-10000004","0","","","0","","chess_choice_stage-20000004","0"

@@ -1,7 +1,7 @@
-id,main_id,sub_id,lines_code,lines_txt
-1,g:9,g:272,||||||||,bondage_lines-10000001
-2,g:9,g:167,|||||||,bondage_lines-10000002
-3,g:9,g:92,|||||||||,bondage_lines-10000003
-4,g:167,g:92,|||||,bondage_lines-10000004
-5,g:167,g:272,|||||||||,bondage_lines-10000005
-6,g:7,g:272,||||||||,bondage_lines-10000006
+"id","main_id","sub_id","lines_code","lines_txt"
+"1","g:9","g:272","||||||||","bondage_lines-10000001"
+"2","g:9","g:167","|||||||","bondage_lines-10000002"
+"3","g:9","g:92","|||||||||","bondage_lines-10000003"
+"4","g:167","g:92","|||||","bondage_lines-10000004"
+"5","g:167","g:272","|||||||||","bondage_lines-10000005"
+"6","g:7","g:272","||||||||","bondage_lines-10000006"
