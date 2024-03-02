@@ -125,10 +125,15 @@ obtain_id,description,detail,goto_page_id
 317,gun_obtain-10000317,0,0
 318,gun_obtain-10000318,0,0
 319,gun_obtain-10000319,0,0
+320,gun_obtain-10000320,0,0
 403,gun_obtain-10000403,0,0
 411,gun_obtain-10000411,0,0
 415,gun_obtain-10000415,0,0
 424,gun_obtain-10000424,0,0
+425,gun_obtain-10000425,0,0
+426,gun_obtain-10000426,0,0
+427,gun_obtain-10000427,0,0
+428,gun_obtain-10000428,0,0
 502,gun_obtain-10000502,0,0
 503,gun_obtain-10000503,0,0
 504,gun_obtain-10000504,0,0
