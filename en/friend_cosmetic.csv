@@ -1137,6 +1137,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1232,2232,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFes2023_Tabuk,1,5,,8006,0,,0,,0
 1233,2233,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFes2023_APC556,1,5,,8007,0,,0,,0
 1234,2234,1,0,0,0,0,40,508-1000,1,0,profilePic_SpringFes2023_DP28,1,5,,8008,0,,0,,0
+1235,2235,1,0,0,0,0,0,,0,0,profilePic_sangvis_Scarecrow_SpringFes,1,5,,0,0,5,200002,,0
 1236,2236,1,0,0,0,0,200,508-5000,1,0,profilePic_Saga2023_Sakura,1,5,,587,0,,0,,0
 1237,2237,1,0,0,0,0,200,508-5000,1,0,profilePic_Saga2023_Saki,1,5,,588,0,,0,,0
 1238,2238,1,0,0,0,0,200,508-5000,1,0,profilePic_Saga2023_Ai,1,5,,589,0,,0,,0

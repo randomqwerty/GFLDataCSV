@@ -1241,6 +1241,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2232,5,1,profilePic_SpringFes2023_Tabuk,item-10002232,item-20002232,1,0,,,0,0,,item-30002232,0
 2233,5,1,profilePic_SpringFes2023_APC556,item-10002233,item-20002233,1,0,,,0,0,,item-30002233,0
 2234,5,1,profilePic_SpringFes2023_DP28,item-10002234,item-20002234,1,0,,,0,0,,item-30002234,0
+2235,5,1,profilePic_sangvis_Scarecrow_SpringFes,item-10002235,item-20002235,1,0,,,0,0,,item-30002235,0
 2236,5,1,profilePic_Saga2023_Sakura,item-10002236,item-20002236,1,0,,,0,0,,item-30002236,0
 2237,5,1,profilePic_Saga2023_Saki,item-10002237,item-20002237,1,0,,,0,0,,item-30002237,0
 2238,5,1,profilePic_Saga2023_Ai,item-10002238,item-20002238,1,0,,,0,0,,item-30002238,0
@@ -1571,6 +1572,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100168,4,100168,Platinum_medal_black,item-10100168,item-20100168,1,0,,,0,0,,item-30100168,0
 100175,9,100175,Koutarou_Coin,item-10100175,item-20100175,1,0,,60,0,0,,item-30100175,0
 100176,4,100176,Platinum_medal_black,item-10100176,item-20100176,1,0,,,0,0,,item-30100176,0
+100177,4,100177,Nova_medal,item-10100177,item-20100177,1,0,,,0,0,,item-30100177,0
+100178,4,100178,Platinum_medal,item-10100178,item-20100178,1,0,,,0,0,,item-30100178,0
+100179,9,100179,Roasted_Cocoa,item-10100179,item-20100179,1,0,,120,0,0,,item-30100179,0
 100180,9,100180,Bumdle_2023SlowShock,item-10100180,item-20100180,1,0,,60,0,0,,item-30100180,0
 100181,4,100181,Nova_medal,item-10100181,item-20100181,1,0,,,0,0,,item-30100181,0
 100182,4,100182,Platinum_medal,item-10100182,item-20100182,1,0,,,0,0,,item-30100182,0
