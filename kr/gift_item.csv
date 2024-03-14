@@ -133,6 +133,9 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 595,gift_item-10000595,2,6,50000,283,595,30595,gift_bundle_AprilFool2023_Liberator,gift_item-30000595,gift_item-50000595,0,0,0,,gift_item-40000595,0,gift_item-20000595
 596,gift_item-10000596,2,6,50000,143,596,30596,gift_bundle_Carnival2023_RO635,gift_item-30000596,gift_item-50000596,0,0,0,,gift_item-40000596,0,gift_item-20000596
 597,gift_item-10000597,2,6,50000,86,597,30597,gift_bundle_ChessBonus_MG42,gift_item-30000597,gift_item-50000597,0,0,0,,gift_item-40000597,0,gift_item-20000597
+598,gift_item-10000598,2,6,50000,1043,598,30598,gift_bundle_Ghost2024_Ezaki,gift_item-30000598,gift_item-50000598,0,0,0,,gift_item-40000598,0,gift_item-20000598
+599,gift_item-10000599,2,6,50000,1044,599,30599,gift_bundle_Ghost2024_Mizukinn,gift_item-30000599,gift_item-50000599,0,0,0,,gift_item-40000599,0,gift_item-20000599
+600,gift_item-10000600,2,6,50000,1042,600,30600,gift_bundle_Ghost2024_Motoko,gift_item-30000600,gift_item-50000600,0,0,0,,gift_item-40000600,0,gift_item-20000600
 601,gift_item-10000601,2,6,50000,6,601,30601,gift_bundle_wedding_tt33,gift_item-30000601,gift_item-50000601,0,0,0,,gift_item-40000601,0,gift_item-20000601
 602,gift_item-10000602,2,6,50000,21,602,30602,gift_bundle_wedding_ppsh41,gift_item-30000602,gift_item-50000602,0,0,0,,gift_item-40000602,0,gift_item-20000602
 603,gift_item-10000603,2,6,50000,29,603,30603,gift_bundle_wedding_stenmkii,gift_item-30000603,gift_item-50000603,0,0,0,,gift_item-40000603,0,gift_item-20000603
@@ -721,6 +724,15 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 10106,gift_item-10010106,2,6,50000,60,10106,310106,gift_bundle_SpringFes2024_ASVAL,gift_item-30010106,gift_item-50010106,0,0,0,,gift_item-40010106,0,gift_item-20010106
 10107,gift_item-10010107,2,6,50000,139,10107,310107,gift_bundle_SpringFes2024_BrenTen,gift_item-30010107,gift_item-50010107,0,0,0,,gift_item-40010107,0,gift_item-20010107
 10108,gift_item-10010108,2,6,50000,388,10108,310108,gift_bundle_SpringFes2024_QBU191,gift_item-30010108,gift_item-50010108,0,0,0,,gift_item-40010108,0,gift_item-20010108
+10201,gift_item-10010201,2,6,50000,376,10201,310201,gift_bundle_WhiteV2024_Erma,gift_item-30010201,gift_item-50010201,0,0,0,,gift_item-40010201,0,gift_item-20010201
+10202,gift_item-10010202,2,6,50000,390,10202,310202,gift_bundle_WhiteV2024_HK433,gift_item-30010202,gift_item-50010202,0,0,0,,gift_item-40010202,0,gift_item-20010202
+10203,gift_item-10010203,2,6,50000,65,10203,310203,gift_bundle_WhiteV2024_HK416,gift_item-30010203,gift_item-50010203,0,0,0,,gift_item-40010203,0,gift_item-20010203
+10204,gift_item-10010204,2,6,50000,316,10204,310204,gift_bundle_WhiteV2024_GeneralLiu,gift_item-30010204,gift_item-50010204,0,0,0,,gift_item-40010204,0,gift_item-20010204
+10205,gift_item-10010205,2,6,50000,251,10205,310205,gift_bundle_WhiteV2024_X95,gift_item-30010205,gift_item-50010205,0,0,0,,gift_item-40010205,0,gift_item-20010205
+10207,gift_item-10010207,2,6,50000,194,10207,310207,gift_bundle_WhiteV2024_K2,gift_item-30010207,gift_item-50010207,0,0,0,,gift_item-40010207,0,gift_item-20010207
+10208,gift_item-10010208,2,6,50000,160,10208,310208,gift_bundle_WhiteV2024_Saiga12,gift_item-30010208,gift_item-50010208,0,0,0,,gift_item-40010208,0,gift_item-20010208
+10209,gift_item-10010209,2,6,50000,63,10209,310209,gift_bundle_WhiteV2024_G3,gift_item-30010209,gift_item-50010209,0,0,0,,gift_item-40010209,0,gift_item-20010209
+10210,gift_item-10010210,2,6,50000,47,10210,310210,gift_bundle_WhiteV2024_G43,gift_item-30010210,gift_item-50010210,0,0,0,,gift_item-40010210,0,gift_item-20010210
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,0,gift_item-20030001
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,0,gift_item-20030002
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,0,gift_item-20030003
@@ -736,6 +748,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 30013,gift_item-10030013,2,6,50000,390,30013,330013,gift_bundle_BattlePass_HK433,gift_item-30030013,gift_item-50030013,0,0,0,,gift_item-40030013,0,gift_item-20030013
 30014,gift_item-10030014,2,6,50000,97,30014,330014,gift_bundle_BattlePass_M950A,gift_item-30030014,gift_item-50030014,0,0,0,,gift_item-40030014,0,gift_item-20030014
 30015,gift_item-10030015,2,6,50000,129,30015,330015,gift_bundle_BattlePass_95type,gift_item-30030015,gift_item-50030015,0,0,0,,gift_item-40030015,0,gift_item-20030015
+30017,gift_item-10030017,2,6,50000,54,30017,330017,gift_bundle_BattlePass_M16A1,gift_item-30030017,gift_item-50030017,0,0,0,,gift_item-40030017,0,gift_item-20030017
 100001,gift_item-10100001,1,2,1000,0,0,0,gift_item_lollipop_N,gift_item-30100001,gift_item-50100001,0,0,0,21,gift_item-40100001,1001,gift_item-20100001
 100002,gift_item-10100002,1,3,3000,0,0,0,gift_item_icecream_R,gift_item-30100002,gift_item-50100002,0,0,0,21,gift_item-40100002,1002,gift_item-20100002
 100003,gift_item-10100003,1,4,10000,0,0,0,gift_item_cake_SR,gift_item-30100003,gift_item-50100003,0,0,0,21|19|11|2,gift_item-40100003,1003,gift_item-20100003
@@ -757,6 +770,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 100019,gift_item-10100019,1,2,1000,0,0,0,gift_item_dessert,gift_item-30100019,gift_item-50100019,0,0,0,33,gift_item-40100019,-1015,gift_item-20100019
 100020,gift_item-10100020,1,2,1000,0,0,0,gift_item_watermelonballoon,gift_item-30100020,gift_item-50100020,0,0,0,33,gift_item-40100020,-1015,gift_item-20100020
 100021,gift_item-10100021,1,5,30000,0,0,0,gift_item_glowstick,gift_item-30100021,gift_item-50100021,0,0,0,2,gift_item-40100021,-1015,gift_item-20100021
+100022,gift_item-10100022,1,5,30000,0,0,0,gift_item_GhostPudding,gift_item-30100022,gift_item-50100022,0,0,0,2,gift_item-40100022,-1017,gift_item-20100022
 200001,gift_item-10200001,3,6,0,0,0,0,battle_report,gift_item-30200001,gift_item-50200001,0,3000,0,24|16|6|2,gift_item-40200001,1004,gift_item-20200001
 200002,gift_item-10200002,3,5,0,0,0,0,gift_item_brightsong,gift_item-30200002,gift_item-50200002,0,10000,0,2,gift_item-40200002,-1006,gift_item-20200002
 200003,gift_item-10200003,3,5,0,0,0,0,gift_item_cheapbeer,gift_item-30200003,gift_item-50200003,0,10000,0,2,gift_item-40200003,-1008,gift_item-20200003
@@ -778,4 +792,5 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 200019,gift_item-10200019,3,6,0,0,0,0,gift_item_watergun2,gift_item-30200019,gift_item-50200019,0,3000,0,33,gift_item-40200019,-1015,gift_item-20200019
 200020,gift_item-10200020,3,6,0,0,0,0,gift_item_surfboard,gift_item-30200020,gift_item-50200020,0,3000,0,33,gift_item-40200020,-1015,gift_item-20200020
 200021,gift_item-10200021,3,5,0,0,0,0,gift_item_Sagamic,gift_item-30200021,gift_item-50200021,0,10000,0,2,gift_item-40200021,-1016,gift_item-20200021
+200022,gift_item-10200022,3,5,0,0,0,0,gift_item_GhostPiece,gift_item-30200022,gift_item-50200022,0,10000,0,2,gift_item-40200022,-1017,gift_item-20200022
 400001,gift_item-10400001,4,6,0,0,0,0,SangvisExp_RapidGrowthDisk,gift_item-30400001,gift_item-50400001,0,3000,0,19|20|22,gift_item-40400001,1005,gift_item-20400001

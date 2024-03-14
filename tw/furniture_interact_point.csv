@@ -69,6 +69,8 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 70,,-1,0,,-1,point,0,wait,,
 71,wait,-1,10,action2,1,,0,wait,,1
 72,wait,-1,10,action3,-1,,0,wait,,1
+73,sit,-1,10,action,1,,0,sit,,
+74,wait,-1,10,|||action,-1,,0,wait,,
 104,bird_sit,-1,21,,-1,,0,sit,,
 105,bird_sit,-1,21,action,-1,,0,sit,,
 106,bird_sit,-1,21,||action,-1,,0,sit,,

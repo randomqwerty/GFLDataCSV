@@ -256,5 +256,13 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 100049,enemy_illustration-10100049,3,80type_SagaEnemy,enemy_illustration-20100049,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100049,100,10049,2035-12-31,enemy_illustration-40100049,,0,0,0
 100050,enemy_illustration-10100050,3,M1897_SagaEnemy,enemy_illustration-20100050,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100050,100,10050,2035-12-31,enemy_illustration-40100050,,0,0,0
 100051,enemy_illustration-10100051,3,G11_SagaEnemy,enemy_illustration-20100051,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100051,100,10051,2035-12-31,enemy_illustration-40100051,,0,0,0
+100052,enemy_illustration-10100052,3,FacelessMenA,enemy_illustration-20100052,0,0,1,4,1,5,4,0,1,5,enemy_illustration-30100052,303,40,2035-12-31,enemy_illustration-40100052,,0,0,0
+100053,enemy_illustration-10100053,3,FacelessMenB,enemy_illustration-20100053,0,0,1,4,1,5,4,0,1,5,enemy_illustration-30100053,303,40,2035-12-31,enemy_illustration-40100053,,0,0,0
+100054,enemy_illustration-10100054,3,SPS_NPC,enemy_illustration-20100054,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100054,100,,2035-12-31,enemy_illustration-40100054,,0,0,0
+100055,enemy_illustration-10100055,3,KSVK_NPC,enemy_illustration-20100055,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100055,100,,2035-12-31,enemy_illustration-40100055,,0,0,0
+100056,enemy_illustration-10100056,3,A545_NPC,enemy_illustration-20100056,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100056,100,,2035-12-31,enemy_illustration-40100056,,0,0,0
+100057,enemy_illustration-10100057,1,EzakiBoss,enemy_illustration-20100057,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100057,1001,10052|10053,2035-12-31,enemy_illustration-40100057,,0,0,0
+100058,enemy_illustration-10100058,1,TakashiBoss,enemy_illustration-20100058,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100058,1001,10054|10055,2035-12-31,enemy_illustration-40100058,,0,0,0
+100059,enemy_illustration-10100059,1,MizukinnBoss,enemy_illustration-20100059,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100059,1001,10056|10057|10058,2035-12-31,enemy_illustration-40100059,,0,0,0
 100082,enemy_illustration-10100082,3,Brute_SWAP,enemy_illustration-20100082,1,0,5,3,4,3,2,0,4,2,enemy_illustration-30100082,1003|303|315,54|55,2035-12-31,enemy_illustration-40100082,,0,0,0
 100083,enemy_illustration-10100083,4,Nemeum_SWAP2,enemy_illustration-20100083,1,0,4,5,6,0,3,4,4,4,enemy_illustration-30100083,1003|309|307,56,2035-12-31,enemy_illustration-40100083,,0,0,0

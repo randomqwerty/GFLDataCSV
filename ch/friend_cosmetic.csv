@@ -1126,7 +1126,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1137,2137,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season7_1,1,5,,0,0,1,200008,logo_flightchess_major,0
 1138,2138,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season7_2,1,5,,0,0,1,200007,logo_flightchess_general,0
 1139,2139,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season7_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
-1140,2140,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_AR15,1,5,,30001,0,4,200005,,0
+1140,2140,1,0,0,0,0,160,508-4000,1,0,profilePic_BattlePass_AR15,1,5,,30001,0,4,200005,,0
 1141,2141,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_AR15,1,5,,0,0,,0,,0
 1142,2142,3,0,0,0,0,600,508-15000,1,0,cg_2022cosmos,1,10,,0,1,6,0,,0
 1143,2143,1,0,0,0,0,0,,0,0,profilePic_Summer2022_coremask,1,5,,0,0,1,0,logo_summer22,0
@@ -1440,6 +1440,17 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1451,2451,1,0,0,0,0,200,508-5000,1,0,profilePic_Ghost2024_Mizukinn,1,5,,599,0,,0,,0
 1452,2452,1,0,0,0,0,200,508-5000,0,0,profilePic_friendmall_M110,1,5,,0,0,,0,,3136
 1453,2453,2,0,0,0,0,320,508-8000,0,0,card_friendmall_M110,1,5,,0,0,,0,,3133
+1454,2454,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M16A1,1,5,,0,0,,0,,0
+1455,2455,1,0,0,0,0,160,508-4000,1,0,profilePic_BattlePass_M16A1,1,5,,30017,0,,0,,0
+1456,2456,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2024_Erma,1,5,,10201,0,,0,,0
+1457,2457,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2024_HK433,1,5,,10202,0,,0,,0
+1458,2458,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2024_HK416,1,5,,10203,0,,0,,0
+1459,2459,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2024_GeneralLiu,1,5,,10204,0,,0,,0
+1460,2460,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2024_X95,1,5,,10205,0,,0,,0
+1461,2461,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2024_K2,1,5,,10207,0,,0,,0
+1462,2462,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2024_Saiga12,1,5,,10208,0,,0,,0
+1463,2463,1,0,0,0,0,40,508-1000,1,0,profilePic_WhiteV2024_G3,1,5,,10209,0,,0,,0
+1464,2464,1,0,0,0,0,40,508-1000,1,0,profilePic_WhiteV2024_G43,1,5,,10210,0,,0,,0
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
@@ -1479,3 +1490,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100039,200039,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_95type,1,5,,0,0,5,0,,0
 100040,200040,4,0,0,0,0,0,,0,0,profileFrame_bonus_snack,1,5,,0,0,5,0,,0
 100041,200041,4,0,0,0,0,200,508-5000,0,0,profileFrame_friendmall_M110,1,5,,0,0,5,0,,3139
+100042,200042,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M16A1,1,5,,0,0,5,0,,0
