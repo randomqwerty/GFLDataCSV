@@ -1321,6 +1321,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2315,5,1,card_friendmall_PA15,item-10002315,item-20002315,1,0,,,0,0,,item-30002315,0
 2316,5,1,card_BattlePass_QBZ191,item-10002316,item-20002316,1,0,,,0,0,,item-30002316,0
 2317,5,1,profilePic_BattlePass_QBZ191,item-10002317,item-20002317,1,0,,,0,0,,item-30002317,0
+2318,5,1,profilePic_ChessFlight_season11_1,item-10002318,item-20002318,1,0,,,0,0,,item-30002318,0
+2319,5,1,profilePic_ChessFlight_season11_2,item-10002319,item-20002319,1,0,,,0,0,,item-30002319,0
+2320,5,1,profilePic_ChessFlight_season11_3,item-10002320,item-20002320,1,0,,,0,0,,item-30002320,0
+2322,5,1,profilePic_sangvis_Nyto_mecha2,item-10002322,item-20002322,1,0,,,0,0,,item-30002322,0
 2323,5,1,profilePic_Children2023_G11,item-10002323,item-20002323,1,0,,,0,0,,item-30002323,0
 2324,5,1,profilePic_Children2023_M240L,item-10002324,item-20002324,1,0,,,0,0,,item-30002324,0
 2325,5,1,profilePic_Children2023_AA12,item-10002325,item-20002325,1,0,,,0,0,,item-30002325,0
@@ -1477,6 +1481,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10703,18,10703,daily_points,item-10010703,item-20010703,1,0,,,0,0,,item-30010703,0
 10704,18,10704,daily_points,item-10010704,item-20010704,1,0,,,0,0,,item-30010704,0
 10705,18,10705,daily_points,item-10010705,item-20010705,1,0,,,0,0,,item-30010705,0
+10706,18,10706,daily_points,item-10010706,item-20010706,1,0,,,0,0,,item-30010706,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0
 100002,4,100002,Bumdle_1year,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0
 100003,4,100003,Activity_RedPacket,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0
@@ -1721,6 +1726,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 130018,12,130018,Y_Z_zhihuiguan_Athlete,item-10130018,item-20130018,1,0,,,0,0,,item-30130018,0
 130019,12,130019,Y_Z_zhihuiguan_Hagunsei,item-10130019,item-20130019,1,0,,,0,0,,item-30130019,0
 130020,12,130020,Y_Z_zhihuiguan_Cannon,item-10130020,item-20130020,1,0,,,0,0,,item-30130020,0
+130021,12,130021,Y_Z_zhihuiguan_zidan,item-10130021,item-20130021,1,0,,,0,0,,item-30130021,0
 140001,14,1,Y_Z_zhihuiguan_Chessman,item-10140001,item-20140001,1,0,,,0,0,,item-30140001,0
 140002,14,1,Y_Z_zhihuiguan_Chessman,item-10140002,item-20140002,1,0,,,0,0,,item-30140002,0
 140003,14,1,Y_Z_zhihuiguan_Chessman,item-10140003,item-20140003,1,0,,,0,0,,item-30140003,0
@@ -1889,6 +1895,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500082,15,1500082,package_choose,item-11500082,item-21500082,1,-1,,,0,0,,item-31500082,0
 1500083,15,1500083,package_random,item-11500083,item-21500083,1,-1,,,0,0,,item-31500083,0
 1500084,15,1500084,package_random,item-11500084,item-21500084,1,-1,,,0,0,,item-31500084,0
+1500085,15,1500085,package_choose,item-11500085,item-21500085,1,-1,,,0,0,,item-31500085,0
+1500086,15,1500086,package_choose,item-11500086,item-21500086,1,-1,,,0,0,,item-31500086,0
+1500087,15,1500087,package_choose,item-11500087,item-21500087,1,-1,,,0,0,,item-31500087,0
 1500091,15,1500091,package_choose,item-11500091,item-21500091,1,-1,,,0,0,,item-31500091,0
 1500092,15,1500092,package_choose,item-11500092,item-21500092,1,-1,,,0,0,,item-31500092,0
 1500093,15,1500093,package_random,item-11500093,item-21500093,1,-1,,,0,0,,item-31500093,0
