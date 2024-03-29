@@ -1572,6 +1572,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2462,5,1,profilePic_WhiteV2024_Saiga12,item-10002462,item-20002462,1,0,,,0,0,,item-30002462,0
 2463,5,1,profilePic_WhiteV2024_G3,item-10002463,item-20002463,1,0,,,0,0,,item-30002463,0
 2464,5,1,profilePic_WhiteV2024_G43,item-10002464,item-20002464,1,0,,,0,0,,item-30002464,0
+2465,5,1,profilePic_AprilFool2024_ZasM76,item-10002465,item-20002465,1,0,,,0,0,,item-30002465,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -1985,6 +1986,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 110067,4,110067,PT,item-10110067,item-20110067,1,0,,,0,0,,item-30110067,0
 110068,4,110068,PT,item-10110068,item-20110068,1,0,,,0,0,,item-30110068,0
 110069,4,110069,PT,item-10110069,item-20110069,1,0,,,0,0,,item-30110069,0
+110070,4,110070,PT,item-10110070,item-20110070,1,0,,,0,0,,item-30110070,0
 120001,10,1,bondage_lines_icon,item-10120001,item-20120001,1,0,,,0,0,,item-30120001,0
 120002,10,2,bondage_lines_icon,item-10120002,item-20120002,1,0,,,0,0,,item-30120002,0
 120003,10,3,bondage_lines_icon,item-10120003,item-20120003,1,0,,,0,0,,item-30120003,0

@@ -1270,6 +1270,10 @@ id,formula
 2361,@maxlife*0.05
 2362,getchance(tbuffidtier(5263)*10)?1:0
 2363,tbuffidtier(5266)>0?0:-99
+2364,@Maxlife*0.05
+2365,0
+2366,#Life*0.99
+2367,(sbuffidtier(9505)+sbuffidtier(9506))=2?0:1
 3001,170+sbuffidtier(3300)*22
 3002,180+sbuffidtier(3300)*26
 3003,190+sbuffidtier(3300)*30
