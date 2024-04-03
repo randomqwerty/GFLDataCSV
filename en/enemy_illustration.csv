@@ -211,6 +211,12 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 211,enemy_illustration-10000211,3,M16A1Griffin,enemy_illustration-20000211,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000211,100,,2035-12-31,enemy_illustration-40000211,70|70|1,0,0,0
 212,enemy_illustration-10000212,3,USSR_Agent,enemy_illustration-20000212,0,0,1,3,2,3,5,0,3,3,enemy_illustration-30000212,1001,,2035-05-20,enemy_illustration-40000212,,0,0,0
 213,enemy_illustration-10000213,3,Obelisk_partB,enemy_illustration-20000213,3,0,1,3,3,5,3,0,1,4,enemy_illustration-30000213,1001|1003|335|320,130,2035-05-20,enemy_illustration-40000213,100|100|1,0,0,0
+217,enemy_illustration-10000217,3,AR15Mod_enemy,enemy_illustration-20000217,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000217,100,224|225|226|227,2035-12-31,enemy_illustration-40000217,70|70|1,0,0,0
+218,enemy_illustration-10000218,3,A545_NPC,enemy_illustration-20000218,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000218,100,222,2035-12-31,enemy_illustration-40000218,70|70|1,0,0,0
+219,enemy_illustration-10000219,3,PPsh41Enemy,enemy_illustration-20000219,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000219,100,223,2035-12-31,enemy_illustration-40000219,70|70|1,0,0,0
+220,enemy_illustration-10000220,3,AK47_enemy,enemy_illustration-20000220,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000220,100,,2035-12-31,enemy_illustration-40000220,70|70|1,0,0,0
+221,enemy_illustration-10000221,3,VZ61Enemy,enemy_illustration-20000221,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000221,100,,2035-12-31,enemy_illustration-40000221,70|70|1,0,0,0
+222,enemy_illustration-10000222,3,MAC10Enemy,enemy_illustration-20000222,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000222,100,,2035-12-31,enemy_illustration-40000222,70|70|1,0,0,0
 100001,enemy_illustration-10100001,1,Gebbennu,enemy_illustration-20100001,3,0,6,7,5,5,4,4,4,5,enemy_illustration-30100001,1001|309,,2035-12-31,enemy_illustration-40100001,,0,0,0
 100011,enemy_illustration-10100011,3,DivMauler,enemy_illustration-20100011,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100011,401|402,,2035-12-31,enemy_illustration-40100011,,0,0,0
 100012,enemy_illustration-10100012,3,DivGrenadier,enemy_illustration-20100012,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100012,403,,2035-12-31,enemy_illustration-40100012,,0,0,0

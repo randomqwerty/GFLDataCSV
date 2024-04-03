@@ -1184,6 +1184,10 @@ id,formula
 2275,sbuffidtier(5103)
 2276,(tbufftypetier(101)+tbufftypetier(102)+tbufftypetier(103)+tbufftypetier(104)+tbufftypetier(105)+tbufftypetier(106)+tbufftypetier(109)<=0)|(#enemytype=1)?0:1
 2277,sbuffidtier(5111)*3
+2364,@Maxlife*0.05
+2365,0
+2366,#Life*0.99
+2367,(sbuffidtier(9505)+sbuffidtier(9506))=2?0:1
 3001,170+sbuffidtier(3300)*22
 3002,180+sbuffidtier(3300)*26
 3003,190+sbuffidtier(3300)*30

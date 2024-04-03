@@ -214,6 +214,12 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 214,enemy_illustration-10000214,1,Nyto_mecha2,enemy_illustration-20000214,3,1,5,6,5,6,4,0,6,7,enemy_illustration-30000214,1001|216,211|212|213|214|215|216,2035-05-20,enemy_illustration-40000214,70|70|1,10604,0,0
 215,enemy_illustration-10000215,1,BossNarciss,enemy_illustration-20000215,3,1,5,5,5,5,5,0,5,5,enemy_illustration-30000215,1001|329|330,108|109|110,2035-05-20,enemy_illustration-40000215,,10603,0,0
 216,enemy_illustration-10000216,1,Dreamer_Halloween,enemy_illustration-20000216,1,1,5,5,5,5,5,0,5,5,enemy_illustration-30000216,1001|209,70|97,2035-05-20,enemy_illustration-40000216,,10604,0,0
+217,enemy_illustration-10000217,3,AR15Mod_enemy,enemy_illustration-20000217,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000217,100,224|225|226|227,2035-12-31,enemy_illustration-40000217,70|70|1,0,0,0
+218,enemy_illustration-10000218,3,A545_NPC,enemy_illustration-20000218,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000218,100,222,2035-12-31,enemy_illustration-40000218,70|70|1,0,0,0
+219,enemy_illustration-10000219,3,PPsh41Enemy,enemy_illustration-20000219,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000219,100,223,2035-12-31,enemy_illustration-40000219,70|70|1,0,0,0
+220,enemy_illustration-10000220,3,AK47_enemy,enemy_illustration-20000220,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000220,100,,2035-12-31,enemy_illustration-40000220,70|70|1,0,0,0
+221,enemy_illustration-10000221,3,VZ61Enemy,enemy_illustration-20000221,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000221,100,,2035-12-31,enemy_illustration-40000221,70|70|1,0,0,0
+222,enemy_illustration-10000222,3,MAC10Enemy,enemy_illustration-20000222,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000222,100,,2035-12-31,enemy_illustration-40000222,70|70|1,0,0,0
 100001,enemy_illustration-10100001,1,Gebbennu,enemy_illustration-20100001,3,0,6,7,5,5,4,4,4,5,enemy_illustration-30100001,1001|309,,2035-12-31,enemy_illustration-40100001,,0,0,0
 100011,enemy_illustration-10100011,3,DivMauler,enemy_illustration-20100011,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100011,401|402,,2035-12-31,enemy_illustration-40100011,,0,0,0
 100012,enemy_illustration-10100012,3,DivGrenadier,enemy_illustration-20100012,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100012,403,,2035-12-31,enemy_illustration-40100012,,0,0,0
