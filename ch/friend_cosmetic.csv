@@ -1452,6 +1452,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1463,2463,1,0,0,0,0,40,508-1000,1,0,profilePic_WhiteV2024_G3,1,5,,10209,0,,0,,0
 1464,2464,1,0,0,0,0,40,508-1000,1,0,profilePic_WhiteV2024_G43,1,5,,10210,0,,0,,0
 1465,2465,1,0,0,0,0,80,508-2000,1,0,profilePic_AprilFool2024_ZasM76,1,5,,6307,0,,0,,0
+1467,2467,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_HS50,1,5,,0,0,,0,,0
+1468,2468,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_HS50,1,5,,30018,0,,0,,0
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
@@ -1492,3 +1494,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100040,200040,4,0,0,0,0,0,,0,0,profileFrame_bonus_snack,1,5,,0,0,5,0,,0
 100041,200041,4,0,0,0,0,200,508-5000,1,0,profileFrame_friendmall_M110,1,5,,0,0,5,0,,3139
 100042,200042,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M16A1,1,5,,0,0,5,0,,0
+100043,200043,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_HS50,1,5,,0,0,5,0,,0

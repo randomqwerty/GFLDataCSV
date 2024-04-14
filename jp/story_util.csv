@@ -3,7 +3,7 @@ id,mission_id,description,scripts,campaign,bgm,title,is_util,start,round,point,f
 2,2,story_util-10000002,0-2-1|0-2-2,0,BGM_Frontline,story_util-20000002,1,0-2-1,,,0-2-2,,0-2-2,,,
 3,3,story_util-10000003,0-3-1|0-3-2,0,BGM_Frontline,story_util-20000003,1,0-3-1,,,0-3-2,,0-3-2,,,
 4,4,story_util-10000004,0-4-1|0-4-2,0,BGM_Frontline,story_util-20000004,1,0-4-1,,,0-4-2,,0-4-2,,,
-5,5,story_util-10000005,1-1-1|1-1-2,1,BGM_Frontline,story_util-20000005,1,always-404-1-1-1,,,always-404-1-1-3,,always-404-1-1-3,,,
+5,5,story_util-10000005,1-1-1|1-1-2,1,BGM_Frontline,story_util-20000005,1,1-1-1,,,1-1-2,,1-1-2,,,
 6,6,story_util-10000006,1-2-1|1-2-2,1,BGM_Frontline,story_util-20000006,1,1-2-1,,,1-2-1,,1-2-1,,,
 7,7,story_util-10000007,1-3-1|1-3-2,1,BGM_Frontline,story_util-20000007,1,1-3-1,,,1-3-2,,1-3-2,,,
 8,8,story_util-10000008,1-4-1|1-4-2,1,BGM_Frontline,story_util-20000008,1,1-4-1,,,1-4-2,,1-4-2,,,

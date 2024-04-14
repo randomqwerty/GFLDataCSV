@@ -3670,6 +3670,10 @@ id,formula
 9242,sbuffidtier(9476)=1?228:138
 9243,sbuffidtier(9476)=1?234:144
 9244,sbuffidtier(9476)=1?240:150
+9400,sbuffidtier(9520)=1&sbuffidtier(9521)=1?1:0
+9401,sbuffidtier(9521)=1?1:0
+9402,sbuffidtier(9524)=1&sbuffidtier(9525)=1?1:0
+9403,sbuffidtier(9526)=1?1:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0

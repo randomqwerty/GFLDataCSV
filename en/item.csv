@@ -1340,6 +1340,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2371,5,1,card_friendmall_WA2000,item-10002371,item-20002371,1,0,,,0,0,,item-30002371,0
 2373,5,1,card_BattlePass_M327,item-10002373,item-20002373,1,0,,,0,0,,item-30002373,0
 2374,5,1,profilePic_BattlePass_M327,item-10002374,item-20002374,1,0,,,0,0,,item-30002374,0
+2387,5,1,profilePic_Dining2023_M4A1,item-10002387,item-20002387,1,0,,,0,0,,item-30002387,0
+2388,5,1,profilePic_Dining2023_M4 SOPMOD II,item-10002388,item-20002388,1,0,,,0,0,,item-30002388,0
+2389,5,1,profilePic_Dining2023_AR15,item-10002389,item-20002389,1,0,,,0,0,,item-30002389,0
+2390,5,1,profilePic_Dining2023_M16A1,item-10002390,item-20002390,1,0,,,0,0,,item-30002390,0
+2391,5,1,profilePic_Dining2023_RO635,item-10002391,item-20002391,1,0,,,0,0,,item-30002391,0
+2392,5,1,profilePic_Dining2023_A545,item-10002392,item-20002392,1,0,,,0,0,,item-30002392,0
 2394,5,1,card_BattlePass_HK433,item-10002394,item-20002394,1,0,,,0,0,,item-30002394,0
 2395,5,1,profilePic_BattlePass_HK433,item-10002395,item-20002395,1,0,,,0,0,,item-30002395,0
 2406,5,1,card_BattlePass_M950A,item-10002406,item-20002406,1,0,,,0,0,,item-30002406,0

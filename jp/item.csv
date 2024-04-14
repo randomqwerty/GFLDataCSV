@@ -1494,6 +1494,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10704,18,10704,daily_points,item-10010704,item-20010704,1,0,,,0,0,,item-30010704,0
 10705,18,10705,daily_points,item-10010705,item-20010705,1,0,,,0,0,,item-30010705,0
 10706,18,10706,daily_points,item-10010706,item-20010706,1,0,,,0,0,,item-30010706,0
+10707,18,10707,daily_points,item-10010707,item-20010707,1,0,,,0,0,,item-30010707,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0
 100002,4,100002,Bumdle_1year,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0
 100003,4,100003,Activity_RedPacket,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0
@@ -1636,6 +1637,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100174,1,100174,Rouge_Strengthen,item-10100174,item-20100174,1,-1,,,0,0,,item-30100174,0
 100175,9,100175,Koutarou_Coin,item-10100175,item-20100175,1,0,,60,0,0,,item-30100175,0
 100176,4,100176,Platinum_medal_black,item-10100176,item-20100176,1,0,,,0,0,,item-30100176,0
+100177,4,100177,Nova_medal,item-10100177,item-20100177,1,0,,,0,0,,item-30100177,0
+100178,4,100178,Platinum_medal,item-10100178,item-20100178,1,0,,,0,0,,item-30100178,0
+100179,9,100179,Roasted_Cocoa,item-10100179,item-20100179,1,0,,120,0,0,,item-30100179,0
 100180,9,100180,Bumdle_2023SlowShock,item-10100180,item-20100180,1,0,,60,0,0,,item-30100180,0
 100181,4,100181,Nova_medal_black,item-10100181,item-20100181,1,0,,,0,0,,item-30100181,0
 100182,4,100182,Platinum_medal_black,item-10100182,item-20100182,1,0,,,0,0,,item-30100182,0
@@ -1915,6 +1919,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500085,15,1500085,package_choose,item-11500085,item-21500085,1,-1,,,0,0,,item-31500085,0
 1500086,15,1500086,package_choose,item-11500086,item-21500086,1,-1,,,0,0,,item-31500086,0
 1500087,15,1500087,package_choose,item-11500087,item-21500087,1,-1,,,0,0,,item-31500087,0
+1500088,15,1500088,package_choose,item-11500088,item-21500088,1,-1,,,0,0,,item-31500088,0
+1500089,15,1500089,package_choose,item-11500089,item-21500089,1,-1,,,0,0,,item-31500089,0
+1500090,15,1500090,package_choose,item-11500090,item-21500090,1,-1,,,0,0,,item-31500090,0
 1500091,15,1500091,package_choose,item-11500091,item-21500091,1,-1,,,0,0,,item-31500091,0
 1500092,15,1500092,package_choose,item-11500092,item-21500092,1,-1,,,0,0,,item-31500092,0
 1500093,15,1500093,package_random,item-11500093,item-21500093,1,-1,,,0,0,,item-31500093,0

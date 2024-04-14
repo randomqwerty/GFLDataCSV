@@ -750,6 +750,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 30014,gift_item-10030014,2,6,50000,97,30014,330014,gift_bundle_BattlePass_M950A,gift_item-30030014,gift_item-50030014,0,0,0,,gift_item-40030014,0,gift_item-20030014
 30015,gift_item-10030015,2,6,50000,129,30015,330015,gift_bundle_BattlePass_95type,gift_item-30030015,gift_item-50030015,0,0,0,,gift_item-40030015,0,gift_item-20030015
 30017,gift_item-10030017,2,6,50000,54,30017,330017,gift_bundle_BattlePass_M16A1,gift_item-30030017,gift_item-50030017,0,0,0,,gift_item-40030017,0,gift_item-20030017
+30018,gift_item-10030018,2,6,50000,348,30018,330018,gift_bundle_BattlePass_HS50,gift_item-30030018,gift_item-50030018,0,0,0,,gift_item-40030018,0,gift_item-20030018
 100001,gift_item-10100001,1,2,1000,0,0,0,gift_item_lollipop_N,gift_item-30100001,gift_item-50100001,0,0,0,21,gift_item-40100001,1001,gift_item-20100001
 100002,gift_item-10100002,1,3,3000,0,0,0,gift_item_icecream_R,gift_item-30100002,gift_item-50100002,0,0,0,21,gift_item-40100002,1002,gift_item-20100002
 100003,gift_item-10100003,1,4,10000,0,0,0,gift_item_cake_SR,gift_item-30100003,gift_item-50100003,0,0,0,21|19|11|2,gift_item-40100003,1003,gift_item-20100003
