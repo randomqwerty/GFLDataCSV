@@ -184,5 +184,6 @@ id,name,code,description,priority,duration,delay,size,sound,spine,if_starting,re
 1000161,mission_effect_config-11000161,bomb_shuzi06,mission_effect_config-21000161,5,1.0,0.0,1.6,,0,0,0,0|0,,0,0
 1000162,mission_effect_config-11000162,EMP_another,mission_effect_config-21000162,10,1.0,0.0,2.0,,0,0,0,0|0,,0,0
 1000167,mission_effect_config-11000167,LDFX_saomiao,mission_effect_config-21000167,0,1.0,0.0,1.5,0,0,0,0,0|0,,0,0
+1000168,mission_effect_config-11000168,CS_zheng,mission_effect_config-21000168,1,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 9490401,mission_effect_config-19490401,ddl_xingxing,mission_effect_config-29490401,0,1.0,0.0,0.02,,0,0,0,0|0,,0,0
 9999999,mission_effect_config-19999999,Empty,mission_effect_config-29999999,0,1.0,0.0,1.0,Stop_UI_loop,0,0,0,0|0,,0,0

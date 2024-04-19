@@ -365,6 +365,9 @@ id,code_a,description_a,description_b,description_c,code_b,is_manual_target,use_
 610025,2307RG05,manual_ui-10610025,manual_ui-20610025,manual_ui-30610025,Console_Icon,2,0
 611009,2023RougeSummer_Mixer,manual_ui-10611009,manual_ui-20611009,manual_ui-30611009,Console_Icon,0,0
 640104,Rouge_591004,manual_ui-10640104,manual_ui-20640104,manual_ui-30640104,Console_Icon,0,0
+680301,202404book,manual_ui-10680301,manual_ui-20680301,manual_ui-30680301,Console_Icon,0,0
+680521,Door_Left,manual_ui-10680521,manual_ui-20680521,manual_ui-30680521,Console_Icon,0,0
+680531,Door_Left,manual_ui-10680531,manual_ui-20680531,manual_ui-30680531,Console_Icon,0,0
 1000101,Rock,manual_ui-11000101,manual_ui-21000101,manual_ui-31000101,Squad_Icon,0,0
 1000102,Rock,manual_ui-11000102,manual_ui-21000102,manual_ui-31000102,Squad_Icon,0,0
 1000105,Rock,manual_ui-11000105,manual_ui-21000105,manual_ui-31000105,Squad_Icon,0,0

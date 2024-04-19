@@ -220,6 +220,16 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 220,enemy_illustration-10000220,3,AK47_enemy,enemy_illustration-20000220,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000220,100,,2035-12-31,enemy_illustration-40000220,70|70|1,0,0,0
 221,enemy_illustration-10000221,3,VZ61Enemy,enemy_illustration-20000221,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000221,100,,2035-12-31,enemy_illustration-40000221,70|70|1,0,0,0
 222,enemy_illustration-10000222,3,MAC10Enemy,enemy_illustration-20000222,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000222,100,,2035-12-31,enemy_illustration-40000222,70|70|1,0,0,0
+223,enemy_illustration-10000223,3,Nyto_Isomer_F,enemy_illustration-20000223,3,0,2,3,3,5,3,0,3,3,enemy_illustration-30000223,303,228,2016-05-20,enemy_illustration-40000223,,0,0,0
+224,enemy_illustration-10000224,3,Nyto_Isomer_N,enemy_illustration-20000224,3,0,2,3,3,5,3,0,3,3,enemy_illustration-30000224,319,229,2016-05-20,enemy_illustration-40000224,,0,0,0
+225,enemy_illustration-10000225,3,Nyto_Isomer_S,enemy_illustration-20000225,3,0,2,3,3,5,3,0,3,3,enemy_illustration-30000225,307,230,2016-05-20,enemy_illustration-40000225,,0,0,0
+226,enemy_illustration-10000226,3,Mk48_10304_enemy,enemy_illustration-20000226,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000226,100,,2035-12-31,enemy_illustration-40000226,70|70|1,0,0,0
+227,enemy_illustration-10000227,3,Fedorov_10305_enemy,enemy_illustration-20000227,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000227,100,,2035-12-31,enemy_illustration-40000227,70|70|1,0,0,0
+228,enemy_illustration-10000228,3,PP90_10306_enemy,enemy_illustration-20000228,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000228,100,,2035-12-31,enemy_illustration-40000228,70|70|1,0,0,0
+229,enemy_illustration-10000229,3,TPS_10301_enemy,enemy_illustration-20000229,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000229,100,,2035-12-31,enemy_illustration-40000229,70|70|1,0,0,0
+230,enemy_illustration-10000230,3,Stevens520_enemy,enemy_illustration-20000230,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000230,100,,2035-12-31,enemy_illustration-40000230,70|70|1,0,0,0
+231,enemy_illustration-10000231,3,Stevens620_enemy,enemy_illustration-20000231,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000231,100,,2035-12-31,enemy_illustration-40000231,70|70|1,0,0,0
+232,enemy_illustration-10000232,3,Erma_enemy,enemy_illustration-20000232,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000232,100,,2035-12-31,enemy_illustration-40000232,70|70|1,0,0,0
 100001,enemy_illustration-10100001,1,Gebbennu,enemy_illustration-20100001,3,0,6,7,5,5,4,4,4,5,enemy_illustration-30100001,1001|309,,2035-12-31,enemy_illustration-40100001,,0,0,0
 100011,enemy_illustration-10100011,3,DivMauler,enemy_illustration-20100011,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100011,401|402,,2035-12-31,enemy_illustration-40100011,,0,0,0
 100012,enemy_illustration-10100012,3,DivGrenadier,enemy_illustration-20100012,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100012,403,,2035-12-31,enemy_illustration-40100012,,0,0,0

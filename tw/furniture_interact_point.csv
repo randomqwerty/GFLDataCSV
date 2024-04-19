@@ -136,6 +136,7 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 819191,chess,-1,9,,1,,0,sit,,
 819192,chess,-1,9,,0,,0,sit,,
 820088,saga_drum,-1,0,action,0,,0,wait,,
+820125,playball,-1,10,play,1,,0,play,,
 820321,wv_sit,-1,9,,1,,0,sit,,
 820322,wv_sit,-1,9,,0,,0,sit,,
 840064,squad_stand,-1,5,,1,,0,wait,,
