@@ -633,6 +633,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 8404,gift_item-10008404,2,6,50000,117,8404,38404,gift_bundle_Children2023_PSG1,gift_item-30008404,gift_item-50008404,0,0,0,,gift_item-40008404,0,gift_item-20008404
 8405,gift_item-10008405,2,6,50000,12,8405,38405,gift_bundle_Children2023_C96,gift_item-30008405,gift_item-50008405,0,0,0,,gift_item-40008405,0,gift_item-20008405
 8406,gift_item-10008406,2,6,50000,2,8406,38406,gift_bundle_Children2023_M1911,gift_item-30008406,gift_item-50008406,0,0,0,,gift_item-40008406,0,gift_item-20008406
+8507,gift_item-10008507,2,6,50000,94,8507,38507,gift_bundle_Swimsuit2023_64type,gift_item-30008507,gift_item-50008507,0,0,0,,gift_item-40008507,0,gift_item-20008507
 8601,gift_item-10008601,2,6,50000,282,8601,38601,gift_bundle_OfficeLady2023_DP12,gift_item-30008601,gift_item-50008601,0,0,0,,gift_item-40008601,0,gift_item-20008601
 8602,gift_item-10008602,2,6,50000,323,8602,38602,gift_bundle_OfficeLady2023_LTLX7000,gift_item-30008602,gift_item-50008602,0,0,0,,gift_item-40008602,0,gift_item-20008602
 8603,gift_item-10008603,2,6,50000,96,8603,38603,gift_bundle_OfficeLady2023_Grizzly,gift_item-30008603,gift_item-50008603,0,0,0,,gift_item-40008603,0,gift_item-20008603
@@ -650,6 +651,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 8704,gift_item-10008704,2,6,50000,146,8704,38704,gift_bundle_Dancer2023_G28,gift_item-30008704,gift_item-50008704,0,0,0,,gift_item-40008704,0,gift_item-20008704
 8705,gift_item-10008705,2,6,50000,37,8705,38705,gift_bundle_Dancer2023_M14,gift_item-30008705,gift_item-50008705,0,0,0,,gift_item-40008705,0,gift_item-20008705
 8706,gift_item-10008706,2,6,50000,159,8706,38706,gift_bundle_Dancer2023_RMB93,gift_item-30008706,gift_item-50008706,0,0,0,,gift_item-40008706,0,gift_item-20008706
+8901,gift_item-10008901,2,6,50000,55,8901,38901,gift_bundle_Dining2023_M4A1,gift_item-30008901,gift_item-50008901,0,0,0,,gift_item-40008901,0,gift_item-20008901
+8902,gift_item-10008902,2,6,50000,56,8902,38902,gift_bundle_Dining2023_M4 SOPMOD II,gift_item-30008902,gift_item-50008902,0,0,0,,gift_item-40008902,0,gift_item-20008902
+8903,gift_item-10008903,2,6,50000,57,8903,38903,gift_bundle_Dining2023_AR15,gift_item-30008903,gift_item-50008903,0,0,0,,gift_item-40008903,0,gift_item-20008903
+8904,gift_item-10008904,2,6,50000,54,8904,38904,gift_bundle_Dining2023_M16A1,gift_item-30008904,gift_item-50008904,0,0,0,,gift_item-40008904,0,gift_item-20008904
+8905,gift_item-10008905,2,6,50000,143,8905,38905,gift_bundle_Dining2023_RO635,gift_item-30008905,gift_item-50008905,0,0,0,,gift_item-40008905,0,gift_item-20008905
+8906,gift_item-10008906,2,6,50000,356,8906,38906,gift_bundle_Dining2023_A545,gift_item-30008906,gift_item-50008906,0,0,0,,gift_item-40008906,0,gift_item-20008906
+8908,gift_item-10008908,2,6,50000,256,8908,38908,gift_bundle_Dining2023_Falcon,gift_item-30008908,gift_item-50008908,0,0,0,,gift_item-40008908,0,gift_item-20008908
 10001,gift_item-10010001,2,6,50000,46,10001,310001,gift_bundle_NewYear2024_98K,gift_item-30010001,gift_item-50010001,0,0,0,,gift_item-40010001,0,gift_item-20010001
 10002,gift_item-10010002,2,6,50000,381,10002,310002,gift_bundle_NewYear2024_M110,gift_item-30010002,gift_item-50010002,0,0,0,,gift_item-40010002,0,gift_item-20010002
 10004,gift_item-10010004,2,6,50000,307,10004,310004,gift_bundle_NewYear2024_ZB26,gift_item-30010004,gift_item-50010004,0,0,0,,gift_item-40010004,0,gift_item-20010004
@@ -671,6 +679,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 30012,gift_item-10030012,2,6,50000,369,30012,330012,gift_bundle_BattlePass_M327,gift_item-30030012,gift_item-50030012,0,0,0,,gift_item-40030012,0,gift_item-20030012
 30013,gift_item-10030013,2,6,50000,390,30013,330013,gift_bundle_BattlePass_HK433,gift_item-30030013,gift_item-50030013,0,0,0,,gift_item-40030013,0,gift_item-20030013
 30014,gift_item-10030014,2,6,50000,97,30014,330014,gift_bundle_BattlePass_M950A,gift_item-30030014,gift_item-50030014,0,0,0,,gift_item-40030014,0,gift_item-20030014
+30015,gift_item-10030015,2,6,50000,129,30015,330015,gift_bundle_BattlePass_95type,gift_item-30030015,gift_item-50030015,0,0,0,,gift_item-40030015,0,gift_item-20030015
 100001,gift_item-10100001,1,2,1000,0,0,0,gift_item_lollipop_N,gift_item-30100001,gift_item-50100001,0,0,0,21,gift_item-40100001,1001,gift_item-20100001
 100002,gift_item-10100002,1,3,3000,0,0,0,gift_item_icecream_R,gift_item-30100002,gift_item-50100002,0,0,0,21,gift_item-40100002,1002,gift_item-20100002
 100003,gift_item-10100003,1,4,10000,0,0,0,gift_item_cake_SR,gift_item-30100003,gift_item-50100003,0,0,0,21|19|11|2,gift_item-40100003,1003,gift_item-20100003

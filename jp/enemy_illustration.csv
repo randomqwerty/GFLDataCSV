@@ -212,6 +212,7 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 212,enemy_illustration-10000212,3,USSR_Agent,enemy_illustration-20000212,0,0,1,3,2,3,5,0,3,3,enemy_illustration-30000212,1001,,2035-05-20,enemy_illustration-40000212,,0,0,0
 213,enemy_illustration-10000213,3,Obelisk_partB,enemy_illustration-20000213,3,0,1,3,3,5,3,0,1,4,enemy_illustration-30000213,1001|1003|335|320,130,2035-05-20,enemy_illustration-40000213,100|100|1,0,0,0
 214,enemy_illustration-10000214,1,Nyto_mecha2,enemy_illustration-20000214,3,1,5,6,5,6,4,0,6,7,enemy_illustration-30000214,1001|216,211|212|213|214|215|216,2035-05-20,enemy_illustration-40000214,70|70|1,10604,0,0
+215,enemy_illustration-10000215,1,BossNarciss,enemy_illustration-20000215,3,1,5,5,5,5,5,0,5,5,enemy_illustration-30000215,1001|329|330,108|109|110,2035-05-20,enemy_illustration-40000215,,10603,0,0
 217,enemy_illustration-10000217,3,AR15Mod_enemy,enemy_illustration-20000217,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000217,100,224|225|226|227,2035-12-31,enemy_illustration-40000217,70|70|1,0,0,0
 218,enemy_illustration-10000218,3,A545_NPC,enemy_illustration-20000218,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000218,100,222,2035-12-31,enemy_illustration-40000218,70|70|1,0,0,0
 219,enemy_illustration-10000219,3,PPsh41Enemy,enemy_illustration-20000219,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000219,100,223,2035-12-31,enemy_illustration-40000219,70|70|1,0,0,0

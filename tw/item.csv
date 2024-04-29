@@ -69,6 +69,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 130,3,31,Medal_2020summer_re_rank,item-10000130,item-20000130,1,0,,,0,0,,item-30000130,0
 131,3,32,Medal_SAC2045,item-10000131,item-20000131,1,0,,,0,0,,item-30000131,0
 132,3,33,Medal_202404Activity,item-10000132,item-20000132,1,0,,,0,0,,item-30000132,0
+133,3,34,Medal_21winter_re_rank,item-10000133,item-20000133,1,0,,,0,0,,item-30000133,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303,0
@@ -114,6 +115,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 533,1,533,assess202309_item3,item-10000533,item-20000533,1,0,,,0,0,,item-30000533,1
 534,1,534,assess202309_item3,item-10000534,item-20000534,1,0,,,0,0,,item-30000534,1
 535,1,1,gun_material1_coin1,item-10000535,item-20000535,1,0,,,0,0,,item-30000535,0
+542,1,542,2020winter_rabbit_plus,item-10000542,item-20000542,1,0,,,0,0,,item-30000542,1
 601,1,1,DressUpRandomColoring,item-10000601,item-20000601,1,120,,,0,0,1|2,item-30000601,0
 602,1,1,DressUpSpecifyColoring,item-10000602,item-20000602,1,125,,,0,0,2,item-30000602,0
 603,1,1,sangvis_material1_coin1,item-10000603,item-20000603,1,0,,,0,1,,item-30000603,0
@@ -1591,6 +1593,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2480,5,1,card_202404Acticity_02,item-10002480,item-20002480,1,0,,,0,0,,item-30002480,0
 2481,5,1,card_202404Acticity_03,item-10002481,item-20002481,1,0,,,0,0,,item-30002481,0
 2482,5,1,cg_202404Acticity,item-10002482,item-20002482,1,0,,,0,0,,item-30002482,0
+2483,5,1,profilePic_ChessFlight_season15_1,item-10002483,item-20002483,1,0,,,0,0,,item-30002483,0
+2484,5,1,profilePic_ChessFlight_season15_2,item-10002484,item-20002484,1,0,,,0,0,,item-30002484,0
+2485,5,1,profilePic_ChessFlight_season15_3,item-10002485,item-20002485,1,0,,,0,0,,item-30002485,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -2009,6 +2014,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 110068,4,110068,PT,item-10110068,item-20110068,1,0,,,0,0,,item-30110068,0
 110069,4,110069,PT,item-10110069,item-20110069,1,0,,,0,0,,item-30110069,0
 110070,4,110070,PT,item-10110070,item-20110070,1,0,,,0,0,,item-30110070,0
+110071,4,110071,EventPT9,item-10110071,item-20110071,1,0,,,0,0,,item-30110071,0
 120001,10,1,bondage_lines_icon,item-10120001,item-20120001,1,0,,,0,0,,item-30120001,0
 120002,10,2,bondage_lines_icon,item-10120002,item-20120002,1,0,,,0,0,,item-30120002,0
 120003,10,3,bondage_lines_icon,item-10120003,item-20120003,1,0,,,0,0,,item-30120003,0

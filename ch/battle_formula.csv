@@ -3685,6 +3685,11 @@ id,formula
 9276,@MaxLife*0.12
 9277,@MaxLife*0.13
 9278,@MaxLife*0.14
+9279,sbuffidtier(9533)=1?1:0
+9280,sbuffidtier(9533)=1?2:1
+9281,sbuffidtier(9533)=1?3:2
+9282,sbuffidtier(9533)=1?4:3
+9283,sbuffidtier(9533)=1?5:4
 9400,sbuffidtier(9520)=1&sbuffidtier(9521)=1?1:0
 9401,sbuffidtier(9521)=1?1:0
 9402,sbuffidtier(9524)=1&sbuffidtier(9525)=1?1:0

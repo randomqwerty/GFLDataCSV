@@ -1,0 +1,9 @@
+id,description,task_type,count,condition,vehicle_id,group_type,function_control_id,goto_page_id
+1,vehicle_unlock_task-10000001,commander_level,50,,1,1,0,0
+2,vehicle_unlock_task-10000002,mission_medal_all,120,,1,1,0,0
+3,vehicle_unlock_task-10000003,i_gun_level,10,100,1,1,0,0
+4,vehicle_unlock_task-10000004,c_guide_complete,,11487,1,1,0,0
+5,vehicle_unlock_task-10000005,i_kill_enemy_all,1,80,2,1,0,0
+6,vehicle_unlock_task-10000006,mission_bestrank5,50,,2,1,0,0
+7,vehicle_unlock_task-10000007,i_squad_level,2,100,2,1,0,0
+8,vehicle_unlock_task-10000008,c_guide_complete,,11486,2,1,0,0

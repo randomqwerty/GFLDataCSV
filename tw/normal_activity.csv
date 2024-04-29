@@ -30,3 +30,5 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 29,-39,normal_activity-10000029,4,normal_activity-20000029,normal_activity-30000029,missionselect_Sing_RE,,normal_activity-40000029,,10003,303
 30,-42,normal_activity-10000030,101,normal_activity-20000030,normal_activity-30000030,active_Halloween2020,#000000C7|#3D415166|#E64801FF|#FFFFFFFF,normal_activity-40000030,Halloween2020logo,0,
 31,-50,normal_activity-10000031,103,normal_activity-20000031,normal_activity-30000031,active_WhiteDay2022,#000000C7|#3D415166|#D00001FF|#FFFFFFFF,normal_activity-40000031,active_WhiteDay2022logo,0,
+32,-45,normal_activity-10000032,5,normal_activity-20000032,normal_activity-30000032,missionselect_ContinuumTurbulenceRemake,,normal_activity-40000032,,10004,304
+33,-53,normal_activity-10000033,6,normal_activity-20000033,normal_activity-30000033,missionselect_PolarizedLight_RE,,normal_activity-40000033,,10005,305

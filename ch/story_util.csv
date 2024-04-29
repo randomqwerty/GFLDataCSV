@@ -1239,3 +1239,4 @@ id,mission_id,description,scripts,campaign,bgm,title,is_util,start,round,point,f
 1286,11650,story_util-10001286,-68-S-4,-68,,story_util-20001286,0,-68-S-4,,,,,,,,
 1287,11651,story_util-10001287,-68-S-5,-68,,story_util-20001287,0,-68-S-5,,,,,,,,
 1288,11658,story_util-10001288,-68-E-1,-68,,story_util-20001288,0,-68-E-1,,,,,,,,
+1289,11549,story_util-10001289,,-65,,story_util-20001289,0,-65-tips,2:-65-tips2,,,,,,,
