@@ -11,3 +11,7 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 10,equip_group-10000010,equip_group-20000010,EgroupPPSh41,352|272|219,3:759224,20021,0
 11,equip_group-10000011,equip_group-20000011,EgroupPPK,155|284|355,3:759242,20010,0
 12,equip_group-10000012,equip_group-20000012,EgroupHK416KMod,106|356|159,3:759236,20065,0
+13,equip_group-10000013,equip_group-20000013,EgroupUMP45,92|358|125,3:759092,20103,0
+14,equip_group-10000014,equip_group-20000014,EgroupUMP9,92|359|156,3:759093,20101,0
+15,equip_group-10000015,equip_group-20000015,Egroup88type,221|158|365,3:759276,20095,0
+16,equip_group-10000016,equip_group-20000016,EgroupM1919A4,366|220|333,3:759271,20080,0

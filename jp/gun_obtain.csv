@@ -39,6 +39,7 @@ obtain_id,description,detail,goto_page_id
 37,gun_obtain-10000037,0,0
 38,gun_obtain-10000038,0,0
 39,gun_obtain-10000039,0,380
+40,gun_obtain-10000040,0,407
 101,gun_obtain-10000101,0,0
 102,gun_obtain-10000102,0,0
 103,gun_obtain-10000103,0,0
@@ -102,6 +103,9 @@ obtain_id,description,detail,goto_page_id
 257,gun_obtain-10000257,0,0
 258,gun_obtain-10000258,0,0
 259,gun_obtain-10000259,0,0
+260,gun_obtain-10000260,0,0
+261,gun_obtain-10000261,0,0
+262,gun_obtain-10000262,0,0
 301,gun_obtain-10000301,0,0
 302,gun_obtain-10000302,0,0
 303,gun_obtain-10000303,0,0
@@ -121,6 +125,7 @@ obtain_id,description,detail,goto_page_id
 317,gun_obtain-10000317,0,0
 318,gun_obtain-10000318,0,0
 319,gun_obtain-10000319,0,0
+320,gun_obtain-10000320,0,0
 403,gun_obtain-10000403,0,0
 411,gun_obtain-10000411,0,0
 415,gun_obtain-10000415,0,0
@@ -307,6 +312,7 @@ obtain_id,description,detail,goto_page_id
 3096,gun_obtain-10003096,0,384
 3097,gun_obtain-10003097,0,0
 3098,gun_obtain-10003098,0,0
+3113,gun_obtain-10003113,0,0
 20001,gun_obtain-10020001,0,0
 20002,gun_obtain-10020002,0,0
 20003,gun_obtain-10020003,0,0

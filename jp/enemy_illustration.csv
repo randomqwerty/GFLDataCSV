@@ -97,7 +97,7 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 96,enemy_illustration-10000096,4,Nemeum_SWAP2,enemy_illustration-20000096,1,0,4,4,5,0,2,3,3,4,enemy_illustration-30000096,1003|309|307,56,2016-05-20,enemy_illustration-40000096,100|100|1,0,0,0
 97,enemy_illustration-10000097,3,refugee_hg,enemy_illustration-20000097,0,0,2,3,3,5,3,0,4,3,enemy_illustration-30000097,300,,2016-05-20,enemy_illustration-40000097,100|100|1,0,0,0
 98,enemy_illustration-10000098,3,refugee_smg,enemy_illustration-20000098,0,0,3,4,3,4,5,0,4,3,enemy_illustration-30000098,300,,2016-05-20,enemy_illustration-40000098,100|100|1,0,0,0
-99,enemy_illustration-10000099,2,Golyat_Factory,enemy_illustration-20000099,1,1,7,5,7,0,0,3,3,1,enemy_illustration-30000099,309|321,21,2016-05-20,enemy_illustration-40000099,100|100|1,0,0,0
+99,enemy_illustration-10000099,2,Golyat_Factory,enemy_illustration-20000099,1,1,7,5,7,0,0,3,3,1,enemy_illustration-30000099,1003|1005|334|321,21,2016-05-20,enemy_illustration-40000099,100|100|1,0,0,0
 101,enemy_illustration-10000101,3,Ripper_Halloween,enemy_illustration-20000101,0,0,2,3,3,5,3,0,3,3,enemy_illustration-30000101,303,,2016-05-20,enemy_illustration-40000101,90|90|1,0,0,0
 102,enemy_illustration-10000102,3,Jaeger_Halloween,enemy_illustration-20000102,0,0,3,1,5,3,2,0,3,4,enemy_illustration-30000102,307,,2016-05-20,enemy_illustration-40000102,80|80|1,0,0,0
 103,enemy_illustration-10000103,3,Dragon_Halloween,enemy_illustration-20000103,0,0,3,3,5,3,3,0,5,5,enemy_illustration-30000103,304,,2016-05-20,enemy_illustration-40000103,,0,0,0
@@ -261,5 +261,13 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 100049,enemy_illustration-10100049,3,80type_SagaEnemy,enemy_illustration-20100049,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100049,100,10049,2035-12-31,enemy_illustration-40100049,,0,0,0
 100050,enemy_illustration-10100050,3,M1897_SagaEnemy,enemy_illustration-20100050,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100050,100,10050,2035-12-31,enemy_illustration-40100050,,0,0,0
 100051,enemy_illustration-10100051,3,G11_SagaEnemy,enemy_illustration-20100051,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100051,100,10051,2035-12-31,enemy_illustration-40100051,,0,0,0
+100052,enemy_illustration-10100052,3,FacelessMenA,enemy_illustration-20100052,0,0,1,4,1,5,4,0,1,5,enemy_illustration-30100052,303,40,2035-12-31,enemy_illustration-40100052,,0,0,0
+100053,enemy_illustration-10100053,3,FacelessMenB,enemy_illustration-20100053,0,0,1,4,1,5,4,0,1,5,enemy_illustration-30100053,303,40,2035-12-31,enemy_illustration-40100053,,0,0,0
+100054,enemy_illustration-10100054,3,SPS_NPC,enemy_illustration-20100054,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100054,100,,2035-12-31,enemy_illustration-40100054,,0,0,0
+100055,enemy_illustration-10100055,3,KSVK_NPC,enemy_illustration-20100055,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100055,100,,2035-12-31,enemy_illustration-40100055,,0,0,0
+100056,enemy_illustration-10100056,3,A545_NPC,enemy_illustration-20100056,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100056,100,,2035-12-31,enemy_illustration-40100056,,0,0,0
+100057,enemy_illustration-10100057,1,EzakiBoss,enemy_illustration-20100057,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100057,1001,10052|10053,2035-12-31,enemy_illustration-40100057,,0,0,0
+100058,enemy_illustration-10100058,1,TakashiBoss,enemy_illustration-20100058,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100058,1001,10054|10055,2035-12-31,enemy_illustration-40100058,,0,0,0
+100059,enemy_illustration-10100059,1,MizukinnBoss,enemy_illustration-20100059,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100059,1001,10056|10057|10058,2035-12-31,enemy_illustration-40100059,,0,0,0
 100082,enemy_illustration-10100082,3,Brute_SWAP,enemy_illustration-20100082,1,0,5,3,4,3,2,0,4,2,enemy_illustration-30100082,1003|303|315,54|55,2035-12-31,enemy_illustration-40100082,,0,0,0
 100083,enemy_illustration-10100083,4,Nemeum_SWAP2,enemy_illustration-20100083,1,0,4,5,6,0,3,4,4,4,enemy_illustration-30100083,1003|309|307,56,2035-12-31,enemy_illustration-40100083,,0,0,0

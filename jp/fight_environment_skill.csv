@@ -65,6 +65,9 @@ id,name,desc,if_display,code,skill_group
 1107,fight_environment_skill-10001107,fight_environment_skill-20001107,1,fight_skill_buff102,756082
 1108,fight_environment_skill-10001108,fight_environment_skill-20001108,1,fight_skill_buff104,756230
 1109,fight_environment_skill-10001109,fight_environment_skill-20001109,1,fight_skill_buff101,756231
+230901,fight_environment_skill-10230901,fight_environment_skill-20230901,1,assess202309fightskill_1,759262
+230902,fight_environment_skill-10230902,fight_environment_skill-20230902,1,assess202309fightskill_2,759263
+230903,fight_environment_skill-10230903,fight_environment_skill-20230903,1,assess202309fightskill_3,759264
 1133001,fight_environment_skill-11133001,fight_environment_skill-21133001,1,Rouge_590001,778099
 1133002,fight_environment_skill-11133002,fight_environment_skill-21133002,1,Rouge_590002,778104
 1133003,fight_environment_skill-11133003,fight_environment_skill-21133003,1,Rouge_590003,778105

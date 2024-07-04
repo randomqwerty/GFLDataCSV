@@ -1,4 +1,9 @@
 id,name,code,title,ai,is_adjutant,unlock_text,mission_id,item_id,skin_code,voice_code,org_id,org_introduction
+-20,npc-9999980,NPC_ColtWalker_30004,npc-19999980,9999,0,npc-29999980,0,0,,,,npc-39999980
+-19,npc-9999981,NPC_Persica_snicker,npc-19999981,9999,0,npc-29999981,0,0,,,,npc-39999981
+-18,npc-9999982,NPC_Nele,npc-19999982,9999,0,npc-29999982,0,0,,,,npc-39999982
+-17,npc-9999983,NPC_Dandelion,npc-19999983,9999,0,npc-29999983,0,0,,,,npc-39999983
+-16,npc-9999984,NPC_Catherine,npc-19999984,9999,0,npc-29999984,0,0,,,,npc-39999984
 -15,npc-9999985,NPC_Stevens520_Shadow,npc-19999985,9999,0,npc-29999985,0,0,,,,npc-39999985
 -14,npc-9999986,Org_Griffin,npc-19999986,9999,0,npc-29999986,0,0,,,101,npc-39999986
 -13,npc-9999987,Org_Commander,npc-19999987,9999,0,npc-29999987,0,0,,,10101,npc-39999987

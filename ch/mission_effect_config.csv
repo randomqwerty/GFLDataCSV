@@ -185,5 +185,10 @@ id,name,code,description,priority,duration,delay,size,sound,spine,if_starting,re
 1000162,mission_effect_config-11000162,EMP_another,mission_effect_config-21000162,10,1.0,0.0,2.0,,0,0,0,0|0,,0,0
 1000167,mission_effect_config-11000167,LDFX_saomiao,mission_effect_config-21000167,0,1.0,0.0,1.5,0,0,0,0,0|0,,0,0
 1000168,mission_effect_config-11000168,CS_zheng,mission_effect_config-21000168,1,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
+1000169,mission_effect_config-11000169,Tarot_ka01,mission_effect_config-21000169,1,0.0,0.0,1.0,BT_CARD_BURN,0,0,0,0|400,,0,0
+1000170,mission_effect_config-11000170,Tarot_ka02,mission_effect_config-21000170,1,0.0,0.0,1.0,BT_CARD_BURN,0,0,0,0|0,,0,0
+1000171,mission_effect_config-11000171,Tarot_ka03,mission_effect_config-21000171,1,0.0,0.0,1.0,BT_CARD_BURN,0,0,0,0|400,,0,0
+1000172,mission_effect_config-11000172,Tarot_ka04,mission_effect_config-21000172,1,0.0,0.0,1.0,BT_CARD_BURN,0,0,0,0|400,,0,0
+1000173,mission_effect_config-11000173,Laplace_dun_uv,mission_effect_config-21000173,1,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 9490401,mission_effect_config-19490401,ddl_xingxing,mission_effect_config-29490401,0,1.0,0.0,0.02,,0,0,0,0|0,,0,0
 9999999,mission_effect_config-19999999,Empty,mission_effect_config-29999999,0,1.0,0.0,1.0,Stop_UI_loop,0,0,0,0|0,,0,0

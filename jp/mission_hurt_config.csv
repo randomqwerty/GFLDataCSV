@@ -65,6 +65,8 @@ id,name,target_type,type,is_number,life_type,value,hostage_value,is_armor,effect
 6560002,mission_hurt_config-16560002,2,2,1,2,101,0,0,0,0,1000069,0,99999
 6560003,mission_hurt_config-16560003,2,2,0,2,95,0,0,0,0,0,0,0
 6580001,mission_hurt_config-16580001,2,2,1,2,100,0,0,0,0,0,0,99999
+6630001,mission_hurt_config-16630001,2,2,1,2,101,0,0,0,0,1000069,0,999
+6630002,mission_hurt_config-16630002,2,2,1,2,101,0,0,0,0,1000069,0,99999
 8120701,mission_hurt_config-18120701,0,1,0,2,0,0,0,0,0,0,0,8599
 9130610,mission_hurt_config-19130610,2,1,0,2,999999,1,0,0,0,0,0,0
 9334951,mission_hurt_config-19334951,2,1,1,1,99999,5,0,0,0,0,0,0

@@ -176,3 +176,14 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 891122,wall_zombie2,-1,0,,1,,0,wait,,
 897051,wait,-1,25,||action|action|,1,point,0,wait,,
 897052,wait,-1,15,||||action|action|,0,point2,0,wait,,
+82013701,wait,-1,-10,|tarot_AR15,1,,0,wait,,820137
+82013702,wait,-1,-10,|tarot_Eliza,1,,0,wait,,820137
+82013703,wait,-1,-10,|tarot_M16A1,1,,0,wait,,820137
+82013704,wait,-1,-10,|tarot_M1851N,1,,0,wait,,820137
+82013705,wait,-1,-10,|tarot_M4 SOPMOD II,1,,0,wait,,820137
+82013706,wait,-1,-10,|tarot_M4A1,1,,0,wait,,820137
+82013707,wait,-1,-10,|tarot_MartinHenry,1,,0,wait,,820137
+82013708,wait,-1,-10,|tarot_P50,1,,0,wait,,820137
+82013709,wait,-1,-10,|tarot_RO635,1,,0,wait,,820137
+82013710,wait,-1,-10,|tarot_RexZero1,1,,0,wait,,820137
+82013711,wait,-1,-10,|tarot_Scarecrow,1,,0,wait,,820137

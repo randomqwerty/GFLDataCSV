@@ -419,13 +419,13 @@ id,type,unlock_lv,unlock_ids,unlock_label,count,prize_id,title,content,unlock_co
 586,vehicle_defeat_challenge_1,,,,10,220005,career_quest-10000586,career_quest-20000586,,1,68,383,,,0
 587,vehicle_skill_progress,,,,4,9220006,career_quest-10000587,career_quest-20000587,,1,68,384,,,0
 588,get_vehicle_component_rank5,,,,30,220005,career_quest-10000588,career_quest-20000588,,1,69,385,,,0
-589,vehicle_defeat_challenge_1,,,,30,220006,career_quest-10000589,career_quest-20000589,,1,69,386,,,0
+589,vehicle_defeat_challenge_1,,,,30,9220006,career_quest-10000589,career_quest-20000589,,1,69,386,,,0
 590,vehicle_component_level_type0,,,,10,220003,career_quest-10000590,career_quest-20000590,,1,69,387,,,0
 591,vehicle_component_level_type1,,,,10,220003,career_quest-10000591,career_quest-20000591,,1,69,388,,,0
 592,vehicle_component_level_type2,,,,10,220003,career_quest-10000592,career_quest-20000592,,1,69,389,,,0
 593,vehicle_component_level_type3,,,,10,220003,career_quest-10000593,career_quest-20000593,,1,69,390,,,0
 594,vehicle_component_level_type4,,,,10,220003,career_quest-10000594,career_quest-20000594,,1,69,391,,,0
-595,vehicle_progress,,,,15,220006,career_quest-10000595,career_quest-20000595,,1,68,392,,,0
+595,vehicle_progress,,,,15,9220006,career_quest-10000595,career_quest-20000595,,1,68,392,,,0
 600,vehicle_progress,,,,30,220005,career_quest-10000600,career_quest-20000600,,1,69,393,,,0
 1003,squad_get_chip,,,,1,782,career_quest-10001003,career_quest-20001003,,1,29,208,,,0
 1005,squad_eat_chip_num,,,,1,793,career_quest-10001005,career_quest-20001005,,1,30,225,,,0

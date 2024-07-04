@@ -21,7 +21,7 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 20,-36,normal_activity-10000020,8,normal_activity-20000020,normal_activity-30000020,active_Polarizedlight,#000000C7|#3D415166|#D92B1A|#FFFFFFFF,normal_activity-40000020,Polarizedlightlogo,0,
 21,-41,normal_activity-10000021,9,normal_activity-20000021,normal_activity-30000021,active_DualRandomness,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000021,DualRandomnesslogo,0,
 22,-44,normal_activity-10000022,10,normal_activity-20000022,normal_activity-30000022,active_mirrorstage,#000000C7|#3D415166|#A3BD13|#FFFFFFFF,normal_activity-40000022,mirrorstagelogo,0,
-23,-48,normal_activity-10000023,11,normal_activity-20000023,normal_activity-30000023,active_PoincareRecurrence,#000000C7|#3D415166|#A3BD13|#FFFFFFFF,normal_activity-40000023,PoincareRecurrencelogo,0,
+23,-48,normal_activity-10000023,11,normal_activity-20000023,normal_activity-30000023,active_PoincareRecurrence,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000023,PoincareRecurrencelogo,0,
 24,-34,normal_activity-10000024,100,normal_activity-20000024,normal_activity-30000024,active_19Halloween,#000000C7|#3D415166|#E66A01|#FFFFFFFF,normal_activity-40000024,,0,
 25,-35,normal_activity-10000025,100,normal_activity-20000025,normal_activity-30000025,active_19Xmas,#000000C7|#3D415166|#D9531A|#FFFFFFFF,normal_activity-40000025,,0,
 26,-37,normal_activity-10000026,101,normal_activity-20000026,normal_activity-30000026,active_WhiteDay2020,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000026,active_WhiteDay2020logo,0,
@@ -32,3 +32,6 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 31,-50,normal_activity-10000031,103,normal_activity-20000031,normal_activity-30000031,active_WhiteDay2022,#000000C7|#3D415166|#D00001FF|#FFFFFFFF,normal_activity-40000031,active_WhiteDay2022logo,0,
 32,-45,normal_activity-10000032,5,normal_activity-20000032,normal_activity-30000032,missionselect_ContinuumTurbulenceRemake,,normal_activity-40000032,,10004,304
 33,-53,normal_activity-10000033,6,normal_activity-20000033,normal_activity-30000033,missionselect_PolarizedLight_RE,,normal_activity-40000033,,10005,305
+34,-59,normal_activity-10000034,104,normal_activity-20000034,normal_activity-30000034,active_2023Rouge,#000000C7|#3D415166|#5065bdFF|#FFFFFFFF,normal_activity-40000034,active_2023Rougelogo,0,
+35,-55,normal_activity-10000035,7,normal_activity-20000035,normal_activity-30000035,missionselect_Reversible_RE,,normal_activity-40000035,,10006,306
+36,-60,normal_activity-10000036,8,normal_activity-20000036,normal_activity-30000036,missionselect_Labyrinthine Defense_RE,,normal_activity-40000036,,10007,307

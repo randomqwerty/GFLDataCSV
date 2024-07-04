@@ -36,3 +36,4 @@ id,story_campaign_id,name,chapter,type,game_chronicle,description,is_hide,tag,or
 35,-40,story_playback-10000035,story_playback-20000035,3,,story_playback-30000035,0,story_playback-40000035,55
 36,-47,story_playback-10000036,story_playback-20000036,3,,story_playback-30000036,0,story_playback-40000036,56
 37,-68,story_playback-10000037,story_playback-20000037,2,,story_playback-30000037,0,story_playback-40000037,30
+38,-69,story_playback-10000038,story_playback-20000038,2,,story_playback-30000038,0,story_playback-40000038,31

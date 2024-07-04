@@ -60,13 +60,17 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 61,wait,-1,10,||||action,-1,,0,wait,,
 62,sit,-1,10,action|,1,,0,sit,,
 63,wait,-1,10,action|action,0,,0,wait,,
-64,wait,-1,10,action,0,,0,wait,,
+64,wait,-1,10,action,0,,0,wait,,1
 65,wait,-1,10,||action,1,,0,wait,,
 66,sleep,-1,10,||action,-1,,0,lying,,
 67,pick,-1,10,|wait|,-1,point,0,wait,,
 68,sit,-1,9,||action,0,,0,sit,,
 69,wait,-1,10,|action|action,-1,,0,wait,,
 70,,-1,0,,-1,point,0,wait,,
+71,wait,-1,10,action2,1,,0,wait,,1
+72,wait,-1,10,action3,-1,,0,wait,,1
+73,sit,-1,10,action,1,,0,sit,,
+74,wait,-1,10,|||action,-1,,0,wait,,
 104,bird_sit,-1,21,,-1,,0,sit,,
 105,bird_sit,-1,21,action,-1,,0,sit,,
 106,bird_sit,-1,21,||action,-1,,0,sit,,
@@ -132,6 +136,7 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 819191,chess,-1,9,,1,,0,sit,,
 819192,chess,-1,9,,0,,0,sit,,
 820088,saga_drum,-1,0,action,0,,0,wait,,
+820125,playball,-1,10,play,1,,0,play,,
 820321,wv_sit,-1,9,,1,,0,sit,,
 820322,wv_sit,-1,9,,0,,0,sit,,
 840064,squad_stand,-1,5,,1,,0,wait,,

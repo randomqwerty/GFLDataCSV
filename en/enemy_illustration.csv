@@ -211,6 +211,7 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 211,enemy_illustration-10000211,3,M16A1Griffin,enemy_illustration-20000211,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000211,100,,2035-12-31,enemy_illustration-40000211,70|70|1,0,0,0
 212,enemy_illustration-10000212,3,USSR_Agent,enemy_illustration-20000212,0,0,1,3,2,3,5,0,3,3,enemy_illustration-30000212,1001,,2035-05-20,enemy_illustration-40000212,,0,0,0
 213,enemy_illustration-10000213,3,Obelisk_partB,enemy_illustration-20000213,3,0,1,3,3,5,3,0,1,4,enemy_illustration-30000213,1001|1003|335|320,130,2035-05-20,enemy_illustration-40000213,100|100|1,0,0,0
+214,enemy_illustration-10000214,1,Nyto_mecha2,enemy_illustration-20000214,3,1,5,6,5,6,4,0,6,7,enemy_illustration-30000214,1001|216,211|212|213|214|215|216,2035-05-20,enemy_illustration-40000214,70|70|1,10604,0,0
 215,enemy_illustration-10000215,1,BossNarciss,enemy_illustration-20000215,3,0,5,5,5,5,5,0,5,5,enemy_illustration-30000215,1001|329|330,108|109|110,2035-05-20,enemy_illustration-40000215,,10603,0,0
 217,enemy_illustration-10000217,3,AR15Mod_enemy,enemy_illustration-20000217,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000217,100,224|225|226|227,2035-12-31,enemy_illustration-40000217,70|70|1,0,0,0
 218,enemy_illustration-10000218,3,A545_NPC,enemy_illustration-20000218,0,0,5,5,5,5,5,0,5,5,enemy_illustration-30000218,100,222,2035-12-31,enemy_illustration-40000218,70|70|1,0,0,0
@@ -260,5 +261,13 @@ id,name,type,code,introduce,forces,if_capture,pow_rank,life_rank,hit_rank,dodge_
 100049,enemy_illustration-10100049,3,80type_SagaEnemy,enemy_illustration-20100049,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100049,100,10049,2035-12-31,enemy_illustration-40100049,,0,0,0
 100050,enemy_illustration-10100050,3,M1897_SagaEnemy,enemy_illustration-20100050,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100050,100,10050,2035-12-31,enemy_illustration-40100050,,0,0,0
 100051,enemy_illustration-10100051,3,G11_SagaEnemy,enemy_illustration-20100051,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100051,100,10051,2035-12-31,enemy_illustration-40100051,,0,0,0
+100052,enemy_illustration-10100052,3,FacelessMenA,enemy_illustration-20100052,0,0,1,4,1,5,4,0,1,5,enemy_illustration-30100052,303,40,2035-12-31,enemy_illustration-40100052,,0,0,0
+100053,enemy_illustration-10100053,3,FacelessMenB,enemy_illustration-20100053,0,0,1,4,1,5,4,0,1,5,enemy_illustration-30100053,303,40,2035-12-31,enemy_illustration-40100053,,0,0,0
+100054,enemy_illustration-10100054,3,SPS_NPC,enemy_illustration-20100054,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100054,100,,2035-12-31,enemy_illustration-40100054,,0,0,0
+100055,enemy_illustration-10100055,3,KSVK_NPC,enemy_illustration-20100055,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100055,100,,2035-12-31,enemy_illustration-40100055,,0,0,0
+100056,enemy_illustration-10100056,3,A545_NPC,enemy_illustration-20100056,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100056,100,,2035-12-31,enemy_illustration-40100056,,0,0,0
+100057,enemy_illustration-10100057,1,EzakiBoss,enemy_illustration-20100057,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100057,1001,10052|10053,2035-12-31,enemy_illustration-40100057,,0,0,0
+100058,enemy_illustration-10100058,1,TakashiBoss,enemy_illustration-20100058,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100058,1001,10054|10055,2035-12-31,enemy_illustration-40100058,,0,0,0
+100059,enemy_illustration-10100059,1,MizukinnBoss,enemy_illustration-20100059,0,0,5,5,5,5,5,5,5,5,enemy_illustration-30100059,1001,10056|10057|10058,2035-12-31,enemy_illustration-40100059,,0,0,0
 100082,enemy_illustration-10100082,3,Brute_SWAP,enemy_illustration-20100082,1,0,5,3,4,3,2,0,4,2,enemy_illustration-30100082,1003|303|315,54|55,2035-12-31,enemy_illustration-40100082,,0,0,0
 100083,enemy_illustration-10100083,4,Nemeum_SWAP2,enemy_illustration-20100083,1,0,4,5,6,0,3,4,4,4,enemy_illustration-30100083,1003|309|307,56,2035-12-31,enemy_illustration-40100083,,0,0,0
