@@ -918,6 +918,17 @@ id,type,arguments,extra_language,is_hidden,is_show_count
 1166701,1303,690901:1,mission_win_type_config-11166701,0,
 1166801,1301,5,mission_win_type_config-11166801,0,
 1166901,1301,5,mission_win_type_config-11166901,0,
+1170001,1407,1170002:1,mission_win_type_config-11170001,0,
+1170002,1407,1170003:1,mission_win_type_config-11170002,0,
+1170003,1306,9700301:1,mission_win_type_config-11170003,0,
+1170101,1407,1170101:2,mission_win_type_config-11170101,0,
+1170201,1407,1170202:1,mission_win_type_config-11170201,0,
+1170301,1303,9701201:1,mission_win_type_config-11170301,0,
+1170401,1303,9701501:1,mission_win_type_config-11170401,0,
+1170501,1402,2,mission_win_type_config-11170501,0,
+1170601,1306,9701901:1,mission_win_type_config-11170601,1,
+1170901,1303,9702201:1,mission_win_type_config-11170901,0,
+1171001,1303,9702301:1,mission_win_type_config-11171001,0,
 1666101,1407,690311:2,mission_win_type_config-11666101,0,
 3610301,1305,0,mission_win_type_config-13610301,0,1
 3610311,1401,3,mission_win_type_config-13610311,0,1

@@ -29,3 +29,7 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 28,equip_group-10000028,equip_group-20000028,EgroupAA12,394|174|0,2:1001203,163,0
 29,equip_group-10000029,equip_group-20000029,EgroupSV98,398|0|115,2:1001403,20044,0
 30,equip_group-10000030,equip_group-20000030,EgroupPKP,399|316|0,2:1001503,173,0
+31,equip_group-10000031,equip_group-20000031,EgroupWelrod,406|0|213,2:1001703,20114,0
+32,equip_group-10000032,equip_group-20000032,EgroupStenMK2,407|0|128,2:1001803,20029,0
+33,equip_group-10000033,equip_group-20000033,EgroupSR3MP,409|0|249,2:1002003,135,0
+34,equip_group-10000034,equip_group-20000034,EgroupStG44,0|136|410,2:1002103,20061,0

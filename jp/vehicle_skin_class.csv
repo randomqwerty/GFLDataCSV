@@ -8,5 +8,7 @@ id,name,vehicle_ids,pic_code,desc
 7,vehicle_skin_class-10000007,1|2,1:TankM1_1007_set,vehicle_skin_class-20000007
 8,vehicle_skin_class-10000008,1|2,1:TankM1_1008_set,vehicle_skin_class-20000008
 9,vehicle_skin_class-10000009,1|2,2:Warjack_1009_set,vehicle_skin_class-20000009
+10,vehicle_skin_class-10000010,1|2,1:TankM1_1010_set,vehicle_skin_class-20000010
 11,vehicle_skin_class-10000011,1|2,1:TankM1_1011_set,vehicle_skin_class-20000011
+12,vehicle_skin_class-10000012,1|2,2:Warjack_1012_set,vehicle_skin_class-20000012
 13,vehicle_skin_class-10000013,1|2,2:Warjack_1013_set,vehicle_skin_class-20000013

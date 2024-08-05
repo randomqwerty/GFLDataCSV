@@ -25,3 +25,5 @@ id,name,order,evo_step,appearance_id,item_id,medal_obtain,medal_color,is_date,de
 29,medal-10000029,71,1,171,128,medal-20000029,#ff0000,2,Logo_Events
 30,medal-10000030,70,1|2|3|4|5|6|7|8|9|10|11|12,172|173|174|175|176|177|178|179|180|181|182|183,129,medal-20000030,#ff0000,2,Logo_Events
 32,medal-10000032,68,1,196,131,medal-20000032,#ff0000,2,Logo_Events
+35,medal-10000035,65,1,210,134,medal-20000035,#ff0000,2,Logo_Events
+36,medal-10000036,64,1|2|3|4|5|6|7|8|9|10|11|12,211|212|213|214|215|216|217|218|219|220|221|222,135,medal-20000036,#ff0000,2,Logo_Events

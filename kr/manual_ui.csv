@@ -964,6 +964,11 @@ id,code_a,description_a,description_b,description_c,code_b,is_manual_target,use_
 9521306,Door_Left,manual_ui-19521306,manual_ui-29521306,manual_ui-39521306,Squad_Icon,0,0
 9521307,Door_Left,manual_ui-19521307,manual_ui-29521307,manual_ui-39521307,Squad_Icon,0,0
 9521401,Sundries,manual_ui-19521401,manual_ui-29521401,manual_ui-39521401,Squad_Icon,0,0
+9700301,LiftBlue,manual_ui-19700301,manual_ui-29700301,manual_ui-39700301,Squad_Icon,0,0
+9700601,Console,manual_ui-19700601,manual_ui-29700601,manual_ui-39700601,Squad_Icon,0,0
+9700607,Boomer,manual_ui-19700607,manual_ui-29700607,manual_ui-39700607,Squad_Icon,0,0
+9701201,Console,manual_ui-19701201,manual_ui-29701201,manual_ui-39701201,Squad_Icon,0,0
+9701206,Boomer,manual_ui-19701206,manual_ui-29701206,manual_ui-39701206,Squad_Icon,0,0
 44360002,golyatplg_d,manual_ui-54360002,manual_ui-64360002,manual_ui-74360002,Console_Icon,0,0
 44400004,Console,manual_ui-54400004,manual_ui-64400004,manual_ui-74400004,Console_Icon,0,0
 44400005,Console,manual_ui-54400005,manual_ui-64400005,manual_ui-74400005,Console_Icon,0,0

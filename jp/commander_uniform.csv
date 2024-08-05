@@ -216,3 +216,4 @@ id,name,description,code,icon,type,gender,uniform_class,color_normal,color_0,col
 5740,commander_uniform-10005740,commander_uniform-20005740,BodyAcco,commander_5740_icon,4,0,57,Commander_5740_N,Commander_5740_0,Commander_5740_1,Commander_5740_2,Commander_5740_3,Commander_5740_4,0,BodyBinder1,0,0.2,-0.123|0.007,930|931|932|933|934|935
 5751,commander_uniform-10005751,commander_uniform-20005751,Foot1,commander_5751_icon,5,1,57,Commander_5751_N,Commander_5751_0,Commander_5751_1,Commander_5751_2,Commander_5751_3,Commander_5751_4,0,,0,0.0,,936|937|938|939|940|941
 5752,commander_uniform-10005752,commander_uniform-20005752,Foot2,commander_5752_icon,5,2,57,Commander_5752_N,Commander_5752_0,Commander_5752_1,Commander_5752_2,Commander_5752_3,Commander_5752_4,0,,0,0.0,,942|943|944|945|946|947
+5940,commander_uniform-10005940,commander_uniform-20005940,BodyAcco,commander_5940_icon,4,0,59,Commander_5940_N,,,,,,0,BodyBinder1,0,0.2,-0.172|0.008,958

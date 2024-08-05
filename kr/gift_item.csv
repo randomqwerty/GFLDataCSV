@@ -757,6 +757,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10505,gift_item-10010505,2,6,50000,273,10505,310505,gift_bundle_Masque2024_SSG3000,gift_item-20010505,gift_item-30010505,gift_item-50010505,0,0,0,,gift_item-40010505,2000,6
 10506,gift_item-10010506,2,6,50000,354,10506,310506,gift_bundle_Masque2024_ZIP22,gift_item-20010506,gift_item-30010506,gift_item-50010506,0,0,0,,gift_item-40010506,2000,6
 10507,gift_item-10010507,2,6,50000,5,10507,310507,gift_bundle_Masque2024_M1895,gift_item-20010507,gift_item-30010507,gift_item-50010507,0,0,0,,gift_item-40010507,2000,6
+10601,gift_item-10010601,2,6,50000,377,10601,310601,gift_bundle_Detective2024_SCARH,gift_item-20010601,gift_item-30010601,gift_item-50010601,0,0,0,,gift_item-40010601,2000,6
+10602,gift_item-10010602,2,6,50000,386,10602,310602,gift_bundle_Detective2024_LAMG,gift_item-20010602,gift_item-30010602,gift_item-50010602,0,0,0,,gift_item-40010602,2000,6
+10603,gift_item-10010603,2,6,50000,342,10603,310603,gift_bundle_Detective2024_KH2002,gift_item-20010603,gift_item-30010603,gift_item-50010603,0,0,0,,gift_item-40010603,2000,6
+10604,gift_item-10010604,2,6,50000,315,10604,310604,gift_bundle_Detective2024_AUGPARA,gift_item-20010604,gift_item-30010604,gift_item-50010604,0,0,0,,gift_item-40010604,2000,6
+10605,gift_item-10010605,2,6,50000,118,10605,310605,gift_bundle_Detective2024_9A91,gift_item-20010605,gift_item-30010605,gift_item-50010605,0,0,0,,gift_item-40010605,2000,6
+10606,gift_item-10010606,2,6,50000,26,10606,310606,gift_bundle_Detective2024_MP5,gift_item-20010606,gift_item-30010606,gift_item-50010606,0,0,0,,gift_item-40010606,2000,6
+10607,gift_item-10010607,2,6,50000,99,10607,310607,gift_bundle_Detective2024_Mk23,gift_item-20010607,gift_item-30010607,gift_item-50010607,0,0,0,,gift_item-40010607,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6
@@ -776,6 +783,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 30018,gift_item-10030018,2,6,50000,348,30018,330018,gift_bundle_BattlePass_HS50,gift_item-20030018,gift_item-30030018,gift_item-50030018,0,0,0,,gift_item-40030018,2000,6
 30019,gift_item-10030019,2,6,50000,128,30019,330019,gift_bundle_BattlePass_M99,gift_item-20030019,gift_item-30030019,gift_item-50030019,0,0,0,,gift_item-40030019,2000,6
 30020,gift_item-10030020,2,6,50000,152,30020,330020,gift_bundle_BattlePass_M1897,gift_item-20030020,gift_item-30030020,gift_item-50030020,0,0,0,,gift_item-40030020,2000,6
+30021,gift_item-10030021,2,6,50000,400,30021,330021,gift_bundle_BattlePass_M1851N,gift_item-20030021,gift_item-30030021,gift_item-50030021,0,0,0,,gift_item-40030021,2000,6
 50001,gift_item-10050001,2,6,50000,95,50001,350001,gift_bundle_Anniversary2024_88type,gift_item-20050001,gift_item-30050001,gift_item-50050001,0,0,0,,gift_item-40050001,2000,6
 100001,gift_item-10100001,1,2,1000,0,0,0,gift_item_lollipop_N,gift_item-20100001,gift_item-30100001,gift_item-50100001,0,0,0,21,gift_item-40100001,1001,5
 100002,gift_item-10100002,1,3,3000,0,0,0,gift_item_icecream_R,gift_item-20100002,gift_item-30100002,gift_item-50100002,0,0,0,21,gift_item-40100002,1002,5

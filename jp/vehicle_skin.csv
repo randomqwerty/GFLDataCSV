@@ -73,6 +73,12 @@ id,name,type,group_id,vehicle_id,blueprint_id,class_id,code,item_id,obtain,featu
 10074,vehicle_skin-10010074,2,107,,,9,MG_Cannon_1009,133080,40,0,vehicle_skin-20010074,1
 10075,vehicle_skin-10010075,2,124,,,9,AutoDef_1009,133081,40,0,vehicle_skin-20010075,1
 10076,vehicle_skin-10010076,2,115,,,9,Jammer_1009,133082,40,0,vehicle_skin-20010076,1
+10077,vehicle_skin-10010077,1,0,1,,10,TankM1_1010,133083,40,0,vehicle_skin-20010077,1
+10078,vehicle_skin-10010078,2,117,,,10,Smoke_Emitter_1010,133084,40,0,vehicle_skin-20010078,1
+10079,vehicle_skin-10010079,2,119,,,10,Medium_Missile_Launcher_1010,133085,40,0,vehicle_skin-20010079,1
+10080,vehicle_skin-10010080,2,142,,,10,ElecGun_1010,133086,40,0,vehicle_skin-20010080,1
+10081,vehicle_skin-10010081,2,107,,,10,MG_Cannon_1010,133087,40,0,vehicle_skin-20010081,1
+10082,vehicle_skin-10010082,2,115,,,10,Jammer_1010,133088,40,0,vehicle_skin-20010082,1
 10083,vehicle_skin-10010083,2,101,,,3,MG_Single_1003,133089,40,0,vehicle_skin-20010083,1
 10084,vehicle_skin-10010084,2,105,,,3,Searchlight_1003,133090,40,0,vehicle_skin-20010084,1
 10085,vehicle_skin-10010085,2,141,,,3,Protective_Generator_1003,133091,40,0,vehicle_skin-20010085,1
@@ -102,6 +108,12 @@ id,name,type,group_id,vehicle_id,blueprint_id,class_id,code,item_id,obtain,featu
 11103,vehicle_skin-10011103,2,143,,,11,LaserSup_1011,133115,40,0,vehicle_skin-20011103,1
 11104,vehicle_skin-10011104,2,118,,,11,Small_Missile_Launcher_1011,133116,40,0,vehicle_skin-20011104,1
 11105,vehicle_skin-10011105,2,107,,,11,MG_Cannon_1011,133117,40,0,vehicle_skin-20011105,1
+11200,vehicle_skin-10011200,1,0,2,,12,Warjack_1012,133130,41,0,vehicle_skin-20011200,1
+11201,vehicle_skin-10011201,2,118,,,12,Small_Missile_Launcher_1012,133131,41,0,vehicle_skin-20011201,1
+11202,vehicle_skin-10011202,2,142,,,12,ElecGun_1012,133132,41,0,vehicle_skin-20011202,1
+11203,vehicle_skin-10011203,2,107,,,12,MG_Cannon_1012,133133,41,0,vehicle_skin-20011203,1
+11204,vehicle_skin-10011204,2,124,,,12,AutoDef_1012,133134,41,0,vehicle_skin-20011204,1
+11205,vehicle_skin-10011205,2,143,,,12,LaserSup_1012,133135,41,0,vehicle_skin-20011205,1
 11300,vehicle_skin-10011300,1,0,2,,13,Warjack_1013,133124,40,0,vehicle_skin-20011300,1
 11301,vehicle_skin-10011301,2,118,,,13,Small_Missile_Launcher_1013,133125,40,0,vehicle_skin-20011301,1
 11302,vehicle_skin-10011302,2,101,,,13,MG_Single_1013,133126,40,0,vehicle_skin-20011302,1
