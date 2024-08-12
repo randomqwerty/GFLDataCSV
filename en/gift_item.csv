@@ -122,6 +122,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 592,gift_item-10000592,2,6,50000,1036,592,30592,gift_bundle_Saga2023_Lily,gift_item-30000592,gift_item-50000592,0,0,0,,gift_item-40000592,0,gift_item-20000592
 593,gift_item-10000593,2,6,50000,1035,593,30593,gift_bundle_Saga2023_Tae,gift_item-30000593,gift_item-50000593,0,0,0,,gift_item-40000593,0,gift_item-20000593
 594,gift_item-10000594,2,6,50000,152,594,30594,gift_bundle_ChessBonus_M1897,gift_item-30000594,gift_item-50000594,0,0,0,,gift_item-40000594,0,gift_item-20000594
+595,gift_item-10000595,2,6,50000,283,595,30595,gift_bundle_AprilFool2023_Liberator,gift_item-30000595,gift_item-50000595,0,0,0,,gift_item-40000595,2000,gift_item-20000595
 598,gift_item-10000598,2,6,50000,1043,598,30598,gift_bundle_Ghost2024_Ezaki,gift_item-30000598,gift_item-50000598,0,0,0,,gift_item-40000598,0,gift_item-20000598
 599,gift_item-10000599,2,6,50000,1044,599,30599,gift_bundle_Ghost2024_Mizukinn,gift_item-30000599,gift_item-50000599,0,0,0,,gift_item-40000599,0,gift_item-20000599
 600,gift_item-10000600,2,6,50000,1042,600,30600,gift_bundle_Ghost2024_Motoko,gift_item-30000600,gift_item-50000600,0,0,0,,gift_item-40000600,0,gift_item-20000600
@@ -675,6 +676,14 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 8905,gift_item-10008905,2,6,50000,143,8905,38905,gift_bundle_Dining2023_RO635,gift_item-30008905,gift_item-50008905,0,0,0,,gift_item-40008905,0,gift_item-20008905
 8906,gift_item-10008906,2,6,50000,356,8906,38906,gift_bundle_Dining2023_A545,gift_item-30008906,gift_item-50008906,0,0,0,,gift_item-40008906,0,gift_item-20008906
 8908,gift_item-10008908,2,6,50000,256,8908,38908,gift_bundle_Dining2023_Falcon,gift_item-30008908,gift_item-50008908,0,0,0,,gift_item-40008908,0,gift_item-20008908
+10201,gift_item-10010201,2,6,50000,376,10201,310201,gift_bundle_WhiteV2024_Erma,gift_item-30010201,gift_item-50010201,0,0,0,,gift_item-40010201,2000,gift_item-20010201
+10301,gift_item-10010301,2,6,50000,387,10301,310301,gift_bundle_Hospital2024_TPS,gift_item-30010301,gift_item-50010301,0,0,0,,gift_item-40010301,2000,gift_item-20010301
+10302,gift_item-10010302,2,6,50000,375,10302,310302,gift_bundle_Hospital2024_ColtWalker,gift_item-30010302,gift_item-50010302,0,0,0,,gift_item-40010302,2000,gift_item-20010302
+10303,gift_item-10010303,2,6,50000,161,10303,310303,gift_bundle_Hospital2024_97typeS,gift_item-30010303,gift_item-50010303,0,0,0,,gift_item-40010303,2000,gift_item-20010303
+10304,gift_item-10010304,2,6,50000,121,10304,310304,gift_bundle_Hospital2024_Mk48,gift_item-30010304,gift_item-50010304,0,0,0,,gift_item-40010304,2000,gift_item-20010304
+10305,gift_item-10010305,2,6,50000,335,10305,310305,gift_bundle_Hospital2024_Fedorov,gift_item-30010305,gift_item-50010305,0,0,0,,gift_item-40010305,2000,gift_item-20010305
+10306,gift_item-10010306,2,6,50000,23,10306,310306,gift_bundle_Hospital2024_PP90,gift_item-30010306,gift_item-50010306,0,0,0,,gift_item-40010306,2000,gift_item-20010306
+10307,gift_item-10010307,2,6,50000,210,10307,310307,gift_bundle_Hospital2024_CZ52,gift_item-30010307,gift_item-50010307,0,0,0,,gift_item-40010307,2000,gift_item-20010307
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,0,gift_item-20030001
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,0,gift_item-20030002
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,0,gift_item-20030003

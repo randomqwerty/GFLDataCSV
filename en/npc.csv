@@ -1,4 +1,5 @@
 id,name,code,title,ai,is_adjutant,unlock_text,mission_id,item_id,skin_code,voice_code,org_id,org_introduction
+-15,npc-9999985,NPC_Stevens520_Shadow,npc-19999985,9999,0,npc-29999985,0,0,,,,npc-39999985
 -14,npc-9999986,Org_Griffin,npc-19999986,9999,0,npc-29999986,0,0,,,101,npc-39999986
 -13,npc-9999987,Org_Commander,npc-19999987,9999,0,npc-29999987,0,0,,,10101,npc-39999987
 -12,npc-9999988,NPC_Maid,npc-19999988,9999,1,npc-29999988,114,0,,,,npc-39999988

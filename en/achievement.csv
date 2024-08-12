@@ -1133,3 +1133,4 @@ identity,type,count,user_exp,mp,ammo,mre,part,core,gem,gun_id,item_ids,equip_ids
 1217,vehicle_defeat_challenge_2,30,3000,3000,3000,3000,3000,0,0,0,,,,,achievement-10001217,achievement-20001217,1,321,机甲通关日常玩法ex层数,0,,,achievement-30001217,30
 1219,c_mission_win_no_battle,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001219,achievement-20001219,100,323,慈悲的远望,0,,11498|11509,achievement-30001219,0
 1220,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001220,achievement-20001220,100,324,第六只眼,0,,11506:640101|11517:640101,achievement-30001220,0
+1221,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001221,achievement-20001221,100,325,诶嘿打不着,0,,11633:1163302,achievement-30001221,0
