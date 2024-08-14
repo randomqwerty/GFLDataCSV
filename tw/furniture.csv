@@ -1819,6 +1819,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 20142,furniture-10020142,20,302,0,11|11|0|0|0|0,1000,100003,furniture-20020142,pv_202406activity,1,5,0|0.05|0,3,0,0,0,0,0,0
 20143,furniture-10020143,81,201,0,8|7|0|0|0|0,1000,100003,furniture-20020143,Anniversary2024jp_nagashisomen,2,0,-0.063|0.229|0.000,2,820143,*1.196|0.825|0.000,0,4|5|4,0,0
 20144,furniture-10020144,81,201,0,4|4|1|1|1|0,1000,100003,furniture-20020144,UMP45Childhood_deco_doll,1,0,0|0|0,2,20,*1.715|2.319|0.458,0,0,0,0
+20145,furniture-10020145,81,201,0,2|2|0|0|0|0,1000,100003,furniture-20020145,ZastavaM21_4304_deco,1,0,0.000|-0.063|0.000,2,0,0,0,0,0,0
 30001,furniture-10030001,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030001,poster_pm_halloween,1,5,0|0|0,2,0,0,0,0,0,0
 30002,furniture-10030002,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030002,poster_vector_halloween,1,5,0|0|0,2,0,0,0,0,0,0
 30003,furniture-10030003,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030003,poster_mp5_halloween,1,5,0|0|0,2,0,0,0,0,0,0

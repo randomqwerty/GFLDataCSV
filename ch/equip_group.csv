@@ -33,3 +33,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 32,equip_group-10000032,equip_group-20000032,EgroupStenMK2,407|0|128,2:1001803,20029,0
 33,equip_group-10000033,equip_group-20000033,EgroupSR3MP,409|0|249,2:1002003,135,0
 34,equip_group-10000034,equip_group-20000034,EgroupStG44,0|136|410,2:1002103,20061,0
+35,equip_group-10000035,equip_group-20000035,EgroupWA2000,414|217|0,2:1002303,48,0
+36,equip_group-10000036,equip_group-20000036,EgroupM1895,113|0|415,2:1002403,20005,0
