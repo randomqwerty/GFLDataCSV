@@ -1050,6 +1050,10 @@ id,type,arguments,extra_language,is_hidden,is_show_count
 9587401,1402,6,mission_win_type_config-19587401,0,
 9587402,1402,5,mission_win_type_config-19587402,0,
 9587403,1303,9587403:1,mission_win_type_config-19587403,0,
+9711501,1102,1,mission_win_type_config-19711501,1,
+9711502,1407,1040100:1,mission_win_type_config-19711502,2,
+9711503,1301,1,mission_win_type_config-19711503,0,
+9711901,1402,3,mission_win_type_config-19711901,0,
 58000101,1402,2,mission_win_type_config-68000101,0,0
 58000501,1407,78005:1,mission_win_type_config-68000501,0,
 58000502,1402,1,mission_win_type_config-68000502,0,
