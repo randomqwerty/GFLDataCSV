@@ -1318,6 +1318,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1480,2480,2,0,0,0,0,0,,0,0,card_202404Acticity_02,1,5,,0,0,1,0,,0
 1481,2481,2,0,0,0,0,0,,0,0,card_202404Acticity_03,1,5,,0,0,1,0,,0
 1482,2482,3,0,0,0,0,0,,0,0,cg_202404Acticity,1,5,,0,0,1,0,,0
+1486,2486,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M99,1,5,,0,0,,0,,0
+1487,2487,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M99,1,5,,30019,0,,0,,0
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
@@ -1355,3 +1357,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100039,200039,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_95type,1,5,,0,0,5,0,,0
 100042,200042,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M16A1,1,5,,0,0,5,0,,0
 100043,200043,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_HS50,1,5,,0,0,5,0,,0
+100044,200044,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M99,1,5,,0,0,5,0,,0

@@ -1626,6 +1626,9 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 20021,furniture-10020021,19,201,0,3|3|1|1|1|0,1000,100003,furniture-20020021,2021SummerActivity_Clock,2,0,0|0|0,2,55,0|0|0,0,3|3|3,0,0
 20022,furniture-10020022,299,299,0,3|2|0|0|0|0,1000,100003,furniture-20020022,2021SummerActivity_Pele,1,0,0|0|0,2,4,*-0.050|0.953|-0.285,0,3|3|3,3090,0
 20023,furniture-10020023,81,201,0|0,4|3|1|1|1|0,1000,100003,furniture-20020023,Telescope2021_deco,1,0,0|-0.10427|0,2,36,0|0|0,0,0,0,0
+20024,furniture-10020024,20,302,0,11|11|0|0|0|0,1000,100003,furniture-20020024,pv_2021winter,1,5,0|0.05|0,3,0,0,0,0,0,0
+20025,furniture-10020025,20,302,0,11|11|0|0|0|0,1000,100003,furniture-20020025,pv_2021summer,1,5,0|0.05|0,3,0,0,0,0,0,0
+20026,furniture-10020026,20,302,0,11|11|0|0|0|0,1000,100003,furniture-20020026,pv_2021winter_Protean,1,5,0|0.05|0,3,0,0,0,0,0,0
 20028,furniture-10020028,81,302,0,3|5|1|1|1|0,1000,100003,furniture-20020028,2021ChristmasActivity_decoCD,1,0,0|0|0,3,0,0,0,0,0,0
 20029,furniture-10020029,81,201,0,4|3|1|1|1|0,1000,100003,furniture-20020029,2021ChristmasActivity_decoPresent,1,0,0|-0.3868417|0,2,0,0,0,0,0,0
 20030,furniture-10020030,299,299,0,3|2|0|0|0|0,1000,100003,furniture-20020030,2021ChristmasActivity_reindeer,1,0,0|0|0,2,4,*-0.050|0.953|-0.285,0,3|3|3,3092,0
@@ -2697,6 +2700,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 330015,furniture-10330015,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330015,poster_BattlePass_95type,1,5,0|0|0,3,0,0,0,0,0,0
 330017,furniture-10330017,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330017,poster_BattlePass_M16A1,1,5,0|0|0,3,0,0,0,0,0,0
 330018,furniture-10330018,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330018,poster_BattlePass_HS50,1,5,0|0|0,3,0,0,0,0,0,0
+330019,furniture-10330019,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330019,poster_BattlePass_M99,1,5,0|0|0,3,0,0,0,0,0,0
 410010,furniture-10410010,400,201,0,16|14|1|1|1|1,0,0,furniture-20410010,vehicleDorm_stageA|vehicleDorm_stageB,2|2,0|20,0.000|-0.448|3.357|0.000|-0.386|3.170,2|2,70,0|0|0,BGM_vehicle_garage_main,12|6|0,0,0
 410020,furniture-10410020,400,201,0,6|6|0|0|0|0,0,0,furniture-20410020,vehicleDorm_energyDevice|vehicleDorm_battery,1|2,0|0,-0.270|0.081|0.000|-0.042|0.540|0.137,2|2,0,0,0,0,0,0
 410030,furniture-10410030,400,201,0,5|4|0|0|0|0,0,0,furniture-20410030,vehicleDorm_OperationA|vehicleDorm_OperationB|vehicleDorm_chair,1|1|1,0|0|20,-0.443|0.000|0.000|1.861|0.005|0.000|0.382|0.000|-0.360,2|2|2,0,0,0,0,0,0

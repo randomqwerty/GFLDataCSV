@@ -1432,6 +1432,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2480,5,1,card_202404Acticity_02,item-10002480,item-20002480,1,0,,,0,0,,item-30002480,0
 2481,5,1,card_202404Acticity_03,item-10002481,item-20002481,1,0,,,0,0,,item-30002481,0
 2482,5,1,cg_202404Acticity,item-10002482,item-20002482,1,0,,,0,0,,item-30002482,0
+2486,5,1,card_BattlePass_M99,item-10002486,item-20002486,1,0,,,0,0,,item-30002486,0
+2487,5,1,profilePic_BattlePass_M99,item-10002487,item-20002487,1,0,,,0,0,,item-30002487,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0
 4003,1,4003,explore_loot_forest,item-10004003,item-20004003,1,0,,,99999,0,,item-30004003,0
@@ -1543,6 +1545,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10708,18,10708,daily_points,item-10010708,item-20010708,1,0,,,0,0,,item-30010708,0
 10709,18,10709,daily_points,item-10010709,item-20010709,1,0,,,0,0,,item-30010709,0
 10710,18,10710,daily_points,item-10010710,item-20010710,1,0,,,0,0,,item-30010710,0
+10711,18,10711,daily_points,item-10010711,item-20010711,1,0,,,0,0,,item-30010711,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0
 100002,4,100002,Bumdle_1year,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0
 100003,4,100003,Activity_RedPacket,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0
@@ -1939,6 +1942,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 140034,14,1,Y_Z_zhihuiguan_Chessman,item-10140034,item-20140034,1,0,,,0,0,,item-30140034,0
 140035,14,1,Y_Z_zhihuiguan_Chessman,item-10140035,item-20140035,1,0,,,0,0,,item-30140035,0
 140036,14,1,Y_Z_zhihuiguan_Chessman,item-10140036,item-20140036,1,0,,,0,0,,item-30140036,0
+140037,14,1,Y_Z_zhihuiguan_Chessman,item-10140037,item-20140037,1,0,,,0,0,,item-30140037,0
+140038,14,1,Y_Z_zhihuiguan_Chessman,item-10140038,item-20140038,1,0,,,0,0,,item-30140038,0
 160001,1,1,PT,item-10160001,item-20160001,1,0,,,0,0,,item-30160001,0
 161000,1,1,PT,item-10161000,item-20161000,1,0,,,0,0,,item-30161000,0
 161001,1,1,PT,item-10161001,item-20161001,1,0,,,0,0,,item-30161001,0
@@ -1979,6 +1984,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200039,1,1,profileFrame_BattlePass_95type,item-10200039,item-20200039,1,0,,,0,0,,item-30200039,0
 200042,1,1,profileFrame_BattlePass_M16A1,item-10200042,item-20200042,1,0,,,0,0,,item-30200042,0
 200043,1,1,profileFrame_BattlePass_HS50,item-10200043,item-20200043,1,0,,,0,0,,item-30200043,0
+200044,1,1,profileFrame_BattlePass_M99,item-10200044,item-20200044,1,0,,,0,0,,item-30200044,0
 900030,4,900030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0
 900031,4,900031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0
 900032,4,900032,Nova_medal,item-10900032,item-20900032,1,0,,,0,0,,item-30900032,0
@@ -2127,6 +2133,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500128,15,1500128,Bumdle_summergarden01,item-11500128,item-21500128,1,-1,,,0,0,,item-31500128,0
 1500129,15,1500129,Bumdle_summergarden02,item-11500129,item-21500129,1,-1,,,0,0,,item-31500129,0
 1500130,15,1500130,Bumdle_summergarden03,item-11500130,item-21500130,1,-1,,,0,0,,item-31500130,0
+1500131,15,1500131,package_choose,item-11500131,item-21500131,1,-1,,,0,0,,item-31500131,0
+1500132,15,1500132,package_choose,item-11500132,item-21500132,1,-1,,,0,0,,item-31500132,0
+1500133,15,1500133,package_random,item-11500133,item-21500133,1,-1,,,0,0,,item-31500133,0
+1500134,15,1500134,package_random,item-11500134,item-21500134,1,-1,,,0,0,,item-31500134,0
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0
@@ -2139,6 +2149,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700007,15,1700007,package_choose,item-11700007,item-21700007,1,-1,,,0,0,,item-31700007,0
 1700008,15,1700008,package_choose,item-11700008,item-21700008,1,-1,,,0,0,,item-31700008,0
 1700009,15,1700009,package_choose,item-11700009,item-21700009,1,-1,,,0,0,,item-31700009,0
+1700010,15,1700010,package_choose,item-11700010,item-21700010,1,-1,,,0,0,,item-31700010,0
+1700011,15,1700011,package_choose,item-11700011,item-21700011,1,-1,,,0,0,,item-31700011,0
+1700012,15,1700012,package_choose,item-11700012,item-21700012,1,-1,,,0,0,,item-31700012,0
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0

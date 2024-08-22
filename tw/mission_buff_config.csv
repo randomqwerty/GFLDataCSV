@@ -741,5 +741,7 @@ id,name,description,code,type,duration_type,duration_time,limit_buff,exp_buff,is
 9701204,mission_buff_config-19701204,mission_buff_config-29701204,,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,CarryBoomerIcon#EC4702,,0,,9701204,0,9701204,,0,0,0,0,0,0,,,0,0,0
 9701205,mission_buff_config-19701205,mission_buff_config-29701205,ExtraMove2,1,1,999,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,0,,9701513,1,,,2,0,0,0,0,0,,,0,0,0
 9701512,mission_buff_config-19701512,mission_buff_config-29701512,ExtraMove3,1,1,999,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,3,,9701512,1,,,0,0,0,0,0,0,,,0,0,0
+9711501,mission_buff_config-19711501,mission_buff_config-29711501,Theresa_Back,1,1,999,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,,,0,,9711501,0,,,0,0,0,0,0,0,,,0,0,0
+9713101,mission_buff_config-19713101,mission_buff_config-29713101,Racing_Fly,1,1,999,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,99,,9713101,0,,,0,0,0,0,0,0,,,0,0,0
 10000021,mission_buff_config-20000021,mission_buff_config-30000021,buff,1,5,2,0,1,0,0,,900106,0,0,0,0,0,0,0,0,0,,,0,,1000002,0,,,0,0,0,0,0,0,,,0,0,0
 58000401,mission_buff_config-68000401,mission_buff_config-78000401,SpeedUp,1,5,1,0,1,0,,0,0,0,0,0,0,0-0,0,0,0,0,,,1,,58000401,0,,,0,0,0,0,0,0,,,0,0,0

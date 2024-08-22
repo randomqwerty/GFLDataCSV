@@ -2692,3 +2692,4 @@ id,type,special_spot_condition,mission_buff_condition,person_condition
 958420591,3,9584205*>0,,
 958420790,3,9584207*==0,,
 958420890,6,,,9587406*==0|9587405*==0
+971300191,6,,,9713001*>0

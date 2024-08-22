@@ -1289,6 +1289,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1374,2374,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M327,1,5,,30012,0,,0,,0
 1382,2382,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_MLEMK1,1,5,,0,0,,0,,3028
 1383,2383,2,0,0,0,0,320,508-8000,1,0,card_friendmall_MLEMK1,1,5,,0,0,,0,,3025
+1384,2384,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season13_1,1,5,,0,0,1,200008,logo_flightchess_major,0
+1385,2385,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season13_2,1,5,,0,0,1,200007,logo_flightchess_general,0
+1386,2386,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season13_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
 1387,2387,1,0,0,0,0,160,508-4000,1,0,profilePic_Dining2023_M4A1,1,5,,8901,0,,0,,0
 1388,2388,1,0,0,0,0,160,508-4000,1,0,profilePic_Dining2023_M4 SOPMOD II,1,5,,8902,0,,0,,0
 1389,2389,1,0,0,0,0,160,508-4000,1,0,profilePic_Dining2023_AR15,1,5,,8903,0,,0,,0
@@ -1333,8 +1336,11 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1451,2451,1,0,0,0,0,200,508-5000,1,0,profilePic_Ghost2024_Mizukinn,1,5,,599,0,,0,,0
 1454,2454,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M16A1,1,5,,0,0,,0,,0
 1455,2455,1,0,0,0,0,160,508-4000,1,0,profilePic_BattlePass_M16A1,1,5,,30017,0,,0,,0
+1465,2465,1,0,0,0,0,80,508-2000,1,0,profilePic_AprilFool2024_ZasM76,1,5,,6307,0,,0,,0
 1467,2467,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_HS50,1,5,,0,0,,0,,0
 1468,2468,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_HS50,1,5,,30018,0,,0,,0
+1486,2486,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M99,1,5,,0,0,,0,,0
+1487,2487,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M99,1,5,,30019,0,,0,,0
 1498,2498,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2024_88type,1,5,,50001,0,,0,,0
 1499,2499,3,0,0,0,0,0,,0,0,cg_Anniversary2024,1,5,,0,0,1,0,,0
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
@@ -1375,3 +1381,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100040,200040,4,0,0,0,0,0,,0,0,profileFrame_bonus_snack,1,5,,0,0,5,0,,0
 100042,200042,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M16A1,1,5,,0,0,5,0,,0
 100043,200043,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_HS50,1,5,,0,0,5,0,,0
+100044,200044,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M99,1,5,,0,0,5,0,,0

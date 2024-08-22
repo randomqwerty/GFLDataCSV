@@ -764,6 +764,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10605,gift_item-10010605,2,6,50000,118,10605,310605,gift_bundle_Detective2024_9A91,gift_item-20010605,gift_item-30010605,gift_item-50010605,0,0,0,,gift_item-40010605,2000,6
 10606,gift_item-10010606,2,6,50000,26,10606,310606,gift_bundle_Detective2024_MP5,gift_item-20010606,gift_item-30010606,gift_item-50010606,0,0,0,,gift_item-40010606,2000,6
 10607,gift_item-10010607,2,6,50000,99,10607,310607,gift_bundle_Detective2024_Mk23,gift_item-20010607,gift_item-30010607,gift_item-50010607,0,0,0,,gift_item-40010607,2000,6
+10701,gift_item-10010701,2,6,50000,73,10701,310701,gift_bundle_Chess2024_AUG,gift_item-20010701,gift_item-30010701,gift_item-50010701,0,0,0,,gift_item-40010701,0,0
+10702,gift_item-10010702,2,6,50000,357,10702,310702,gift_bundle_Chess2024_Rhino,gift_item-20010702,gift_item-30010702,gift_item-50010702,0,0,0,,gift_item-40010702,0,0
+10703,gift_item-10010703,2,6,50000,16,10703,310703,gift_bundle_Chess2024_M1928A1,gift_item-20010703,gift_item-30010703,gift_item-50010703,0,0,0,,gift_item-40010703,0,0
+10704,gift_item-10010704,2,6,50000,343,10704,310704,gift_bundle_Chess2024_APC556,gift_item-20010704,gift_item-30010704,gift_item-50010704,0,0,0,,gift_item-40010704,0,0
+10705,gift_item-10010705,2,6,50000,100,10705,310705,gift_bundle_Chess2024_P7,gift_item-20010705,gift_item-30010705,gift_item-50010705,0,0,0,,gift_item-40010705,0,0
+10706,gift_item-10010706,2,6,50000,267,10706,310706,gift_bundle_Chess2024_MP41,gift_item-20010706,gift_item-30010706,gift_item-50010706,0,0,0,,gift_item-40010706,0,0
+10707,gift_item-10010707,2,6,50000,93,10707,310707,gift_bundle_Chess2024_IDW,gift_item-20010707,gift_item-30010707,gift_item-50010707,0,0,0,,gift_item-40010707,0,0
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6
