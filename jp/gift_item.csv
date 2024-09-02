@@ -690,6 +690,14 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 10006,gift_item-10010006,2,6,50000,308,10006,310006,gift_bundle_NewYear2024_C14,gift_item-30010006,gift_item-50010006,0,0,0,,gift_item-40010006,0,gift_item-20010006
 10007,gift_item-10010007,2,6,50000,167,10007,310007,gift_bundle_NewYear2024_HK45,gift_item-30010007,gift_item-50010007,0,0,0,,gift_item-40010007,0,gift_item-20010007
 10008,gift_item-10010008,2,6,50000,34,10008,310008,gift_bundle_NewYear2024_M1,gift_item-30010008,gift_item-50010008,0,0,0,,gift_item-40010008,0,gift_item-20010008
+10201,gift_item-10010201,2,6,50000,376,10201,310201,gift_bundle_WhiteV2024_Erma,gift_item-30010201,gift_item-50010201,0,0,0,,gift_item-40010201,2000,gift_item-20010201
+10301,gift_item-10010301,2,6,50000,387,10301,310301,gift_bundle_Hospital2024_TPS,gift_item-30010301,gift_item-50010301,0,0,0,,gift_item-40010301,2000,gift_item-20010301
+10302,gift_item-10010302,2,6,50000,375,10302,310302,gift_bundle_Hospital2024_ColtWalker,gift_item-30010302,gift_item-50010302,0,0,0,,gift_item-40010302,2000,gift_item-20010302
+10303,gift_item-10010303,2,6,50000,161,10303,310303,gift_bundle_Hospital2024_97typeS,gift_item-30010303,gift_item-50010303,0,0,0,,gift_item-40010303,2000,gift_item-20010303
+10304,gift_item-10010304,2,6,50000,121,10304,310304,gift_bundle_Hospital2024_Mk48,gift_item-30010304,gift_item-50010304,0,0,0,,gift_item-40010304,2000,gift_item-20010304
+10305,gift_item-10010305,2,6,50000,335,10305,310305,gift_bundle_Hospital2024_Fedorov,gift_item-30010305,gift_item-50010305,0,0,0,,gift_item-40010305,2000,gift_item-20010305
+10306,gift_item-10010306,2,6,50000,23,10306,310306,gift_bundle_Hospital2024_PP90,gift_item-30010306,gift_item-50010306,0,0,0,,gift_item-40010306,2000,gift_item-20010306
+10307,gift_item-10010307,2,6,50000,210,10307,310307,gift_bundle_Hospital2024_CZ52,gift_item-30010307,gift_item-50010307,0,0,0,,gift_item-40010307,2000,gift_item-20010307
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,0,gift_item-20030001
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,0,gift_item-20030002
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,0,gift_item-20030003

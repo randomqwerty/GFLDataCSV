@@ -76,6 +76,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 137,3,38,Medal_21summer_re_rank,item-10000137,item-20000137,1,0,,,0,0,,item-30000137,0,0
 138,3,39,Medal_202407Activity,item-10000138,item-20000138,1,0,,,0,0,,item-30000138,0,0
 139,3,40,Medal_202408Activity,item-10000139,item-20000139,1,0,,,0,0,,item-30000139,0,0
+140,3,41,Medal_Theater13th,item-10000140,item-20000140,1,0,,,0,0,,item-30000140,0,0
+141,3,42,Medal_Theater13th_rank,item-10000141,item-20000141,1,0,,,0,0,,item-30000141,0,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0,0
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303,0,0
@@ -86,6 +88,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 308,1,1,CentreDataPP93,item-10000308,item-20000308,1,0,,,0,0,,item-30000308,0,0
 309,1,1,CentreDataMK47,item-10000309,item-20000309,1,0,,,0,0,,item-30000309,0,0
 310,1,1,CentreDataRPG29,item-10000310,item-20000310,1,0,,,0,0,,item-30000310,0,0
+311,1,1,CentreDataL9A1,item-10000311,item-20000311,1,0,,,0,0,,item-30000311,0,0
 501,2,5,Mp,item-10000501,item-20000501,1,0,,,300000,0,,item-30000501,0,0
 502,2,6,Ammo,item-10000502,item-20000502,1,0,,,300000,0,,item-30000502,0,0
 503,2,7,Mre,item-10000503,item-20000503,1,0,,,300000,0,,item-30000503,0,0
@@ -1672,6 +1675,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2553,5,1,card_202408Activity_02,item-10002553,item-20002553,1,0,,,0,0,,item-30002553,0,0
 2554,5,1,cg_202408Activity_01,item-10002554,item-20002554,1,0,,,0,0,,item-30002554,0,0
 2555,5,1,cg_202408Activity_02,item-10002555,item-20002555,1,0,,,0,0,,item-30002555,0,0
+2556,5,1,profilePic_sangvis_GagerSwimwear,item-10002556,item-20002556,1,0,,,0,0,,item-30002556,0,0
+2557,5,1,profilePic_BattlePass_LWMMG,item-10002557,item-20002557,1,0,,,0,0,,item-30002557,0,0
+2558,5,1,card_BattlePass_LWMMG,item-10002558,item-20002558,1,0,,,0,0,,item-30002558,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0,0
@@ -1820,6 +1826,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10716,18,10716,daily_points,item-10010716,item-20010716,1,0,,,0,0,,item-30010716,0,0
 10717,18,10717,daily_points,item-10010717,item-20010717,1,0,,,0,0,,item-30010717,0,0
 10718,18,10718,daily_points,item-10010718,item-20010718,1,0,,,0,0,,item-30010718,0,0
+10719,18,10719,daily_points,item-10010719,item-20010719,1,0,,,0,0,,item-30010719,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
 100002,4,100002,Bumdle_package,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0,0
 100003,4,100003,Activity_Seithr,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0,0
@@ -2323,6 +2330,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 140040,14,1,Y_Z_zhihuiguan_Chessman,item-10140040,item-20140040,1,0,,,0,0,,item-30140040,0,0
 140041,14,1,Y_Z_zhihuiguan_Chessman,item-10140041,item-20140041,1,0,,,0,0,,item-30140041,0,0
 140042,14,1,Y_Z_zhihuiguan_Chessman,item-10140042,item-20140042,1,0,,,0,0,,item-30140042,0,0
+140043,14,1,Y_Z_zhihuiguan_Chessman,item-10140043,item-20140043,1,0,,,0,0,,item-30140043,0,0
+140044,14,1,Y_Z_zhihuiguan_Chessman,item-10140044,item-20140044,1,0,,,0,0,,item-30140044,0,0
 160001,1,1,PT,item-10160001,item-20160001,1,0,,,0,0,,item-30160001,0,0
 161000,1,1,PT,item-10161000,item-20161000,1,0,,,0,0,,item-30161000,0,0
 161001,1,1,PT,item-10161001,item-20161001,1,0,,,0,0,,item-30161001,0,0
@@ -2370,6 +2379,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200044,1,1,profileFrame_BattlePass_M99,item-10200044,item-20200044,1,0,,,0,0,,item-30200044,0,0
 200045,1,1,profileFrame_BattlePass_M1897,item-10200045,item-20200045,1,0,,,0,0,,item-30200045,0,0
 200046,1,1,profileFrame_BattlePass_M1851N,item-10200046,item-20200046,1,0,,,0,0,,item-30200046,0,0
+200047,1,1,profileFrame_BattlePass_LWMMG,item-10200047,item-20200047,1,0,,,0,0,,item-30200047,0,0
 900030,4,100030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0,0
 900031,4,100031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0,0
 1100001,11,1,fetter_skill,item-11100001,item-21100001,1,0,,,0,0,26,item-31100001,0,0
@@ -2529,6 +2539,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500153,15,1500153,Bumdle_invocation_2,item-11500153,item-21500153,1,-1,,,0,0,,item-31500153,0,1
 1500154,15,1500154,Bumdle_sangvischoose,item-11500154,item-21500154,1,-1,,,0,0,,item-31500154,0,1
 1500155,15,1500155,Bumdle_equipment,item-11500155,item-21500155,1,-1,,,0,0,,item-31500155,0,1
+1500156,15,1500156,package_choose,item-11500156,item-21500156,1,-1,,,0,0,,item-31500156,0,1
+1500157,15,1500157,package_choose,item-11500157,item-21500157,1,-1,,,0,0,,item-31500157,0,1
+1500158,15,1500158,package_random,item-11500158,item-21500158,1,-1,,,0,0,,item-31500158,0,1
+1500159,15,1500159,package_random,item-11500159,item-21500159,1,-1,,,0,0,,item-31500159,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0

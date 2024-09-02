@@ -8,6 +8,7 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 7,-10,normal_activity-10000007,3,normal_activity-20000007,normal_activity-30000007,active_depthmap,#000000C7|#00000033|#A3BD13FF|#FFFFFFFF,normal_activity-40000007,,0,
 8,-11,normal_activity-10000008,3,normal_activity-20000008,normal_activity-30000008,active_depthmap,#000000C7|#00000033|#A3BD13FF|#FFFFFFFF,normal_activity-40000008,,0,
 9,-12,normal_activity-10000009,3,normal_activity-20000009,normal_activity-30000009,active_depthmap,#000000C7|#00000033|#A3BD13FF|#FFFFFFFF,normal_activity-40000009,,0,
+10,-29,normal_activity-10000010,3,normal_activity-20000010,normal_activity-30000010,missionselect_DeepDive_Re,,normal_activity-40000010,,10002,302
 11,-16,normal_activity-10000011,4,normal_activity-20000011,normal_activity-30000011,active_collapse,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000011,activitylogo,0,
 12,-17,normal_activity-10000012,4,normal_activity-20000012,normal_activity-30000012,active_collapse,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000012,activitylogo,0,
 13,-18,normal_activity-10000013,4,normal_activity-20000013,normal_activity-30000013,active_collapse,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000013,activitylogo,0,
