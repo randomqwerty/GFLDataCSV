@@ -2209,6 +2209,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 36304,furniture-10036304,300,303,0,3|6|1|1|1|0,750,100003,furniture-20036304,poster_Dating2021_MondragonM1908,1,5,0|0|0,3,0,0,0,0,0,0
 36305,furniture-10036305,300,303,0,3|6|1|1|1|0,750,100003,furniture-20036305,poster_Dating2021_RexZero1,1,5,0|0|0,3,0,0,0,0,0,0
 36306,furniture-10036306,300,303,0,3|6|1|1|1|0,750,100003,furniture-20036306,poster_Dating2021_CETME556,1,5,0|0|0,3,0,0,0,0,0,0
+36307,furniture-10036307,300,303,0,3|6|1|1|1|0,750,100003,furniture-20036307,poster_AprilFool2024_ZasM76,1,5,0|0|0,3,0,0,0,0,0,0
 36401,furniture-10036401,300,303,0,3|6|1|1|1|0,750,100003,furniture-20036401,poster_Halloween2021_95type,1,5,0|0|0,3,0,0,0,0,0,0
 36402,furniture-10036402,300,303,0,3|6|1|1|1|0,750,100003,furniture-20036402,poster_Halloween2021_SVCh,1,5,0|0|0,3,0,0,0,0,0,0
 36403,furniture-10036403,300,303,0,3|6|1|1|1|0,750,100003,furniture-20036403,poster_Halloween2021_CBJMS,1,5,0|0|0,3,0,0,0,0,0,0
@@ -2369,6 +2370,12 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 38609,furniture-10038609,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038609,poster_OfficeLady2023_G36,1,5,0|0|0,3,0,0,0,0,0,0
 38610,furniture-10038610,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038610,poster_OfficeLady2023_6P62,1,5,0|0|0,3,0,0,0,0,0,0
 38612,furniture-10038612,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038612,poster_OfficeLady2023_STG44,1,5,0|0|0,3,0,0,0,0,0,0
+38701,furniture-10038701,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038701,poster_Dancer2023_PA15,1,5,0|0|0,3,0,0,0,0,0,0
+38702,furniture-10038702,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038702,poster_Dancer2023_QBU191,1,5,0|0|0,3,0,0,0,0,0,0
+38703,furniture-10038703,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038703,poster_Dancer2023_GeneralLiu,1,5,0|0|0,3,0,0,0,0,0,0
+38704,furniture-10038704,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038704,poster_Dancer2023_G28,1,5,0|0|0,3,0,0,0,0,0,0
+38705,furniture-10038705,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038705,poster_Dancer2023_M14,1,5,0|0|0,3,0,0,0,0,0,0
+38706,furniture-10038706,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038706,poster_Dancer2023_RMB93,1,5,0|0|0,3,0,0,0,0,0,0
 38901,furniture-10038901,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038901,poster_Dining2023_M4A1,1,5,0|0|0,3,0,0,0,0,0,0
 38902,furniture-10038902,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038902,poster_Dining2023_M4 SOPMOD II,1,5,0|0|0,3,0,0,0,0,0,0
 38903,furniture-10038903,300,303,0,3|6|1|1|1|0,750,100003,furniture-20038903,poster_Dining2023_AR15,1,5,0|0|0,3,0,0,0,0,0,0

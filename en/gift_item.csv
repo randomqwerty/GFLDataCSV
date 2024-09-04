@@ -509,6 +509,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 6304,gift_item-10006304,2,6,50000,317,6304,36304,gift_bundle_Dating2021_MondragonM1908,gift_item-30006304,gift_item-50006304,0,0,0,,gift_item-40006304,0,gift_item-20006304
 6305,gift_item-10006305,2,6,50000,310,6305,36305,gift_bundle_Dating2021_RexZero1,gift_item-30006305,gift_item-50006305,0,0,0,,gift_item-40006305,0,gift_item-20006305
 6306,gift_item-10006306,2,6,50000,223,6306,36306,gift_bundle_Dating2021_CETME556,gift_item-30006306,gift_item-50006306,0,0,0,,gift_item-40006306,0,gift_item-20006306
+6307,gift_item-10006307,2,6,50000,284,6307,36307,gift_bundle_AprilFool2024_ZasM76,gift_item-30006307,gift_item-50006307,0,0,0,,gift_item-40006307,2000,gift_item-20006307
 6401,gift_item-10006401,2,6,50000,129,6401,36401,gift_bundle_Halloween2021_95type,gift_item-30006401,gift_item-50006401,0,0,0,,gift_item-40006401,0,gift_item-20006401
 6402,gift_item-10006402,2,6,50000,329,6402,36402,gift_bundle_Halloween2021_SVCh,gift_item-30006402,gift_item-50006402,0,0,0,,gift_item-40006402,0,gift_item-20006402
 6403,gift_item-10006403,2,6,50000,213,6403,36403,gift_bundle_Halloween2021_CBJMS,gift_item-30006403,gift_item-50006403,0,0,0,,gift_item-40006403,0,gift_item-20006403
@@ -669,6 +670,12 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,bonus_description,description,i
 8609,gift_item-10008609,2,6,50000,64,8609,38609,gift_bundle_OfficeLady2023_G36,gift_item-30008609,gift_item-50008609,0,0,0,,gift_item-40008609,0,gift_item-20008609
 8610,gift_item-10008610,2,6,50000,138,8610,38610,gift_bundle_OfficeLady2023_6P62,gift_item-30008610,gift_item-50008610,0,0,0,,gift_item-40008610,0,gift_item-20008610
 8612,gift_item-10008612,2,6,50000,61,8612,38612,gift_bundle_OfficeLady2023_STG44,gift_item-30008612,gift_item-50008612,0,0,0,,gift_item-40008612,0,gift_item-20008612
+8701,gift_item-10008701,2,6,50000,260,8701,38701,gift_bundle_Dancer2023_PA15,gift_item-30008701,gift_item-50008701,0,0,0,,gift_item-40008701,2000,gift_item-20008701
+8702,gift_item-10008702,2,6,50000,388,8702,38702,gift_bundle_Dancer2023_QBU191,gift_item-30008702,gift_item-50008702,0,0,0,,gift_item-40008702,2000,gift_item-20008702
+8703,gift_item-10008703,2,6,50000,316,8703,38703,gift_bundle_Dancer2023_GeneralLiu,gift_item-30008703,gift_item-50008703,0,0,0,,gift_item-40008703,2000,gift_item-20008703
+8704,gift_item-10008704,2,6,50000,146,8704,38704,gift_bundle_Dancer2023_G28,gift_item-30008704,gift_item-50008704,0,0,0,,gift_item-40008704,2000,gift_item-20008704
+8705,gift_item-10008705,2,6,50000,37,8705,38705,gift_bundle_Dancer2023_M14,gift_item-30008705,gift_item-50008705,0,0,0,,gift_item-40008705,2000,gift_item-20008705
+8706,gift_item-10008706,2,6,50000,159,8706,38706,gift_bundle_Dancer2023_RMB93,gift_item-30008706,gift_item-50008706,0,0,0,,gift_item-40008706,2000,gift_item-20008706
 8901,gift_item-10008901,2,6,50000,55,8901,38901,gift_bundle_Dining2023_M4A1,gift_item-30008901,gift_item-50008901,0,0,0,,gift_item-40008901,0,gift_item-20008901
 8902,gift_item-10008902,2,6,50000,56,8902,38902,gift_bundle_Dining2023_M4 SOPMOD II,gift_item-30008902,gift_item-50008902,0,0,0,,gift_item-40008902,0,gift_item-20008902
 8903,gift_item-10008903,2,6,50000,57,8903,38903,gift_bundle_Dining2023_AR15,gift_item-30008903,gift_item-50008903,0,0,0,,gift_item-40008903,0,gift_item-20008903
