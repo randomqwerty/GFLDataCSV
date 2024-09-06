@@ -3908,6 +3908,13 @@ id,formula
 9464,sbuffidtier(9574)=0?108:116
 9465,sbuffidtier(9574)=0?109:118
 9466,sbuffidtier(9574)=0?110:120
+9490,sbuffidtier(9620)=1&sbuffidtier(9621)=1?1:0
+9491,sbuffidtier(9623)=1&sbuffidtier(9624)=1?1:0
+9492,sbuffidtier(9622)=1?1:0
+9493,sbuffidtier(9622)=1?0:1
+9494,sbufftypetier(101)+sbufftypetier(801)
+9495,$1<(sbufftypetier(101)+sbufftypetier(801))?1:0
+9496,sbuffidtier(9625)=1?1:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0
