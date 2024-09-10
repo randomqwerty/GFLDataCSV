@@ -65,6 +65,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 132,3,33,Medal_202404Activity,item-10000132,item-20000132,1,0,,,0,0,,item-30000132,0
 134,3,35,Medal_Theater12th,item-10000134,item-20000134,1,0,,,0,0,,item-30000134,0
 135,3,36,Medal_Theater12th_rank,item-10000135,item-20000135,1,0,,,0,0,,item-30000135,0
+140,3,41,Medal_Theater13th,item-10000140,item-20000140,1,0,,,0,0,,item-30000140,0
+141,3,42,Medal_Theater13th_rank,item-10000141,item-20000141,1,0,,,0,0,,item-30000141,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303,0
@@ -1377,6 +1379,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2369,5,1,profilePic_Dancer2023_RMB93,item-10002369,item-20002369,1,0,,,0,0,,item-30002369,0
 2370,5,1,profilePic_friendmall_WA2000,item-10002370,item-20002370,1,0,,,0,0,,item-30002370,0
 2371,5,1,card_friendmall_WA2000,item-10002371,item-20002371,1,0,,,0,0,,item-30002371,0
+2372,5,1,profilePic_sangvis_BossNarciss,item-10002372,item-20002372,1,0,,,0,0,,item-30002372,0
 2373,5,1,card_BattlePass_M327,item-10002373,item-20002373,1,0,,,0,0,,item-30002373,0
 2374,5,1,profilePic_BattlePass_M327,item-10002374,item-20002374,1,0,,,0,0,,item-30002374,0
 2382,5,1,profilePic_friendmall_MLEMK1,item-10002382,item-20002382,1,0,,,0,0,,item-30002382,0

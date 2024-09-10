@@ -1263,6 +1263,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1369,2369,1,0,0,0,0,80,508-2000,1,0,profilePic_Dancer2023_RMB93,1,5,,8706,0,,0,,0
 1370,2370,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_WA2000,1,5,,0,0,,0,,3227
 1371,2371,2,0,0,0,0,320,508-8000,1,0,card_friendmall_WA2000,1,5,,0,0,,0,,3224
+1372,2372,1,0,0,0,0,0,,0,0,profilePic_sangvis_BossNarciss,1,5,,0,0,5,200002,,0
 1373,2373,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M327,1,5,,0,0,,0,,0
 1374,2374,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M327,1,5,,30012,0,,0,,0
 1382,2382,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_MLEMK1,1,5,,0,0,,0,,3309
