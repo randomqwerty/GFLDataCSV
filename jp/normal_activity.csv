@@ -27,3 +27,4 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 26,-37,normal_activity-10000026,101,normal_activity-20000026,normal_activity-30000026,active_WhiteDay2020,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000026,active_WhiteDay2020logo,0,
 27,-40,normal_activity-10000027,101,normal_activity-20000027,normal_activity-30000027,active_Bikini2020,#000000C7|#3D415166|#2975fd|#FFFFFFFF,normal_activity-40000027,,0,
 28,-47,normal_activity-10000028,102,normal_activity-20000028,normal_activity-30000028,active_Bikini2021,#000000C7|#3D415166|#22d0ab|#FFFFFFFF,normal_activity-40000028,,0,
+29,-39,normal_activity-10000029,4,normal_activity-20000029,normal_activity-30000029,missionselect_Sing_RE,,normal_activity-40000029,,10003,303

@@ -3922,6 +3922,8 @@ id,formula
 9494,sbufftypetier(101)+sbufftypetier(801)
 9495,$1<(sbufftypetier(101)+sbufftypetier(801))?1:0
 9496,sbuffidtier(9625)=1?1:0
+9497,sbuffidtier(9614)=0?1:0
+9498,sbuffidtier(9614)=0?0:1
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0

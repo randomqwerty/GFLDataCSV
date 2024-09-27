@@ -27,12 +27,12 @@ id,story_campaign_id,name,chapter,type,game_chronicle,description,is_hide,tag,or
 26,-48,story_playback-10000026,story_playback-20000026,2,,story_playback-30000026,0,story_playback-40000026,26
 27,-51,story_playback-10000027,story_playback-20000027,2,,story_playback-30000027,0,story_playback-40000027,27
 28,-54,story_playback-10000028,story_playback-20000028,2,,story_playback-30000028,0,story_playback-40000028,28
-29,-58,story_playback-10000029,story_playback-20000029,2,,story_playback-30000029,0,story_playback-40000029,29
+29,-58,story_playback-10000029,story_playback-20000029,2,,story_playback-30000029,0,story_playback-40000029,30
 30,-34,story_playback-10000030,story_playback-20000030,3,,story_playback-30000030,0,story_playback-40000030,50
 31,-35,story_playback-10000031,story_playback-20000031,3,,story_playback-30000031,0,story_playback-40000031,51
 32,-37,story_playback-10000032,story_playback-20000032,3,,story_playback-30000032,0,story_playback-40000032,52
 33,-49,story_playback-10000033,story_playback-20000033,3,,story_playback-30000033,0,story_playback-40000033,53
-34,-56,story_playback-10000034,story_playback-20000034,3,,story_playback-30000034,0,story_playback-40000034,54
-35,-40,story_playback-10000035,story_playback-20000035,3,,story_playback-30000035,0,story_playback-40000035,55
-36,-47,story_playback-10000036,story_playback-20000036,3,,story_playback-30000036,0,story_playback-40000036,56
-37,-68,story_playback-10000037,story_playback-20000037,2,,story_playback-30000037,0,story_playback-40000037,30
+34,-56,story_playback-10000034,story_playback-20000034,2,,story_playback-30000034,0,story_playback-40000034,29
+35,-40,story_playback-10000035,story_playback-20000035,3,,story_playback-30000035,0,story_playback-40000035,54
+36,-47,story_playback-10000036,story_playback-20000036,3,,story_playback-30000036,0,story_playback-40000036,55
+37,-68,story_playback-10000037,story_playback-20000037,2,,story_playback-30000037,0,story_playback-40000037,31
