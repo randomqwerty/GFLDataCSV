@@ -1687,6 +1687,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2565,5,1,profilePic_Bunny24_MP40,item-10002565,item-20002565,1,0,,,0,0,,item-30002565,0,0
 2566,5,1,profilePic_BattlePass_MartiniHenry,item-10002566,item-20002566,1,0,,,0,0,,item-30002566,0,0
 2567,5,1,card_BattlePass_MartiniHenry,item-10002567,item-20002567,1,0,,,0,0,,item-30002567,0,0
+2568,5,1,profilePic_mask_Hallowmas_NA,item-10002568,item-20002568,1,0,,,0,0,,item-30002568,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0,0
@@ -1837,6 +1838,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10718,18,10718,daily_points,item-10010718,item-20010718,1,0,,,0,0,,item-30010718,0,0
 10719,18,10719,daily_points,item-10010719,item-20010719,1,0,,,0,0,,item-30010719,0,0
 10720,18,10720,daily_points,item-10010720,item-20010720,1,0,,,0,0,,item-30010720,0,0
+10721,18,10721,daily_points,item-10010721,item-20010721,1,0,,,0,0,,item-30010721,0,0
+30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
 100002,4,100002,Bumdle_package,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0,0
 100003,4,100003,Activity_Seithr,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0,0
@@ -2074,6 +2077,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100237,4,100237,Nova_medal_black,item-10100237,item-20100237,1,0,,,0,0,,item-30100237,0,0
 100238,4,100238,Platinum_medal_black,item-10100238,item-20100238,1,0,,,0,0,,item-30100238,0,0
 100239,4,100239,Bumdle_October3,item-10100239,item-20100239,1,0,,,0,0,,item-30100239,0,0
+100240,4,100240,core_mask_24Hallowmas_NA,item-10100240,item-20100240,1,0,,,0,0,,item-30100240,0,0
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001,0,0
 110002,4,110002,PT,item-10110002,item-20110002,1,0,,,0,0,,item-30110002,0,0
 110003,4,110003,PT,item-10110003,item-20110003,1,0,,,0,0,,item-30110003,0,0
@@ -2605,6 +2609,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700037,15,1700037,package_choose,item-11700037,item-21700037,1,-1,,,0,0,,item-31700037,0,1
 1700038,15,1700038,package_choose,item-11700038,item-21700038,1,-1,,,0,0,,item-31700038,0,1
 1700039,15,1700039,package_choose,item-11700039,item-21700039,1,-1,,,0,0,,item-31700039,0,1
+1700040,15,1700040,package_choose,item-11700040,item-21700040,1,-1,,,0,0,,item-31700040,0,1
+1700041,15,1700041,package_choose,item-11700041,item-21700041,1,-1,,,0,0,,item-31700041,0,1
+1700042,15,1700042,package_choose,item-11700042,item-21700042,1,-1,,,0,0,,item-31700042,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1
