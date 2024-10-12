@@ -688,9 +688,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 738,1738,1,0,0,0,0,160,508-4000,1,0,profilePic_Halloween2020_M82,1,5,,5105,0,4,200005,,0
 739,1739,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_TT33,1,5,,5106,0,4,200005,,0
 740,1740,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_M21,1,5,,5107,0,4,200005,,0
-741,1741,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,0
-742,1742,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,0
-743,1743,2,0,0,0,0,400,508-10000,0,0,card_Halloween20_Theatre,1,5,,0,0,1,0,,0
+741,1741,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,0
+742,1742,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,0
+743,1743,2,0,0,0,0,400,508-10000,1,0,card_Halloween20_Theatre,1,5,,0,0,1,0,,0
 745,1745,1,0,0,0,0,0,,0,0,profilePic_sangvis_Prowler_SWAP,1,5,,0,0,5,200001,,0
 746,1746,1,0,0,0,0,0,,0,0,profilePic_sangvis_Golyat_Factory,1,5,,0,0,5,200012,,0
 747,1747,1,0,0,0,0,0,,0,0,profilePic_sangvis_Gager,1,5,,0,0,5,200002,,0
