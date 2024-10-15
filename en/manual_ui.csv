@@ -969,6 +969,9 @@ id,code_a,description_a,description_b,description_c,code_b,is_manual_target,use_
 9700607,Boomer,manual_ui-19700607,manual_ui-29700607,manual_ui-39700607,Squad_Icon,0,0
 9701201,Console,manual_ui-19701201,manual_ui-29701201,manual_ui-39701201,Squad_Icon,0,0
 9701206,Boomer,manual_ui-19701206,manual_ui-29701206,manual_ui-39701206,Squad_Icon,0,0
+9711502,Console,manual_ui-19711502,manual_ui-29711502,manual_ui-39711502,Squad_Icon,1,0
+9711503,Console,manual_ui-19711503,manual_ui-29711503,manual_ui-39711503,Squad_Icon,0,0
+9713101,Sundries,manual_ui-19713101,manual_ui-29713101,manual_ui-39713101,Console_Icon,0,0
 44360002,golyatplg_d,manual_ui-54360002,manual_ui-64360002,manual_ui-74360002,Console_Icon,0,0
 44400004,Console,manual_ui-54400004,manual_ui-64400004,manual_ui-74400004,Console_Icon,0,0
 44400005,Console,manual_ui-54400005,manual_ui-64400005,manual_ui-74400005,Console_Icon,0,0
