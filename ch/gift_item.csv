@@ -778,6 +778,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10806,gift_item-10010806,2,6,50000,66,10806,310806,gift_bundle_Bunny24_56-1type,gift_item-20010806,gift_item-30010806,gift_item-50010806,0,0,0,,gift_item-40010806,2000,6
 10807,gift_item-10010807,2,6,50000,159,10807,310807,gift_bundle_Bunny24_RMB93,gift_item-20010807,gift_item-30010807,gift_item-50010807,0,0,0,,gift_item-40010807,2000,6
 10808,gift_item-10010808,2,6,50000,25,10808,310808,gift_bundle_Bunny24_MP40,gift_item-20010808,gift_item-30010808,gift_item-50010808,0,0,0,,gift_item-40010808,2000,6
+10901,gift_item-10010901,2,6,50000,348,10901,310901,gift_bundle_Revenge2024_HS50,gift_item-20010901,gift_item-30010901,gift_item-50010901,0,0,0,,gift_item-40010901,2000,6
+10902,gift_item-10010902,2,6,50000,151,10902,310902,gift_bundle_Revenge2024_M1887,gift_item-20010902,gift_item-30010902,gift_item-50010902,0,0,0,,gift_item-40010902,2000,6
+10903,gift_item-10010903,2,6,50000,366,10903,310903,gift_bundle_Revenge2024_SPAS15,gift_item-20010903,gift_item-30010903,gift_item-50010903,0,0,0,,gift_item-40010903,2000,6
+10904,gift_item-10010904,2,6,50000,347,10904,310904,gift_bundle_Revenge2024_SR2,gift_item-20010904,gift_item-30010904,gift_item-50010904,0,0,0,,gift_item-40010904,2000,6
+10905,gift_item-10010905,2,6,50000,114,10905,310905,gift_bundle_Revenge2024_Welrod,gift_item-20010905,gift_item-30010905,gift_item-50010905,0,0,0,,gift_item-40010905,2000,6
+10906,gift_item-10010906,2,6,50000,57,10906,310906,gift_bundle_Revenge2024_AR15,gift_item-20010906,gift_item-30010906,gift_item-50010906,0,0,0,,gift_item-40010906,2000,6
+10907,gift_item-10010907,2,6,50000,308,10907,310907,gift_bundle_Revenge2024_C14,gift_item-20010907,gift_item-30010907,gift_item-50010907,0,0,0,,gift_item-40010907,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6
