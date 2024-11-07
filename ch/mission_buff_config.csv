@@ -53,6 +53,7 @@ id,name,description,code,type,duration_type,duration_time,limit_buff,exp_buff,is
 20402,mission_buff_config-10020402,mission_buff_config-20020402,ExtraMove2,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,,,0,,20402,0,,,2,0,0,0,0,0,,,0,0,0
 20403,mission_buff_config-10020403,mission_buff_config-20020403,ExtraMove3,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,,,0,,20403,0,,,3,0,0,0,0,0,,,0,0,0
 30012,mission_buff_config-10030012,mission_buff_config-20030012,gary_2,1,4,1,0,1,0,,,750962,0,0,0,0,0,0,0,0,0,,,0,,30012,0,,,0,0,0,0,0,0,,,0,0,0
+30015,mission_buff_config-10030015,mission_buff_config-20030015,M16A1_2,1,4,1,0,1,0,,,760012,0,0,0,0,0,0,0,0,0,,,0,,30015,1,,,0,0,0,0,0,0,,,0,0,0
 50000,mission_buff_config-10050000,mission_buff_config-20050000,ExtraAmmo,1,1,1000,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,0,2|2,50000,0,,,0,0,0,0,0,0,,,0,0,0
 50001,mission_buff_config-10050001,mission_buff_config-20050001,ExtraAp,1,1|5,1|1,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,1,,50001,0,,,0,0,0,0,0,0,,,0,0,0
 50002,mission_buff_config-10050002,mission_buff_config-20050002,AmmoReduce,1,4,1,0,1,1,0,,610011,0,0,0,0,0,0,0,0,0,,2|1,0,,50002,0,,,0,0,0,0,0,0,,,0,0,0
@@ -69,6 +70,7 @@ id,name,description,code,type,duration_type,duration_time,limit_buff,exp_buff,is
 78001,mission_buff_config-10078001,mission_buff_config-20078001,SpeedUp,1,5,3,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,1,,78001,1,,,0,0,0,0,0,0,,,0,0,0
 78002,mission_buff_config-10078002,mission_buff_config-20078002,SpeedUp,1,5,15,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,1,,78002,1,,,0,0,0,0,0,0,,,0,0,0
 78003,mission_buff_config-10078003,mission_buff_config-20078003,SpeedUp,1,5,16,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,1,,78003,1,,,0,0,0,0,0,0,,,0,0,0
+300151,mission_buff_config-10300151,mission_buff_config-20300151,M16A1_2,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,,,0,,300151,1,,,0,0,0,0,0,0,,,0,0,0
 363001,mission_buff_config-10363001,mission_buff_config-20363001,,1,1,99,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,CarryBoomerIcon#EC4702,,0,,363001,1,363001,,0,0,0,0,0,0,,,0,0,0
 363002,mission_buff_config-10363002,mission_buff_config-20363002,,1,1,99,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,CarryEMPIcon#1E90FF,,0,,363002,1,363002,,0,0,0,0,0,0,,,0,0,0
 381402,mission_buff_config-10381402,mission_buff_config-20381402,,1,1,99,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,,,0,,381402,0,,,0,0,0,0,0,0,,,0,0,0
@@ -423,6 +425,9 @@ id,name,description,code,type,duration_type,duration_time,limit_buff,exp_buff,is
 690801,mission_buff_config-10690801,mission_buff_config-20690801,,1,1,999,0,1,0,,,778224,0,0,0,0,0,0,0,0,0,,,0,,690801,1,,,0,0,0,0,0,1000173,,,0,0,0
 690804,mission_buff_config-10690804,mission_buff_config-20690804,,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,CarryEMPIcon#1E90FF,,0,,690804,-1,690814,,0,0,0,0,0,0,,,0,0,0
 690813,mission_buff_config-10690813,mission_buff_config-20690813,Theresa_Back,1,1,1,0,1,0,,1,778225,0,0,0,0,0,0,0,0,0,,,0,,690813,1,,,0,0,0,0,0,0,,,0,0,0
+730001,mission_buff_config-10730001,mission_buff_config-20730001,,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,CarryBoomerIcon#EC4702,,0,,730001,-1,730011,,0,0,0,0,0,0,,,0,0,0
+730011,mission_buff_config-10730011,mission_buff_config-20730011,Theresa_Back,1,1,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,,,0,,730011,1,,,0,0,0,0,0,0,,,0,0,0
+730101,mission_buff_config-10730101,mission_buff_config-20730101,,1,1,999,0,1,0,,,0,0,0,730101,1,0-1,0,0,0,0,,,0,,730101,1,,,0,0,0,0,0,0,,,0,0,0
 910630,mission_buff_config-10910630,mission_buff_config-20910630,shield,1,1|5,2|1,0,1,0,0,,910630,0,0,0,0,0,0,0,0,0,,,0,,910630,0,,,0,0,0,0,0,0,,,0,0,0
 998002,mission_buff_config-10998002,mission_buff_config-20998002,Intruder_H1,1,1,3,0,1,0,,,0,0,0,998002,51,0-1,0,0,0,0,,,0,,998002,0,,,0,0,0,0,0,0,,,0,0,0
 1000000,mission_buff_config-11000000,mission_buff_config-21000000,,1,1,99,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,CarryBoomerIcon#EC4702,,0,,1000000,0,,,0,0,0,0,0,0,,,0,0,0
