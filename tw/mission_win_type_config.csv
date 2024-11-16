@@ -929,6 +929,15 @@ id,type,arguments,extra_language,is_hidden,is_show_count
 1170601,1306,9701901:1,mission_win_type_config-11170601,1,
 1170901,1303,9702201:1,mission_win_type_config-11170901,0,
 1171001,1303,9702301:1,mission_win_type_config-11171001,0,
+1180100,1305,0,mission_win_type_config-11180100,0,1
+1180101,1406,730111:0,mission_win_type_config-11180101,0,
+1180201,1407,730211:1,mission_win_type_config-11180201,0,
+1180202,1407,730221:1,mission_win_type_config-11180202,2,
+1180301,1303,730301:1,mission_win_type_config-11180301,0,
+1180501,1406,730111:1,mission_win_type_config-11180501,0,
+1180502,1407,730111:2,mission_win_type_config-11180502,2,
+1180701,1303,730701:1,mission_win_type_config-11180701,0,
+1180901,1402,2,mission_win_type_config-11180901,0,
 1666101,1407,690311:2,mission_win_type_config-11666101,0,
 3610301,1305,0,mission_win_type_config-13610301,0,1
 3610311,1401,3,mission_win_type_config-13610311,0,1

@@ -68,6 +68,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 129,3,30,Medal_Theater11th_rank,item-10000129,item-20000129,1,0,,,0,0,,item-30000129,0,0
 131,3,32,Medal_SAC2045,item-10000131,item-20000131,1,0,,,0,0,,item-30000131,0,0
 132,3,33,Medal_202404Activity,item-10000132,item-20000132,1,0,,,0,0,,item-30000132,0,0
+134,3,35,Medal_Theater12th,item-10000134,item-20000134,1,0,,,0,0,,item-30000134,0,0
+135,3,36,Medal_Theater12th_rank,item-10000135,item-20000135,1,0,,,0,0,,item-30000135,0,0
 136,3,37,Medal_202406Activity,item-10000136,item-20000136,1,0,,,0,0,,item-30000136,0,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0,0
@@ -1464,6 +1466,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2433,5,1,card_friendmall_VHS,item-10002433,item-20002433,1,0,,,0,0,,item-30002433,0,0
 2442,5,1,card_BattlePass_95type,item-10002442,item-20002442,1,0,,,0,0,,item-30002442,0,0
 2443,5,1,profilePic_BattlePass_95type,item-10002443,item-20002443,1,0,,,0,0,,item-30002443,0,0
+2444,5,1,profilePic_ChessBonus_MG42,item-10002444,item-20002444,1,0,,,0,0,,item-30002444,0,0
+2445,5,1,profilePic_ChessFlight_season14_1,item-10002445,item-20002445,1,0,,,0,0,,item-30002445,0,0
+2446,5,1,profilePic_ChessFlight_season14_2,item-10002446,item-20002446,1,0,,,0,0,,item-30002446,0,0
+2447,5,1,profilePic_ChessFlight_season14_3,item-10002447,item-20002447,1,0,,,0,0,,item-30002447,0,0
 2449,5,1,profilePic_Ghost2024_Motoko,item-10002449,item-20002449,1,0,,,0,0,,item-30002449,0,0
 2450,5,1,profilePic_Ghost2024_Ezaki,item-10002450,item-20002450,1,0,,,0,0,,item-30002450,0,0
 2451,5,1,profilePic_Ghost2024_Mizukinn,item-10002451,item-20002451,1,0,,,0,0,,item-30002451,0,0

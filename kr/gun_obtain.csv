@@ -110,6 +110,8 @@ obtain_id,description,detail,goto_page_id
 260,gun_obtain-10000260,0,0
 261,gun_obtain-10000261,0,0
 262,gun_obtain-10000262,0,0
+263,gun_obtain-10000263,0,0
+264,gun_obtain-10000264,0,0
 301,gun_obtain-10000301,0,0
 302,gun_obtain-10000302,0,0
 303,gun_obtain-10000303,0,0
@@ -334,3 +336,4 @@ obtain_id,description,detail,goto_page_id
 3115,gun_obtain-10003115,0,0
 3116,gun_obtain-10003116,0,0
 3117,gun_obtain-10003117,0,0
+3118,gun_obtain-10003118,0,0
