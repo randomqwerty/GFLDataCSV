@@ -22,3 +22,4 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 21,-41,normal_activity-10000021,9,normal_activity-20000021,normal_activity-30000021,active_DualRandomness,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000021,DualRandomnesslogo,0,
 22,-44,normal_activity-10000022,10,normal_activity-20000022,normal_activity-30000022,active_mirrorstage,#000000C7|#3D415166|#A3BD13|#FFFFFFFF,normal_activity-40000022,mirrorstagelogo,0,
 23,-48,normal_activity-10000023,11,normal_activity-20000023,normal_activity-30000023,active_PoincareRecurrence,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000023,PoincareRecurrencelogo,0,
+24,-34,normal_activity-10000024,100,normal_activity-20000024,normal_activity-30000024,active_19Halloween,#000000C7|#3D415166|#E66A01|#FFFFFFFF,normal_activity-40000024,,0,

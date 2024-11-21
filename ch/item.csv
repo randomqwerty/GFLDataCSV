@@ -1722,6 +1722,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2598,5,1,cg_2024ArenaBreakout_01,item-10002598,item-20002598,1,0,,,0,0,,item-30002598,0,0
 2599,5,1,profilePic_BattlePass_SAT8,item-10002599,item-20002599,1,0,,,0,0,,item-30002599,0,0
 2600,5,1,card_BattlePass_SAT8,item-10002600,item-20002600,1,0,,,0,0,,item-30002600,0,0
+2601,5,1,profilePic_Mahoushaojiu2024_BoysAntiTank,item-10002601,item-20002601,1,0,,,0,0,,item-30002601,0,0
+2602,5,1,profilePic_Mahoushaojiu2024_98K,item-10002602,item-20002602,1,0,,,0,0,,item-30002602,0,0
+2603,5,1,profilePic_Mahoushaojiu2024_MK3A1,item-10002603,item-20002603,1,0,,,0,0,,item-30002603,0,0
+2604,5,1,profilePic_Mahoushaojiu2024_ZB26,item-10002604,item-20002604,1,0,,,0,0,,item-30002604,0,0
+2605,5,1,profilePic_Mahoushaojiu2024_M1851N,item-10002605,item-20002605,1,0,,,0,0,,item-30002605,0,0
+2606,5,1,profilePic_Mahoushaojiu2024_Mk12,item-10002606,item-20002606,1,0,,,0,0,,item-30002606,0,0
+2607,5,1,profilePic_Mahoushaojiu2024_TT33,item-10002607,item-20002607,1,0,,,0,0,,item-30002607,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -2409,8 +2416,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 140047,14,1,Y_Z_zhihuiguan_Chessman,item-10140047,item-20140047,1,0,,,0,0,,item-30140047,0,0
 140048,14,1,Y_Z_zhihuiguan_Chessman,item-10140048,item-20140048,1,0,,,0,0,,item-30140048,0,0
 160001,1,1,PT,item-10160001,item-20160001,1,0,,,0,0,,item-30160001,0,0
-161000,1,1,PT,item-10161000,item-20161000,1,0,,,0,0,,item-30161000,0,0
-161001,1,1,PT,item-10161001,item-20161001,1,0,,,0,0,,item-30161001,0,0
+161000,1,1,gift_bundle_Tareus_camouflage,item-10161000,item-20161000,1,0,,,0,0,,item-30161000,0,0
+161001,1,1,gift_bundle_Sana_daywear,item-10161001,item-20161001,1,0,,,0,0,,item-30161001,0,0
 200001,5,1,profileFrame_sr_gun,item-10200001,item-20200001,1,0,,,0,0,,item-30200001,0,0
 200002,5,1,profileFrame_ssr_gun,item-10200002,item-20200002,1,0,,,0,0,,item-30200002,0,0
 200003,5,1,profileFrame_mod_gun,item-10200003,item-20200003,1,0,,,0,0,,item-30200003,0,0
