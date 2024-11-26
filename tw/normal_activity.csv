@@ -44,3 +44,6 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 43,-40401,normal_activity-10000043,12,normal_activity-20000043,normal_activity-30000043,missionselect_FixedPoint_RE,,normal_activity-40000043,,10011,311
 44,-54,normal_activity-10000044,13,normal_activity-20000044,normal_activity-30000044,active_2022Summer,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000044,active_2022Summerlogo,0,
 45,-61,normal_activity-10000045,104,normal_activity-20000045,normal_activity-30000045,active_202307,#000000C7|#3D415166|#4a62f7|#FFFFFFFF,normal_activity-40000045,active_202307logo,0,
+46,-40402,normal_activity-10000046,13,normal_activity-20000046,normal_activity-30000046,missionselect_2022SummerExt,,normal_activity-40000046,,10012,312
+47,-62,normal_activity-10000047,104,normal_activity-20000047,normal_activity-30000047,active_2023se,#000000C7|#3D415166|#0084FF|#FFFFFFFF,normal_activity-40000047,active_2023selogo,0,
+48,-58,normal_activity-10000048,15,normal_activity-20000048,normal_activity-30000048,active_Slowshock,#000000C7|#3D415166|#0084FF|#FFFFFFFF,normal_activity-40000048,active_Slowshocklogo,0,

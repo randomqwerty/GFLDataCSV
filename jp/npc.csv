@@ -1,4 +1,8 @@
 id,name,code,title,ai,is_adjutant,unlock_text,mission_id,item_id,skin_code,voice_code,org_id,org_introduction
+-26,npc-9999974,M16A1_Boss,npc-19999974,9999,0,npc-29999974,0,0,,,,npc-39999974
+-25,npc-9999975,NPC-Carter,npc-19999975,9999,0,npc-29999975,0,0,,,,npc-39999975
+-24,npc-9999976,NPC-Constanze,npc-19999976,9999,0,npc-29999976,0,0,,,,npc-39999976
+-23,npc-9999977,NPC-Romy,npc-19999977,9999,0,npc-29999977,0,0,,,,npc-39999977
 -22,npc-9999978,NPC_Embla_RPK,npc-19999978,9999,0,npc-29999978,0,0,,,,npc-39999978
 -21,npc-9999979,NPC_Kevin,npc-19999979,9999,0,npc-29999979,0,0,,,,npc-39999979
 -20,npc-9999980,NPC_ColtWalker_30004,npc-19999980,9999,0,npc-29999980,0,0,,,,npc-39999980

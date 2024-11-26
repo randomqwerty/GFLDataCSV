@@ -1436,6 +1436,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2395,5,1,profilePic_BattlePass_HK433,item-10002395,item-20002395,1,0,,,0,0,,item-30002395,0,0
 2397,5,1,profilePic_friendmall_NTW20,item-10002397,item-20002397,1,0,,,0,0,,item-30002397,0,0
 2398,5,1,card_friendmall_NTW20,item-10002398,item-20002398,1,0,,,0,0,,item-30002398,0,0
+2405,5,1,profilePic_Christmas2023_PPsh41,item-10002405,item-20002405,1,0,,,0,0,,item-30002405,0,0
 2406,5,1,card_BattlePass_M950A,item-10002406,item-20002406,1,0,,,0,0,,item-30002406,0,0
 2407,5,1,profilePic_BattlePass_M950A,item-10002407,item-20002407,1,0,,,0,0,,item-30002407,0,0
 2408,5,1,profilePic_friendmall_A545,item-10002408,item-20002408,1,0,,,0,0,,item-30002408,0,0
@@ -1520,6 +1521,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2519,5,1,cg_202406Activity_03,item-10002519,item-20002519,1,0,,,0,0,,item-30002519,0,0
 2520,5,1,profilePic_BattlePass_M1897,item-10002520,item-20002520,1,0,,,0,0,,item-30002520,0,0
 2521,5,1,card_BattlePass_M1897,item-10002521,item-20002521,1,0,,,0,0,,item-30002521,0,0
+2533,5,1,profilePic_Detective2024_SCARH,item-10002533,item-20002533,1,0,,,0,0,,item-30002533,0,0
+2534,5,1,profilePic_Detective2024_LAMG,item-10002534,item-20002534,1,0,,,0,0,,item-30002534,0,0
+2535,5,1,profilePic_Detective2024_KH2002,item-10002535,item-20002535,1,0,,,0,0,,item-30002535,0,0
+2536,5,1,profilePic_Detective2024_AUGPARA,item-10002536,item-20002536,1,0,,,0,0,,item-30002536,0,0
+2537,5,1,profilePic_Detective2024_9A91,item-10002537,item-20002537,1,0,,,0,0,,item-30002537,0,0
+2538,5,1,profilePic_Detective2024_MP5,item-10002538,item-20002538,1,0,,,0,0,,item-30002538,0,0
+2539,5,1,profilePic_Detective2024_Mk23,item-10002539,item-20002539,1,0,,,0,0,,item-30002539,0,0
 2540,5,1,profilePic_BattlePass_M1851N,item-10002540,item-20002540,1,0,,,0,0,,item-30002540,0,0
 2541,5,1,card_BattlePass_M1851N,item-10002541,item-20002541,1,0,,,0,0,,item-30002541,0,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0,0
