@@ -363,6 +363,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 384,1384,1,0,0,0,0,80,508-2000,1,0,profilePic_Xmas18_TMP,1,5,,2807,0,4,200005,,0
 385,1385,1,0,0,0,0,200,508-5000,0,0,profilePic_Xmas18_candy,1,5,,0,0,1,200005,,3641
 386,1386,1,0,0,0,0,200,508-5000,0,0,profilePic_Xmas18_deer,1,5,,0,0,1,200005,,3642
+387,1387,2,0,0,0,0,400,508-10000,1,0,card_Xmas18,1,5,,0,0,1,0,,3812
 388,1388,3,0,0,0,0,600,508-15000,0,0,cg_Xmas18,1,10,,0,0,,0,,0
 389,1389,1,0,0,0,0,0,,0,0,profilePic_comic_AC130_7,1,5,,0,0,1,200009,,0
 392,1392,1,0,0,0,0,200,508-5000,1,0,profilePic_newyear18_Type64-AR,1,5,,2901,0,4,200005,,0
@@ -375,7 +376,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 399,1399,1,0,0,0,0,80,508-2000,1,0,profilePic_newyear18_Type62,1,5,,2908,0,4,200005,,0
 403,1403,1,0,0,0,0,0,,0,0,profilePic_comic_AC130_8,1,5,,0,0,1,200009,,0
 404,1404,1,0,0,0,0,200,508-5000,0,0,profilePic_mask_2019isomer,100,5,,0,0,1,200005,logo_19winter,0
-405,1405,2,0,0,0,0,0,,0,0,card_rankA_2019winter,1,5,,0,0,1|3,0,,0
+405,1405,2,0,0,0,0,400,508-10000,1,0,card_rankA_2019winter,1,5,,0,0,1|3,0,,3813
 406,1406,1,0,0,0,0,0,,1,0,profilePic_2019isomer,1,5,,0,0,1,200005,,3790
 407,1407,1,0,0,0,0,200,508-5000,1,0,profilePic_springfestival19_OTs14,1,5,,3001,0,4,200005,,0
 408,1408,1,0,0,0,0,200,508-5000,1,0,profilePic_springfestival19_RFB,1,5,,3002,0,4,200005,,0
@@ -388,7 +389,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 415,1415,2,0,0,0,0,0,,0,0,card_xn19_OTs14,1,5,,0,0,1|2,0,,0
 416,1416,1,0,0,0,0,200,508-5000,1,0,profilePic_whiteV19_chocolatedog,1,5,,0,0,1,200005,logo_whiteV,3791
 417,1417,1,0,0,0,0,200,508-5000,1,0,profilePic_whiteV19_pigeon,1,5,,0,0,1,200005,logo_whiteV,3792
-418,1418,2,0,0,0,0,400,508-10000,1,0,card_whiteV19,1,5,,0,0,1|2,0,,0
+418,1418,2,0,0,0,0,400,508-10000,1,0,card_whiteV19,1,5,,0,0,1|2,0,,3814
 419,1419,1,0,0,0,0,0,,0,0,profilePic_comic_AC130_9,1,5,,0,0,1,200009,,0
 420,1420,1,0,0,0,0,200,508-5000,1,0,profilePic_wv19_KP31,1,5,,3101,0,4,200005,,0
 421,1421,1,0,0,0,0,200,508-5000,1,0,profilePic_wv19_PKP,1,5,,3102,0,4,200005,,0
@@ -407,6 +408,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 436,1436,1,0,0,0,0,40,508-1000,1,0,profilePic_hh19_IDW,1,5,,3205,0,4,200005,,0
 437,1437,1,0,0,0,0,200,508-5000,1,0,profilePic_MF1_M200,100,5,,0,0,4,200005,,0
 438,1438,3,0,0,0,0,600,508-15000,1,0,cg_2019_redmoon,1,10,,0,0,,0,,0
+439,1439,1,0,0,0,0,200,508-5000,1,0,profilePic_znq19_HK416,1,10,,0,0,1,200005,,3815
+440,1440,1,0,0,0,0,200,508-5000,1,0,profilePic_znq19_SOPMOD,1,10,,0,0,1,200005,,3816
+441,1441,1,0,0,0,0,200,508-5000,1,0,profilePic_znq19_RO635,1,10,,0,0,1,200005,,3817
 444,1444,1,0,0,0,0,200,508-5000,0,0,profilePic_mask_3year,1,5,,0,0,1,200005,logo_3years_b,0
 445,1445,1,0,0,0,0,0,,0,0,profilePic_rank4_MicroUZIMod,1,5,,0,0,5,200001,,0
 446,1446,1,0,0,0,0,0,,0,0,profilePic_rank5_ASVALMod,1,5,,0,0,5,200002,,0
@@ -472,9 +476,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 510,1510,1,0,0,0,0,80,508-2000,1,0,profilePic_dwxy19_TMP,1,5,,3708,0,4,200005,,0
 511,1511,1,0,0,0,0,0,,0,0,profilePic_yzcoffee19_r93,1,5,,0,0,1,200005,,0
 512,1512,2,0,0,0,0,0,,0,0,card_yzcoffee19,1,5,,0,0,1,0,,0
-513,1513,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween2019_dog,1,5,,0,0,1,200005,logo_halloween,0
-514,1514,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween2019_battle,1,5,,0,0,1,200005,logo_halloween,0
-515,1515,2,0,0,0,0,200,508-5000,0,0,card_Halloween2019,1,5,,0,0,1,200005,,0
+513,1513,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween2019_dog,1,5,,0,0,1,200005,logo_halloween,0
+514,1514,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween2019_battle,1,5,,0,0,1,200005,logo_halloween,0
+515,1515,2,0,0,0,0,200,508-5000,1,0,card_Halloween2019,1,5,,0,0,1,200005,,0
 517,1517,1,0,0,0,0,200,508-5000,1,0,profilePic_Hallo19_QBU88,1,5,,3801,0,4,200005,,0
 518,1518,1,0,0,0,0,200,508-5000,1,0,profilePic_Hallo19_G36C,1,5,,3802,0,4,200005,,0
 519,1519,1,0,0,0,0,200,508-5000,1,0,profilePic_Hallo19_M870P,1,5,,3803,0,4,200005,,0
@@ -681,9 +685,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 738,1738,1,0,0,0,0,160,508-4000,1,0,profilePic_Halloween2020_M82,1,5,,5105,0,4,200005,,0
 739,1739,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_TT33,1,5,,5106,0,4,200005,,0
 740,1740,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_M21,1,5,,5107,0,4,200005,,0
-741,1741,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,0
-742,1742,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,0
-743,1743,2,0,0,0,0,400,508-10000,0,0,card_Halloween20_Theatre,1,5,,0,0,1,0,,0
+741,1741,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,0
+742,1742,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,0
+743,1743,2,0,0,0,0,400,508-10000,1,0,card_Halloween20_Theatre,1,5,,0,0,1,0,,0
 744,1744,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween20_us,1,5,,0,0,1,200005,logo_halloween,0
 745,1745,1,0,0,0,0,0,,0,0,profilePic_sangvis_Prowler_SWAP,1,5,,0,0,5,200001,,0
 746,1746,1,0,0,0,0,0,,0,0,profilePic_sangvis_Golyat_Factory,1,5,,0,0,5,200012,,0
@@ -1372,7 +1376,16 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1521,2521,2,0,0,0,0,0,,0,0,card_BattlePass_M1897,1,5,,0,0,,0,,0
 1557,2557,1,0,0,0,0,40,508-1000,1,0,profilePic_BattlePass_LWMMG,1,5,,30022,0,,0,,0
 1558,2558,2,0,0,0,0,0,,0,0,card_BattlePass_LWMMG,1,5,,0,0,,0,,0
+1559,2559,1,0,0,0,0,200,508-5000,1,0,profilePic_Bunny24_FM24,1,5,,10801,0,,0,,0
+1560,2560,1,0,0,0,0,200,508-5000,1,0,profilePic_Bunny24_JS9mm,1,5,,10802,0,,0,,0
+1561,2561,1,0,0,0,0,200,508-5000,1,0,profilePic_Bunny24_LTLX7000,1,5,,10803,0,,0,,0
+1562,2562,1,0,0,0,0,200,508-5000,1,0,profilePic_Bunny24_SR3MP,1,5,,10805,0,,0,,0
+1563,2563,1,0,0,0,0,160,508-4000,1,0,profilePic_Bunny24_56-1type,1,5,,10806,0,,0,,0
+1564,2564,1,0,0,0,0,80,508-2000,1,0,profilePic_Bunny24_RMB93,1,5,,10807,0,,0,,0
+1565,2565,1,0,0,0,0,40,508-1000,1,0,profilePic_Bunny24_MP40,1,5,,10808,0,,0,,0
 1568,2568,1,0,0,0,0,200,508-5000,0,0,profilePic_mask_Hallowmas_NA,1,5,,0,0,1,200005,logo_halloween,0
+1599,2599,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_SAT8,1,5,,30024,0,,0,,0
+1600,2600,2,0,0,0,0,0,,0,0,card_BattlePass_SAT8,1,5,,0,0,,0,,0
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
@@ -1414,3 +1427,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100044,200044,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M99,1,5,,0,0,5,0,,0
 100045,200045,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1897,1,5,,0,0,5,0,,0
 100047,200047,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_LWMMG,1,5,,0,0,5,0,,0
+100049,200049,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_SAT8,1,5,,0,0,5,0,,0

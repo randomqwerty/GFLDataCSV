@@ -34,3 +34,4 @@ id,name,order,evo_step,appearance_id,item_id,medal_obtain,medal_color,is_date,de
 35,medal-10000035,65,1,210,134,medal-20000035,#ff0000,2,Logo_Events
 36,medal-10000036,64,1|2|3|4|5|6|7|8|9|10|11|12,211|212|213|214|215|216|217|218|219|220|221|222,135,medal-20000036,#ff0000,2,Logo_Events
 37,medal-10000037,63,1,223,136,medal-20000037,#ff0000,2,Logo_Events
+39,medal-10000039,61,1,236,138,medal-20000039,#ff0000,2,Logo_Events

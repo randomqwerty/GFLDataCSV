@@ -1893,6 +1893,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10720,18,10720,daily_points,item-10010720,item-20010720,1,0,,,0,0,,item-30010720,0,0
 10721,18,10721,daily_points,item-10010721,item-20010721,1,0,,,0,0,,item-30010721,0,0
 10722,18,10722,daily_points,item-10010722,item-20010722,1,0,,,0,0,,item-30010722,0,0
+10723,18,10723,daily_points,item-10010723,item-20010723,1,0,,,0,0,,item-30010723,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
@@ -2213,6 +2214,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 110071,4,110071,EventPT9,item-10110071,item-20110071,1,0,,,0,0,,item-30110071,0,0
 110072,4,110072,PT,item-10110072,item-20110072,1,0,,,0,0,,item-30110072,0,0
 110073,4,110073,EventPT2,item-10110073,item-20110073,1,0,,,0,0,,item-30110073,0,0
+110074,4,110074,PT,item-10110074,item-20110074,1,0,,,0,0,,item-30110074,0,0
 120001,10,1,bondage_lines_icon,item-10120001,item-20120001,1,0,,,0,0,,item-30120001,0,0
 120002,10,2,bondage_lines_icon,item-10120002,item-20120002,1,0,,,0,0,,item-30120002,0,0
 120003,10,3,bondage_lines_icon,item-10120003,item-20120003,1,0,,,0,0,,item-30120003,0,0
@@ -2367,6 +2369,16 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 133133,13,55,MG_Cannon_1012,item-10133133,item-20133133,5,0,,,0,0,,item-30133133,0,0
 133134,13,55,AutoDef_1012,item-10133134,item-20133134,5,0,,,0,0,,item-30133134,0,0
 133135,13,55,LaserSup_1012,item-10133135,item-20133135,5,0,,,0,0,,item-30133135,0,0
+133136,13,46,ShotgunVehicle_1001,item-10133136,item-20133136,5,0,,,0,0,,item-30133136,0,0
+133137,13,47,MortarVehicle_1001,item-10133137,item-20133137,5,0,,,0,0,,item-30133137,0,0
+133138,13,48,LaserRangefinder_1001,item-10133138,item-20133138,5,0,,,0,0,,item-30133138,0,0
+133139,13,49,CamouflageNet_1001,item-10133139,item-20133139,5,0,,,0,0,,item-30133139,0,0
+133140,13,50,GrilleArmor_1001,item-10133140,item-20133140,5,0,,,0,0,,item-30133140,0,0
+133141,13,51,ShotgunVehicle_1002,item-10133141,item-20133141,5,0,,,0,0,,item-30133141,0,0
+133142,13,52,MortarVehicle_1002,item-10133142,item-20133142,5,0,,,0,0,,item-30133142,0,0
+133143,13,46,LaserRangefinder_1002,item-10133143,item-20133143,5,0,,,0,0,,item-30133143,0,0
+133144,13,47,CamouflageNet_1002,item-10133144,item-20133144,5,0,,,0,0,,item-30133144,0,0
+133145,13,48,GrilleArmor_1002,item-10133145,item-20133145,5,0,,,0,0,,item-30133145,0,0
 140001,14,1,Y_Z_zhihuiguan_Chessman,item-10140001,item-20140001,1,0,,,0,0,,item-30140001,0,0
 140002,14,1,Y_Z_zhihuiguan_Chessman,item-10140002,item-20140002,1,0,,,0,0,,item-30140002,0,0
 140003,14,1,Y_Z_zhihuiguan_Chessman,item-10140003,item-20140003,1,0,,,0,0,,item-30140003,0,0
@@ -2692,6 +2704,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700043,15,1700043,package_choose,item-11700043,item-21700043,1,-1,,,0,0,,item-31700043,0,1
 1700044,15,1700044,package_choose,item-11700044,item-21700044,1,-1,,,0,0,,item-31700044,0,1
 1700045,15,1700045,package_choose,item-11700045,item-21700045,1,-1,,,0,0,,item-31700045,0,1
+1700046,15,1700046,package_choose,item-11700046,item-21700046,1,-1,,,0,0,,item-31700046,0,1
+1700047,15,1700047,package_choose,item-11700047,item-21700047,1,-1,,,0,0,,item-31700047,0,1
+1700048,15,1700048,package_choose,item-11700048,item-21700048,1,-1,,,0,0,,item-31700048,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1

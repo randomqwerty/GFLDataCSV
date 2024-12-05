@@ -1892,6 +1892,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10719,18,10719,daily_points,item-10010719,item-20010719,1,0,,,0,0,,item-30010719,0,0
 10720,18,10720,daily_points,item-10010720,item-20010720,1,0,,,0,0,,item-30010720,0,0
 10721,18,10721,daily_points,item-10010721,item-20010721,1,0,,,0,0,,item-30010721,0,0
+10722,18,10722,daily_points,item-10010722,item-20010722,1,0,,,0,0,,item-30010722,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
@@ -2366,6 +2367,16 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 133133,13,55,MG_Cannon_1012,item-10133133,item-20133133,5,0,,,0,0,,item-30133133,0,0
 133134,13,55,AutoDef_1012,item-10133134,item-20133134,5,0,,,0,0,,item-30133134,0,0
 133135,13,55,LaserSup_1012,item-10133135,item-20133135,5,0,,,0,0,,item-30133135,0,0
+133136,13,46,ShotgunVehicle_1001,item-10133136,item-20133136,5,0,,,0,0,,item-30133136,0,0
+133137,13,47,MortarVehicle_1001,item-10133137,item-20133137,5,0,,,0,0,,item-30133137,0,0
+133138,13,48,LaserRangefinder_1001,item-10133138,item-20133138,5,0,,,0,0,,item-30133138,0,0
+133139,13,49,CamouflageNet_1001,item-10133139,item-20133139,5,0,,,0,0,,item-30133139,0,0
+133140,13,50,GrilleArmor_1001,item-10133140,item-20133140,5,0,,,0,0,,item-30133140,0,0
+133141,13,51,ShotgunVehicle_1002,item-10133141,item-20133141,5,0,,,0,0,,item-30133141,0,0
+133142,13,52,MortarVehicle_1002,item-10133142,item-20133142,5,0,,,0,0,,item-30133142,0,0
+133143,13,46,LaserRangefinder_1002,item-10133143,item-20133143,5,0,,,0,0,,item-30133143,0,0
+133144,13,47,CamouflageNet_1002,item-10133144,item-20133144,5,0,,,0,0,,item-30133144,0,0
+133145,13,48,GrilleArmor_1002,item-10133145,item-20133145,5,0,,,0,0,,item-30133145,0,0
 140001,14,1,Y_Z_zhihuiguan_Chessman,item-10140001,item-20140001,1,0,,,0,0,,item-30140001,0,0
 140002,14,1,Y_Z_zhihuiguan_Chessman,item-10140002,item-20140002,1,0,,,0,0,,item-30140002,0,0
 140003,14,1,Y_Z_zhihuiguan_Chessman,item-10140003,item-20140003,1,0,,,0,0,,item-30140003,0,0

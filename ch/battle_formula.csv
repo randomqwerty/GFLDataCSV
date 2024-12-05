@@ -4034,6 +4034,11 @@ id,formula
 9554,sbuffidtier(9710)=1?1:0
 9560,tbuffidtier(9680)=5?0:1
 9561,sbuffidtier(1032)=5?0:1
+9566,sbuffidtier(9718)=1?sbuffidtier(3303)=7?0:1:0
+9601,sbuffidtier(9724)>0?0:1
+9602,sbuffidtier(9722)=1&sbuffidtier(9723)=1?1:0
+9603,sbuffidtier(9725)=1&sbuffidtier(9726)=1?1:0
+9604,sbuffidtier(9727)>0?50:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0
