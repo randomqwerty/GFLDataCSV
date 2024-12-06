@@ -54,3 +54,4 @@ id,type,mission_campaign,event_name,draw_event_id,start_time,end_time,init_missi
 57,2,-40401,mission_event-10000057,,,,11002,,,,,
 58,1,-73,mission_event-10000058,400|401|402|403|404,2024-11-22 10:00:00,2024-12-13 10:00:00,11811,,,,,100247
 59,2,-40402,mission_event-10000059,,,,11117,,,,,
+60,2,-40403,mission_event-10000060,,,,11402|11403,,,,,

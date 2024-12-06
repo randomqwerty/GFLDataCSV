@@ -1953,9 +1953,9 @@ id,formula
 3641,100-sbuffidtier(3878)
 3642,sbuffidtier(3877)=1?3879:0
 3643,((#Life/#Maxlife)<0.5)&(sbuffidtier(3876)>0)?$1*(1+sbuffidtier(3876)*0.005):$1
-3644,(tbuffidtier(3880)+tbuffidtier(3881)+tbuffidtier(3882))=0?3880:0
-3645,(tbuffidtier(3880)=1)&(tbuffidtier(3881)+tbuffidtier(3882)=0)?3881:0
-3646,tbuffidtier(3881)=1?3882:0
+3644,(tbuffidtier(3880)+tbuffidtier(3881)+tbuffidtier(3882))=0?3880:480
+3645,(tbuffidtier(3880)=1)&(tbuffidtier(3881)+tbuffidtier(3882)=0)?3881:480
+3646,tbuffidtier(3881)=1?3882:480
 3647,tbuffidtier(3881)=1?(#Maxlife*0.001*@buff89>@pow*0.1*@buff83?(#armor<16?@pow*0.1*@buff83*(1-#def/#maxdef):@pow*0.1*@buff83-#armor+15)*(1-#def/#maxdef):(#armor<16?#Maxlife*0.001*@buff89*(1-#def/#maxdef):#Maxlife*0.001*@buff89-#armor+15)*(1-#def/#maxdef):0
 3648,80+sbuffidtier(3300)*32
 3649,80+sbuffidtier(3300)*34
@@ -1970,7 +1970,7 @@ id,formula
 3658,sbuffidtier(3300)>0?sbuffidtier(3300):0
 3659,tbuffidtier(3885)>0?1:0
 3660,(tbuffidtier(3885)-sbuffidtier(3300))=1?0:(9999*tbuffidtier(3885)*sbuffidtier(3876))
-3662,sbuffidtier(83)>0?1:0
+3662,sbuffidtier(83)>0?1:480
 3663,(#leader=1)&(tbuffidtier(3888)=1)?388904:0
 3664,80+sbuffidtier(3891)*16
 3665,90+sbuffidtier(3891)*16
