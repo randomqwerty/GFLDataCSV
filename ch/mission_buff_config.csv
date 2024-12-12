@@ -451,6 +451,7 @@ id,name,description,code,type,duration_type,duration_time,limit_buff,exp_buff,is
 660039,mission_buff_config-10660039,mission_buff_config-20660039,,1,1,999,0,1,0,,,330006,0,0,0,,,660001,0,0,0,24rabbitrise3#1E90FF,,0,,660019,3,,,0,0,0,0,0,0,,,5,0,0
 660040,mission_buff_config-10660040,mission_buff_config-20660040,,1,1,999,0,1,0,,,330006,0,0,0,,,660001,0,0,0,24rabbitrise3#1E90FF,,0,,660020,3,,,0,0,0,0,0,0,,,5,0,0
 660050,mission_buff_config-10660050,mission_buff_config-20660050,,1,1,999,0,1,0,,,0,0,0,0,,,0,0,0,0,,,0,,660050,1,669910,,0,0,0,0,0,0,,,0,0,0
+660051,mission_buff_config-10660051,mission_buff_config-20660051,,1,1,999,0,1,0,,,0,0,0,0,,,0,0,0,0,,,0,,660051,1,,,0,0,0,0,0,0,,,0,0,0
 660090,mission_buff_config-10660090,mission_buff_config-20660090,,1,1,999,0,1,0,,,0,0,0,660091,4,0-1,0,0,0,0,,,0,,660090,-2,,,0,0,0,0,0,0,,,0,0,0
 660091,mission_buff_config-10660091,mission_buff_config-20660091,,1,1,999,0,1,0,,,0,0,0,0,,,0,0,0,0,24rabbitcount,,0,,660091,-1,,,0,0,0,0,0,0,,,0,0,0
 660092,mission_buff_config-10660092,mission_buff_config-20660092,,1,1,999,0,1,0,,,0,0,0,0,,,0,0,0,0,24rabbitcount,,0,,660092,-1,,,0,0,0,0,0,0,,,0,0,0

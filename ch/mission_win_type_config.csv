@@ -1079,7 +1079,7 @@ id,type,arguments,extra_language,is_hidden,is_show_count
 9722901,1303,9722901:1|9722902:1,mission_win_type_config-19722901,0,
 9723001,1306,9723001:1,mission_win_type_config-19723001,0,
 9740101,1402,2,mission_win_type_config-19740101,0,
-9740102,1407,9740109:1,mission_win_type_config-19740102,0,0
+9740102,1407,9720404:1,mission_win_type_config-19740102,0,0
 9740103,1407,9740116:1,mission_win_type_config-19740103,0,0
 9740701,1303,9740701:1,mission_win_type_config-19740701,0,
 9740702,1407,9740701:2,mission_win_type_config-19740702,0,
