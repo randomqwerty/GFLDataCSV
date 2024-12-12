@@ -29,6 +29,11 @@ id,name,code,description,priority,duration,delay,size,sound,spine,if_starting,re
 70021,mission_effect_config-10070021,M_buff04,mission_effect_config-20070021,5,0.0,0.0,1.5,,0,0,0,50|120;0|0,,1,0
 70022,mission_effect_config-10070022,M_buff01,mission_effect_config-20070022,5,0.0,0.0,1.5,,0,0,0,50|120;0|0,,1,0
 100861,mission_effect_config-10100861,Heli,mission_effect_config-20100861,0,1.0,0.0,1.0,UI_helicopter_loop,1,0,0,0|0,,0,0
+660001,mission_effect_config-10660001,TZD_jh,mission_effect_config-20660001,1,0.0,0.0,1.8,,0,0,0,0|-50,,0,0
+660002,mission_effect_config-10660002,TZD_cs_box,mission_effect_config-20660002,1,9999.0,0.0,2.0,,0,0,0,0|0,,0,0
+660003,mission_effect_config-10660003,TZD_kxz,mission_effect_config-20660003,1,0.0,0.0,2.0,,0,0,0,0|0,,0,0
+740001,mission_effect_config-10740001,Fly_tornado,mission_effect_config-20740001,1,4.0,0.0,2.0,Blackjack_flying,0,4,0|0;0|0;0|0;1|1,-5500|5500;6500|-6500,0|0|-45;0|0|-45,2|0.5|2,0
+740002,mission_effect_config-10740002,Fly_tu95,mission_effect_config-20740002,1,4.0,0.0,2.0,Blackjack_flying,0,4,0|0;0|0;0|0;1|1,-5500|-5500;6500|6500,0|0|45;0|0|45,2|0.5|2,0
 900001,mission_effect_config-10900001,effectPowerup,mission_effect_config-20900001,0,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 900002,mission_effect_config-10900002,effectNoDrop,mission_effect_config-20900002,3,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 900003,mission_effect_config-10900003,Mission_gas,mission_effect_config-20900003,9,0.0,0.0,1.0,0,0,0,0,0|0,,0,0

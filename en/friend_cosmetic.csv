@@ -495,9 +495,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 537,1537,1,0,0,0,0,160,508-4000,1,0,profilePic_racing19_UKM2000,1,5,,3903,0,4,200005,,0
 538,1538,1,0,0,0,0,80,508-2000,1,0,profilePic_racing19_M2HB,1,5,,3904,0,4,200005,,0
 539,1539,1,0,0,0,0,40,508-1000,1,0,profilePic_racing19_PPK,1,5,,3905,0,4,200005,,0
-540,1540,1,0,0,0,0,160,508-4000,0,0,profilePic_Xms19_petdog,1,5,,0,0,1,200005,logo_christmas,0
-541,1541,1,0,0,0,0,80,508-2000,0,0,profilePic_Xms19_bingyi,1,5,,0,0,1,200005,logo_christmas,0
-542,1542,2,0,0,0,0,40,508-1000,0,0,card_Xms19_bingyi,1,5,,0,0,1,0,,0
+540,1540,1,0,0,0,0,160,508-4000,1,0,profilePic_Xms19_petdog,1,5,,0,0,1,200005,logo_christmas,0
+541,1541,1,0,0,0,0,80,508-2000,1,0,profilePic_Xms19_bingyi,1,5,,0,0,1,200005,logo_christmas,0
+542,1542,2,0,0,0,0,400,508-10000,1,0,card_Xms19_bingyi,1,5,,0,0,1,0,,0
 543,1543,1,0,0,0,0,200,508-5000,1,0,profilePic_Xms19_Lewis,1,5,,4001,0,4,200005,,0
 544,1544,1,0,0,0,0,200,508-5000,1,0,profilePic_Xms19_HK21,1,5,,4002,0,4,200005,,0
 545,1545,1,0,0,0,0,200,508-5000,1,0,profilePic_Xms19_HKCAWS,1,5,,4003,0,4,200005,,0
@@ -1294,6 +1294,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1393,2393,1,0,0,0,0,80,508-2000,1,0,profilePic_Dining2023_Falcon,1,5,,8908,0,,0,,0
 1394,2394,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_HK433,1,5,,0,0,,0,,0
 1395,2395,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_HK433,1,5,,30013,0,,0,,0
+1396,2396,1,0,0,0,0,0,,0,0,profilePic_sangvis_Dreamer_Halloween,1,5,,0,0,5,200002,,0
 1397,2397,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_NTW20,1,5,,0,0,,0,,3454
 1398,2398,2,0,0,0,0,320,508-8000,1,0,card_friendmall_NTW20,1,5,,0,0,,0,,3451
 1406,2406,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M950A,1,5,,0,0,,0,,0
