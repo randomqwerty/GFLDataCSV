@@ -1297,6 +1297,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1396,2396,1,0,0,0,0,0,,0,0,profilePic_sangvis_Dreamer_Halloween,1,5,,0,0,5,200002,,0
 1397,2397,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_NTW20,1,5,,0,0,,0,,3454
 1398,2398,2,0,0,0,0,320,508-8000,1,0,card_friendmall_NTW20,1,5,,0,0,,0,,3451
+1405,2405,1,0,0,0,0,40,508-1000,1,0,profilePic_Christmas2023_PPsh41,1,5,,9008,0,,0,,0
 1406,2406,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M950A,1,5,,0,0,,0,,0
 1407,2407,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M950A,1,5,,30014,0,,0,,0
 1408,2408,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_A545,1,5,,0,0,,0,,3493

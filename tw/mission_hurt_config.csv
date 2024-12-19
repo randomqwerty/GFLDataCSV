@@ -5,6 +5,11 @@ id,name,target_type,type,is_number,life_type,value,hostage_value,is_armor,effect
 21,mission_hurt_config-10000021,2,2,0,1,*0,0,0,0,0,0,0,0
 22,mission_hurt_config-10000022,2,2,0,2,*0,0,0,0,0,0,0,0
 1002,mission_hurt_config-10001002,2,1,0,1,*0,0,0,1003,0,0,0,0
+2401,mission_hurt_config-10002401,2,2,0,2,-10,0,0,0,0,0,0,0
+2402,mission_hurt_config-10002402,2,2,0,2,-15,0,0,0,0,0,0,0
+2403,mission_hurt_config-10002403,2,2,0,2,-20,0,0,0,0,0,0,0
+2404,mission_hurt_config-10002404,2,2,0,2,-25,0,0,0,0,0,0,0
+2405,mission_hurt_config-10002405,2,2,0,2,-30,0,0,0,0,0,0,0
 70012,mission_hurt_config-10070012,2,2,0,1,20,0,0,0,0,0,0,0
 70014,mission_hurt_config-10070014,1,2,0,2,40,0,0,0,0,0,0,0
 482401,mission_hurt_config-10482401,2,2,1,2,*0,0,0,1000083,0,0,0,0
