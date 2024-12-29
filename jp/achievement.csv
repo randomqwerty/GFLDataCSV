@@ -1137,3 +1137,4 @@ identity,type,count,user_exp,mp,ammo,mre,part,core,gem,gun_id,item_ids,equip_ids
 1221,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001221,achievement-20001221,100,325,诶嘿打不着,0,,11633:1163302,achievement-30001221,0
 1222,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001222,achievement-20001222,100,326,分头行动,0,,11665:1166502,achievement-30001222,0
 1223,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001223,achievement-20001223,100,327,击杀boss,0,,11706:1170601|11700:1170003,achievement-30001223,0
+1224,c_no_skip_activity,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001224,achievement-20001224,100,328,就是这个人,0,,11722,achievement-30001224,0

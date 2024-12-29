@@ -691,6 +691,12 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 8905,gift_item-10008905,2,6,50000,143,8905,38905,gift_bundle_Dining2023_RO635,gift_item-20008905,gift_item-30008905,gift_item-50008905,0,0,0,,gift_item-40008905,2000,6
 8906,gift_item-10008906,2,6,50000,356,8906,38906,gift_bundle_Dining2023_A545,gift_item-20008906,gift_item-30008906,gift_item-50008906,0,0,0,,gift_item-40008906,2000,6
 8908,gift_item-10008908,2,6,50000,256,8908,38908,gift_bundle_Dining2023_Falcon,gift_item-20008908,gift_item-30008908,gift_item-50008908,0,0,0,,gift_item-40008908,2000,6
+9001,gift_item-10009001,2,6,50000,351,9001,39001,gift_bundle_Christmas2023_M26MASS,gift_item-20009001,gift_item-30009001,gift_item-50009001,0,0,0,,gift_item-40009001,2000,6
+9003,gift_item-10009003,2,6,50000,366,9003,39003,gift_bundle_Christmas2023_SPAS15,gift_item-20009003,gift_item-30009003,gift_item-50009003,0,0,0,,gift_item-40009003,2000,6
+9004,gift_item-10009004,2,6,50000,340,9004,39004,gift_bundle_Christmas2023_TKB408,gift_item-20009004,gift_item-30009004,gift_item-50009004,0,0,0,,gift_item-40009004,2000,6
+9005,gift_item-10009005,2,6,50000,99,9005,39005,gift_bundle_Christmas2023_Mk23,gift_item-20009005,gift_item-30009005,gift_item-50009005,0,0,0,,gift_item-40009005,2000,6
+9006,gift_item-10009006,2,6,50000,26,9006,39006,gift_bundle_Christmas2023_MP5,gift_item-20009006,gift_item-30009006,gift_item-50009006,0,0,0,,gift_item-40009006,2000,6
+9007,gift_item-10009007,2,6,50000,284,9007,39007,gift_bundle_Christmas2023_ZasM76,gift_item-20009007,gift_item-30009007,gift_item-50009007,0,0,0,,gift_item-40009007,2000,6
 9008,gift_item-10009008,2,6,50000,21,9008,39008,gift_bundle_Christmas2023_PPsh41,gift_item-20009008,gift_item-30009008,gift_item-50009008,0,0,0,,gift_item-40009008,2000,6
 10001,gift_item-10010001,2,6,50000,46,10001,310001,gift_bundle_NewYear2024_98K,gift_item-20010001,gift_item-30010001,gift_item-50010001,0,0,0,,gift_item-40010001,2000,6
 10002,gift_item-10010002,2,6,50000,381,10002,310002,gift_bundle_NewYear2024_M110,gift_item-20010002,gift_item-30010002,gift_item-50010002,0,0,0,,gift_item-40010002,2000,6
@@ -714,6 +720,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10505,gift_item-10010505,2,6,50000,273,10505,310505,gift_bundle_Masque2024_SSG3000,gift_item-20010505,gift_item-30010505,gift_item-50010505,0,0,0,,gift_item-40010505,2000,6
 10506,gift_item-10010506,2,6,50000,354,10506,310506,gift_bundle_Masque2024_ZIP22,gift_item-20010506,gift_item-30010506,gift_item-50010506,0,0,0,,gift_item-40010506,2000,6
 10507,gift_item-10010507,2,6,50000,5,10507,310507,gift_bundle_Masque2024_M1895,gift_item-20010507,gift_item-30010507,gift_item-50010507,0,0,0,,gift_item-40010507,2000,6
+10605,gift_item-10010605,2,6,50000,118,10605,310605,gift_bundle_Detective2024_9A91,gift_item-20010605,gift_item-30010605,gift_item-50010605,0,0,0,,gift_item-40010605,2000,6
 10801,gift_item-10010801,2,6,50000,395,10801,310801,gift_bundle_Bunny24_FM24,gift_item-20010801,gift_item-30010801,gift_item-50010801,0,0,0,,gift_item-40010801,2000,6
 10802,gift_item-10010802,2,6,50000,234,10802,310802,gift_bundle_Bunny24_JS9mm,gift_item-20010802,gift_item-30010802,gift_item-50010802,0,0,0,,gift_item-40010802,2000,6
 10803,gift_item-10010803,2,6,50000,323,10803,310803,gift_bundle_Bunny24_LTLX7000,gift_item-20010803,gift_item-30010803,gift_item-50010803,0,0,0,,gift_item-40010803,2000,6
