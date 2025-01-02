@@ -530,6 +530,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1439,5,1,profilePic_znq19_HK416,item-10001439,item-20001439,1,0,,,0,0,,item-30001439,0,0
 1440,5,1,profilePic_znq19_SOPMOD,item-10001440,item-20001440,1,0,,,0,0,,item-30001440,0,0
 1441,5,1,profilePic_znq19_RO635,item-10001441,item-20001441,1,0,,,0,0,,item-30001441,0,0
+1442,5,1,profilePic_znq19_M16,item-10001442,item-20001442,1,0,,,0,0,,item-30001442,0,0
+1443,5,1,profilePic_znq19_Nyto,item-10001443,item-20001443,1,0,,,0,0,,item-30001443,0,0
 1444,5,1,profilePic_mask_3year,item-10001444,item-20001444,1,0,,,0,0,,item-30001444,0,0
 1445,5,1,profilePic_rank4_MicroUZIMod,item-10001445,item-20001445,1,0,,,0,0,,item-30001445,0,0
 1446,5,1,profilePic_rank5_ASVALMod,item-10001446,item-20001446,1,0,,,0,0,,item-30001446,0,0
@@ -543,6 +545,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1454,5,1,profilePic_3znq19_G28,item-10001454,item-20001454,1,0,,,0,0,,item-30001454,0,0
 1455,5,1,profilePic_3znq19_K5,item-10001455,item-20001455,1,0,,,0,0,,item-30001455,0,0
 1456,5,1,profilePic_3znq19_Thunder50,item-10001456,item-20001456,1,0,,,0,0,,item-30001456,0,0
+1457,5,1,card_3znq19,item-10001457,item-20001457,1,0,,,0,0,,item-30001457,0,0
 1458,5,1,profilePic_3zncoffee_K2,item-10001458,item-20001458,1,0,,,0,0,,item-30001458,0,0
 1459,5,1,profilePic_sbld19_G28,item-10001459,item-20001459,1,0,,,0,0,,item-30001459,0,0
 1460,5,1,profilePic_sbld19_Dana,item-10001460,item-20001460,1,0,,,0,0,,item-30001460,0,0
