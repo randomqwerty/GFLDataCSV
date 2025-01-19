@@ -1378,6 +1378,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1480,2480,2,0,0,0,0,0,,0,0,card_202404Acticity_02,1,5,,0,0,1,0,,0
 1481,2481,2,0,0,0,0,0,,0,0,card_202404Acticity_03,1,5,,0,0,1,0,,0
 1482,2482,3,0,0,0,0,0,,0,0,cg_202404Acticity,1,5,,0,0,1,0,,0
+1483,2483,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season15_1,1,5,,0,0,1,200008,logo_flightchess_major,0
+1484,2484,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season15_2,1,5,,0,0,1,200007,logo_flightchess_general,0
+1485,2485,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season15_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
 1486,2486,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M99,1,5,,0,0,,0,,0
 1487,2487,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M99,1,5,,30019,0,,0,,0
 1498,2498,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2024_88type,1,5,,50001,0,,0,,0
@@ -1421,6 +1424,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1541,2541,2,0,0,0,0,0,,0,0,card_BattlePass_M1851N,1,5,,0,0,,0,,0
 1557,2557,1,0,0,0,0,40,508-1000,1,0,profilePic_BattlePass_LWMMG,1,5,,30022,0,,0,,0
 1558,2558,2,0,0,0,0,0,,0,0,card_BattlePass_LWMMG,1,5,,0,0,,0,,0
+1566,2566,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_MartiniHenry,1,5,,30023,0,,0,,0
+1567,2567,2,0,0,0,0,0,,0,0,card_BattlePass_MartiniHenry,1,5,,0,0,,0,,0
 1624,2624,1,0,0,0,0,0,,0,0,profilePic_NewYear2025JP_coremask,1,5,,0,0,1,0,logo_NewYear2025,0
 1631,2631,1,0,0,0,0,200,508-5000,1,0,profilePic_NewYear2025_SPAS15,1,5,,11201,0,,0,,0
 1632,2632,1,0,0,0,0,200,508-5000,1,0,profilePic_NewYear2025_Python,1,5,,11202,0,,0,,0
@@ -1473,3 +1478,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100045,200045,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1897,1,5,,0,0,5,0,,0
 100046,200046,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1851N,1,5,,0,0,5,0,,0
 100047,200047,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_LWMMG,1,5,,0,0,5,0,,0
+100048,200048,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_MartiniHenry,1,5,,0,0,5,0,,0
