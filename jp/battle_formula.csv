@@ -3643,6 +3643,7 @@ id,formula
 6002,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))
 6003,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))+tbufftypetier(601)
 6004,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))/#formation+tbufftypetier(601)
+6051,(sbuffidtier(712)+sbuffidtier(71201))>3?1:0
 6101,tbuffidtier(6101)>0?100:0
 6102,tbuffidtier(6101)>0?6104:6102
 6103,tbuffidtier(6101)>0?6105:6103

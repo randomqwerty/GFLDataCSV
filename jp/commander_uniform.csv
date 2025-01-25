@@ -216,4 +216,12 @@ id,name,description,code,icon,type,gender,uniform_class,color_normal,color_0,col
 5740,commander_uniform-10005740,commander_uniform-20005740,BodyAcco,commander_5740_icon,4,0,57,Commander_5740_N,Commander_5740_0,Commander_5740_1,Commander_5740_2,Commander_5740_3,Commander_5740_4,0,BodyBinder1,0,0.2,-0.123|0.007,930|931|932|933|934|935
 5751,commander_uniform-10005751,commander_uniform-20005751,Foot1,commander_5751_icon,5,1,57,Commander_5751_N,Commander_5751_0,Commander_5751_1,Commander_5751_2,Commander_5751_3,Commander_5751_4,0,,0,0.0,,936|937|938|939|940|941
 5752,commander_uniform-10005752,commander_uniform-20005752,Foot2,commander_5752_icon,5,2,57,Commander_5752_N,Commander_5752_0,Commander_5752_1,Commander_5752_2,Commander_5752_3,Commander_5752_4,0,,0,0.0,,942|943|944|945|946|947
+5811,commander_uniform-10005811,commander_uniform-20005811,Head1,commander_5811_icon,1,1,58,Commander_5811_N,,,,,,0,,0,0.0,,950
+5812,commander_uniform-10005812,commander_uniform-20005812,Head2,commander_5812_icon,1,2,58,Commander_5812_N,,,,,,0,,0,0.0,,951
+5820,commander_uniform-10005820,commander_uniform-20005820,HeadAcco,commander_5820_icon,2,0,58,Commander_5820_N,,,,,,0,HairBinder2,0,0.2,0.611|0.575,952
+5831,commander_uniform-10005831,commander_uniform-20005831,Body1,commander_5831_icon,3,1,58,Commander_5831_N,,,,,,0,,0,0.0,,953
+5832,commander_uniform-10005832,commander_uniform-20005832,Body2,commander_5832_icon,3,2,58,Commander_5832_N,,,,,,0,,0,0.0,,954
+5840,commander_uniform-10005840,commander_uniform-20005840,BodyAcco,commander_5840_icon,4,0,58,Commander_5840_N,,,,,,0,BodyBinder1,0,0.2,-0.161|-0.137,955
+5851,commander_uniform-10005851,commander_uniform-20005851,Foot1,commander_5851_icon,5,1,58,Commander_5851_N,,,,,,0,,0,0.0,,956
+5852,commander_uniform-10005852,commander_uniform-20005852,Foot2,commander_5852_icon,5,2,58,Commander_5852_N,,,,,,0,,0,0.0,,957
 5940,commander_uniform-10005940,commander_uniform-20005940,BodyAcco,commander_5940_icon,4,0,59,Commander_5940_N,,,,,,0,BodyBinder1,0,0.2,-0.172|0.008,958

@@ -43,3 +43,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 42,equip_group-10000042,equip_group-20000042,EgroupIDW,102|0|428,2:1003903,20093,0
 43,equip_group-10000043,equip_group-20000043,EgroupZB26,321|433|0,2:1004103,307,0
 44,equip_group-10000044,equip_group-20000044,EgroupColtDefender,434|216|0,2:1004203,302,0
+45,equip_group-10000045,equip_group-20000045,EgroupM1928A1,236|0|439,2:1004803,16,0
+46,equip_group-10000046,equip_group-20000046,Egroup92type,0|296|440,2:1004903,20013,0

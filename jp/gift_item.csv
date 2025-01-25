@@ -705,6 +705,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10006,gift_item-10010006,2,6,50000,308,10006,310006,gift_bundle_NewYear2024_C14,gift_item-20010006,gift_item-30010006,gift_item-50010006,0,0,0,,gift_item-40010006,2000,6
 10007,gift_item-10010007,2,6,50000,167,10007,310007,gift_bundle_NewYear2024_HK45,gift_item-20010007,gift_item-30010007,gift_item-50010007,0,0,0,,gift_item-40010007,2000,6
 10008,gift_item-10010008,2,6,50000,34,10008,310008,gift_bundle_NewYear2024_M1,gift_item-20010008,gift_item-30010008,gift_item-50010008,0,0,0,,gift_item-40010008,2000,6
+10107,gift_item-10010107,2,6,50000,139,10107,310107,gift_bundle_SpringFes2024_BrenTen,gift_item-20010107,gift_item-30010107,gift_item-50010107,0,0,0,,gift_item-40010107,2000,6
 10201,gift_item-10010201,2,6,50000,376,10201,310201,gift_bundle_WhiteV2024_Erma,gift_item-20010201,gift_item-30010201,gift_item-50010201,0,0,0,,gift_item-40010201,2000,6
 10301,gift_item-10010301,2,6,50000,387,10301,310301,gift_bundle_Hospital2024_TPS,gift_item-20010301,gift_item-30010301,gift_item-50010301,0,0,0,,gift_item-40010301,2000,6
 10302,gift_item-10010302,2,6,50000,375,10302,310302,gift_bundle_Hospital2024_ColtWalker,gift_item-20010302,gift_item-30010302,gift_item-50010302,0,0,0,,gift_item-40010302,2000,6
@@ -727,6 +728,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10605,gift_item-10010605,2,6,50000,118,10605,310605,gift_bundle_Detective2024_9A91,gift_item-20010605,gift_item-30010605,gift_item-50010605,0,0,0,,gift_item-40010605,2000,6
 10606,gift_item-10010606,2,6,50000,26,10606,310606,gift_bundle_Detective2024_MP5,gift_item-20010606,gift_item-30010606,gift_item-50010606,0,0,0,,gift_item-40010606,2000,6
 10607,gift_item-10010607,2,6,50000,99,10607,310607,gift_bundle_Detective2024_Mk23,gift_item-20010607,gift_item-30010607,gift_item-50010607,0,0,0,,gift_item-40010607,2000,6
+10701,gift_item-10010701,2,6,50000,73,10701,310701,gift_bundle_Chess2024_AUG,gift_item-20010701,gift_item-30010701,gift_item-50010701,0,0,0,,gift_item-40010701,2000,6
+10702,gift_item-10010702,2,6,50000,357,10702,310702,gift_bundle_Chess2024_Rhino,gift_item-20010702,gift_item-30010702,gift_item-50010702,0,0,0,,gift_item-40010702,2000,6
+10703,gift_item-10010703,2,6,50000,16,10703,310703,gift_bundle_Chess2024_M1928A1,gift_item-20010703,gift_item-30010703,gift_item-50010703,0,0,0,,gift_item-40010703,2000,6
+10704,gift_item-10010704,2,6,50000,343,10704,310704,gift_bundle_Chess2024_APC556,gift_item-20010704,gift_item-30010704,gift_item-50010704,0,0,0,,gift_item-40010704,2000,6
+10705,gift_item-10010705,2,6,50000,100,10705,310705,gift_bundle_Chess2024_P7,gift_item-20010705,gift_item-30010705,gift_item-50010705,0,0,0,,gift_item-40010705,2000,6
+10706,gift_item-10010706,2,6,50000,267,10706,310706,gift_bundle_Chess2024_MP41,gift_item-20010706,gift_item-30010706,gift_item-50010706,0,0,0,,gift_item-40010706,2000,6
+10707,gift_item-10010707,2,6,50000,93,10707,310707,gift_bundle_Chess2024_IDW,gift_item-20010707,gift_item-30010707,gift_item-50010707,0,0,0,,gift_item-40010707,2000,6
 11201,gift_item-10011201,2,6,50000,366,11201,311201,gift_bundle_NewYear2025_SPAS15,gift_item-20011201,gift_item-30011201,gift_item-50011201,0,0,0,,gift_item-40011201,2000,6
 11202,gift_item-10011202,2,6,50000,4,11202,311202,gift_bundle_NewYear2025_Python,gift_item-20011202,gift_item-30011202,gift_item-50011202,0,0,0,,gift_item-40011202,2000,6
 11203,gift_item-10011203,2,6,50000,334,11203,311203,gift_bundle_NewYear2025_Savage99,gift_item-20011203,gift_item-30011203,gift_item-50011203,0,0,0,,gift_item-40011203,2000,6

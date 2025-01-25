@@ -1454,6 +1454,14 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2431,5,1,profilePic_rank5_EM2Mod,item-10002431,item-20002431,1,0,,,0,0,,item-30002431,0,0
 2432,5,1,profilePic_friendmall_VHS,item-10002432,item-20002432,1,0,,,0,0,,item-30002432,0,0
 2433,5,1,card_friendmall_VHS,item-10002433,item-20002433,1,0,,,0,0,,item-30002433,0,0
+2434,5,1,profilePic_SpringFes2024_QBZ191,item-10002434,item-20002434,1,0,,,0,0,,item-30002434,0,0
+2435,5,1,profilePic_SpringFes2024_SCR,item-10002435,item-20002435,1,0,,,0,0,,item-30002435,0,0
+2436,5,1,profilePic_SpringFes2024_SPAS12,item-10002436,item-20002436,1,0,,,0,0,,item-30002436,0,0
+2437,5,1,profilePic_SpringFes2024_PTRD,item-10002437,item-20002437,1,0,,,0,0,,item-30002437,0,0
+2438,5,1,profilePic_SpringFes2024_PP19,item-10002438,item-20002438,1,0,,,0,0,,item-30002438,0,0
+2439,5,1,profilePic_SpringFes2024_ASVAL,item-10002439,item-20002439,1,0,,,0,0,,item-30002439,0,0
+2440,5,1,profilePic_SpringFes2024_BrenTen,item-10002440,item-20002440,1,0,,,0,0,,item-30002440,0,0
+2441,5,1,profilePic_SpringFes2024_QBU191,item-10002441,item-20002441,1,0,,,0,0,,item-30002441,0,0
 2442,5,1,card_BattlePass_95type,item-10002442,item-20002442,1,0,,,0,0,,item-30002442,0,0
 2443,5,1,profilePic_BattlePass_95type,item-10002443,item-20002443,1,0,,,0,0,,item-30002443,0,0
 2449,5,1,profilePic_Ghost2024_Motoko,item-10002449,item-20002449,1,0,,,0,0,,item-30002449,0,0
@@ -1656,6 +1664,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10713,18,10713,daily_points,item-10010713,item-20010713,1,0,,,0,0,,item-30010713,0,0
 10714,18,10714,daily_points,item-10010714,item-20010714,1,0,,,0,0,,item-30010714,0,0
 10715,18,10715,daily_points,item-10010715,item-20010715,1,0,,,0,0,,item-30010715,0,0
+10716,18,10716,daily_points,item-10010716,item-20010716,1,0,,,0,0,,item-30010716,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
 100002,4,100002,Bumdle_1year,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0,0
 100003,4,100003,Activity_RedPacket,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0,0
@@ -1832,6 +1841,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100231,9,100231,Coin_202407ZeroCharge,item-10100231,item-20100231,1,0,,60,0,0,,item-30100231,0,0
 100232,4,100232,coremask2_202407ZeroCharge,item-10100232,item-20100232,1,0,,,0,0,,item-30100232,0,0
 100240,4,100240,core_mask_24Hallowmas_NA,item-10100240,item-20100240,1,0,,,0,0,,item-30100240,0,0
+100258,4,100258,Bumdle_2025NewYear_NA,item-10100258,item-20100258,1,0,,,0,0,,item-30100258,0,0
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001,0,0
 110002,4,110002,PT,item-10110002,item-20110002,1,0,,,0,0,,item-30110002,0,0
 110003,4,110003,PT,item-10110003,item-20110003,1,0,,,0,0,,item-30110003,0,0
@@ -2322,6 +2332,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700022,15,1700022,package_choose,item-11700022,item-21700022,1,-1,,,0,0,,item-31700022,0,1
 1700023,15,1700023,package_choose,item-11700023,item-21700023,1,-1,,,0,0,,item-31700023,0,1
 1700024,15,1700024,package_choose,item-11700024,item-21700024,1,-1,,,0,0,,item-31700024,0,1
+1700025,15,1700025,package_choose,item-11700025,item-21700025,1,-1,,,0,0,,item-31700025,0,1
+1700026,15,1700026,package_choose,item-11700026,item-21700026,1,-1,,,0,0,,item-31700026,0,1
+1700027,15,1700027,package_choose,item-11700027,item-21700027,1,-1,,,0,0,,item-31700027,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1

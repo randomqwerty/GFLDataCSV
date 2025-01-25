@@ -435,7 +435,7 @@ id,formula
 1503,sbuffidtier(4143)*10
 1504,@battlepoint=1?1:sbuffidtier(9443)=1?1:0
 1505,@battlepoint=1?sbuffidtier(9443)=1?1:0:1
-1507,tbuffidtier(4157)>0?(110+sbuffidtier(4164)):100
+1507,tbuffidtier(4157)>0?(110+sbuffidtier(4164)+(sbuffidtier(9746)>0?(((sbufftypetier(101)>0?1:0)+(sbufftypetier(102)>0?1:0)+(sbufftypetier(103)>0?1:0)+(sbufftypetier(104)>0?1:0)+(sbufftypetier(105)>0?1:0)+(sbufftypetier(106)>0?1:0)+(sbufftypetier(108)>0?1:0)+(sbufftypetier(111)>0?1:0)+(sbufftypetier(112)>0?1:0))*5):0)):100
 1508,(160-20*(#distancex-1)<100?100:160-20*(#distancex-1))>160?160:160-20*(#distancex-1)<100?100:160-20*(#distancex-1)
 1509,#career=5?1:0
 1510,(170-22*(#distancex-1)<100?100:170-22*(#distancex-1))>170?170:170-22*(#distancex-1)<100?100:170-22*(#distancex-1)
@@ -3709,6 +3709,7 @@ id,formula
 6002,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))
 6003,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))+tbufftypetier(601)
 6004,$1*(1+(1-#life/#maxlife)*100*(0.001+0.0002*sbuffidtier(60006)))/#formation+tbufftypetier(601)
+6051,(sbuffidtier(712)+sbuffidtier(71201))>3?1:0
 6101,tbuffidtier(6101)>0?100:0
 6102,tbuffidtier(6101)>0?6104:6102
 6103,tbuffidtier(6101)>0?6105:6103
@@ -4060,6 +4061,13 @@ id,formula
 9606,sbuffidtier(9729)>0?9730:7405
 9607,sbuffidtier(7401)<7?1:sbuffidtier(9729)>0?sbuffidtier(7401)<9?1:0:0
 9608,sbuffidtier(7401)=8?1:0
+9609,sbuffidtier(9732)=1&sbuffidtier(9733)=1?1:0
+9610,sbuffidtier(9735)=1&sbuffidtier(9736)=1?1:0
+9611,sbuffidtier(9734)=1?0:1
+9612,sbuffidtier(9734)=1?1:0
+9613,sbuffidtier(9741)
+9614,sbuffidtier(9737)=1?1:0
+9615,sbuffidtier(9746)>0?9747:101
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0
