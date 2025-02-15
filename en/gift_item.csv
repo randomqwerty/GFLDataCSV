@@ -761,6 +761,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 30018,gift_item-10030018,2,6,50000,348,30018,330018,gift_bundle_BattlePass_HS50,gift_item-20030018,gift_item-30030018,gift_item-50030018,0,0,0,,gift_item-40030018,2000,6
 30019,gift_item-10030019,2,6,50000,128,30019,330019,gift_bundle_BattlePass_M99,gift_item-20030019,gift_item-30030019,gift_item-50030019,0,0,0,,gift_item-40030019,2000,6
 30020,gift_item-10030020,2,6,50000,152,30020,330020,gift_bundle_BattlePass_M1897,gift_item-20030020,gift_item-30030020,gift_item-50030020,0,0,0,,gift_item-40030020,2000,6
+30021,gift_item-10030021,2,6,50000,400,30021,330021,gift_bundle_BattlePass_M1851N,gift_item-20030021,gift_item-30030021,gift_item-50030021,0,0,0,,gift_item-40030021,2000,6
 30022,gift_item-10030022,2,6,50000,81,30022,330022,gift_bundle_BattlePass_LWMMG,gift_item-20030022,gift_item-30030022,gift_item-50030022,0,0,0,,gift_item-40030022,2000,6
 30024,gift_item-10030024,2,6,50000,188,30024,330024,gift_bundle_BattlePass_SAT8,gift_item-20030024,gift_item-30030024,gift_item-50030024,0,0,0,,gift_item-40030024,2000,6
 30025,gift_item-10030025,2,6,50000,85,30025,330025,gift_bundle_BattlePass_PK,gift_item-20030025,gift_item-30030025,gift_item-50030025,0,0,0,,gift_item-40030025,2000,6

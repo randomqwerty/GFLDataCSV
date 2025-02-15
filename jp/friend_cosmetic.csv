@@ -1346,7 +1346,14 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1431,2431,1,0,0,0,0,0,,0,0,profilePic_rank5_EM2Mod,1,5,,0,0,5,200002,,0
 1432,2432,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_VHS,1,5,,0,0,,0,,3287
 1433,2433,2,0,0,0,0,320,508-8000,1,0,card_friendmall_VHS,1,5,,0,0,,0,,3284
+1434,2434,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2024_QBZ191,1,5,,10101,0,,0,,0
+1435,2435,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2024_SCR,1,5,,10102,0,,0,,0
+1436,2436,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFes2024_SPAS12,1,5,,10103,0,,0,,0
+1437,2437,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFes2024_PTRD,1,5,,10104,0,,0,,0
+1438,2438,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFes2024_PP19,1,5,,10105,0,,0,,0
+1439,2439,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFes2024_ASVAL,1,5,,10106,0,,0,,0
 1440,2440,1,0,0,0,0,40,508-1000,1,0,profilePic_SpringFes2024_BrenTen,1,5,,10107,0,,0,,0
+1441,2441,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2024_QBU191,1,5,,10108,0,,0,,0
 1442,2442,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_95type,1,5,,0,0,,0,,0
 1443,2443,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_95type,1,5,,30015,0,,0,,0
 1444,2444,1,0,0,0,0,80,508-2000,1,0,profilePic_ChessBonus_MG42,1,5,,597,0,4,200005,,0
@@ -1442,6 +1449,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1558,2558,2,0,0,0,0,0,,0,0,card_BattlePass_LWMMG,1,5,,0,0,,0,,0
 1566,2566,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_MartiniHenry,1,5,,30023,0,,0,,0
 1567,2567,2,0,0,0,0,0,,0,0,card_BattlePass_MartiniHenry,1,5,,0,0,,0,,0
+1599,2599,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_SAT8,1,5,,30024,0,,0,,0
+1600,2600,2,0,0,0,0,0,,0,0,card_BattlePass_SAT8,1,5,,0,0,,0,,0
 1624,2624,1,0,0,0,0,0,,0,0,profilePic_NewYear2025JP_coremask,1,5,,0,0,1,0,logo_NewYear2025,0
 1631,2631,1,0,0,0,0,200,508-5000,1,0,profilePic_NewYear2025_SPAS15,1,5,,11201,0,,0,,0
 1632,2632,1,0,0,0,0,200,508-5000,1,0,profilePic_NewYear2025_Python,1,5,,11202,0,,0,,0
@@ -1496,3 +1505,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100046,200046,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1851N,1,5,,0,0,5,0,,0
 100047,200047,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_LWMMG,1,5,,0,0,5,0,,0
 100048,200048,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_MartiniHenry,1,5,,0,0,5,0,,0
+100049,200049,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_SAT8,1,5,,0,0,5,0,,0

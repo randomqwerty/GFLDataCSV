@@ -27,3 +27,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 26,equip_group-10000026,equip_group-20000026,EgroupRO635,192|391|0,2:1000503,20143,0
 27,equip_group-10000027,equip_group-20000027,EgroupBrenMKMod,393|123|0,2:1001103,20089,0
 28,equip_group-10000028,equip_group-20000028,EgroupAA12,394|174|0,2:1001203,163,0
+29,equip_group-10000029,equip_group-20000029,EgroupSV98,398|0|115,2:1001403,20044,0
+30,equip_group-10000030,equip_group-20000030,EgroupPKP,399|316|0,2:1001503,173,0

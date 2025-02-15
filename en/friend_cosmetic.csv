@@ -1408,6 +1408,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1537,2537,1,0,0,0,0,160,508-4000,1,0,profilePic_Detective2024_9A91,1,5,,10605,0,,0,,0
 1538,2538,1,0,0,0,0,160,508-4000,1,0,profilePic_Detective2024_MP5,1,5,,10606,0,,0,,0
 1539,2539,1,0,0,0,0,160,508-4000,1,0,profilePic_Detective2024_Mk23,1,5,,10607,0,,0,,0
+1540,2540,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M1851N,1,5,,30021,0,,0,,0
+1541,2541,2,0,0,0,0,0,,0,0,card_BattlePass_M1851N,1,5,,0,0,,0,,0
 1557,2557,1,0,0,0,0,40,508-1000,1,0,profilePic_BattlePass_LWMMG,1,5,,30022,0,,0,,0
 1558,2558,2,0,0,0,0,0,,0,0,card_BattlePass_LWMMG,1,5,,0,0,,0,,0
 1559,2559,1,0,0,0,0,200,508-5000,1,0,profilePic_Bunny24_FM24,1,5,,10801,0,,0,,0
@@ -1462,6 +1464,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100043,200043,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_HS50,1,5,,0,0,5,0,,0
 100044,200044,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M99,1,5,,0,0,5,0,,0
 100045,200045,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1897,1,5,,0,0,5,0,,0
+100046,200046,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M1851N,1,5,,0,0,5,0,,0
 100047,200047,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_LWMMG,1,5,,0,0,5,0,,0
 100049,200049,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_SAT8,1,5,,0,0,5,0,,0
 100050,200050,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_PK,1,5,,0,0,5,0,,0

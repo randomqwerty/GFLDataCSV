@@ -1782,6 +1782,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 20147,furniture-10020147,19,201,0,9|7|1|1|0|1,1000,100003,furniture-20020147,202408Activity_Chess_deco|202408Activity_Chess,1|2,0|10,0.000|-0.178|0.000|0.021|0.344|0.000,2|2,0,0,0,0,0,0
 20148,furniture-10020148,19,302,0,2|5|1|1|1|0,1000,100003,furniture-20020148,202408Activity_Medal,1,0,0|0|0,3,0,0,0,0,0,0
 20149,furniture-10020149,20,302,0,11|11|0|0|0|0,1000,100003,furniture-20020149,pv_202407activity,1,5,0|0.05|0,3,0,0,0,0,0,0
+20153,furniture-10020153,20,302,0,11|11|0|0|0|0,1000,100003,furniture-20020153,pv_202408activity,1,5,0|0.05|0,3,0,0,0,0,0,0
 30001,furniture-10030001,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030001,poster_pm_halloween,1,5,0|0|0,2,0,0,0,0,0,0
 30002,furniture-10030002,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030002,poster_vector_halloween,1,5,0|0|0,2,0,0,0,0,0,0
 30003,furniture-10030003,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030003,poster_mp5_halloween,1,5,0|0|0,2,0,0,0,0,0,0
@@ -2771,7 +2772,14 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 310006,furniture-10310006,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310006,poster_NewYear2024_C14,1,5,0|0|0,3,0,0,0,0,0,0
 310007,furniture-10310007,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310007,poster_NewYear2024_HK45,1,5,0|0|0,3,0,0,0,0,0,0
 310008,furniture-10310008,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310008,poster_NewYear2024_M1,1,5,0|0|0,3,0,0,0,0,0,0
+310101,furniture-10310101,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310101,poster_SpringFes2024_QBZ191,1,5,0|0|0,3,0,0,0,0,0,0
+310102,furniture-10310102,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310102,poster_SpringFes2024_SCR,1,5,0|0|0,3,0,0,0,0,0,0
+310103,furniture-10310103,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310103,poster_SpringFes2024_SPAS12,1,5,0|0|0,3,0,0,0,0,0,0
+310104,furniture-10310104,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310104,poster_SpringFes2024_PTRD,1,5,0|0|0,3,0,0,0,0,0,0
+310105,furniture-10310105,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310105,poster_SpringFes2024_PP19,1,5,0|0|0,3,0,0,0,0,0,0
+310106,furniture-10310106,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310106,poster_SpringFes2024_ASVAL,1,5,0|0|0,3,0,0,0,0,0,0
 310107,furniture-10310107,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310107,poster_SpringFes2024_BrenTen,1,5,0|0|0,3,0,0,0,0,0,0
+310108,furniture-10310108,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310108,poster_SpringFes2024_QBU191,1,5,0|0|0,3,0,0,0,0,0,0
 310201,furniture-10310201,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310201,poster_WhiteV2024_Erma,1,5,0|0|0,3,0,0,0,0,0,0
 310301,furniture-10310301,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310301,poster_Hospital2024_TPS,1,5,0|0|0,3,0,0,0,0,0,0
 310302,furniture-10310302,300,303,0,3|6|1|1|1|0,750,100003,furniture-20310302,poster_Hospital2024_ColtWalker,1,5,0|0|0,3,0,0,0,0,0,0
@@ -2829,6 +2837,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 330021,furniture-10330021,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330021,poster_BattlePass_M1851N,1,5,0|0|0,3,0,0,0,0,0,0
 330022,furniture-10330022,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330022,poster_BattlePass_LWMMG,1,5,0|0|0,3,0,0,0,0,0,0
 330023,furniture-10330023,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330023,poster_BattlePass_MartiniHenry,1,5,0|0|0,3,0,0,0,0,0,0
+330024,furniture-10330024,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330024,poster_BattlePass_SAT8,1,5,0|0|0,3,0,0,0,0,0,0
 350001,furniture-10350001,300,303,0,3|6|1|1|1|0,750,100003,furniture-20350001,poster_Anniversary2024_88type,1,5,0|0|0,3,0,0,0,0,0,0
 410010,furniture-10410010,400,201,0,16|14|1|1|1|1,0,0,furniture-20410010,vehicleDorm_stageA|vehicleDorm_stageB,2|2,0|20,0.000|-0.448|3.357|0.000|-0.386|3.170,2|2,70,0|0|0,BGM_vehicle_garage_main,12|6|0,0,0
 410020,furniture-10410020,400,201,0,6|6|0|0|0|0,0,0,furniture-20410020,vehicleDorm_energyDevice|vehicleDorm_battery,1|2,0|0,-0.270|0.081|0.000|-0.042|0.540|0.137,2|2,0,0,0,0,0,0

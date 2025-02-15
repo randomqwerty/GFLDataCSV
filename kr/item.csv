@@ -2738,6 +2738,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500187,15,1500187,package_choose,item-11500187,item-21500187,1,-1,,,0,0,,item-31500187,0,1
 1500188,15,1500188,package_random,item-11500188,item-21500188,1,-1,,,0,0,,item-31500188,0,1
 1500189,15,1500189,package_random,item-11500189,item-21500189,1,-1,,,0,0,,item-31500189,0,1
+1500190,15,1500190,Bumdle_WhiteValentineCoupons1,item-11500190,item-21500190,1,-1,,,0,0,,item-31500190,0,1
+1500191,15,1500191,Bumdle_WhiteValentineCoupons2,item-11500191,item-21500191,1,-1,,,0,0,,item-31500191,0,1
+1500192,15,1500192,Bumdle_WhiteValentineCoupons3,item-11500192,item-21500192,1,-1,,,0,0,,item-31500192,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0
