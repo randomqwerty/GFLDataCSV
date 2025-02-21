@@ -990,10 +990,10 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1056,2056,1,0,0,0,0,80,508-2000,1,0,profilePic_WhiteV2022_M1,1,5,,6907,0,4,200005,,0
 1057,2057,1,0,0,0,0,80,508-2000,1,0,profilePic_WhiteV2022_Falcon,1,5,,6908,0,4,200005,,0
 1058,2058,1,0,0,0,0,40,508-1000,1,0,profilePic_WhiteV2022_LWMMG,1,5,,6909,0,4,200005,,0
-1059,2059,1,0,0,0,0,0,,0,0,profilePic_WhiteV2022Activity_01,1,5,,0,0,1,200005,logo_22whiteV,0
-1060,2060,1,0,0,0,0,0,,0,0,profilePic_WhiteV2022Activity_02,1,5,,0,0,1,200005,logo_22whiteV,0
-1061,2061,1,0,0,0,0,0,,0,0,profilePic_WhiteV2022Activity_03,1,5,,0,0,1,200005,logo_22whiteV,0
-1062,2062,2,0,0,0,0,0,,0,0,card_WhiteV2022Activity_01,1,5,,0,0,1,0,,0
+1059,2059,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_01,1,5,,0,0,1,200005,logo_22whiteV,0
+1060,2060,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_02,1,5,,0,0,1,200005,logo_22whiteV,0
+1061,2061,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_03,1,5,,0,0,1,200005,logo_22whiteV,0
+1062,2062,2,0,0,0,0,400,508-10000,1,0,card_WhiteV2022Activity_01,1,5,,0,0,1,0,,0
 1063,2063,1,0,0,0,0,0,,0,0,profilePic_sangvis_Hunter_WhiteDay,1,5,,0,0,5,200002,,0
 1064,2064,1,0,0,0,0,0,,0,0,profilePic_sangvis_Vespid_bride,1,5,,0,0,5,200001,,0
 1065,2065,1,0,0,0,0,0,,0,0,profilePic_sangvis_Vespid_bride_HD,1,5,,0,0,5,200001,,0
