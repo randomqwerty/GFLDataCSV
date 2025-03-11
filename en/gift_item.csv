@@ -714,6 +714,14 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10107,gift_item-10010107,2,6,50000,139,10107,310107,gift_bundle_SpringFes2024_BrenTen,gift_item-20010107,gift_item-30010107,gift_item-50010107,0,0,0,,gift_item-40010107,2000,6
 10108,gift_item-10010108,2,6,50000,388,10108,310108,gift_bundle_SpringFes2024_QBU191,gift_item-20010108,gift_item-30010108,gift_item-50010108,0,0,0,,gift_item-40010108,2000,6
 10201,gift_item-10010201,2,6,50000,376,10201,310201,gift_bundle_WhiteV2024_Erma,gift_item-20010201,gift_item-30010201,gift_item-50010201,0,0,0,,gift_item-40010201,2000,6
+10202,gift_item-10010202,2,6,50000,390,10202,310202,gift_bundle_WhiteV2024_HK433,gift_item-20010202,gift_item-30010202,gift_item-50010202,0,0,0,,gift_item-40010202,2000,6
+10203,gift_item-10010203,2,6,50000,65,10203,310203,gift_bundle_WhiteV2024_HK416,gift_item-20010203,gift_item-30010203,gift_item-50010203,0,0,0,,gift_item-40010203,2000,6
+10204,gift_item-10010204,2,6,50000,316,10204,310204,gift_bundle_WhiteV2024_GeneralLiu,gift_item-20010204,gift_item-30010204,gift_item-50010204,0,0,0,,gift_item-40010204,2000,6
+10205,gift_item-10010205,2,6,50000,251,10205,310205,gift_bundle_WhiteV2024_X95,gift_item-20010205,gift_item-30010205,gift_item-50010205,0,0,0,,gift_item-40010205,2000,6
+10207,gift_item-10010207,2,6,50000,194,10207,310207,gift_bundle_WhiteV2024_K2,gift_item-20010207,gift_item-30010207,gift_item-50010207,0,0,0,,gift_item-40010207,2000,6
+10208,gift_item-10010208,2,6,50000,160,10208,310208,gift_bundle_WhiteV2024_Saiga12,gift_item-20010208,gift_item-30010208,gift_item-50010208,0,0,0,,gift_item-40010208,2000,6
+10209,gift_item-10010209,2,6,50000,63,10209,310209,gift_bundle_WhiteV2024_G3,gift_item-20010209,gift_item-30010209,gift_item-50010209,0,0,0,,gift_item-40010209,2000,6
+10210,gift_item-10010210,2,6,50000,47,10210,310210,gift_bundle_WhiteV2024_G43,gift_item-20010210,gift_item-30010210,gift_item-50010210,0,0,0,,gift_item-40010210,2000,6
 10301,gift_item-10010301,2,6,50000,387,10301,310301,gift_bundle_Hospital2024_TPS,gift_item-20010301,gift_item-30010301,gift_item-50010301,0,0,0,,gift_item-40010301,2000,6
 10302,gift_item-10010302,2,6,50000,375,10302,310302,gift_bundle_Hospital2024_ColtWalker,gift_item-20010302,gift_item-30010302,gift_item-50010302,0,0,0,,gift_item-40010302,2000,6
 10303,gift_item-10010303,2,6,50000,161,10303,310303,gift_bundle_Hospital2024_97typeS,gift_item-20010303,gift_item-30010303,gift_item-50010303,0,0,0,,gift_item-40010303,2000,6
