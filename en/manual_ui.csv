@@ -365,6 +365,8 @@ id,code_a,description_a,description_b,description_c,code_b,is_manual_target,use_
 610025,2307RG05,manual_ui-10610025,manual_ui-20610025,manual_ui-30610025,Console_Icon,2,0
 611009,2023RougeSummer_Mixer,manual_ui-10611009,manual_ui-20611009,manual_ui-30611009,Console_Icon,0,0
 640104,Rouge_591004,manual_ui-10640104,manual_ui-20640104,manual_ui-30640104,Console_Icon,0,0
+660080,datapatch,manual_ui-10660080,manual_ui-20660080,manual_ui-30660080,Console_Icon,0,0
+669910,Griffin,manual_ui-10669910,manual_ui-20669910,manual_ui-30669910,Console_Icon,2,0
 670104,Dandelion_Gri,manual_ui-10670104,manual_ui-20670104,manual_ui-30670104,Console_Icon,2,0
 680301,202404book,manual_ui-10680301,manual_ui-20680301,manual_ui-30680301,Console_Icon,0,0
 680521,Door_Left,manual_ui-10680521,manual_ui-20680521,manual_ui-30680521,Console_Icon,0,0
@@ -386,6 +388,9 @@ id,code_a,description_a,description_b,description_c,code_b,is_manual_target,use_
 690812,Substation,manual_ui-10690812,manual_ui-20690812,manual_ui-30690812,Console_Icon,2,0
 690813,EMP,manual_ui-10690813,manual_ui-20690813,manual_ui-30690813,Console_Icon,0,0
 690814,PortableEMP_Nobase,manual_ui-10690814,manual_ui-20690814,manual_ui-30690814,Console_Icon,2,0
+730001,Boomer,manual_ui-10730001,manual_ui-20730001,manual_ui-30730001,Console_Icon,0,0
+730011,Golyat,manual_ui-10730011,manual_ui-20730011,manual_ui-30730011,Console_Icon,2,0
+730411,Griffin,manual_ui-10730411,manual_ui-20730411,manual_ui-30730411,Console_Icon,0,0
 1000101,Rock,manual_ui-11000101,manual_ui-21000101,manual_ui-31000101,Squad_Icon,0,0
 1000102,Rock,manual_ui-11000102,manual_ui-21000102,manual_ui-31000102,Squad_Icon,0,0
 1000105,Rock,manual_ui-11000105,manual_ui-21000105,manual_ui-31000105,Squad_Icon,0,0
@@ -972,6 +977,10 @@ id,code_a,description_a,description_b,description_c,code_b,is_manual_target,use_
 9711502,Console,manual_ui-19711502,manual_ui-29711502,manual_ui-39711502,Squad_Icon,1,0
 9711503,Console,manual_ui-19711503,manual_ui-29711503,manual_ui-39711503,Squad_Icon,0,0
 9713101,Sundries,manual_ui-19713101,manual_ui-29713101,manual_ui-39713101,Console_Icon,0,0
+9720405,GunBox,manual_ui-19720405,manual_ui-29720405,manual_ui-39720405,Console_Icon,2,0
+9720406,GunBox,manual_ui-19720406,manual_ui-29720406,manual_ui-39720406,Console_Icon,2,0
+9720407,Sundries,manual_ui-19720407,manual_ui-29720407,manual_ui-39720407,Console_Icon,2,0
+9720408,Sundries,manual_ui-19720408,manual_ui-29720408,manual_ui-39720408,Console_Icon,2,0
 44360002,golyatplg_d,manual_ui-54360002,manual_ui-64360002,manual_ui-74360002,Console_Icon,0,0
 44400004,Console,manual_ui-54400004,manual_ui-64400004,manual_ui-74400004,Console_Icon,0,0
 44400005,Console,manual_ui-54400005,manual_ui-64400005,manual_ui-74400005,Console_Icon,0,0

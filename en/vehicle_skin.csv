@@ -102,3 +102,13 @@ id,name,type,group_id,vehicle_id,blueprint_id,class_id,code,item_id,obtain,featu
 11103,vehicle_skin-10011103,2,143,,,11,LaserSup_1011,133115,40,0,vehicle_skin-20011103,1
 11104,vehicle_skin-10011104,2,118,,,11,Small_Missile_Launcher_1011,133116,40,0,vehicle_skin-20011104,1
 11105,vehicle_skin-10011105,2,107,,,11,MG_Cannon_1011,133117,40,0,vehicle_skin-20011105,1
+11401,vehicle_skin-10011401,2,144,,,1,ShotgunVehicle_1001,133136,3003,0,vehicle_skin-20011401,1
+11402,vehicle_skin-10011402,2,145,,,1,MortarVehicle_1001,133137,3003,0,vehicle_skin-20011402,1
+11403,vehicle_skin-10011403,2,146,,,1,LaserRangefinder_1001,133138,3003,0,vehicle_skin-20011403,1
+11404,vehicle_skin-10011404,2,147,,,1,CamouflageNet_1001,133139,3003,0,vehicle_skin-20011404,1
+11405,vehicle_skin-10011405,2,148,,,1,GrilleArmor_1001,133140,3003,0,vehicle_skin-20011405,1
+11406,vehicle_skin-10011406,2,144,,,2,ShotgunVehicle_1002,133141,3003,0,vehicle_skin-20011406,1
+11407,vehicle_skin-10011407,2,145,,,2,MortarVehicle_1002,133142,3003,0,vehicle_skin-20011407,1
+11408,vehicle_skin-10011408,2,146,,,2,LaserRangefinder_1002,133143,3003,0,vehicle_skin-20011408,1
+11409,vehicle_skin-10011409,2,147,,,2,CamouflageNet_1002,133144,3003,0,vehicle_skin-20011409,1
+11410,vehicle_skin-10011410,2,148,,,2,GrilleArmor_1002,133145,3003,0,vehicle_skin-20011410,1
