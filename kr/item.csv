@@ -82,6 +82,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 143,3,44,Medal_2024ArenaBreakout,item-10000143,item-20000143,1,0,,,0,0,,item-30000143,0,0
 144,3,45,Medal_202412Activity,item-10000144,item-20000144,1,0,,,0,0,,item-30000144,0,0
 145,3,46,Medal_202412Activity_rank,item-10000145,item-20000145,1,0,,,0,0,,item-30000145,0,0
+146,3,47,Medal_Theater14th_NA,item-10000146,item-20000146,1,0,,,0,0,,item-30000146,0,0
+147,3,48,Medal_Theater14th_rank_NA,item-10000147,item-20000147,1,0,,,0,0,,item-30000147,0,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0,0
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303,0,0
@@ -1777,6 +1779,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2651,5,1,profilePic_mask_NewYear2025_JP,item-10002651,item-20002651,1,0,,,0,0,,item-30002651,0,0
 2652,5,1,profilePic_BattlePass_M14,item-10002652,item-20002652,1,0,,,0,0,,item-30002652,0,0
 2653,5,1,card_BattlePass_M14,item-10002653,item-20002653,1,0,,,0,0,,item-30002653,0,0
+2654,5,1,profilePic_WhiteValentina2025_DSR50,item-10002654,item-20002654,1,0,,,0,0,,item-30002654,0,0
+2655,5,1,profilePic_WhiteValentina2025_G41,item-10002655,item-20002655,1,0,,,0,0,,item-30002655,0,0
+2656,5,1,profilePic_WhiteValentina2025_MG5,item-10002656,item-20002656,1,0,,,0,0,,item-30002656,0,0
+2657,5,1,profilePic_WhiteValentina2025_9A91,item-10002657,item-20002657,1,0,,,0,0,,item-30002657,0,0
+2658,5,1,profilePic_WhiteValentina2025_88type,item-10002658,item-20002658,1,0,,,0,0,,item-30002658,0,0
+2659,5,1,profilePic_WhiteValentina2025_M1895,item-10002659,item-20002659,1,0,,,0,0,,item-30002659,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -1945,6 +1953,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10723,18,10723,daily_points,item-10010723,item-20010723,1,0,,,0,0,,item-30010723,0,0
 10724,18,10724,daily_points,item-10010724,item-20010724,1,0,,,0,0,,item-30010724,0,0
 10725,18,10725,daily_points,item-10010725,item-20010725,1,0,,,0,0,,item-30010725,0,0
+10726,18,10726,daily_points,item-10010726,item-20010726,1,0,,,0,0,,item-30010726,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0
@@ -2817,6 +2826,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700052,15,1700052,package_choose,item-11700052,item-21700052,1,-1,,,0,0,,item-31700052,0,1
 1700053,15,1700053,package_choose,item-11700053,item-21700053,1,-1,,,0,0,,item-31700053,0,1
 1700054,15,1700054,package_choose,item-11700054,item-21700054,1,-1,,,0,0,,item-31700054,0,1
+1700055,15,1700055,package_choose,item-11700055,item-21700055,1,-1,,,0,0,,item-31700055,0,1
+1700056,15,1700056,package_choose,item-11700056,item-21700056,1,-1,,,0,0,,item-31700056,0,1
+1700057,15,1700057,package_choose,item-11700057,item-21700057,1,-1,,,0,0,,item-31700057,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1
