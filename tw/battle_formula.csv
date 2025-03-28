@@ -4107,6 +4107,8 @@ id,formula
 9652,sbuffidtier(9761)=1?40:70
 9653,sbuffidtier(9761)=1?1:0
 9654,sbuffidtier(9764)=1?1:0
+9655,sbuffidtier(9769)=1?9770:101
+9656,sbuffidtier(9769)=1?1:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0
@@ -4513,7 +4515,7 @@ id,formula
 387906,sbuffidtier(722412)>0?722413:0
 387907,sbuffidtier(722414)>0?722415:0
 387908,sbuffidtier(722418)>0?722419:0
-387909,sbuffidtier(722424)>0?722425:0
+387909,sbuffidtier(722424)>0?tbuffidtier(722425)>0?0:722425:0
 387910,3000/@rate
 387911,sbuffidtier(4871)>0?0:1
 393201,#distancex<2?0:1

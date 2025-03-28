@@ -1553,6 +1553,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2519,5,1,cg_202406Activity_03,item-10002519,item-20002519,1,0,,,0,0,,item-30002519,0,0
 2520,5,1,profilePic_BattlePass_M1897,item-10002520,item-20002520,1,0,,,0,0,,item-30002520,0,0
 2521,5,1,card_BattlePass_M1897,item-10002521,item-20002521,1,0,,,0,0,,item-30002521,0,0
+2522,5,1,profilePic_ChessFlight_season16_1,item-10002522,item-20002522,1,0,,,0,0,,item-30002522,0,0
+2523,5,1,profilePic_ChessFlight_season16_2,item-10002523,item-20002523,1,0,,,0,0,,item-30002523,0,0
+2524,5,1,profilePic_ChessFlight_season16_3,item-10002524,item-20002524,1,0,,,0,0,,item-30002524,0,0
 2525,5,1,profilePic_202407Activity_01,item-10002525,item-20002525,1,0,,,0,0,,item-30002525,0,0
 2526,5,1,profilePic_202407Activity_02,item-10002526,item-20002526,1,0,,,0,0,,item-30002526,0,0
 2527,5,1,profilePic_202407Activity_03,item-10002527,item-20002527,1,0,,,0,0,,item-30002527,0,0
