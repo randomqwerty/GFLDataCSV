@@ -1785,6 +1785,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2657,5,1,profilePic_WhiteValentina2025_9A91,item-10002657,item-20002657,1,0,,,0,0,,item-30002657,0,0
 2658,5,1,profilePic_WhiteValentina2025_88type,item-10002658,item-20002658,1,0,,,0,0,,item-30002658,0,0
 2659,5,1,profilePic_WhiteValentina2025_M1895,item-10002659,item-20002659,1,0,,,0,0,,item-30002659,0,0
+2660,5,1,profilePic_ChessFlight_season19_1,item-10002660,item-20002660,1,0,,,0,0,,item-30002660,0,0
+2661,5,1,profilePic_ChessFlight_season19_2,item-10002661,item-20002661,1,0,,,0,0,,item-30002661,0,0
+2662,5,1,profilePic_ChessFlight_season19_3,item-10002662,item-20002662,1,0,,,0,0,,item-30002662,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -2769,6 +2772,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500197,15,1500197,Bumdle_cartesiantheatre01,item-11500197,item-21500197,1,-1,,,0,0,,item-31500197,0,1
 1500198,15,1500198,Bumdle_cartesiantheatre02,item-11500198,item-21500198,1,-1,,,0,0,,item-31500198,0,1
 1500199,15,1500199,Bumdle_cartesiantheatre03,item-11500199,item-21500199,1,-1,,,0,0,,item-31500199,0,1
+1500200,15,1500200,Bumdle_zerocharge01,item-11500200,item-21500200,1,-1,,,0,0,,item-31500200,0,1
+1500201,15,1500201,Bumdle_zerocharge02,item-11500201,item-21500201,1,-1,,,0,0,,item-31500201,0,1
+1500202,15,1500202,Bumdle_zerocharge03,item-11500202,item-21500202,1,-1,,,0,0,,item-31500202,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0

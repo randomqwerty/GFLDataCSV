@@ -1646,6 +1646,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1657,2657,1,0,0,0,0,160,508-4000,1,0,profilePic_WhiteValentina2025_9A91,1,5,,11405,0,,0,,0
 1658,2658,1,0,0,0,0,80,508-2000,1,0,profilePic_WhiteValentina2025_88type,1,5,,11406,0,,0,,0
 1659,2659,1,0,0,0,0,40,508-1000,1,0,profilePic_WhiteValentina2025_M1895,1,5,,11407,0,,0,,0
+1660,2660,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season19_1,1,5,,0,0,1,200008,logo_flightchess_major,0
+1661,2661,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season19_2,1,5,,0,0,1,200007,logo_flightchess_general,0
+1662,2662,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season19_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0
