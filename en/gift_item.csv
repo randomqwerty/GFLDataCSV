@@ -757,6 +757,12 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10806,gift_item-10010806,2,6,50000,66,10806,310806,gift_bundle_Bunny24_56-1type,gift_item-20010806,gift_item-30010806,gift_item-50010806,0,0,0,,gift_item-40010806,2000,6
 10807,gift_item-10010807,2,6,50000,159,10807,310807,gift_bundle_Bunny24_RMB93,gift_item-20010807,gift_item-30010807,gift_item-50010807,0,0,0,,gift_item-40010807,2000,6
 10808,gift_item-10010808,2,6,50000,25,10808,310808,gift_bundle_Bunny24_MP40,gift_item-20010808,gift_item-30010808,gift_item-50010808,0,0,0,,gift_item-40010808,2000,6
+11201,gift_item-10011201,2,6,50000,366,11201,311201,gift_bundle_NewYear2025_SPAS15,gift_item-20011201,gift_item-30011201,gift_item-50011201,0,0,0,,gift_item-40011201,2000,6
+11202,gift_item-10011202,2,6,50000,4,11202,311202,gift_bundle_NewYear2025_Python,gift_item-20011202,gift_item-30011202,gift_item-50011202,0,0,0,,gift_item-40011202,2000,6
+11203,gift_item-10011203,2,6,50000,334,11203,311203,gift_bundle_NewYear2025_Savage99,gift_item-20011203,gift_item-30011203,gift_item-50011203,0,0,0,,gift_item-40011203,2000,6
+11204,gift_item-10011204,2,6,50000,153,11204,311204,gift_bundle_NewYear2025_Ithaca37,gift_item-20011204,gift_item-30011204,gift_item-50011204,0,0,0,,gift_item-40011204,2000,6
+11205,gift_item-10011205,2,6,50000,354,11205,311205,gift_bundle_NewYear2025_ZIP22,gift_item-20011205,gift_item-30011205,gift_item-50011205,0,0,0,,gift_item-40011205,2000,6
+11206,gift_item-10011206,2,6,50000,14,11206,311206,gift_bundle_NewYear2025_357,gift_item-20011206,gift_item-30011206,gift_item-50011206,0,0,0,,gift_item-40011206,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6

@@ -1574,6 +1574,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2600,5,1,card_BattlePass_SAT8,item-10002600,item-20002600,1,0,,,0,0,,item-30002600,0,0
 2608,5,1,profilePic_BattlePass_PK,item-10002608,item-20002608,1,0,,,0,0,,item-30002608,0,0
 2609,5,1,card_BattlePass_PK,item-10002609,item-20002609,1,0,,,0,0,,item-30002609,0,0
+2631,5,1,profilePic_NewYear2025_SPAS15,item-10002631,item-20002631,1,0,,,0,0,,item-30002631,0,0
+2632,5,1,profilePic_NewYear2025_Python,item-10002632,item-20002632,1,0,,,0,0,,item-30002632,0,0
+2633,5,1,profilePic_NewYear2025_Savage99,item-10002633,item-20002633,1,0,,,0,0,,item-30002633,0,0
+2634,5,1,profilePic_NewYear2025_Ithaca37,item-10002634,item-20002634,1,0,,,0,0,,item-30002634,0,0
+2635,5,1,profilePic_NewYear2025_ZIP22,item-10002635,item-20002635,1,0,,,0,0,,item-30002635,0,0
+2636,5,1,profilePic_NewYear2025_357,item-10002636,item-20002636,1,0,,,0,0,,item-30002636,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 4001,1,4001,explore_loot_city,item-10004001,item-20004001,1,0,,,99999,0,,item-30004001,0,0
 4002,1,4002,explore_loot_snowland,item-10004002,item-20004002,1,0,,,99999,0,,item-30004002,0,0

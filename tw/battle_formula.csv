@@ -1893,8 +1893,8 @@ id,formula
 3563,$1*(1+0.001*sbuffidtier(3840)*((sbufftypetier(101)>0?1:0)+(sbufftypetier(102)>0?1:0)+(sbufftypetier(103)>0?1:0)+(sbufftypetier(104)>0?1:0)+(sbufftypetier(105)>0?1:0)+(sbufftypetier(106)>0?1:0)+(sbufftypetier(452)>0?1:0)+(sbufftypetier(112)>0?1:0)))
 3564,$1*(1+0.001*sbuffidtier(3840)*((sbufftypetier(201)>0?1:0)+(sbufftypetier(202)>0?1:0)+(sbufftypetier(203)>0?1:0)+(sbufftypetier(204)>0?1:0)+(sbufftypetier(205)>0?1:0)+(sbufftypetier(206)>0?1:0)))
 3565,tbufftypetier(301)>0?1:0
-3566,#leader=1?3838:0
-3567,#leader=0?3839:0
+3566,#leader=1?3838:480
+3567,#leader=0?3839:480
 3570,$1*(1+(0.001*sbuffidtier(3846)*sbuffidtier(3847)))
 3571,#pow
 3573,#rate
@@ -4109,6 +4109,9 @@ id,formula
 9654,sbuffidtier(9764)=1?1:0
 9655,sbuffidtier(9769)=1?9770:101
 9656,sbuffidtier(9769)=1?1:0
+9801,sbuffidtier(9801)=1&sbuffidtier(9802)=1?1:0
+9802,sbuffidtier(9804)=1&sbuffidtier(9805)=1?1:0
+9803,sbuffidtier(9803)=1?1:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0

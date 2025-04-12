@@ -750,6 +750,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10705,gift_item-10010705,2,6,50000,100,10705,310705,gift_bundle_Chess2024_P7,gift_item-20010705,gift_item-30010705,gift_item-50010705,0,0,0,,gift_item-40010705,2000,6
 10706,gift_item-10010706,2,6,50000,267,10706,310706,gift_bundle_Chess2024_MP41,gift_item-20010706,gift_item-30010706,gift_item-50010706,0,0,0,,gift_item-40010706,2000,6
 10707,gift_item-10010707,2,6,50000,93,10707,310707,gift_bundle_Chess2024_IDW,gift_item-20010707,gift_item-30010707,gift_item-50010707,0,0,0,,gift_item-40010707,2000,6
+10801,gift_item-10010801,2,6,50000,395,10801,310801,gift_bundle_Bunny24_FM24,gift_item-20010801,gift_item-30010801,gift_item-50010801,0,0,0,,gift_item-40010801,2000,6
+10802,gift_item-10010802,2,6,50000,234,10802,310802,gift_bundle_Bunny24_JS9mm,gift_item-20010802,gift_item-30010802,gift_item-50010802,0,0,0,,gift_item-40010802,2000,6
+10803,gift_item-10010803,2,6,50000,323,10803,310803,gift_bundle_Bunny24_LTLX7000,gift_item-20010803,gift_item-30010803,gift_item-50010803,0,0,0,,gift_item-40010803,2000,6
+10805,gift_item-10010805,2,6,50000,135,10805,310805,gift_bundle_Bunny24_SR3MP,gift_item-20010805,gift_item-30010805,gift_item-50010805,0,0,0,,gift_item-40010805,2000,6
+10806,gift_item-10010806,2,6,50000,66,10806,310806,gift_bundle_Bunny24_56-1type,gift_item-20010806,gift_item-30010806,gift_item-50010806,0,0,0,,gift_item-40010806,2000,6
+10807,gift_item-10010807,2,6,50000,159,10807,310807,gift_bundle_Bunny24_RMB93,gift_item-20010807,gift_item-30010807,gift_item-50010807,0,0,0,,gift_item-40010807,2000,6
+10808,gift_item-10010808,2,6,50000,25,10808,310808,gift_bundle_Bunny24_MP40,gift_item-20010808,gift_item-30010808,gift_item-50010808,0,0,0,,gift_item-40010808,2000,6
 10901,gift_item-10010901,2,6,50000,348,10901,310901,gift_bundle_Revenge2024_HS50,gift_item-20010901,gift_item-30010901,gift_item-50010901,0,0,0,,gift_item-40010901,2000,6
 10902,gift_item-10010902,2,6,50000,151,10902,310902,gift_bundle_Revenge2024_M1887,gift_item-20010902,gift_item-30010902,gift_item-50010902,0,0,0,,gift_item-40010902,2000,6
 10903,gift_item-10010903,2,6,50000,366,10903,310903,gift_bundle_Revenge2024_SPAS15,gift_item-20010903,gift_item-30010903,gift_item-50010903,0,0,0,,gift_item-40010903,2000,6

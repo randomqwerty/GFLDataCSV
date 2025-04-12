@@ -1649,6 +1649,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1660,2660,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season19_1,1,5,,0,0,1,200008,logo_flightchess_major,0
 1661,2661,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season19_2,1,5,,0,0,1,200007,logo_flightchess_general,0
 1662,2662,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season19_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
+1663,2663,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_Beowulf,1,5,,30028,0,,0,,0
+1664,2664,2,0,0,0,0,0,,0,0,card_BattlePass_Beowulf,1,5,,0,0,,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0
@@ -1703,3 +1705,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100050,200050,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_PK,1,5,,0,0,5,0,,0
 100051,200051,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_06TypeSMG,1,5,,0,0,5,0,,0
 100052,200052,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M14,1,5,,0,0,5,0,,0
+100053,200053,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Beowulf,1,5,,0,0,5,0,,0
