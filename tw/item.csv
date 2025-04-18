@@ -1959,6 +1959,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10724,18,10724,daily_points,item-10010724,item-20010724,1,0,,,0,0,,item-30010724,0,0
 10725,18,10725,daily_points,item-10010725,item-20010725,1,0,,,0,0,,item-30010725,0,0
 10726,18,10726,daily_points,item-10010726,item-20010726,1,0,,,0,0,,item-30010726,0,0
+10727,18,10727,daily_points,item-10010727,item-20010727,1,0,,,0,0,,item-30010727,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0

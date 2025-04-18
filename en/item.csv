@@ -1707,6 +1707,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10716,18,10716,daily_points,item-10010716,item-20010716,1,0,,,0,0,,item-30010716,0,0
 10717,18,10717,daily_points,item-10010717,item-20010717,1,0,,,0,0,,item-30010717,0,0
 10718,18,10718,daily_points,item-10010718,item-20010718,1,0,,,0,0,,item-30010718,0,0
+10719,18,10719,daily_points,item-10010719,item-20010719,1,0,,,0,0,,item-30010719,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
 100002,4,100002,Bumdle_1year,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0,0
@@ -2419,6 +2420,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700031,15,1700031,package_choose,item-11700031,item-21700031,1,-1,,,0,0,,item-31700031,0,1
 1700032,15,1700032,package_choose,item-11700032,item-21700032,1,-1,,,0,0,,item-31700032,0,1
 1700033,15,1700033,package_choose,item-11700033,item-21700033,1,-1,,,0,0,,item-31700033,0,1
+1700034,15,1700034,package_choose,item-11700034,item-21700034,1,-1,,,0,0,,item-31700034,0,1
+1700035,15,1700035,package_choose,item-11700035,item-21700035,1,-1,,,0,0,,item-31700035,0,1
+1700036,15,1700036,package_choose,item-11700036,item-21700036,1,-1,,,0,0,,item-31700036,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1
@@ -2445,3 +2449,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000006,15,9000006,Bumdle_WhiteValentineCoupons1,item-19000006,item-29000006,1,-1,,,0,0,,item-39000006,0,1
 9000007,15,9000007,Bumdle_WhiteValentineCoupons2,item-19000007,item-29000007,1,-1,,,0,0,,item-39000007,0,1
 9000008,15,9000008,Bumdle_WhiteValentineCoupons3,item-19000008,item-29000008,1,-1,,,0,0,,item-39000008,0,1
+9000009,15,9000006,Bumdle_JPnewyear1,item-19000009,item-29000009,1,-1,,,0,0,,item-39000009,0,1
+9000010,15,9000007,Bumdle_JPnewyear2,item-19000010,item-29000010,1,-1,,,0,0,,item-39000010,0,1
+9000011,15,9000008,Bumdle_JPnewyear3,item-19000011,item-29000011,1,-1,,,0,0,,item-39000011,0,1
