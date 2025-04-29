@@ -884,9 +884,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 886,1886,1,0,0,0,0,200,508-5000,1,0,profilePic_mask_5years_A,1,5,,0,0,1,200005,logo_5years,3881
 887,1887,2,0,0,0,0,400,508-10000,1,0,card_5years_A,1,5,,0,0,1,0,,3710
 888,1888,1,0,0,0,0,0,,0,0,profilePic_sangvis_Aegis_HD,1,5,,0,0,5,200001,,0
-889,1889,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_A,1,5,,0,0,1,200005,,0
-890,1890,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_B,1,5,,0,0,1,200005,logo_21swim,3882
-891,1891,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_C,1,5,,0,0,1,200005,logo_21swim,3883
+889,1889,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_A,1,5,,0,0,1,200005,,3882
+890,1890,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_B,1,5,,0,0,1,200005,logo_21swim,3883
+891,1891,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_C,1,5,,0,0,1,200005,logo_21swim,3891
 892,1892,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2021_RPK203,1,5,,5901,0,4,200005,,0
 893,1893,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2021_Lusa,1,5,,5902,0,4,200005,,0
 894,1894,1,0,0,0,0,200,508-5000,1,0,profilePic_Children2021_SACR,1,5,,5903,0,4,200005,,0
@@ -936,8 +936,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 938,1938,1,0,0,0,0,200,508-5000,1,0,profilePic_Carnival2021_G11,1,5,,558,0,4,200005,,0
 939,1939,1,0,0,0,0,160,508-4000,1,0,profilePic_Carnival2021_UMP40,1,5,,559,0,4,200005,,0
 940,1940,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_coremask,1,5,,0,0,1,200005,logo_21summer,0
-941,1941,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_01,1,5,,0,0,1,200005,logo_21summer,0
-942,1942,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_02,1,5,,0,0,1,200005,logo_21summer,0
+941,1941,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_01,1,5,,0,0,1,200005,logo_21summer,3892
+942,1942,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_02,1,5,,0,0,1,200005,logo_21summer,3893
 943,1943,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_03,1,5,,0,0,1,200005,logo_21summer,0
 944,1944,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_04,1,5,,0,0,1,200005,logo_21summer,0
 945,1945,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_05,1,5,,0,0,1,200005,logo_21summer,0
@@ -1033,7 +1033,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1035,2035,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_01,1,5,,0,0,1,0,,3878
 1036,2036,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_02,1,5,,0,0,1,0,,3879
 1037,2037,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_03,1,5,,0,0,1,0,,3880
-1038,2038,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_04,1,5,,0,0,1,0,,0
+1038,2038,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_04,1,5,,0,0,1,0,,3888
 1039,2039,3,0,0,0,0,600,508-15000,1,0,cg_Winter2022_01,1,5,,0,0,1,0,,0
 1040,2040,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2022_SP9,1,5,,6801,0,4,200005,,0
 1041,2041,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFes2022_Kolibri,1,5,,6802,0,4,200005,,0
@@ -1057,7 +1057,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1059,2059,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_01,1,5,,0,0,1,200005,logo_22whiteV,0
 1060,2060,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_02,1,5,,0,0,1,200005,logo_22whiteV,0
 1061,2061,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_03,1,5,,0,0,1,200005,logo_22whiteV,0
-1062,2062,2,0,0,0,0,400,508-10000,1,0,card_WhiteV2022Activity_01,1,5,,0,0,1,0,,0
+1062,2062,2,0,0,0,0,400,508-10000,1,0,card_WhiteV2022Activity_01,1,5,,0,0,1,0,,3889
 1063,2063,1,0,0,0,0,0,,0,0,profilePic_sangvis_Hunter_WhiteDay,1,5,,0,0,5,200002,,0
 1064,2064,1,0,0,0,0,0,,0,0,profilePic_sangvis_Vespid_bride,1,5,,0,0,5,200001,,0
 1065,2065,1,0,0,0,0,0,,0,0,profilePic_sangvis_Vespid_bride_HD,1,5,,0,0,5,200001,,0
@@ -1084,7 +1084,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1086,2086,1,0,0,0,0,40,508-1000,1,0,profilePic_Anniversary2022_M1895,1,5,,7107,0,4,200005,,0
 1087,2087,1,0,0,0,0,40,508-1000,1,0,profilePic_Anniversary2022_64type,1,5,,7108,0,4,200005,,0
 1088,2088,1,0,0,0,0,200,508-5000,0,0,profilePic_6years_A,1,5,,0,0,1,200005,logo_6years,0
-1089,2089,2,0,0,0,0,400,508-10000,0,0,card_6years_A,1,5,,0,0,1,0,,0
+1089,2089,2,0,0,0,0,400,508-10000,0,0,card_6years_A,1,5,,0,0,1,0,,3890
 1090,2090,1,0,0,0,0,200,508-5000,0,0,profilePic_mask_6years,1,5,,0,0,1,200005,logo_6years,0
 1091,2091,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season6_1,1,5,,0,0,1,200008,logo_flightchess_major,0
 1092,2092,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season6_2,1,5,,0,0,1,200007,logo_flightchess_general,0
