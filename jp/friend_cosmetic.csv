@@ -1496,6 +1496,13 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1598,2598,3,0,0,0,0,0,,0,0,cg_2024ArenaBreakout_01,1,5,,0,0,1,0,,0
 1599,2599,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_SAT8,1,5,,30024,0,,0,,0
 1600,2600,2,0,0,0,0,0,,0,0,card_BattlePass_SAT8,1,5,,0,0,,0,,0
+1601,2601,1,0,0,0,0,200,508-5000,1,0,profilePic_Mahoushaojiu2024_BoysAntiTank,1,5,,11001,0,,0,,0
+1602,2602,1,0,0,0,0,200,508-5000,1,0,profilePic_Mahoushaojiu2024_98K,1,5,,11002,0,,0,,0
+1603,2603,1,0,0,0,0,200,508-5000,1,0,profilePic_Mahoushaojiu2024_MK3A1,1,5,,11003,0,,0,,0
+1604,2604,1,0,0,0,0,200,508-5000,1,0,profilePic_Mahoushaojiu2024_ZB26,1,5,,11004,0,,0,,0
+1605,2605,1,0,0,0,0,200,508-5000,1,0,profilePic_Mahoushaojiu2024_M1851N,1,5,,11005,0,,0,,0
+1606,2606,1,0,0,0,0,160,508-4000,1,0,profilePic_Mahoushaojiu2024_Mk12,1,5,,11006,0,,0,,0
+1607,2607,1,0,0,0,0,80,508-2000,1,0,profilePic_Mahoushaojiu2024_TT33,1,5,,11007,0,,0,,0
 1608,2608,1,0,0,0,0,160,508-4000,1,0,profilePic_BattlePass_PK,1,5,,30025,0,,0,,0
 1609,2609,2,0,0,0,0,0,,0,0,card_BattlePass_PK,1,5,,0,0,,0,,0
 1624,2624,1,0,0,0,0,0,,0,0,profilePic_NewYear2025JP_coremask,1,5,,0,0,1,0,logo_NewYear2025,0

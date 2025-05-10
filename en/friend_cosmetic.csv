@@ -1488,6 +1488,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1649,2649,1,0,0,0,0,160,508-4000,1,0,profilePic_BattlePass_06TypeSMG,1,5,,30026,0,,0,,0
 1650,2650,2,0,0,0,0,0,,0,0,card_BattlePass_06TypeSMG,1,5,,0,0,,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
+2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 100001,200001,4,0,0,0,0,0,,0,0,profileFrame_sr_gun,1,5,,0,0,5,0,,0
 100002,200002,4,0,0,0,0,0,,0,0,profileFrame_ssr_gun,1,5,,0,0,5,0,,0
 100003,200003,4,0,0,0,0,0,,0,0,profileFrame_mod_gun,1,5,,0,0,5,0,,0
