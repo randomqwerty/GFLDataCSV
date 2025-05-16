@@ -51,3 +51,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 50,equip_group-10000050,equip_group-20000050,Egroup80type,215|446|0,2:1005503,20199,0
 51,equip_group-10000051,equip_group-20000051,EgroupGrizzly,0|448|237,2:1006103,96,0
 52,equip_group-10000052,equip_group-20000052,EgroupMAB38,0|449|166,2:1006203,20031,0
+53,equip_group-10000053,equip_group-20000053,EgroupDSR50,0|452|405,2:1006403,179,0
+54,equip_group-10000054,equip_group-20000054,EgroupAR,0|453|205,2:1006503,20071,0
