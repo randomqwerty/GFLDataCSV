@@ -1139,3 +1139,4 @@ identity,type,count,user_exp,mp,ammo,mre,part,core,gem,gun_id,item_ids,equip_ids
 1224,c_no_skip_activity,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001224,achievement-20001224,100,328,就是这个人,0,,11722,achievement-30001224,0
 1225,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001225,achievement-20001225,100,329,8月活动,0,,11743:9711502|11757:9711502,achievement-30001225,0
 1226,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001226,achievement-20001226,100,330,10月活动,0,,11765:9720405|11787:9720405,achievement-30001226,0
+1227,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001227,achievement-20001227,100,331,不惊扰平民,0,,11801:1180101|11805:1180101,achievement-30001227,0
