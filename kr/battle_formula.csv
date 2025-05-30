@@ -4139,6 +4139,7 @@ id,formula
 9806,sbuffidtier(9816)=1?1:0
 9807,(@hit-#dodge)>0?(@hit-#dodge)*0.1:0
 9808,sbuffidtier(9819)=1?1:0
+9809,sbuffidtier(9831)=1?1:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0

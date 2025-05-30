@@ -26,6 +26,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 208,gift_item-10000208,2,6,50000,-1,208,0,gift_bundle_kalina_208,gift_item-20000208,gift_item-30000208,gift_item-50000208,0,0,0,,gift_item-40000208,2000,0
 209,gift_item-10000209,2,6,50000,-1,209,0,gift_bundle_kalina_209,gift_item-20000209,gift_item-30000209,gift_item-50000209,0,0,0,,gift_item-40000209,2000,0
 210,gift_item-10000210,2,6,50000,-5,210,0,gift_bundle_Persica_210,gift_item-20000210,gift_item-30000210,gift_item-50000210,0,0,0,,gift_item-40000210,2000,0
+212,gift_item-10000212,2,6,50000,-1,212,0,gift_bundle_kalina_212,gift_item-20000212,gift_item-30000212,gift_item-50000212,0,0,0,,gift_item-40000212,2000,0
 301,gift_item-10000301,2,6,50000,1,301,30301,gift_bundle_xmas_M1873,gift_item-20000301,gift_item-30000301,gift_item-50000301,0,0,0,,gift_item-40000301,2000,6
 302,gift_item-10000302,2,6,50000,36,302,30302,gift_bundle_xmas_M1903,gift_item-20000302,gift_item-30000302,gift_item-50000302,0,0,0,,gift_item-40000302,2000,6
 303,gift_item-10000303,2,6,50000,37,303,30303,gift_bundle_xmas_M14,gift_item-20000303,gift_item-30000303,gift_item-50000303,0,0,0,,gift_item-40000303,2000,6
@@ -819,6 +820,14 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 11405,gift_item-10011405,2,6,50000,118,11405,311405,gift_bundle_WhiteValentina2025_9A91,gift_item-20011405,gift_item-30011405,gift_item-50011405,0,0,0,,gift_item-40011405,2000,6
 11406,gift_item-10011406,2,6,50000,95,11406,311406,gift_bundle_WhiteValentina2025_88type,gift_item-20011406,gift_item-30011406,gift_item-50011406,0,0,0,,gift_item-40011406,2000,6
 11407,gift_item-10011407,2,6,50000,5,11407,311407,gift_bundle_WhiteValentina2025_M1895,gift_item-20011407,gift_item-30011407,gift_item-50011407,0,0,0,,gift_item-40011407,2000,6
+11501,gift_item-10011501,2,6,50000,390,11501,311501,gift_bundle_Anniversary2025_HK433,gift_item-20011501,gift_item-30011501,gift_item-50011501,0,0,0,,gift_item-40011501,2000,6
+11502,gift_item-10011502,2,6,50000,129,11502,311502,gift_bundle_Anniversary2025_95type,gift_item-20011502,gift_item-30011502,gift_item-50011502,0,0,0,,gift_item-40011502,2000,6
+11503,gift_item-10011503,2,6,50000,361,11503,311503,gift_bundle_Anniversary2025_QBZ191,gift_item-20011503,gift_item-30011503,gift_item-50011503,0,0,0,,gift_item-40011503,2000,6
+11504,gift_item-10011504,2,6,50000,338,11504,311504,gift_bundle_Anniversary2025_SIGMCX,gift_item-20011504,gift_item-30011504,gift_item-50011504,0,0,0,,gift_item-40011504,2000,6
+11505,gift_item-10011505,2,6,50000,72,11505,311505,gift_bundle_Anniversary2025_TAR21,gift_item-20011505,gift_item-30011505,gift_item-50011505,0,0,0,,gift_item-40011505,2000,6
+11506,gift_item-10011506,2,6,50000,47,11506,311506,gift_bundle_Anniversary2025_G43,gift_item-20011506,gift_item-30011506,gift_item-50011506,0,0,0,,gift_item-40011506,2000,6
+11507,gift_item-10011507,2,6,50000,139,11507,311507,gift_bundle_Anniversary2025_BrenTen,gift_item-20011507,gift_item-30011507,gift_item-50011507,0,0,0,,gift_item-40011507,2000,6
+11508,gift_item-10011508,2,6,50000,290,11508,311508,gift_bundle_Anniversary2025_HowaType89,gift_item-20011508,gift_item-30011508,gift_item-50011508,0,0,0,,gift_item-40011508,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6

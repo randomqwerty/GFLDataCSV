@@ -101,6 +101,7 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 83109,M1903_wait,-1,9,,1,,0,wait,,
 83111,HK416_wait,-1,9,,1,,0,wait,,
 83115,arteam_wait,-1,9,,1,,0,wait,,
+83128,sleep,-1,15,|action|,1,point,0,lying,,
 83306,3306_swim,-1,9,|||||||||active,1,point,0,sit,,
 83911,neet_sit,0,0,,0,,0,sit,,
 85813,3306_swim,-1,9,|||||active,1,point,0,sit,,

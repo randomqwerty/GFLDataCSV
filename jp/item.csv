@@ -1650,6 +1650,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2637,5,1,profilePic_NewYear2025_Type100_JP,item-10002637,item-20002637,1,0,,,0,0,,item-30002637,0,0
 2649,5,1,profilePic_BattlePass_06TypeSMG,item-10002649,item-20002649,1,0,,,0,0,,item-30002649,0,0
 2650,5,1,card_BattlePass_CF05,item-10002650,item-20002650,1,0,,,0,0,,item-30002650,0,0
+2652,5,1,profilePic_BattlePass_M14,item-10002652,item-20002652,1,0,,,0,0,,item-30002652,0,0
+2653,5,1,card_BattlePass_M14,item-10002653,item-20002653,1,0,,,0,0,,item-30002653,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -1812,6 +1814,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0
 30026,1,30026,gift_bundle_BattlePass_06TypeSMG,item-10030026,item-20030026,1,0,,,0,0,,item-30030026,0,0
+30027,1,30027,gift_bundle_BattlePass_M14,item-10030027,item-20030027,1,0,,,0,0,,item-30030027,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
 100002,4,100002,Bumdle_1year,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0,0
 100003,4,100003,Activity_RedPacket,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0,0
@@ -1982,6 +1985,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100213,4,100213,Platinum_medal_black,item-10100213,item-20100213,1,0,,,0,0,,item-30100213,0,0
 100214,9,100214,Coin_202404Shapeofmemory,item-10100214,item-20100214,1,0,,60,0,0,,item-30100214,0,0
 100215,4,100215,coremask2_202404,item-10100215,item-20100215,1,0,,,0,0,,item-30100215,0,0
+100219,4,100219,Nova_medal,item-10100219,item-20100219,1,0,,,0,0,,item-30100219,0,0
+100220,4,100220,Platinum_medal,item-10100220,item-20100220,1,0,,,0,0,,item-30100220,0,0
+100221,9,100221,Loading_Coin,item-10100221,item-20100221,1,0,,120;360,0,0,,item-30100221,0,0
 100222,4,100222,Nova_medal_black,item-10100222,item-20100222,1,0,,,0,0,,item-30100222,0,0
 100223,4,100223,Platinum_medal_black,item-10100223,item-20100223,1,0,,,0,0,,item-30100223,0,0
 100224,9,100224,Coin_202406CartesianTheatre,item-10100224,item-20100224,1,0,,60,0,0,,item-30100224,0,0
@@ -2114,6 +2120,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 130022,12,130022,Y_Z_zhihuiguan_Dancer,item-10130022,item-20130022,1,0,,,0,0,,item-30130022,0,0
 130023,12,130023,Y_Z_zhihuiguan_Restaurant,item-10130023,item-20130023,1,0,,,0,0,,item-30130023,0,0
 130024,12,130024,Y_Z_zhihuiguan_baozhu,item-10130024,item-20130024,1,0,,,0,0,,item-30130024,0,0
+130025,12,130025,Y_Z_zhihuiguan_huilu,item-10130025,item-20130025,1,0,,,0,0,,item-30130025,0,0
 133007,13,7,TankM1_1001_icon,item-10133007,item-20133007,5,0,,,0,0,,item-30133007,0,0
 133008,13,8,MG_Single_1001_icon,item-10133008,item-20133008,5,0,,,0,0,,item-30133008,0,0
 133009,13,9,RF_AntiTank_1001_icon,item-10133009,item-20133009,5,0,,,0,0,,item-30133009,0,0
@@ -2297,6 +2304,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 140050,14,1,Y_Z_zhihuiguan_Chessman,item-10140050,item-20140050,1,0,,,0,0,,item-30140050,0,0
 140051,14,1,Y_Z_zhihuiguan_Chessman,item-10140051,item-20140051,1,0,,,0,0,,item-30140051,0,0
 140052,14,1,Y_Z_zhihuiguan_Chessman,item-10140052,item-20140052,1,0,,,0,0,,item-30140052,0,0
+140053,14,1,Y_Z_zhihuiguan_Chessman,item-10140053,item-20140053,1,0,,,0,0,,item-30140053,0,0
+140054,14,1,Y_Z_zhihuiguan_Chessman,item-10140054,item-20140054,1,0,,,0,0,,item-30140054,0,0
 160001,1,1,PT,item-10160001,item-20160001,1,0,,,0,0,,item-30160001,0,0
 161000,1,1,PT,item-10161000,item-20161000,1,0,,,0,0,,item-30161000,0,0
 161001,1,1,PT,item-10161001,item-20161001,1,0,,,0,0,,item-30161001,0,0
@@ -2348,6 +2357,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200049,1,1,profileFrame_BattlePass_SAT8,item-10200049,item-20200049,1,0,,,0,0,,item-30200049,0,0
 200050,1,1,profileFrame_BattlePass_PK,item-10200050,item-20200050,1,0,,,0,0,,item-30200050,0,0
 200051,1,1,profileFrame_BattlePass_06TypeSMG,item-10200051,item-20200051,1,0,,,0,0,,item-30200051,0,0
+200052,1,1,profileFrame_BattlePass_M14,item-10200052,item-20200052,1,0,,,0,0,,item-30200052,0,0
 900030,4,900030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0,0
 900031,4,900031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0,0
 900032,4,900032,Nova_medal,item-10900032,item-20900032,1,0,,,0,0,,item-30900032,0,0
@@ -2554,6 +2564,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500187,15,1500187,package_choose,item-11500187,item-21500187,1,-1,,,0,0,,item-31500187,0,1
 1500188,15,1500188,package_random,item-11500188,item-21500188,1,-1,,,0,0,,item-31500188,0,1
 1500189,15,1500189,package_random,item-11500189,item-21500189,1,-1,,,0,0,,item-31500189,0,1
+1500193,15,1500193,package_choose,item-11500193,item-21500193,1,-1,,,0,0,,item-31500193,0,1
+1500194,15,1500194,package_choose,item-11500194,item-21500194,1,-1,,,0,0,,item-31500194,0,1
+1500195,15,1500195,package_random,item-11500195,item-21500195,1,-1,,,0,0,,item-31500195,0,1
+1500196,15,1500196,package_random,item-11500196,item-21500196,1,-1,,,0,0,,item-31500196,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0

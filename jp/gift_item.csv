@@ -802,6 +802,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 30024,gift_item-10030024,2,6,50000,188,30024,330024,gift_bundle_BattlePass_SAT8,gift_item-20030024,gift_item-30030024,gift_item-50030024,0,0,0,,gift_item-40030024,2000,6
 30025,gift_item-10030025,2,6,50000,85,30025,330025,gift_bundle_BattlePass_PK,gift_item-20030025,gift_item-30030025,gift_item-50030025,0,0,0,,gift_item-40030025,2000,6
 30026,gift_item-10030026,2,6,50000,295,30026,330026,gift_bundle_BattlePass_06TypeSMG,gift_item-20030026,gift_item-30030026,gift_item-50030026,0,0,0,,gift_item-40030026,2000,6
+30027,gift_item-10030027,2,6,50000,37,30027,330027,gift_bundle_BattlePass_M14,gift_item-20030027,gift_item-30030027,gift_item-50030027,0,0,0,,gift_item-40030027,2000,6
 50001,gift_item-10050001,2,6,50000,95,50001,350001,gift_bundle_Anniversary2024_88type,gift_item-20050001,gift_item-30050001,gift_item-50050001,0,0,0,,gift_item-40050001,2000,6
 50002,gift_item-10050002,2,6,50000,1045,50002,350002,gift_bundle_ArenaBreakout_Evita,gift_item-20050002,gift_item-30050002,gift_item-50050002,0,0,0,,gift_item-40050002,2000,6
 50003,gift_item-10050003,2,6,50000,1046,50003,350003,gift_bundle_ArenaBreakout_Hecate,gift_item-20050003,gift_item-30050003,gift_item-50050003,0,0,0,,gift_item-40050003,2000,6
