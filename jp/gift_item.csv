@@ -777,6 +777,14 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 11204,gift_item-10011204,2,6,50000,153,11204,311204,gift_bundle_NewYear2025_Ithaca37,gift_item-20011204,gift_item-30011204,gift_item-50011204,0,0,0,,gift_item-40011204,2000,6
 11205,gift_item-10011205,2,6,50000,354,11205,311205,gift_bundle_NewYear2025_ZIP22,gift_item-20011205,gift_item-30011205,gift_item-50011205,0,0,0,,gift_item-40011205,2000,6
 11206,gift_item-10011206,2,6,50000,14,11206,311206,gift_bundle_NewYear2025_357,gift_item-20011206,gift_item-30011206,gift_item-50011206,0,0,0,,gift_item-40011206,2000,6
+11301,gift_item-10011301,2,6,50000,402,11301,311301,gift_bundle_SpringFestival2025_MartiniHenry,gift_item-20011301,gift_item-30011301,gift_item-50011301,0,0,0,,gift_item-40011301,2000,6
+11302,gift_item-10011302,2,6,50000,97,11302,311302,gift_bundle_SpringFestival2025_M950A,gift_item-20011302,gift_item-30011302,gift_item-50011302,0,0,0,,gift_item-40011302,2000,6
+11303,gift_item-10011303,2,6,50000,311,11303,311303,gift_bundle_SpringFestival2025_Lusa,gift_item-20011303,gift_item-30011303,gift_item-50011303,0,0,0,,gift_item-40011303,2000,6
+11304,gift_item-10011304,2,6,50000,127,11304,311304,gift_bundle_SpringFestival2025_79type,gift_item-20011304,gift_item-30011304,gift_item-50011304,0,0,0,,gift_item-40011304,2000,6
+11305,gift_item-10011305,2,6,50000,213,11305,311305,gift_bundle_SpringFestival2025_CBJMS,gift_item-20011305,gift_item-30011305,gift_item-50011305,0,0,0,,gift_item-40011305,2000,6
+11306,gift_item-10011306,2,6,50000,187,11306,311306,gift_bundle_SpringFestival2025_Ak5,gift_item-20011306,gift_item-30011306,gift_item-50011306,0,0,0,,gift_item-40011306,2000,6
+11307,gift_item-10011307,2,6,50000,227,11307,311307,gift_bundle_SpringFestival2025_A91,gift_item-20011307,gift_item-30011307,gift_item-50011307,0,0,0,,gift_item-40011307,2000,6
+11308,gift_item-10011308,2,6,50000,154,11308,311308,gift_bundle_SpringFestival2025_M500,gift_item-20011308,gift_item-30011308,gift_item-50011308,0,0,0,,gift_item-40011308,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6

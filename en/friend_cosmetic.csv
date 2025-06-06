@@ -1270,6 +1270,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1353,2353,1,0,0,0,0,160,508-4000,1,0,profilePic_OfficeLady2023_G36,1,5,,8609,0,,0,,0
 1354,2354,1,0,0,0,0,80,508-2000,1,0,profilePic_OfficeLady2023_6P62,1,5,,8610,0,,0,,0
 1356,2356,1,0,0,0,0,80,508-2000,1,0,profilePic_OfficeLady2023_STG44,1,5,,8612,0,,0,,0
+1357,2357,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season12_1,1,5,,0,0,1,200008,logo_flightchess_major,0
+1358,2358,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season12_2,1,5,,0,0,1,200007,logo_flightchess_general,0
+1359,2359,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season12_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
 1360,2360,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_AUG,1,5,,0,0,,0,,3192
 1361,2361,2,0,0,0,0,320,508-8000,1,0,card_friendmall_AUG,1,5,,0,0,,0,,3189
 1362,2362,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_SPAS15,1,5,,0,0,,0,,0

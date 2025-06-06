@@ -1648,6 +1648,14 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2635,5,1,profilePic_NewYear2025_ZIP22,item-10002635,item-20002635,1,0,,,0,0,,item-30002635,0,0
 2636,5,1,profilePic_NewYear2025_357,item-10002636,item-20002636,1,0,,,0,0,,item-30002636,0,0
 2637,5,1,profilePic_NewYear2025_Type100_JP,item-10002637,item-20002637,1,0,,,0,0,,item-30002637,0,0
+2638,5,1,profilePic_SpringFestival2025_MartiniHenry,item-10002638,item-20002638,1,0,,,0,0,,item-30002638,0,0
+2639,5,1,profilePic_SpringFestival2025_M950A,item-10002639,item-20002639,1,0,,,0,0,,item-30002639,0,0
+2640,5,1,profilePic_SpringFestival2025_Lusa,item-10002640,item-20002640,1,0,,,0,0,,item-30002640,0,0
+2641,5,1,profilePic_SpringFestival2025_79type,item-10002641,item-20002641,1,0,,,0,0,,item-30002641,0,0
+2642,5,1,profilePic_SpringFestival2025_CBJMS,item-10002642,item-20002642,1,0,,,0,0,,item-30002642,0,0
+2643,5,1,profilePic_SpringFestival2025_Ak5,item-10002643,item-20002643,1,0,,,0,0,,item-30002643,0,0
+2644,5,1,profilePic_SpringFestival2025_A91,item-10002644,item-20002644,1,0,,,0,0,,item-30002644,0,0
+2645,5,1,profilePic_SpringFestival2025_M500,item-10002645,item-20002645,1,0,,,0,0,,item-30002645,0,0
 2649,5,1,profilePic_BattlePass_06TypeSMG,item-10002649,item-20002649,1,0,,,0,0,,item-30002649,0,0
 2650,5,1,card_BattlePass_CF05,item-10002650,item-20002650,1,0,,,0,0,,item-30002650,0,0
 2652,5,1,profilePic_BattlePass_M14,item-10002652,item-20002652,1,0,,,0,0,,item-30002652,0,0
@@ -1810,6 +1818,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10717,18,10717,daily_points,item-10010717,item-20010717,1,0,,,0,0,,item-30010717,0,0
 10718,18,10718,daily_points,item-10010718,item-20010718,1,0,,,0,0,,item-30010718,0,0
 10719,18,10719,daily_points,item-10010719,item-20010719,1,0,,,0,0,,item-30010719,0,0
+10720,18,10720,daily_points,item-10010720,item-20010720,1,0,,,0,0,,item-30010720,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0
@@ -2607,6 +2616,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700034,15,1700034,package_choose,item-11700034,item-21700034,1,-1,,,0,0,,item-31700034,0,1
 1700035,15,1700035,package_choose,item-11700035,item-21700035,1,-1,,,0,0,,item-31700035,0,1
 1700036,15,1700036,package_choose,item-11700036,item-21700036,1,-1,,,0,0,,item-31700036,0,1
+1700037,15,1700037,package_choose,item-11700037,item-21700037,1,-1,,,0,0,,item-31700037,0,1
+1700038,15,1700038,package_choose,item-11700038,item-21700038,1,-1,,,0,0,,item-31700038,0,1
+1700039,15,1700039,package_choose,item-11700039,item-21700039,1,-1,,,0,0,,item-31700039,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1
@@ -2656,3 +2668,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9500029,15,9500029,Bumdle_WhiteValentineCoupons2,item-19500029,item-29500029,1,-1,,,0,0,,item-39500029,0,1
 9500030,15,9500030,Bumdle_WhiteValentineCoupons3,item-19500030,item-29500030,1,-1,,,0,0,,item-39500030,0,1
 9500031,15,9500031,Bumdle_invocation_3,item-19500031,item-29500031,1,-1,,,0,0,,item-39500031,0,1
+9500032,15,9500032,Bumdle_SpringFestivalCoupons1,item-19500032,item-29500032,1,-1,,,0,0,,item-39500032,0,1
+9500033,15,9500033,Bumdle_SpringFestivalCoupons2,item-19500033,item-29500033,1,-1,,,0,0,,item-39500033,0,1
+9500034,15,9500034,Bumdle_SpringFestivalCoupons3,item-19500034,item-29500034,1,-1,,,0,0,,item-39500034,0,1

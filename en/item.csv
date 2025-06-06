@@ -1395,6 +1395,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2353,5,1,profilePic_OfficeLady2023_G36,item-10002353,item-20002353,1,0,,,0,0,,item-30002353,0,0
 2354,5,1,profilePic_OfficeLady2023_6P62,item-10002354,item-20002354,1,0,,,0,0,,item-30002354,0,0
 2356,5,1,profilePic_OfficeLady2023_STG44,item-10002356,item-20002356,1,0,,,0,0,,item-30002356,0,0
+2357,5,1,profilePic_ChessFlight_season12_1,item-10002357,item-20002357,1,0,,,0,0,,item-30002357,0,0
+2358,5,1,profilePic_ChessFlight_season12_2,item-10002358,item-20002358,1,0,,,0,0,,item-30002358,0,0
+2359,5,1,profilePic_ChessFlight_season12_3,item-10002359,item-20002359,1,0,,,0,0,,item-30002359,0,0
 2360,5,1,profilePic_friendmall_AUG,item-10002360,item-20002360,1,0,,,0,0,,item-30002360,0,0
 2361,5,1,card_friendmall_AUG,item-10002361,item-20002361,1,0,,,0,0,,item-30002361,0,0
 2362,5,1,card_BattlePass_SPAS15,item-10002362,item-20002362,1,0,,,0,0,,item-30002362,0,0
@@ -2052,6 +2055,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 130018,12,130018,Y_Z_zhihuiguan_Athlete,item-10130018,item-20130018,1,0,,,0,0,,item-30130018,0,0
 130019,12,130019,Y_Z_zhihuiguan_Hagunsei,item-10130019,item-20130019,1,0,,,0,0,,item-30130019,0,0
 130020,12,130020,Y_Z_zhihuiguan_Cannon,item-10130020,item-20130020,1,0,,,0,0,,item-30130020,0,0
+130021,12,130021,Y_Z_zhihuiguan_zidan,item-10130021,item-20130021,1,0,,,0,0,,item-30130021,0,0
 130023,12,130023,Y_Z_zhihuiguan_Restaurant,item-10130023,item-20130023,1,0,,,0,0,,item-30130023,0,0
 130024,12,130024,Y_Z_zhihuiguan_baozhu,item-10130024,item-20130024,1,0,,,0,0,,item-30130024,0,0
 133007,13,7,TankM1_1001_icon,item-10133007,item-20133007,5,0,,,0,0,,item-30133007,0,0
@@ -2553,3 +2557,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000013,15,9000013,Bumdle_AnniversaryCoupons2,item-19000013,item-29000013,1,-1,,,0,0,,item-39000013,0,1
 9000014,15,9000014,Bumdle_AnniversaryCoupons3,item-19000014,item-29000014,1,-1,,,0,0,,item-39000014,0,1
 9000015,15,9000015,Bumdle_7yearpackage,item-19000015,item-29000015,1,-1,,,0,0,,item-39000015,0,1
+9000016,15,9000016,Bumdle_ChildrenDayCoupons1,item-19000016,item-29000016,1,-1,,,0,0,,item-39000016,0,1
+9000017,15,9000017,Bumdle_ChildrenDayCoupons2,item-19000017,item-29000017,1,-1,,,0,0,,item-39000017,0,1
+9000018,15,9000018,Bumdle_ChildrenDayCoupons3,item-19000018,item-29000018,1,-1,,,0,0,,item-39000018,0,1
