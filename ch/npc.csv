@@ -1,4 +1,5 @@
 id,name,code,title,ai,is_adjutant,unlock_text,mission_id,item_id,skin_code,voice_code,org_id,org_introduction
+-27,npc-9999973,NPC-Lunasia,npc-19999973,9999,0,npc-29999973,0,0,,,,npc-39999973
 -26,npc-9999974,M16A1_Boss,npc-19999974,9999,0,npc-29999974,0,0,,,,npc-39999974
 -25,npc-9999975,NPC-Carter,npc-19999975,9999,0,npc-29999975,0,0,,,,npc-39999975
 -24,npc-9999976,NPC-Constanze,npc-19999976,9999,0,npc-29999976,0,0,,,,npc-39999976
