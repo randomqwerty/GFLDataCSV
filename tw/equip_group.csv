@@ -53,3 +53,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 52,equip_group-10000052,equip_group-20000052,EgroupMAB38,0|449|166,2:1006203,20031,0
 53,equip_group-10000053,equip_group-20000053,EgroupDSR50,0|452|405,2:1006403,179,0
 54,equip_group-10000054,equip_group-20000054,EgroupAR,0|453|205,2:1006503,20071,0
+55,equip_group-10000055,equip_group-20000055,EgroupMG5,0|386|455,2:1006703,109,0
+56,equip_group-10000056,equip_group-20000056,EgroupRMB93,240|0|456,2:1006803,20159,0

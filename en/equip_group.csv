@@ -37,3 +37,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 36,equip_group-10000036,equip_group-20000036,EgroupM1895,113|0|415,2:1002403,20005,0
 37,equip_group-10000037,equip_group-20000037,EgroupG41,0|419|127,2:1002903,62,0
 38,equip_group-10000038,equip_group-20000038,EgroupM500,420|0|177,2:1003103,20154,0
+39,equip_group-10000039,equip_group-20000039,EgroupRFB,169|0|422,2:1003303,172,0
+40,equip_group-10000040,equip_group-20000040,EgroupM1873,122|423|0,2:1003403,20001,0

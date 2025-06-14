@@ -486,6 +486,10 @@ id,name,description,code,type,duration_type,duration_time,limit_buff,exp_buff,is
 730001,mission_buff_config-10730001,mission_buff_config-20730001,,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,CarryBoomerIcon#EC4702,,0,,730001,-1,730011,,0,0,0,0,0,0,,,0,0,0
 730011,mission_buff_config-10730011,mission_buff_config-20730011,Theresa_Back,1,1,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,,,0,,730011,1,,,0,0,0,0,0,0,,,0,0,0
 730101,mission_buff_config-10730101,mission_buff_config-20730101,,1,1,999,0,1,0,,,0,0,0,730101,1,0-1,0,0,0,0,,,0,,730101,1,,,0,0,0,0,0,0,,,0,0,0
+750000,mission_buff_config-10750000,mission_buff_config-20750000,SAC2045_CamouflageSkill,1,1,2,0,1,0,,,0,0,0,0,0,0,0,0,0,0,,,0,,750000,1,,,0,0,0,1000072,1000072,0,,,0,0,0
+750001,mission_buff_config-10750001,mission_buff_config-20750001,Theresa_Back,1,1,999,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,,,0,,750001,1,,,0,0,0,0,0,0,,,0,0,0
+751401,mission_buff_config-10751401,mission_buff_config-20751401,Theresa_Back,1,1,1,0,1,0,,1,0,0,0,0,0,0,0,0,0,0,,,0,,751401,1,,,0,0,0,0,0,0,,,0,0,0
+751502,mission_buff_config-10751502,mission_buff_config-20751502,,1,1,999,0,1,0,,,0,0,0,0,0,0,0,0,0,0,CarryBoomerIcon#EC4702,,0,,751502,-1,751512,,0,0,0,0,0,0,,,0,0,0
 910630,mission_buff_config-10910630,mission_buff_config-20910630,shield,1,1|5,2|1,0,1,0,0,,910630,0,0,0,0,0,0,0,0,0,,,0,,910630,0,,,0,0,0,0,0,0,,,0,0,0
 998002,mission_buff_config-10998002,mission_buff_config-20998002,Intruder_H1,1,1,3,0,1,0,,,0,0,0,998002,51,0-1,0,0,0,0,,,0,,998002,0,,,0,0,0,0,0,0,,,0,0,0
 1000000,mission_buff_config-11000000,mission_buff_config-21000000,,1,1,99,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,CarryBoomerIcon#EC4702,,0,,1000000,0,,,0,0,0,0,0,0,,,0,0,0

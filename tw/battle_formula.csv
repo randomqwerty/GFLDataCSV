@@ -4140,6 +4140,11 @@ id,formula
 9807,(@hit-#dodge)>0?(@hit-#dodge)*0.1:0
 9808,sbuffidtier(9819)=1?1:0
 9809,sbuffidtier(9831)=1?1:0
+9810,sbuffidtier(9833)=1&sbuffidtier(9834)=1?1:0
+9811,sbuffidtier(9836)=1&sbuffidtier(9837)=1?1:0
+9812,sbuffidtier(301)=0?(GetChance(33)?9841:GetChance(50)?9842:9843):(GetChance(20)?9839:GetChance(25)?9840:GetChance(33)?9841:GetChance(50)?9842:9843)
+9813,sbuffidtier(9836)=1&sbuffidtier(9837)=1?sbuffidtier(9846)>0?0:1:0
+9814,sbuffidtier(9847)>0?1:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0
