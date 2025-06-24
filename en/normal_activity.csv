@@ -25,6 +25,7 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 24,-34,normal_activity-10000024,100,normal_activity-20000024,normal_activity-30000024,active_19Halloween,#000000C7|#3D415166|#E66A01|#FFFFFFFF,normal_activity-40000024,,0,
 25,-35,normal_activity-10000025,100,normal_activity-20000025,normal_activity-30000025,active_19Xmas,#000000C7|#3D415166|#D9531A|#FFFFFFFF,normal_activity-40000025,,0,
 26,-37,normal_activity-10000026,101,normal_activity-20000026,normal_activity-30000026,active_WhiteDay2020,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000026,active_WhiteDay2020logo,0,
+27,-40,normal_activity-10000027,101,normal_activity-20000027,normal_activity-30000027,active_Bikini2020,#000000C7|#3D415166|#2975fd|#FFFFFFFF,normal_activity-40000027,,0,
 29,-39,normal_activity-10000029,4,normal_activity-20000029,normal_activity-30000029,missionselect_Sing_RE,,normal_activity-40000029,,10003,303
 30,-42,normal_activity-10000030,101,normal_activity-20000030,normal_activity-30000030,active_Halloween2020,#000000C7|#3D415166|#E64801FF|#FFFFFFFF,normal_activity-40000030,Halloween2020logo,0,
 31,-50,normal_activity-10000031,103,normal_activity-20000031,normal_activity-30000031,active_WhiteDay2022,#000000C7|#3D415166|#D00001FF|#FFFFFFFF,normal_activity-40000031,active_WhiteDay2022logo,0,

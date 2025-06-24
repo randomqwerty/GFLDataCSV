@@ -619,7 +619,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 665,1665,1,0,0,0,0,80,508-2000,1,0,profilePic_Children2020_TMP,1,5,,4606,0,4,200005,,0
 666,1666,1,0,0,0,0,80,508-2000,1,0,profilePic_Children2020_EVO3,1,5,,4607,0,4,200005,,0
 668,1668,1,0,0,0,0,80,508-2000,1,0,profilePic_YZ2020_357,1,5,,4708,0,4,200005,,0
-669,1669,2,0,0,0,0,400,508-10000,0,0,card_YZ2020,1,5,,0,0,1|2,0,,3944
+669,1669,2,0,0,0,0,400,508-10000,1,0,card_YZ2020,1,5,,0,0,1|2,0,,3944
 670,1670,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2020_A,1,5,,0,0,4,200005,,4091
 671,1671,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2020_B,1,5,,0,0,4,200005,,4139
 673,1673,1,0,0,0,0,200,508-5000,0,0,profilePic_Gunslinger_ClaesCg,1,5,,0,0,4,200005,logo_gunslinger,0
@@ -688,8 +688,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 738,1738,1,0,0,0,0,160,508-4000,1,0,profilePic_Halloween2020_M82,1,5,,5105,0,4,200005,,0
 739,1739,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_TT33,1,5,,5106,0,4,200005,,0
 740,1740,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_M21,1,5,,5107,0,4,200005,,0
-741,1741,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,0
-742,1742,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,0
+741,1741,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,4152
+742,1742,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,4153
 743,1743,2,0,0,0,0,400,508-10000,1,0,card_Halloween20_Theatre,1,5,,0,0,1,0,,3943
 744,1744,1,0,0,0,0,200,508-5000,0,0,profilePic_Halloween20_us,1,5,,0,0,1,200005,logo_halloween,0
 745,1745,1,0,0,0,0,0,,0,0,profilePic_sangvis_Prowler_SWAP,1,5,,0,0,5,200001,,0
@@ -751,7 +751,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 803,1803,1,0,0,0,0,0,,0,0,profilePic_rank4_F1Mod,1,5,,0,0,5,200001,,0
 804,1804,1,0,0,0,0,0,,0,0,profilePic_rank5_80typeMod,1,5,,0,0,5,200002,,0
 805,1805,1,0,0,0,0,0,,0,0,profilePic_Winter2021_coremask,1,5,,0,0,1,200005,logo_21winter,0
-806,1806,1,0,0,0,0,0,,0,0,profilePic_Winter2021_Grey,1,5,,0,0,1,200005,logo_21winter,0
+806,1806,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2021_Grey,1,5,,0,0,1,200005,logo_21winter,4154
 807,1807,1,0,0,0,0,0,,0,0,profilePic_Winter2021_N_M4A1,1,5,,0,0,1,200005,logo_21winter,0
 808,1808,1,0,0,0,0,0,,0,0,profilePic_Winter2021_Light,1,5,,0,0,1,200005,logo_21winter,0
 809,1809,1,0,0,0,0,0,,0,0,profilePic_Winter2021_ShadowLizz,1,5,,0,0,1,200005,logo_21winter,0
@@ -828,6 +828,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 883,1883,1,0,0,0,0,160,508-4000,1,0,profilePic_Anniversary2021_FX05,1,5,,5806,0,4,200005,,0
 884,1884,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2021_CZ805,1,5,,5807,0,4,200005,,0
 885,1885,1,0,0,0,0,40,508-1000,1,0,profilePic_Anniversary2021_PPsh41,1,5,,5808,0,4,200005,,0
+887,1887,2,0,0,0,0,400,508-10000,1,0,card_5years_A,1,5,,0,0,1,0,,4149
 889,1889,1,0,0,0,0,200,508-5000,0,0,profilePic_YZ2021_A,1,5,,0,0,1,200005,,0
 890,1890,1,0,0,0,0,200,508-5000,0,0,profilePic_YZ2021_B,1,5,,0,0,1,200005,logo_21swim,0
 891,1891,1,0,0,0,0,200,508-5000,0,0,profilePic_YZ2021_C,1,5,,0,0,1,200005,logo_21swim,0
@@ -839,7 +840,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 897,1897,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2021_Ak5,1,5,,5906,0,4,200005,,0
 898,1898,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2021_M82,1,5,,5907,0,4,200005,,0
 899,1899,1,0,0,0,0,80,508-2000,1,0,profilePic_Children2021_wz29,1,5,,5908,0,4,200005,,0
-900,1900,2,0,0,0,0,400,508-10000,0,0,card_Summer2021,1,5,,0,0,1|2,0,,0
+900,1900,2,0,0,0,0,400,508-10000,1,0,card_Summer2021,1,5,,0,0,1|2,0,,4150
 902,1902,1,0,0,0,0,160,508-4000,1,0,profilePic_YZ2021_VPM5,1,5,,6107,0,4,200005,,0
 906,1906,1,0,0,0,0,0,,0,0,profilePic_Dropkick2021_Yurine,1,5,,0,0,1,200005,logo_dropkick,0
 907,1907,1,0,0,0,0,0,,0,0,profilePic_Dropkick2021_Minosu,1,5,,0,0,1,200005,logo_dropkick,0
@@ -883,7 +884,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 945,1945,1,0,0,0,0,0,,0,0,profilePic_Summer2021_05,1,5,,0,0,1,200005,logo_21summer,0
 946,1946,1,0,0,0,0,0,,0,0,profilePic_Summer2021_06,1,5,,0,0,1,200005,logo_21summer,0
 947,1947,1,0,0,0,0,0,,0,0,profilePic_Summer2021_07,1,5,,0,0,1,200005,logo_21summer,0
-948,1948,2,0,0,0,0,0,,0,0,card_Summer2021_01,1,5,,0,0,1,0,,0
+948,1948,2,0,0,0,0,400,508-10000,1,0,card_Summer2021_01,1,5,,0,0,1,0,,4151
 949,1949,2,0,0,0,0,0,,0,0,card_Summer2021_02,1,5,,0,0,1,0,,0
 950,1950,2,0,0,0,0,0,,0,0,card_Summer2021_03,1,5,,0,0,1,0,,0
 951,1951,2,0,0,0,0,0,,0,0,card_Summer2021_04,1,5,,0,0,1,0,,0
@@ -1501,6 +1502,14 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1634,2634,1,0,0,0,0,160,508-4000,1,0,profilePic_NewYear2025_Ithaca37,1,5,,11204,0,,0,,0
 1635,2635,1,0,0,0,0,160,508-4000,1,0,profilePic_NewYear2025_ZIP22,1,5,,11205,0,,0,,0
 1636,2636,1,0,0,0,0,80,508-2000,1,0,profilePic_NewYear2025_357,1,5,,11206,0,,0,,0
+1638,2638,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFestival2025_MartiniHenry,1,5,,11301,0,,0,,0
+1639,2639,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFestival2025_M950A,1,5,,11302,0,,0,,0
+1640,2640,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFestival2025_Lusa,1,5,,11303,0,,0,,0
+1641,2641,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFestival2025_79type,1,5,,11304,0,,0,,0
+1642,2642,1,0,0,0,0,200,508-5000,1,0,profilePic_SpringFestival2025_CBJMS,1,5,,11305,0,,0,,0
+1643,2643,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFestival2025_Ak5,1,5,,11306,0,,0,,0
+1644,2644,1,0,0,0,0,160,508-4000,1,0,profilePic_SpringFestival2025_A91,1,5,,11307,0,,0,,0
+1645,2645,1,0,0,0,0,80,508-2000,1,0,profilePic_SpringFestival2025_M500,0,0,,11308,0,,0,,0
 1649,2649,1,0,0,0,0,160,508-4000,1,0,profilePic_BattlePass_06TypeSMG,1,5,,30026,0,,0,,0
 1650,2650,2,0,0,0,0,0,,0,0,card_BattlePass_06TypeSMG,1,5,,0,0,,0,,0
 1652,2652,1,0,0,0,0,80,508-2000,1,0,profilePic_BattlePass_M14,1,5,,30027,0,,0,,0

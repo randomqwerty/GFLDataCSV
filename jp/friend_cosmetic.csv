@@ -619,7 +619,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 668,1668,1,0,0,0,0,80,508-2000,1,0,profilePic_YZ2020_357,1,5,,4708,0,4,200005,,0
 669,1669,2,0,0,0,0,400,508-10000,1,0,card_YZ2020,1,5,,0,0,1|2,0,,3710
 670,1670,1,0,0,0,0,160,508-4000,1,0,profilePic_YZ2020_A,1,5,,0,0,4,200005,,3732
-671,1671,1,0,0,0,0,160,508-4000,1,0,profilePic_YZ2020_B,1,5,,0,0,4,200005,,0
+671,1671,1,0,0,0,0,160,508-4000,1,0,profilePic_YZ2020_B,1,5,,0,0,4,200005,,3762
 673,1673,1,0,0,0,0,200,508-5000,0,0,profilePic_Gunslinger_ClaesCg,1,5,,0,0,4,200005,logo_gunslinger,0
 674,1674,1,0,0,0,0,200,508-5000,0,0,profilePic_Gunslinger_TrielaCg,1,5,,0,0,4,200005,logo_gunslinger,0
 675,1675,1,0,0,0,0,200,508-5000,0,0,profilePic_Gunslinger_RicoCg,1,5,,0,0,4,200005,logo_gunslinger,0
@@ -650,8 +650,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 700,1700,1,0,0,0,0,160,508-4000,0,0,profilePic_Fetter_cardKing,1,5,,0,0,1,200005,,0
 701,1701,2,0,0,0,0,160,508-4000,0,0,card_Fetter_memoryShadows,1,5,,0,0,1|2,0,,0
 702,1702,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2020_coremask,100,5,,0,0,1,200005,logo_20summer,0
-703,1703,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2020_Architect,1,5,,0,0,1,200005,logo_20summer_b,0
-704,1704,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2020_Gager,1,5,,0,0,1,200005,logo_20summer_b,0
+703,1703,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2020_Architect,1,5,,0,0,1,200005,logo_20summer_b,3763
+704,1704,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2020_Gager,1,5,,0,0,1,200005,logo_20summer_b,3764
 705,1705,2,0,0,0,0,400,508-10000,1,0,card_Summer2020,1,5,,0,0,1|2,0,,3711
 706,1706,3,0,0,0,0,600,508-15000,1,0,cg_Summer2020,1,5,,0,0,1,0,,0
 707,1707,1,0,0,0,0,0,,0,0,profilePic_rank6_G11Mod,1,5,,0,0,5,200003,,0
@@ -760,9 +760,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 813,1813,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_MorningLight,1,5,,0,0,1,0,,3727
 814,1814,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_Descends,1,5,,0,0,1,0,,3728
 815,1815,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_BurnOut,1,5,,0,0,1,0,,3729
-816,1816,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_DarkDream,1,5,,0,0,1,0,,0
-817,1817,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_HiddenTruth,1,5,,0,0,1,0,,0
-818,1818,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_CrisisMoment,1,5,,0,0,1,0,,0
+816,1816,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_DarkDream,1,5,,0,0,1,0,,3759
+817,1817,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_HiddenTruth,1,5,,0,0,1,0,,3760
+818,1818,2,0,0,0,0,400,508-10000,1,0,card_Winter2021_CrisisMoment,1,5,,0,0,1,0,,3761
 819,1819,3,0,0,0,0,600,508-15000,1,0,cg_Winter2021_DreamLand,1,5,,0,0,1,0,,0
 820,1820,3,0,0,0,0,600,508-15000,1,0,cg_Winter2021_Blowing,1,5,,0,0,1,0,,0
 821,1821,3,0,0,0,0,600,508-15000,1,0,cg_Winter2021_QuietRoom,1,5,,0,0,1,0,,0

@@ -1675,6 +1675,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1686,2686,1,0,0,0,0,0,,0,0,profilePic_202505Activity_04,1,5,,0,0,,0,logo_202505Activity,0
 1687,2687,2,0,0,0,0,0,,0,0,card_202505Activity_04,1,5,,0,0,,0,,0
 1688,2688,1,0,0,0,0,0,,0,0,profilePic_Return2025_coremask,1,5,,0,0,,0,logo_9years,0
+1689,2689,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_FO12,1,5,,30030,0,,0,,0
+1690,2690,2,0,0,0,0,0,,0,0,card_BattlePass_FO12,1,5,,0,0,,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0
@@ -1731,3 +1733,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100052,200052,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_M14,1,5,,0,0,5,0,,0
 100053,200053,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Beowulf,1,5,,0,0,5,0,,0
 100054,200054,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_LTLX7000,1,5,,0,0,5,0,,0
+100055,200055,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_FO12,1,5,,0,0,5,0,,0
