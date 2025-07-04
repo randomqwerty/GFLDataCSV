@@ -1395,6 +1395,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2352,5,1,profilePic_OfficeLady2023_RPK16,item-10002352,item-20002352,1,0,,,0,0,,item-30002352,0,0
 2353,5,1,profilePic_OfficeLady2023_G36,item-10002353,item-20002353,1,0,,,0,0,,item-30002353,0,0
 2354,5,1,profilePic_OfficeLady2023_6P62,item-10002354,item-20002354,1,0,,,0,0,,item-30002354,0,0
+2355,5,1,profilePic_OfficeLady2023_LWMMG,item-10002355,item-20002355,1,0,,,0,0,,item-30002355,0,0
 2356,5,1,profilePic_OfficeLady2023_STG44,item-10002356,item-20002356,1,0,,,0,0,,item-30002356,0,0
 2357,5,1,profilePic_ChessFlight_season12_1,item-10002357,item-20002357,1,0,,,0,0,,item-30002357,0,0
 2358,5,1,profilePic_ChessFlight_season12_2,item-10002358,item-20002358,1,0,,,0,0,,item-30002358,0,0
@@ -1639,6 +1640,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2650,5,1,card_BattlePass_CF05,item-10002650,item-20002650,1,0,,,0,0,,item-30002650,0,0
 2652,5,1,profilePic_BattlePass_M14,item-10002652,item-20002652,1,0,,,0,0,,item-30002652,0,0
 2653,5,1,card_BattlePass_M14,item-10002653,item-20002653,1,0,,,0,0,,item-30002653,0,0
+2663,5,1,profilePic_BattlePass_Beowulf,item-10002663,item-20002663,1,0,,,0,0,,item-30002663,0,0
+2664,5,1,card_BattlePass_Beowulf,item-10002664,item-20002664,1,0,,,0,0,,item-30002664,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -1783,6 +1786,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30026,1,30026,gift_bundle_BattlePass_06TypeSMG,item-10030026,item-20030026,1,0,,,0,0,,item-30030026,0,0
 30027,1,30027,gift_bundle_BattlePass_M14,item-10030027,item-20030027,1,0,,,0,0,,item-30030027,0,0
+30028,1,30028,gift_bundle_BattlePass_Beowulf,item-10030028,item-20030028,1,0,,,0,0,,item-30030028,0,0
 100001,4,100001,Activity_RedPacket,item-10100001,item-20100001,1,0,,,0,0,,item-30100001,0,0
 100002,4,100002,Bumdle_1year,item-10100002,item-20100002,1,0,,,0,0,,item-30100002,0,0
 100003,4,100003,Activity_RedPacket,item-10100003,item-20100003,1,0,,,0,0,,item-30100003,0,0
@@ -1944,6 +1948,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100191,4,100191,Nova_medal_black,item-10100191,item-20100191,1,0,,,0,0,,item-30100191,0,0
 100192,4,100192,Platinum_medal_black,item-10100192,item-20100192,1,0,,,0,0,,item-30100192,0,0
 100193,9,100193,Mind_Coin,item-10100193,item-20100193,1,0,,60,0,0,,item-30100193,0,0
+100194,4,100194,Nova_medal,item-10100194,item-20100194,1,0,,,0,0,,item-30100194,0,0
+100195,4,100195,Platinum_medal,item-10100195,item-20100195,1,0,,,0,0,,item-30100195,0,0
+100196,9,100196,Loading_Coin,item-10100196,item-20100196,1,0,,60,0,0,,item-30100196,0,0
 100199,4,100199,Bumdle_October2,item-10100199,item-20100199,1,0,,,0,0,,item-30100199,0,0
 100204,9,100204,Coin_SAC2045,item-10100204,item-20100204,1,0,,60,0,0,,item-30100204,0,0
 100205,4,100205,Nova_medal_black,item-10100205,item-20100205,1,0,,,0,0,,item-30100205,0,0
@@ -2241,6 +2248,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 140052,14,1,Y_Z_zhihuiguan_Chessman,item-10140052,item-20140052,1,0,,,0,0,,item-30140052,0,0
 140053,14,1,Y_Z_zhihuiguan_Chessman,item-10140053,item-20140053,1,0,,,0,0,,item-30140053,0,0
 140054,14,1,Y_Z_zhihuiguan_Chessman,item-10140054,item-20140054,1,0,,,0,0,,item-30140054,0,0
+140055,14,1,Y_Z_zhihuiguan_Chessman,item-10140055,item-20140055,1,0,,,0,0,,item-30140055,0,0
+140056,14,1,Y_Z_zhihuiguan_Chessman,item-10140056,item-20140056,1,0,,,0,0,,item-30140056,0,0
 160001,1,1,PT,item-10160001,item-20160001,1,0,,,0,0,,item-30160001,0,0
 161000,1,1,PT,item-10161000,item-20161000,1,0,,,0,0,,item-30161000,0,0
 161001,1,1,PT,item-10161001,item-20161001,1,0,,,0,0,,item-30161001,0,0
@@ -2291,6 +2300,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 200050,1,1,profileFrame_BattlePass_PK,item-10200050,item-20200050,1,0,,,0,0,,item-30200050,0,0
 200051,1,1,profileFrame_BattlePass_06TypeSMG,item-10200051,item-20200051,1,0,,,0,0,,item-30200051,0,0
 200052,1,1,profileFrame_BattlePass_M14,item-10200052,item-20200052,1,0,,,0,0,,item-30200052,0,0
+200053,1,1,profileFrame_BattlePass_Beowulf,item-10200053,item-20200053,1,0,,,0,0,,item-30200053,0,0
 900030,4,900030,Nova_medal,item-10900030,item-20900030,1,0,,,0,0,,item-30900030,0,0
 900031,4,900031,Platinum_medal,item-10900031,item-20900031,1,0,,,0,0,,item-30900031,0,0
 900032,4,900032,Nova_medal,item-10900032,item-20900032,1,0,,,0,0,,item-30900032,0,0
@@ -2492,6 +2502,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500194,15,1500194,package_choose,item-11500194,item-21500194,1,-1,,,0,0,,item-31500194,0,1
 1500195,15,1500195,package_random,item-11500195,item-21500195,1,-1,,,0,0,,item-31500195,0,1
 1500196,15,1500196,package_random,item-11500196,item-21500196,1,-1,,,0,0,,item-31500196,0,1
+1500206,15,1500176,package_choose,item-11500206,item-21500206,1,-1,,,0,0,,item-31500206,0,1
+1500207,15,1500177,package_choose,item-11500207,item-21500207,1,-1,,,0,0,,item-31500207,0,1
+1500208,15,1500178,package_random,item-11500208,item-21500208,1,-1,,,0,0,,item-31500208,0,1
+1500209,15,1500179,package_random,item-11500209,item-21500209,1,-1,,,0,0,,item-31500209,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0
@@ -2573,3 +2587,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000016,15,9000016,Bumdle_ChildrenDayCoupons1,item-19000016,item-29000016,1,-1,,,0,0,,item-39000016,0,1
 9000017,15,9000017,Bumdle_ChildrenDayCoupons2,item-19000017,item-29000017,1,-1,,,0,0,,item-39000017,0,1
 9000018,15,9000018,Bumdle_ChildrenDayCoupons3,item-19000018,item-29000018,1,-1,,,0,0,,item-39000018,0,1
+9000019,15,9000019,Bumdle_ChildrenDayCoupons1,item-19000019,item-29000019,1,-1,,,0,0,,item-39000019,0,1
+9000020,15,9000020,Bumdle_ChildrenDayCoupons2,item-19000020,item-29000020,1,-1,,,0,0,,item-39000020,0,1
+9000021,15,9000021,Bumdle_ChildrenDayCoupons3,item-19000021,item-29000021,1,-1,,,0,0,,item-39000021,0,1

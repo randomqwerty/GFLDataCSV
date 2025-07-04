@@ -1818,6 +1818,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2688,5,1,profilePic_Return2025_coremask,item-10002688,item-20002688,1,0,,,0,0,,item-30002688,0,0
 2689,5,1,profilePic_BattlePass_FO12,item-10002689,item-20002689,1,0,,,0,0,,item-30002689,0,0
 2690,5,1,card_BattlePass_FO12,item-10002690,item-20002690,1,0,,,0,0,,item-30002690,0,0
+2691,5,1,profilePic_ChessFlight_season20_1,item-10002691,item-20002691,1,0,,,0,0,,item-30002691,0,0
+2692,5,1,profilePic_ChessFlight_season20_2,item-10002692,item-20002692,1,0,,,0,0,,item-30002692,0,0
+2693,5,1,profilePic_ChessFlight_season20_3,item-10002693,item-20002693,1,0,,,0,0,,item-30002693,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -2879,6 +2882,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500243,15,1500243,package_choose,item-11500243,item-21500243,1,-1,,,0,0,,item-31500243,0,1
 1500244,15,1500244,package_random,item-11500244,item-21500244,1,-1,,,0,0,,item-31500244,0,1
 1500245,15,1500245,package_random,item-11500245,item-21500245,1,-1,,,0,0,,item-31500245,0,1
+1500246,15,1500246,Bumdle_SummerdayCoupons1,item-11500246,item-21500246,1,-1,,,0,0,,item-31500246,0,1
+1500247,15,1500247,Bumdle_SummerdayCoupons1,item-11500247,item-21500247,1,-1,,,0,0,,item-31500247,0,1
+1500248,15,1500248,Bumdle_SummerdayCoupons1,item-11500248,item-21500248,1,-1,,,0,0,,item-31500248,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0

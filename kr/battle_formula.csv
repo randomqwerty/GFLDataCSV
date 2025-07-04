@@ -4145,6 +4145,8 @@ id,formula
 9812,sbuffidtier(301)=0?(GetChance(33)?9841:GetChance(50)?9842:9843):(GetChance(20)?9839:GetChance(25)?9840:GetChance(33)?9841:GetChance(50)?9842:9843)
 9813,sbuffidtier(9836)=1&sbuffidtier(9837)=1?sbuffidtier(9846)>0?0:1:0
 9814,sbuffidtier(9847)>0?1:0
+9815,sbuffidtier(9848)>0?1:0
+9816,sbuffidtier(9848)>0?0:1
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0

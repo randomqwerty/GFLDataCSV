@@ -785,6 +785,12 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 11306,gift_item-10011306,2,6,50000,187,11306,311306,gift_bundle_SpringFestival2025_Ak5,gift_item-20011306,gift_item-30011306,gift_item-50011306,0,0,0,,gift_item-40011306,2000,6
 11307,gift_item-10011307,2,6,50000,227,11307,311307,gift_bundle_SpringFestival2025_A91,gift_item-20011307,gift_item-30011307,gift_item-50011307,0,0,0,,gift_item-40011307,2000,6
 11308,gift_item-10011308,2,6,50000,154,11308,311308,gift_bundle_SpringFestival2025_M500,gift_item-20011308,gift_item-30011308,gift_item-50011308,0,0,0,,gift_item-40011308,2000,6
+11401,gift_item-10011401,2,6,50000,179,11401,311401,gift_bundle_WhiteValentina2025_DSR50,gift_item-20011401,gift_item-30011401,gift_item-50011401,0,0,0,,gift_item-40011401,2000,6
+11402,gift_item-10011402,2,6,50000,62,11402,311402,gift_bundle_WhiteValentina2025_G41,gift_item-20011402,gift_item-30011402,gift_item-50011402,0,0,0,,gift_item-40011402,2000,6
+11403,gift_item-10011403,2,6,50000,109,11403,311403,gift_bundle_WhiteValentina2025_MG5,gift_item-20011403,gift_item-30011403,gift_item-50011403,0,0,0,,gift_item-40011403,2000,6
+11405,gift_item-10011405,2,6,50000,118,11405,311405,gift_bundle_WhiteValentina2025_9A91,gift_item-20011405,gift_item-30011405,gift_item-50011405,0,0,0,,gift_item-40011405,2000,6
+11406,gift_item-10011406,2,6,50000,95,11406,311406,gift_bundle_WhiteValentina2025_88type,gift_item-20011406,gift_item-30011406,gift_item-50011406,0,0,0,,gift_item-40011406,2000,6
+11407,gift_item-10011407,2,6,50000,5,11407,311407,gift_bundle_WhiteValentina2025_M1895,gift_item-20011407,gift_item-30011407,gift_item-50011407,0,0,0,,gift_item-40011407,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6
@@ -811,6 +817,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 30025,gift_item-10030025,2,6,50000,85,30025,330025,gift_bundle_BattlePass_PK,gift_item-20030025,gift_item-30030025,gift_item-50030025,0,0,0,,gift_item-40030025,2000,6
 30026,gift_item-10030026,2,6,50000,295,30026,330026,gift_bundle_BattlePass_06TypeSMG,gift_item-20030026,gift_item-30030026,gift_item-50030026,0,0,0,,gift_item-40030026,2000,6
 30027,gift_item-10030027,2,6,50000,37,30027,330027,gift_bundle_BattlePass_M14,gift_item-20030027,gift_item-30030027,gift_item-50030027,0,0,0,,gift_item-40030027,2000,6
+30028,gift_item-10030028,2,6,50000,393,30028,330028,gift_bundle_BattlePass_Beowulf,gift_item-20030028,gift_item-30030028,gift_item-50030028,0,0,0,,gift_item-40030028,2000,6
 50001,gift_item-10050001,2,6,50000,95,50001,350001,gift_bundle_Anniversary2024_88type,gift_item-20050001,gift_item-30050001,gift_item-50050001,0,0,0,,gift_item-40050001,2000,6
 50002,gift_item-10050002,2,6,50000,1045,50002,350002,gift_bundle_ArenaBreakout_Evita,gift_item-20050002,gift_item-30050002,gift_item-50050002,0,0,0,,gift_item-40050002,2000,6
 50003,gift_item-10050003,2,6,50000,1046,50003,350003,gift_bundle_ArenaBreakout_Hecate,gift_item-20050003,gift_item-30050003,gift_item-50050003,0,0,0,,gift_item-40050003,2000,6
