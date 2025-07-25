@@ -670,6 +670,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 8608,gift_item-10008608,2,6,50000,292,8608,38608,gift_bundle_OfficeLady2023_RPK16,gift_item-20008608,gift_item-30008608,gift_item-50008608,0,0,0,,gift_item-40008608,2000,6
 8609,gift_item-10008609,2,6,50000,64,8609,38609,gift_bundle_OfficeLady2023_G36,gift_item-20008609,gift_item-30008609,gift_item-50008609,0,0,0,,gift_item-40008609,2000,6
 8610,gift_item-10008610,2,6,50000,138,8610,38610,gift_bundle_OfficeLady2023_6P62,gift_item-20008610,gift_item-30008610,gift_item-50008610,0,0,0,,gift_item-40008610,2000,6
+8611,gift_item-10008611,2,6,50000,81,8611,38611,gift_bundle_OfficeLady2023_LWMMG,gift_item-20008611,gift_item-30008611,gift_item-50008611,0,0,0,,gift_item-40008611,2000,6
 8612,gift_item-10008612,2,6,50000,61,8612,38612,gift_bundle_OfficeLady2023_STG44,gift_item-20008612,gift_item-30008612,gift_item-50008612,0,0,0,,gift_item-40008612,2000,6
 8701,gift_item-10008701,2,6,50000,260,8701,38701,gift_bundle_Dancer2023_PA15,gift_item-20008701,gift_item-30008701,gift_item-50008701,0,0,0,,gift_item-40008701,2000,6
 8702,gift_item-10008702,2,6,50000,388,8702,38702,gift_bundle_Dancer2023_QBU191,gift_item-20008702,gift_item-30008702,gift_item-50008702,0,0,0,,gift_item-40008702,2000,6
@@ -787,6 +788,12 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 11306,gift_item-10011306,2,6,50000,187,11306,311306,gift_bundle_SpringFestival2025_Ak5,gift_item-20011306,gift_item-30011306,gift_item-50011306,0,0,0,,gift_item-40011306,2000,6
 11307,gift_item-10011307,2,6,50000,227,11307,311307,gift_bundle_SpringFestival2025_A91,gift_item-20011307,gift_item-30011307,gift_item-50011307,0,0,0,,gift_item-40011307,2000,6
 11308,gift_item-10011308,2,6,50000,154,11308,311308,gift_bundle_SpringFestival2025_M500,gift_item-20011308,gift_item-30011308,gift_item-50011308,0,0,0,,gift_item-40011308,2000,6
+11401,gift_item-10011401,2,6,50000,179,11401,311401,gift_bundle_WhiteValentina2025_DSR50,gift_item-20011401,gift_item-30011401,gift_item-50011401,0,0,0,,gift_item-40011401,2000,6
+11402,gift_item-10011402,2,6,50000,62,11402,311402,gift_bundle_WhiteValentina2025_G41,gift_item-20011402,gift_item-30011402,gift_item-50011402,0,0,0,,gift_item-40011402,2000,6
+11403,gift_item-10011403,2,6,50000,109,11403,311403,gift_bundle_WhiteValentina2025_MG5,gift_item-20011403,gift_item-30011403,gift_item-50011403,0,0,0,,gift_item-40011403,2000,6
+11405,gift_item-10011405,2,6,50000,118,11405,311405,gift_bundle_WhiteValentina2025_9A91,gift_item-20011405,gift_item-30011405,gift_item-50011405,0,0,0,,gift_item-40011405,2000,6
+11406,gift_item-10011406,2,6,50000,95,11406,311406,gift_bundle_WhiteValentina2025_88type,gift_item-20011406,gift_item-30011406,gift_item-50011406,0,0,0,,gift_item-40011406,2000,6
+11407,gift_item-10011407,2,6,50000,5,11407,311407,gift_bundle_WhiteValentina2025_M1895,gift_item-20011407,gift_item-30011407,gift_item-50011407,0,0,0,,gift_item-40011407,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6

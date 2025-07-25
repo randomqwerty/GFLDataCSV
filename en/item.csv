@@ -117,6 +117,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 528,1,528,Grenade,item-10000528,item-20000528,1,0,,,0,0,,item-30000528,1,0
 529,1,529,Flashbang,item-10000529,item-20000529,1,0,,,0,0,,item-30000529,1,0
 530,1,530,Flashbang,item-10000530,item-20000530,1,0,,,0,0,,item-30000530,1,0
+531,1,531,assess202309_item1,item-10000531,item-20000531,1,0,,,0,0,,item-30000531,1,0
+532,1,532,assess202309_item2,item-10000532,item-20000532,1,0,,,0,0,,item-30000532,1,0
+533,1,533,assess202309_item3,item-10000533,item-20000533,1,0,,,0,0,,item-30000533,1,0
+534,1,534,assess202309_item3,item-10000534,item-20000534,1,0,,,0,0,,item-30000534,1,0
 535,1,1,gun_material1_coin1,item-10000535,item-20000535,1,0,,,0,0,,item-30000535,0,0
 601,1,1,DressUpRandomColoring,item-10000601,item-20000601,1,516,,,0,0,1|2,item-30000601,0,3
 602,1,1,DressUpSpecifyColoring,item-10000602,item-20000602,1,517,,,0,0,2,item-30000602,0,3
@@ -1641,6 +1645,12 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2650,5,1,card_BattlePass_CF05,item-10002650,item-20002650,1,0,,,0,0,,item-30002650,0,0
 2652,5,1,profilePic_BattlePass_M14,item-10002652,item-20002652,1,0,,,0,0,,item-30002652,0,0
 2653,5,1,card_BattlePass_M14,item-10002653,item-20002653,1,0,,,0,0,,item-30002653,0,0
+2654,5,1,profilePic_WhiteValentina2025_DSR50,item-10002654,item-20002654,1,0,,,0,0,,item-30002654,0,0
+2655,5,1,profilePic_WhiteValentina2025_G41,item-10002655,item-20002655,1,0,,,0,0,,item-30002655,0,0
+2656,5,1,profilePic_WhiteValentina2025_MG5,item-10002656,item-20002656,1,0,,,0,0,,item-30002656,0,0
+2657,5,1,profilePic_WhiteValentina2025_9A91,item-10002657,item-20002657,1,0,,,0,0,,item-30002657,0,0
+2658,5,1,profilePic_WhiteValentina2025_88type,item-10002658,item-20002658,1,0,,,0,0,,item-30002658,0,0
+2659,5,1,profilePic_WhiteValentina2025_M1895,item-10002659,item-20002659,1,0,,,0,0,,item-30002659,0,0
 2663,5,1,profilePic_BattlePass_Beowulf,item-10002663,item-20002663,1,0,,,0,0,,item-30002663,0,0
 2664,5,1,card_BattlePass_Beowulf,item-10002664,item-20002664,1,0,,,0,0,,item-30002664,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
@@ -2595,3 +2605,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000019,15,9000019,Bumdle_ChildrenDayCoupons1,item-19000019,item-29000019,1,-1,,,0,0,,item-39000019,0,1
 9000020,15,9000020,Bumdle_ChildrenDayCoupons2,item-19000020,item-29000020,1,-1,,,0,0,,item-39000020,0,1
 9000021,15,9000021,Bumdle_ChildrenDayCoupons3,item-19000021,item-29000021,1,-1,,,0,0,,item-39000021,0,1
+9000022,15,9000022,Bumdle_invocation_3,item-19000022,item-29000022,1,-1,,,0,0,,item-39000022,0,1
+9000023,15,9000023,Bumdle_invocation_2,item-19000023,item-29000023,1,-1,,,0,0,,item-39000023,0,1
+9000024,15,9000024,Bumdle_sangvischoose,item-19000024,item-29000024,1,-1,,,0,0,,item-39000024,0,1
+9000025,15,9000025,Bumdle_equipment,item-19000025,item-29000025,1,-1,,,0,0,,item-39000025,0,1

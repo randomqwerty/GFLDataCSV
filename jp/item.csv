@@ -1620,6 +1620,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2580,5,1,cg_202410Activity_01,item-10002580,item-20002580,1,0,,,0,0,,item-30002580,0,0
 2581,5,1,cg_202410Activity_02,item-10002581,item-20002581,1,0,,,0,0,,item-30002581,0,0
 2582,5,1,profilePic_sangvis_Mrsgray,item-10002582,item-20002582,1,0,,,0,0,,item-30002582,0,0
+2583,5,1,profilePic_ChessFlight_season17_1,item-10002583,item-20002583,1,0,,,0,0,,item-30002583,0,0
+2584,5,1,profilePic_ChessFlight_season17_2,item-10002584,item-20002584,1,0,,,0,0,,item-30002584,0,0
+2585,5,1,profilePic_ChessFlight_season17_3,item-10002585,item-20002585,1,0,,,0,0,,item-30002585,0,0
 2586,5,1,profilePic_ArenaBreakout_Evita,item-10002586,item-20002586,1,0,,,0,0,,item-30002586,0,0
 2587,5,1,profilePic_ArenaBreakout_Hecate,item-10002587,item-20002587,1,0,,,0,0,,item-30002587,0,0
 2588,5,1,profilePic_ArenaBreakout_P90,item-10002588,item-20002588,1,0,,,0,0,,item-30002588,0,0
@@ -1845,6 +1848,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10718,18,10718,daily_points,item-10010718,item-20010718,1,0,,,0,0,,item-30010718,0,0
 10719,18,10719,daily_points,item-10010719,item-20010719,1,0,,,0,0,,item-30010719,0,0
 10720,18,10720,daily_points,item-10010720,item-20010720,1,0,,,0,0,,item-30010720,0,0
+10721,18,10721,daily_points,item-10010721,item-20010721,1,0,,,0,0,,item-30010721,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0
@@ -2658,6 +2662,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700037,15,1700037,package_choose,item-11700037,item-21700037,1,-1,,,0,0,,item-31700037,0,1
 1700038,15,1700038,package_choose,item-11700038,item-21700038,1,-1,,,0,0,,item-31700038,0,1
 1700039,15,1700039,package_choose,item-11700039,item-21700039,1,-1,,,0,0,,item-31700039,0,1
+1700040,15,1700040,package_choose,item-11700040,item-21700040,1,-1,,,0,0,,item-31700040,0,1
+1700041,15,1700041,package_choose,item-11700041,item-21700041,1,-1,,,0,0,,item-31700041,0,1
+1700042,15,1700042,package_choose,item-11700042,item-21700042,1,-1,,,0,0,,item-31700042,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1
