@@ -272,3 +272,7 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 9500036,1,PackageImage_rank5,0,331354,0,2025-12-04 23:59:59,1994,present-19500036,0
 9500037,1,PackageImage_Sangvis,0,331355,0,2025-12-04 23:59:59,2598,present-19500037,0
 9500038,1,PackageImage_Equip,0,331356,0,2025-12-04 23:59:59,2599,present-19500038,0
+9500039,2,PackageImage_whitedayjp_1,0,0,20127,2025-09-25 23:59:59,7405,present-19500039,0
+9500040,2,PackageImage_whitedayjp_2,0,0,20128,2025-09-25 23:59:59,7406,present-19500040,0
+9500041,1,PackageImage_whitedayjp_3,0,331435,0,2025-09-25 23:59:59,331211,present-19500041,0
+9500042,1,PackageImage_whitedayjp_3,0,331443,0,2025-09-25 23:59:59,331211,present-19500042,0

@@ -1360,6 +1360,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2302,5,1,profilePic_BattlePass_MK3A1,item-10002302,item-20002302,1,0,,,0,0,,item-30002302,0,0
 2303,5,1,profilePic_7years_A,item-10002303,item-20002303,1,0,,,0,0,,item-30002303,0,0
 2304,5,1,card_7years_A,item-10002304,item-20002304,1,0,,,0,0,,item-30002304,0,0
+2305,5,1,profilePic_mask_6years,item-10002305,item-20002305,1,0,,,0,0,,item-30002305,0,0
 2306,5,1,profilePic_Anniversary2023_98K,item-10002306,item-20002306,1,0,,,0,0,,item-30002306,0,0
 2307,5,1,profilePic_Anniversary2023_DesertEagle,item-10002307,item-20002307,1,0,,,0,0,,item-30002307,0,0
 2308,5,1,profilePic_Anniversary2023_HS50,item-10002308,item-20002308,1,0,,,0,0,,item-30002308,0,0
@@ -1538,8 +1539,19 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2485,5,1,profilePic_ChessFlight_season15_3,item-10002485,item-20002485,1,0,,,0,0,,item-30002485,0,0
 2486,5,1,card_BattlePass_M99,item-10002486,item-20002486,1,0,,,0,0,,item-30002486,0,0
 2487,5,1,profilePic_BattlePass_M99,item-10002487,item-20002487,1,0,,,0,0,,item-30002487,0,0
+2488,5,1,profilePic_Anniversary2024_HK21,item-10002488,item-20002488,1,0,,,0,0,,item-30002488,0,0
+2489,5,1,profilePic_Anniversary2024_Vector,item-10002489,item-20002489,1,0,,,0,0,,item-30002489,0,0
+2490,5,1,profilePic_Anniversary2024_97type,item-10002490,item-20002490,1,0,,,0,0,,item-30002490,0,0
+2491,5,1,profilePic_Anniversary2024_ART556,item-10002491,item-20002491,1,0,,,0,0,,item-30002491,0,0
+2492,5,1,profilePic_Anniversary2024_TAC50,item-10002492,item-20002492,1,0,,,0,0,,item-30002492,0,0
+2493,5,1,profilePic_Anniversary2024_FO12,item-10002493,item-20002493,1,0,,,0,0,,item-30002493,0,0
+2494,5,1,profilePic_Anniversary2024_Stevens520,item-10002494,item-20002494,1,0,,,0,0,,item-30002494,0,0
+2495,5,1,profilePic_Anniversary2024_M2HB,item-10002495,item-20002495,1,0,,,0,0,,item-30002495,0,0
+2496,5,1,profilePic_Anniversary2024_6P62,item-10002496,item-20002496,1,0,,,0,0,,item-30002496,0,0
 2498,5,1,profilePic_Anniversary2024_88type,item-10002498,item-20002498,1,0,,,0,0,,item-30002498,0,0
 2499,5,1,cg_Anniversary2024,item-10002499,item-20002499,1,0,,,0,0,,item-30002499,0,0
+2500,5,1,profilePic_8years_A,item-10002500,item-20002500,1,0,,,0,0,,item-30002500,0,0
+2501,5,1,card_8years_A,item-10002501,item-20002501,1,0,,,0,0,,item-30002501,0,0
 2502,5,1,profilePic_rank5_RexZero1Mod,item-10002502,item-20002502,1,0,,,0,0,,item-30002502,0,0
 2503,5,1,profilePic_Masque2024_DSR50,item-10002503,item-20002503,1,0,,,0,0,,item-30002503,0,0
 2504,5,1,profilePic_Masque2024_P2000,item-10002504,item-20002504,1,0,,,0,0,,item-30002504,0,0
@@ -2008,6 +2020,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100182,4,100182,Platinum_medal_black,item-10100182,item-20100182,1,0,,,0,0,,item-30100182,0,0
 100183,4,100183,coremask_2023SlowShock,item-10100183,item-20100183,1,0,,,0,0,,item-30100183,0,0
 100184,4,100184,coremask2_2023SlowShock,item-10100184,item-20100184,1,0,,,0,0,,item-30100184,0,0
+100186,4,100186,core_mask_7year,item-10100186,item-20100186,1,0,,,0,0,,item-30100186,0,0
+100187,4,100187,Bumdle_20237year,item-10100187,item-20100187,1,0,,,0,0,,item-30100187,0,0
 100191,4,100191,Nova_medal_black,item-10100191,item-20100191,1,0,,,0,0,,item-30100191,0,0
 100192,4,100192,Platinum_medal_black,item-10100192,item-20100192,1,0,,,0,0,,item-30100192,0,0
 100193,9,100193,Mind_Coin,item-10100193,item-20100193,1,0,,60,0,0,,item-30100193,0,0
@@ -2721,3 +2735,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9500036,15,9500036,Bumdle_invocation_2,item-19500036,item-29500036,1,-1,,,0,0,,item-39500036,0,1
 9500037,15,9500037,Bumdle_sangvischoose,item-19500037,item-29500037,1,-1,,,0,0,,item-39500037,0,1
 9500038,15,9500038,Bumdle_equipment,item-19500038,item-29500038,1,-1,,,0,0,,item-39500038,0,1
+9500039,15,9500039,Bumdle_AnniversaryCoupons1,item-19500039,item-29500039,1,-1,,,0,0,,item-39500039,0,1
+9500040,15,9500040,Bumdle_AnniversaryCoupons2,item-19500040,item-29500040,1,-1,,,0,0,,item-39500040,0,1
+9500041,15,9500041,Bumdle_AnniversaryCoupons3,item-19500041,item-29500041,1,-1,,,0,0,,item-39500041,0,1
+9500042,15,9500042,Bumdle_7year,item-19500042,item-29500042,1,-1,,,0,0,,item-39500042,0,1

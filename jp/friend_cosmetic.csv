@@ -688,8 +688,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 738,1738,1,0,0,0,0,160,508-4000,1,0,profilePic_Halloween2020_M82,1,5,,5105,0,4,200005,,0
 739,1739,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_TT33,1,5,,5106,0,4,200005,,0
 740,1740,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2020_M21,1,5,,5107,0,4,200005,,0
-741,1741,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,0
-742,1742,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,0
+741,1741,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_A,1,5,,0,0,1,200005,logo_20halloween,3872
+742,1742,1,0,0,0,0,200,508-5000,1,0,profilePic_Halloween20_B,1,5,,0,0,1,200005,logo_20halloween,3873
 743,1743,2,0,0,0,0,400,508-10000,1,0,card_Halloween20_Theatre,1,5,,0,0,1,0,,3709
 745,1745,1,0,0,0,0,0,,0,0,profilePic_sangvis_Prowler_SWAP,1,5,,0,0,5,200001,,0
 746,1746,1,0,0,0,0,0,,0,0,profilePic_sangvis_Golyat_Factory,1,5,,0,0,5,200012,,0
@@ -750,7 +750,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 803,1803,1,0,0,0,0,0,,0,0,profilePic_rank4_F1Mod,1,5,,0,0,5,200001,,0
 804,1804,1,0,0,0,0,0,,0,0,profilePic_rank5_80typeMod,1,5,,0,0,5,200002,,0
 805,1805,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2021_coremask,1,5,,0,0,1,200005,logo_21winter,0
-806,1806,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2021_Grey,1,5,,0,0,1,200005,logo_21winter,0
+806,1806,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2021_Grey,1,5,,0,0,1,200005,logo_21winter,3874
 807,1807,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2021_N_M4A1,1,5,,0,0,1,200005,logo_21winter,0
 808,1808,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2021_Light,1,5,,0,0,1,200005,logo_21winter,0
 809,1809,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2021_ShadowLizz,1,5,,0,0,1,200005,logo_21winter,0
@@ -826,7 +826,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 884,1884,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2021_CZ805,1,5,,5807,0,4,200005,,0
 885,1885,1,0,0,0,0,40,508-1000,1,0,profilePic_Anniversary2021_PPsh41,1,5,,5808,0,4,200005,,0
 886,1886,1,0,0,0,0,200,508-5000,1,0,profilePic_mask_5years_A,1,5,,0,0,1,200005,logo_4years,0
-887,1887,2,0,0,0,0,400,508-10000,1,0,card_5years_A,1,5,,0,0,1,0,,0
+887,1887,2,0,0,0,0,400,508-10000,1,0,card_5years_A,1,5,,0,0,1,0,,3869
 888,1888,1,0,0,0,0,0,,0,0,profilePic_sangvis_Aegis_HD,1,5,,0,0,5,200001,,0
 889,1889,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_A,1,5,,0,0,1,200005,,0
 890,1890,1,0,0,0,0,200,508-5000,1,0,profilePic_YZ2021_B,1,5,,0,0,1,200005,logo_21swim,0
@@ -839,7 +839,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 897,1897,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2021_Ak5,1,5,,5906,0,4,200005,,0
 898,1898,1,0,0,0,0,160,508-4000,1,0,profilePic_Children2021_M82,1,5,,5907,0,4,200005,,0
 899,1899,1,0,0,0,0,80,508-2000,1,0,profilePic_Children2021_wz29,1,5,,5908,0,4,200005,,0
-900,1900,2,0,0,0,0,400,508-10000,1,0,card_Summer2021,1,5,,0,0,1|2,0,,0
+900,1900,2,0,0,0,0,400,508-10000,1,0,card_Summer2021,1,5,,0,0,1|2,0,,3870
 902,1902,1,0,0,0,0,160,508-4000,1,0,profilePic_YZ2021_VPM5,1,5,,6107,0,4,200005,,0
 906,1906,1,0,0,0,0,0,,0,0,profilePic_Dropkick2021_Yurine,1,5,,0,0,1,200005,logo_dropkick,0
 907,1907,1,0,0,0,0,0,,0,0,profilePic_Dropkick2021_Minosu,1,5,,0,0,1,200005,logo_dropkick,0
@@ -883,7 +883,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 945,1945,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_05,1,5,,0,0,1,200005,logo_21summer,0
 946,1946,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_06,1,5,,0,0,1,200005,logo_21summer,0
 947,1947,1,0,0,0,0,200,508-5000,1,0,profilePic_Summer2021_07,1,5,,0,0,1,200005,logo_21summer,0
-948,1948,2,0,0,0,0,400,508-10000,1,0,card_Summer2021_01,1,5,,0,0,1,0,,0
+948,1948,2,0,0,0,0,400,508-10000,1,0,card_Summer2021_01,1,5,,0,0,1,0,,3871
 949,1949,2,0,0,0,0,400,508-10000,1,0,card_Summer2021_02,1,5,,0,0,1,0,,0
 950,1950,2,0,0,0,0,400,508-10000,1,0,card_Summer2021_03,1,5,,0,0,1,0,,0
 951,1951,2,0,0,0,0,400,508-10000,1,0,card_Summer2021_04,1,5,,0,0,1,0,,0
@@ -1221,6 +1221,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1302,2302,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_MK3A1,1,5,,30007,0,,0,,0
 1303,2303,1,0,0,0,0,200,508-5000,0,0,profilePic_7years_A,1,5,,0,0,1,0,logo_6years,0
 1304,2304,2,0,0,0,0,400,508-10000,0,0,card_7years_A,1,5,,0,0,1,0,,0
+1305,2305,1,0,0,0,0,200,508-5000,1,0,profilePic_mask_6years,1,5,,0,0,1,0,logo_7years,0
 1306,2306,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2023_98K,1,5,,8301,0,,0,,0
 1307,2307,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2023_DesertEagle,1,5,,8302,0,,0,,0
 1308,2308,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2023_HS50,1,5,,8303,0,,0,,0
@@ -1399,8 +1400,19 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1485,2485,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season15_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
 1486,2486,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M99,1,5,,0,0,,0,,0
 1487,2487,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_M99,1,5,,30019,0,,0,,0
+1488,2488,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2024_HK21,1,5,,10401,0,,0,,0
+1489,2489,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2024_Vector,1,5,,10402,0,,0,,0
+1490,2490,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2024_97type,1,5,,10403,0,,0,,0
+1491,2491,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2024_ART556,1,5,,10404,0,,0,,0
+1492,2492,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2024_TAC50,1,5,,10405,0,,0,,0
+1493,2493,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2024_FO12,1,5,,10406,0,,0,,0
+1494,2494,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2024_Stevens520,1,5,,10407,0,,0,,0
+1495,2495,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2024_M2HB,1,5,,10408,0,,0,,0
+1496,2496,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2024_6P62,1,5,,10409,0,,0,,0
 1498,2498,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2024_88type,1,5,,50001,0,,0,,0
 1499,2499,3,0,0,0,0,0,,0,0,cg_Anniversary2024,1,5,,0,0,1,0,,0
+1500,2500,1,0,0,0,0,200,508-5000,1,0,profilePic_8years_A,1,5,,0,0,1,0,logo_7years,0
+1501,2501,2,0,0,0,0,400,508-10000,1,0,card_8years_A,1,5,,0,0,1,0,,0
 1502,2502,1,0,0,0,0,0,,0,0,profilePic_rank5_RexZero1Mod,1,5,,0,0,5,200002,,0
 1503,2503,1,0,0,0,0,200,508-5000,1,0,profilePic_Masque2024_DSR50,1,5,,10501,0,,0,,0
 1504,2504,1,0,0,0,0,200,508-5000,1,0,profilePic_Masque2024_P2000,1,5,,10502,0,,0,,0

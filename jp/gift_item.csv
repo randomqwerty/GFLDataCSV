@@ -729,6 +729,15 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10305,gift_item-10010305,2,6,50000,335,10305,310305,gift_bundle_Hospital2024_Fedorov,gift_item-20010305,gift_item-30010305,gift_item-50010305,0,0,0,,gift_item-40010305,2000,6
 10306,gift_item-10010306,2,6,50000,23,10306,310306,gift_bundle_Hospital2024_PP90,gift_item-20010306,gift_item-30010306,gift_item-50010306,0,0,0,,gift_item-40010306,2000,6
 10307,gift_item-10010307,2,6,50000,210,10307,310307,gift_bundle_Hospital2024_CZ52,gift_item-20010307,gift_item-30010307,gift_item-50010307,0,0,0,,gift_item-40010307,2000,6
+10401,gift_item-10010401,2,6,50000,208,10401,310401,gift_bundle_Anniversary2024_HK21,gift_item-20010401,gift_item-30010401,gift_item-50010401,0,0,0,,gift_item-40010401,2000,6
+10402,gift_item-10010402,2,6,50000,20,10402,310402,gift_bundle_Anniversary2024_Vector,gift_item-20010402,gift_item-30010402,gift_item-50010402,0,0,0,,gift_item-40010402,2000,6
+10403,gift_item-10010403,2,6,50000,130,10403,310403,gift_bundle_Anniversary2024_97type,gift_item-20010403,gift_item-30010403,gift_item-50010403,0,0,0,,gift_item-40010403,2000,6
+10404,gift_item-10010404,2,6,50000,175,10404,310404,gift_bundle_Anniversary2024_ART556,gift_item-20010404,gift_item-30010404,gift_item-50010404,0,0,0,,gift_item-40010404,2000,6
+10405,gift_item-10010405,2,6,50000,222,10405,310405,gift_bundle_Anniversary2024_TAC50,gift_item-20010405,gift_item-30010405,gift_item-50010405,0,0,0,,gift_item-40010405,2000,6
+10406,gift_item-10010406,2,6,50000,350,10406,310406,gift_bundle_Anniversary2024_FO12,gift_item-20010406,gift_item-30010406,gift_item-50010406,0,0,0,,gift_item-40010406,2000,6
+10407,gift_item-10010407,2,6,50000,397,10407,310407,gift_bundle_Anniversary2024_Stevens520,gift_item-20010407,gift_item-30010407,gift_item-50010407,0,0,0,,gift_item-40010407,2000,6
+10408,gift_item-10010408,2,6,50000,77,10408,310408,gift_bundle_Anniversary2024_M2HB,gift_item-20010408,gift_item-30010408,gift_item-50010408,0,0,0,,gift_item-40010408,2000,6
+10409,gift_item-10010409,2,6,50000,138,10409,310409,gift_bundle_Anniversary2024_6P62,gift_item-20010409,gift_item-30010409,gift_item-50010409,0,0,0,,gift_item-40010409,2000,6
 10501,gift_item-10010501,2,6,50000,179,10501,310501,gift_bundle_Masque2024_DSR50,gift_item-20010501,gift_item-30010501,gift_item-50010501,0,0,0,,gift_item-40010501,2000,6
 10502,gift_item-10010502,2,6,50000,399,10502,310502,gift_bundle_Masque2024_P2000,gift_item-20010502,gift_item-30010502,gift_item-50010502,0,0,0,,gift_item-40010502,2000,6
 10503,gift_item-10010503,2,6,50000,338,10503,310503,gift_bundle_Masque2024_SIGMCX,gift_item-20010503,gift_item-30010503,gift_item-50010503,0,0,0,,gift_item-40010503,2000,6
