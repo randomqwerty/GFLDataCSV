@@ -1,7 +1,11 @@
 id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,event_prize_level,rank_id
 19,-33,normal_activity-10000019,7,normal_activity-20000019,normal_activity-30000019,active_Reversible,#000000C7|#3D415166|#2B9487|#FFFFFFFF,normal_activity-40000019,Reversiblelogo,0,
+34,-59,normal_activity-10000034,104,normal_activity-20000034,normal_activity-30000034,active_2023Rouge,#000000C7|#3D415166|#5065bdFF|#FFFFFFFF,normal_activity-40000034,active_2023Rougelogo,0,
 35,-55,normal_activity-10000035,7,normal_activity-20000035,normal_activity-30000035,missionselect_Reversible_RE,,normal_activity-40000035,,10006,306
+39,-56,normal_activity-10000039,14,normal_activity-20000039,normal_activity-30000039,active_eclipses,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000039,active_eclipseslogo,0,
+44,-54,normal_activity-10000044,13,normal_activity-20000044,normal_activity-30000044,active_2022Summer,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000044,active_2022Summerlogo,0,
 45,-61,normal_activity-10000045,104,normal_activity-20000045,normal_activity-30000045,active_202307,#000000C7|#3D415166|#4a62f7|#FFFFFFFF,normal_activity-40000045,active_202307logo,0,
+46,-40402,normal_activity-10000046,13,normal_activity-20000046,normal_activity-30000046,missionselect_2022SummerExt,,normal_activity-40000046,,10012,312
 47,-62,normal_activity-10000047,104,normal_activity-20000047,normal_activity-30000047,active_2023se,#000000C7|#3D415166|#0084FF|#FFFFFFFF,normal_activity-40000047,active_2023selogo,0,
 48,-58,normal_activity-10000048,15,normal_activity-20000048,normal_activity-30000048,active_Slowshock,#000000C7|#3D415166|#0084FF|#FFFFFFFF,normal_activity-40000048,active_Slowshocklogo,0,
 49,-40403,normal_activity-10000049,15,normal_activity-20000049,normal_activity-30000049,missionselect_SlowshockExt,,normal_activity-40000049,,10013,313

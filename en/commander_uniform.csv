@@ -214,3 +214,11 @@ id,name,description,code,icon,type,gender,uniform_class,color_normal,color_0,col
 5851,commander_uniform-10005851,commander_uniform-20005851,Foot1,commander_5851_icon,5,1,58,Commander_5851_N,,,,,,0,,0,0.0,,956
 5852,commander_uniform-10005852,commander_uniform-20005852,Foot2,commander_5852_icon,5,2,58,Commander_5852_N,,,,,,0,,0,0.0,,957
 5940,commander_uniform-10005940,commander_uniform-20005940,BodyAcco,commander_5940_icon,4,0,59,Commander_5940_N,,,,,,0,BodyBinder1,0,0.2,-0.172|0.008,958
+6311,commander_uniform-10006311,commander_uniform-20006311,Head1,commander_6311_icon,1,1,63,Commander_6311_N,Commander_6311_0,Commander_6311_1,Commander_6311_2,Commander_6311_3,Commander_6311_4,0,,0,0.0,,962
+6312,commander_uniform-10006312,commander_uniform-20006312,Head2,commander_6312_icon,1,2,63,Commander_6312_N,Commander_6312_0,Commander_6312_1,Commander_6312_2,Commander_6312_3,Commander_6312_4,0,,0,0.0,,963
+6320,commander_uniform-10006320,commander_uniform-20006320,HeadAcco,commander_6320_icon,2,0,63,Commander_6320_N,Commander_6320_0,Commander_6320_1,Commander_6320_2,Commander_6320_3,Commander_6320_4,0,HairBinder2,0,0.2,-0.066|0.214,964
+6331,commander_uniform-10006331,commander_uniform-20006331,Body1,commander_6331_icon,3,1,63,Commander_6331_N,Commander_6331_0,Commander_6331_1,Commander_6331_2,Commander_6331_3,Commander_6331_4,0,,0,0.0,,965
+6332,commander_uniform-10006332,commander_uniform-20006332,Body2,commander_6332_icon,3,2,63,Commander_6332_N,Commander_6332_0,Commander_6332_1,Commander_6332_2,Commander_6332_3,Commander_6332_4,0,,0,0.0,,966
+6340,commander_uniform-10006340,commander_uniform-20006340,BodyAcco,commander_6340_icon,4,0,63,Commander_6340_N,Commander_6340_0,Commander_6340_1,Commander_6340_2,Commander_6340_3,Commander_6340_4,0,BodyBinder1,0,0.2,0.013|0.057,967
+6351,commander_uniform-10006351,commander_uniform-20006351,Foot1,commander_6351_icon,5,1,63,Commander_6351_N,Commander_6351_0,Commander_6351_1,Commander_6351_2,Commander_6351_3,Commander_6351_4,0,,0,0.0,,968
+6352,commander_uniform-10006352,commander_uniform-20006352,Foot2,commander_6352_icon,5,2,63,Commander_6352_N,Commander_6352_0,Commander_6352_1,Commander_6352_2,Commander_6352_3,Commander_6352_4,0,,0,0.0,,969
