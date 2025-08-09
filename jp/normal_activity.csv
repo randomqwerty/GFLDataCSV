@@ -33,6 +33,7 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 32,-45,normal_activity-10000032,5,normal_activity-20000032,normal_activity-30000032,missionselect_ContinuumTurbulenceRemake,,normal_activity-40000032,,10004,304
 33,-53,normal_activity-10000033,6,normal_activity-20000033,normal_activity-30000033,missionselect_PolarizedLight_RE,,normal_activity-40000033,,10005,305
 34,-59,normal_activity-10000034,104,normal_activity-20000034,normal_activity-30000034,active_2023Rouge,#000000C7|#3D415166|#5065bdFF|#FFFFFFFF,normal_activity-40000034,active_2023Rougelogo,0,
+35,-55,normal_activity-10000035,7,normal_activity-20000035,normal_activity-30000035,missionselect_Reversible_RE,,normal_activity-40000035,,10006,306
 37,-51,normal_activity-10000037,12,normal_activity-20000037,normal_activity-30000037,active_FixedPoint,#000000C7|#3D415166|#A3BD13|#FFFFFFFF,normal_activity-40000037,FixedPointlogo,0,
 38,-52,normal_activity-10000038,103,normal_activity-20000038,normal_activity-30000038,active_Bikini_2022,#000000C7|#3D415166|#c62424|#FFFFFFFF,normal_activity-40000038,Bikini_2022logo,0,
 39,-56,normal_activity-10000039,14,normal_activity-20000039,normal_activity-30000039,active_eclipses,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000039,active_eclipseslogo,0,
