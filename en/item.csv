@@ -1797,6 +1797,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10720,18,10720,daily_points,item-10010720,item-20010720,1,0,,,0,0,,item-30010720,0,0
 10721,18,10721,daily_points,item-10010721,item-20010721,1,0,,,0,0,,item-30010721,0,0
 10722,18,10722,daily_points,item-10010722,item-20010722,1,0,,,0,0,,item-30010722,0,0
+10723,18,10723,daily_points,item-10010723,item-20010723,1,0,,,0,0,,item-30010723,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30026,1,30026,gift_bundle_BattlePass_06TypeSMG,item-10030026,item-20030026,1,0,,,0,0,,item-30030026,0,0
 30027,1,30027,gift_bundle_BattlePass_M14,item-10030027,item-20030027,1,0,,,0,0,,item-30030027,0,0
@@ -2577,6 +2578,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700043,15,1700043,package_choose,item-11700043,item-21700043,1,-1,,,0,0,,item-31700043,0,1
 1700044,15,1700044,package_choose,item-11700044,item-21700044,1,-1,,,0,0,,item-31700044,0,1
 1700045,15,1700045,package_choose,item-11700045,item-21700045,1,-1,,,0,0,,item-31700045,0,1
+1700046,15,1700046,package_choose,item-11700046,item-21700046,1,-1,,,0,0,,item-31700046,0,1
+1700047,15,1700047,package_choose,item-11700047,item-21700047,1,-1,,,0,0,,item-31700047,0,1
+1700048,15,1700048,package_choose,item-11700048,item-21700048,1,-1,,,0,0,,item-31700048,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1

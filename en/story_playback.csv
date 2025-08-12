@@ -25,5 +25,6 @@ id,story_campaign_id,name,chapter,type,game_chronicle,description,is_hide,tag,or
 24,-41,story_playback-10000024,story_playback-20000024,2,,story_playback-30000024,0,story_playback-40000024,24
 25,-44,story_playback-10000025,story_playback-20000025,2,,story_playback-30000025,0,story_playback-40000025,25
 26,-48,story_playback-10000026,story_playback-20000026,2,,story_playback-30000026,0,story_playback-40000026,26
+27,-51,story_playback-10000027,story_playback-20000027,2,,story_playback-30000027,0,story_playback-40000027,27
 30,-34,story_playback-10000030,story_playback-20000030,3,,story_playback-30000030,0,story_playback-40000030,50
 31,-35,story_playback-10000031,story_playback-20000031,3,,story_playback-30000031,0,story_playback-40000031,51
