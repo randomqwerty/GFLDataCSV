@@ -86,6 +86,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 147,3,48,Medal_Theater14th_rank_NA,item-10000147,item-20000147,1,0,,,0,0,,item-30000147,0,0
 148,3,49,Medal_2025_steamreturn,item-10000148,item-20000148,1,0,,,0,0,,item-30000148,0,0
 149,3,50,Medal_202505Activity,item-10000149,item-20000149,1,0,,,0,0,,item-30000149,0,0
+150,3,51,Medal_202507Activity,item-10000150,item-20000150,1,0,,,0,0,,item-30000150,0,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0,0
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303,0,0
@@ -1823,6 +1824,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2693,5,1,profilePic_ChessFlight_season20_3,item-10002693,item-20002693,1,0,,,0,0,,item-30002693,0,0
 2694,5,1,profilePic_BattlePass_STG44,item-10002694,item-20002694,1,0,,,0,0,,item-30002694,0,0
 2695,5,1,card_BattlePass_STG44,item-10002695,item-20002695,1,0,,,0,0,,item-30002695,0,0
+2696,5,1,profilePic_202507Activity_01,item-10002696,item-20002696,1,0,,,0,0,,item-30002696,0,0
+2697,5,1,profilePic_202507Activity_02,item-10002697,item-20002697,1,0,,,0,0,,item-30002697,0,0
+2698,5,1,profilePic_202507Activity_03,item-10002698,item-20002698,1,0,,,0,0,,item-30002698,0,0
+2699,5,1,profilePic_202507Activity_04,item-10002699,item-20002699,1,0,,,0,0,,item-30002699,0,0
+2700,5,1,profilePic_202507Activity_05,item-10002700,item-20002700,1,0,,,0,0,,item-30002700,0,0
+2701,5,1,card_202507Activity_01,item-10002701,item-20002701,1,0,,,0,0,,item-30002701,0,0
+2702,5,1,card_202507Activity_02,item-10002702,item-20002702,1,0,,,0,0,,item-30002702,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -1996,6 +2004,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10728,18,10728,daily_points,item-10010728,item-20010728,1,0,,,0,0,,item-30010728,0,0
 10729,18,10729,daily_points,item-10010729,item-20010729,1,0,,,0,0,,item-30010729,0,0
 10730,18,10730,daily_points,item-10010730,item-20010730,1,0,,,0,0,,item-30010730,0,0
+10731,18,10731,daily_points,item-10010731,item-20010731,1,0,,,0,0,,item-30010731,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0
@@ -2282,6 +2291,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100277,4,100277,Nova_medal,item-10100277,item-20100277,1,0,,,0,0,,item-30100277,0,0
 100278,4,100278,Platinum_medal,item-10100278,item-20100278,1,0,,,0,0,,item-30100278,0,0
 100279,9,100279,Coin_202412ConvolutionalKernel,item-10100279,item-20100279,1,0,,60;180,0,0,,item-30100279,0,0
+100280,4,100280,Nova_medal_black,item-10100280,item-20100280,1,0,,,0,0,,item-30100280,0,0
+100281,4,100281,Platinum_medal_black,item-10100281,item-20100281,1,0,,,0,0,,item-30100281,0,0
+100282,9,100282,Coin_202507VirtualPair​,item-10100282,item-20100282,1,0,,60;180,0,0,,item-30100282,0,0
+100283,4,100283,coremask2_202507VirtualPair​,item-10100283,item-20100283,1,0,,,0,0,,item-30100283,0,0
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001,0,0
 110002,4,110002,PT,item-10110002,item-20110002,1,0,,,0,0,,item-30110002,0,0
 110003,4,110003,PT,item-10110003,item-20110003,1,0,,,0,0,,item-30110003,0,0
@@ -2902,6 +2915,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500253,15,1500253,Bumdle_FantasyCoupons1,item-11500253,item-21500253,1,-1,,,0,0,,item-31500253,0,1
 1500254,15,1500254,Bumdle_FantasyCoupons2,item-11500254,item-21500254,1,-1,,,0,0,,item-31500254,0,1
 1500255,15,1500255,Bumdle_FantasyCoupons3,item-11500255,item-21500255,1,-1,,,0,0,,item-31500255,0,1
+1500256,15,1500256,Bumdle_invocation_3,item-11500256,item-21500256,1,-1,,,0,0,,item-31500256,0,1
+1500257,15,1500257,Bumdle_invocation_2,item-11500257,item-21500257,1,-1,,,0,0,,item-31500257,0,1
+1500258,15,1500258,Bumdle_sangvischoose,item-11500258,item-21500258,1,-1,,,0,0,,item-31500258,0,1
+1500259,15,1500259,Bumdle_equipment,item-11500259,item-21500259,1,-1,,,0,0,,item-31500259,0,1
+1500260,15,1500260,Bumdle_UrbanBeautyCoupons1,item-11500260,item-21500260,1,-1,,,0,0,,item-31500260,0,1
+1500261,15,1500261,Bumdle_UrbanBeautyCoupons2,item-11500261,item-21500261,1,-1,,,0,0,,item-31500261,0,1
+1500262,15,1500262,Bumdle_UrbanBeautyCoupons3,item-11500262,item-21500262,1,-1,,,0,0,,item-31500262,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0
@@ -2974,6 +2994,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700067,15,1700067,package_choose,item-11700067,item-21700067,1,-1,,,0,0,,item-31700067,0,1
 1700068,15,1700068,package_choose,item-11700068,item-21700068,1,-1,,,0,0,,item-31700068,0,1
 1700069,15,1700069,package_choose,item-11700069,item-21700069,1,-1,,,0,0,,item-31700069,0,1
+1700070,15,1700070,package_choose,item-11700070,item-21700070,1,-1,,,0,0,,item-31700070,0,1
+1700071,15,1700071,package_choose,item-11700071,item-21700071,1,-1,,,0,0,,item-31700071,0,1
+1700072,15,1700072,package_choose,item-11700072,item-21700072,1,-1,,,0,0,,item-31700072,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1

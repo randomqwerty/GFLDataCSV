@@ -1179,3 +1179,5 @@ identity,type,count,user_exp,mp,ammo,mre,part,core,gem,gun_id,item_ids,equip_ids
 1263,c_mission,1,0,0,0,0,0,0,0,0,,,,,achievement-10001263,achievement-20001263,100,334,,0,,11868,achievement-30001263,0,1,1,c_mission_15.75
 1264,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001264,achievement-20001264,100,335,人质解救,0,,11885:1188502|11891:1188502|11895:1189502,achievement-30001264,0,0,0,
 1265,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001265,achievement-20001265,100,336,不使用控制台,0,,11887:1188702|11892:1188702|11896:1189602,achievement-30001265,0,0,0,
+1266,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001266,achievement-20001266,100,337,蛛网剪除,0,,11920:1192002|11927:1192002|11932:1192002,achievement-30001266,0,0,0,
+1267,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001267,achievement-20001267,100,338,无形之手,0,,11924:1192402,achievement-30001267,0,0,0,
