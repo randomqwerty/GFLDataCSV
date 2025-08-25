@@ -1689,6 +1689,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1700,2700,1,0,0,0,0,0,,0,0,profilePic_202507Activity_05,1,5,,0,0,1,0,logo_202507Activity,0
 1701,2701,2,0,0,0,0,0,,0,0,card_202507Activity_01,1,5,,0,0,1,0,,0
 1702,2702,2,0,0,0,0,0,,0,0,card_202507Activity_02,1,5,,0,0,1,0,,0
+1703,2703,1,0,0,0,0,80,508-2000,1,0,profilePic_BattlePass_Six12,1,5,,30032,0,4,0,,0
+1704,2704,2,0,0,0,0,0,,0,0,card_BattlePass_Six12,1,5,,0,0,,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0
@@ -1747,3 +1749,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100054,200054,4,0,0,0,0,150,508-3750,0,0,profileFrame_BattlePass_LTLX7000,1,5,,0,0,5,0,,0
 100055,200055,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_FO12,1,5,,0,0,5,0,,0
 100056,200056,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_STG44,1,5,,0,0,5,0,,0
+100057,200057,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Six12,1,5,,0,0,5,0,,0

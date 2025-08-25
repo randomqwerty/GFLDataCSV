@@ -2075,6 +2075,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100251,4,100251,coremask2_202412ConvolutionalKernel,item-10100251,item-20100251,1,0,,,0,0,,item-30100251,0,0
 100252,4,100252,coremask_202412ConvolutionalKernel,item-10100252,item-20100252,1,0,,,0,0,,item-30100252,0,0
 100253,4,100253,core_mask_NewYear2025_JP,item-10100253,item-20100253,1,0,,,0,0,,item-30100253,0,0
+100254,4,100254,Nova_medal_black,item-10100254,item-20100254,1,0,,,0,0,,item-30100254,0,0
+100255,4,100255,Platinum_medal_black,item-10100255,item-20100255,1,0,,,0,0,,item-30100255,0,0
+100256,9,100256,Coin_202404Shapeofmemory,item-10100256,item-20100256,1,0,,90;270,0,0,,item-30100256,0,0
 110001,4,110001,PT,item-10110001,item-20110001,1,0,,,0,0,,item-30110001,0,0
 110002,4,110002,PT,item-10110002,item-20110002,1,0,,,0,0,,item-30110002,0,0
 110003,4,110003,PT,item-10110003,item-20110003,1,0,,,0,0,,item-30110003,0,0
@@ -2754,3 +2757,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9500040,15,9500040,Bumdle_AnniversaryCoupons2,item-19500040,item-29500040,1,-1,,,0,0,,item-39500040,0,1
 9500041,15,9500041,Bumdle_AnniversaryCoupons3,item-19500041,item-29500041,1,-1,,,0,0,,item-39500041,0,1
 9500042,15,9500042,Bumdle_7year,item-19500042,item-29500042,1,-1,,,0,0,,item-39500042,0,1
+9500043,15,9500043,Bumdle_SummerdayCoupons1,item-19500043,item-29500043,1,-1,,,0,0,,item-39500043,0,1
+9500044,15,9500044,Bumdle_SummerdayCoupons2,item-19500044,item-29500044,1,-1,,,0,0,,item-39500044,0,1
+9500045,15,9500045,Bumdle_SummerdayCoupons3,item-19500045,item-29500045,1,-1,,,0,0,,item-39500045,0,1

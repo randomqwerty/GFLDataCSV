@@ -1299,6 +1299,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1381,2381,1,0,0,0,0,80,508-2000,1,0,profilePic_Halloween2023_MicroUZI,1,5,,8807,0,,0,,0
 1382,2382,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_MLEMK1,1,5,,0,0,,0,,3309
 1383,2383,2,0,0,0,0,320,508-8000,1,0,card_friendmall_MLEMK1,1,5,,0,0,,0,,3306
+1384,2384,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season13_1,1,5,,0,0,1,200008,logo_flightchess_major,0
+1385,2385,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season13_2,1,5,,0,0,1,200007,logo_flightchess_general,0
+1386,2386,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season13_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
 1387,2387,1,0,0,0,0,160,508-4000,1,0,profilePic_Dining2023_M4A1,1,5,,8901,0,,0,,0
 1388,2388,1,0,0,0,0,160,508-4000,1,0,profilePic_Dining2023_M4 SOPMOD II,1,5,,8902,0,,0,,0
 1389,2389,1,0,0,0,0,160,508-4000,1,0,profilePic_Dining2023_AR15,1,5,,8903,0,,0,,0
@@ -1454,6 +1457,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1553,2553,2,0,0,0,0,0,,0,0,card_202408Activity_02,1,5,,0,0,1,0,,0
 1554,2554,3,0,0,0,0,600,508-15000,0,0,cg_202408Activity_01,1,5,,0,0,1,0,,0
 1555,2555,3,0,0,0,0,600,508-15000,0,0,cg_202408Activity_02,1,5,,0,0,1,0,,0
+1556,2556,1,0,0,0,0,0,,0,0,profilePic_sangvis_GagerSwimwear,1,5,,0,0,5,200002,,0
 1557,2557,1,0,0,0,0,40,508-1000,1,0,profilePic_BattlePass_LWMMG,1,5,,30022,0,,0,,0
 1558,2558,2,0,0,0,0,0,,0,0,card_BattlePass_LWMMG,1,5,,0,0,,0,,0
 1559,2559,1,0,0,0,0,200,508-5000,1,0,profilePic_Bunny24_FM24,1,5,,10801,0,,0,,0

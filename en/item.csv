@@ -1429,6 +1429,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2381,5,1,profilePic_Halloween2023_MicroUZI,item-10002381,item-20002381,1,0,,,0,0,,item-30002381,0,0
 2382,5,1,profilePic_friendmall_MLEMK1,item-10002382,item-20002382,1,0,,,0,0,,item-30002382,0,0
 2383,5,1,card_friendmall_MLEMK1,item-10002383,item-20002383,1,0,,,0,0,,item-30002383,0,0
+2384,5,1,profilePic_ChessFlight_season13_1,item-10002384,item-20002384,1,0,,,0,0,,item-30002384,0,0
+2385,5,1,profilePic_ChessFlight_season13_2,item-10002385,item-20002385,1,0,,,0,0,,item-30002385,0,0
+2386,5,1,profilePic_ChessFlight_season13_3,item-10002386,item-20002386,1,0,,,0,0,,item-30002386,0,0
 2387,5,1,profilePic_Dining2023_M4A1,item-10002387,item-20002387,1,0,,,0,0,,item-30002387,0,0
 2388,5,1,profilePic_Dining2023_M4 SOPMOD II,item-10002388,item-20002388,1,0,,,0,0,,item-30002388,0,0
 2389,5,1,profilePic_Dining2023_AR15,item-10002389,item-20002389,1,0,,,0,0,,item-30002389,0,0
@@ -1584,6 +1587,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2553,5,1,card_202408Activity_02,item-10002553,item-20002553,1,0,,,0,0,,item-30002553,0,0
 2554,5,1,cg_202408Activity_01,item-10002554,item-20002554,1,0,,,0,0,,item-30002554,0,0
 2555,5,1,cg_202408Activity_02,item-10002555,item-20002555,1,0,,,0,0,,item-30002555,0,0
+2556,5,1,profilePic_sangvis_GagerSwimwear,item-10002556,item-20002556,1,0,,,0,0,,item-30002556,0,0
 2557,5,1,profilePic_BattlePass_LWMMG,item-10002557,item-20002557,1,0,,,0,0,,item-30002557,0,0
 2558,5,1,card_BattlePass_LWMMG,item-10002558,item-20002558,1,0,,,0,0,,item-30002558,0,0
 2559,5,1,profilePic_Bunny24_FM24,item-10002559,item-20002559,1,0,,,0,0,,item-30002559,0,0
@@ -2068,6 +2072,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 120006,10,6,bondage_lines_icon,item-10120006,item-20120006,1,0,,,0,0,,item-30120006,0,0
 121001,1,1,FlightChessMap3_small,item-10121001,item-20121001,1,0,,,0,0,,item-30121001,0,0
 121002,1,1,FlightChessMap5_small,item-10121002,item-20121002,1,0,,,0,0,,item-30121002,0,0
+121003,1,1,FlightChessMap6_small,item-10121003,item-20121003,1,0,,,0,0,,item-30121003,0,0
 130001,12,130001,Y_Z_zhihuiguan,item-10130001,item-20130001,1,0,,,0,0,,item-30130001,0,0
 130002,12,130002,Y_Z_zhihuiguan_19summer,item-10130002,item-20130002,1,0,,,0,0,,item-30130002,0,0
 130003,12,130003,Y_Z_zhihuiguan_yukata,item-10130003,item-20130003,1,0,,,0,0,,item-30130003,0,0
