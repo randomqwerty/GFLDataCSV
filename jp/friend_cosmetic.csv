@@ -959,6 +959,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1022,2022,1,0,0,0,0,0,,0,0,profilePic_rank5_XM8Mod,1,5,,0,0,5,200002,,0
 1023,2023,1,0,0,0,0,0,,0,0,profilePic_rank6_AK15Mod,1,5,,0,0,5,200003,,0
 1025,2025,1,0,0,0,0,0,,0,0,profilePic_sangvis_Destroyer_Christmas,1,5,,0,0,5,200002,,0
+1026,2026,1,0,0,0,0,0,,0,0,profilePic_sangvis_Guard_chm,1,5,,0,0,5,200001,,0
 1027,2027,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_coremask,100,5,,0,0,1,200005,logo_22winter,0
 1028,2028,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_01,1,5,,0,0,1,200005,logo_22winter,0
 1029,2029,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_02,1,5,,0,0,1,200005,logo_22winter,0

@@ -774,6 +774,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 10905,gift_item-10010905,2,6,50000,114,10905,310905,gift_bundle_Revenge2024_Welrod,gift_item-20010905,gift_item-30010905,gift_item-50010905,0,0,0,,gift_item-40010905,2000,6
 10906,gift_item-10010906,2,6,50000,57,10906,310906,gift_bundle_Revenge2024_AR15,gift_item-20010906,gift_item-30010906,gift_item-50010906,0,0,0,,gift_item-40010906,2000,6
 10907,gift_item-10010907,2,6,50000,308,10907,310907,gift_bundle_Revenge2024_C14,gift_item-20010907,gift_item-30010907,gift_item-50010907,0,0,0,,gift_item-40010907,2000,6
+11001,gift_item-10011001,2,6,50000,389,11001,311001,gift_bundle_Mahoushaojiu2024_BoysAntiTank,gift_item-20011001,gift_item-30011001,gift_item-50011001,0,0,0,,gift_item-40011001,2000,6
+11002,gift_item-10011002,2,6,50000,46,11002,311002,gift_bundle_Mahoushaojiu2024_98K,gift_item-20011002,gift_item-30011002,gift_item-50011002,0,0,0,,gift_item-40011002,2000,6
+11003,gift_item-10011003,2,6,50000,367,11003,311003,gift_bundle_Mahoushaojiu2024_MK3A1,gift_item-20011003,gift_item-30011003,gift_item-50011003,0,0,0,,gift_item-40011003,2000,6
+11004,gift_item-10011004,2,6,50000,307,11004,311004,gift_bundle_Mahoushaojiu2024_ZB26,gift_item-20011004,gift_item-30011004,gift_item-50011004,0,0,0,,gift_item-40011004,2000,6
+11005,gift_item-10011005,2,6,50000,400,11005,311005,gift_bundle_Mahoushaojiu2024_M1851N,gift_item-20011005,gift_item-30011005,gift_item-50011005,0,0,0,,gift_item-40011005,2000,6
+11006,gift_item-10011006,2,6,50000,226,11006,311006,gift_bundle_Mahoushaojiu2024_Mk12,gift_item-20011006,gift_item-30011006,gift_item-50011006,0,0,0,,gift_item-40011006,2000,6
+11007,gift_item-10011007,2,6,50000,6,11007,311007,gift_bundle_Mahoushaojiu2024_TT33,gift_item-20011007,gift_item-30011007,gift_item-50011007,0,0,0,,gift_item-40011007,2000,6
 11201,gift_item-10011201,2,6,50000,366,11201,311201,gift_bundle_NewYear2025_SPAS15,gift_item-20011201,gift_item-30011201,gift_item-50011201,0,0,0,,gift_item-40011201,2000,6
 11202,gift_item-10011202,2,6,50000,4,11202,311202,gift_bundle_NewYear2025_Python,gift_item-20011202,gift_item-30011202,gift_item-50011202,0,0,0,,gift_item-40011202,2000,6
 11203,gift_item-10011203,2,6,50000,334,11203,311203,gift_bundle_NewYear2025_Savage99,gift_item-20011203,gift_item-30011203,gift_item-50011203,0,0,0,,gift_item-40011203,2000,6

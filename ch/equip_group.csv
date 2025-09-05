@@ -59,3 +59,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 58,equip_group-10000058,equip_group-20000058,EgroupK5,459|0|334,2:1007103,20212,0
 59,equip_group-10000059,equip_group-20000059,EgroupAUG,295|0|462,2:1007903,73,0
 60,equip_group-10000060,equip_group-20000060,EgroupM1903,59|0|463,2:1008003,36,0
+61,equip_group-10000061,equip_group-20000061,EgroupSaiga12,465|0|292,2:1008203,160,0
+62,equip_group-10000062,equip_group-20000062,EgroupPK,466|264|0,2:1008303,85,0

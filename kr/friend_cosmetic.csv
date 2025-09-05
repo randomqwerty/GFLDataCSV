@@ -1025,9 +1025,9 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1027,2027,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_coremask,100,5,,0,0,1,200005,logo_22winter,0
 1028,2028,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_01,1,5,,0,0,1,200005,logo_22winter,4090
 1029,2029,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_02,1,5,,0,0,1,200005,logo_22winter,4091
-1030,2030,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_03,1,5,,0,0,1,200005,logo_22winter,0
-1031,2031,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_04,1,5,,0,0,1,200005,logo_22winter,0
-1032,2032,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_05,1,5,,0,0,1,200005,logo_22winter,0
+1030,2030,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_03,1,5,,0,0,1,200005,logo_22winter,4139
+1031,2031,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_04,1,5,,0,0,1,200005,logo_22winter,4140
+1032,2032,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_05,1,5,,0,0,1,200005,logo_22winter,4141
 1033,2033,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_06,1,5,,0,0,1,200005,logo_22winter,0
 1034,2034,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_07,1,5,,0,0,1,200005,logo_22winter,0
 1035,2035,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_01,1,5,,0,0,1,0,,3878
@@ -1283,14 +1283,14 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1294,2294,1,0,0,0,0,200,508-5000,1,0,profilePic_SlowShockActivity2023_08,1,5,,0,0,1,0,logo_23winter,0
 1295,2295,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_01,1,5,,0,0,1,0,,4087
 1296,2296,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_02,1,5,,0,0,1,0,,4088
-1297,2297,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_03,1,5,,0,0,1,0,,0
-1298,2298,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_04,1,5,,0,0,1,0,,0
+1297,2297,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_03,1,5,,0,0,1,0,,4136
+1298,2298,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_04,1,5,,0,0,1,0,,4137
 1299,2299,3,0,0,0,0,600,508-15000,1,0,cg_SlowShockActivity2023_01,1,5,,0,0,1,0,,0
 1300,2300,1,0,0,0,0,0,,0,0,profilePic_Winter2023_coremask,1,5,,0,0,1,0,logo_23winter,0
 1301,2301,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_MK3A1,1,5,,0,0,,0,,0
 1302,2302,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_MK3A1,1,5,,30007,0,4,0,,0
 1303,2303,1,0,0,0,0,200,508-5000,1,0,profilePic_7years_A,1,5,,0,0,1,0,logo_7years,0
-1304,2304,2,0,0,0,0,400,508-10000,1,0,card_7years_A,1,5,,0,0,1,0,,0
+1304,2304,2,0,0,0,0,400,508-10000,1,0,card_7years_A,1,5,,0,0,1,0,,4138
 1305,2305,1,0,0,0,0,200,508-5000,1,0,profilePic_mask_6years,1,5,,0,0,1,0,logo_7years,0
 1306,2306,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2023_98K,1,5,,8301,0,4,0,,0
 1307,2307,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2023_DesertEagle,1,5,,8302,0,4,0,,0
@@ -1689,6 +1689,11 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1700,2700,1,0,0,0,0,0,,0,0,profilePic_202507Activity_05,1,5,,0,0,1,0,logo_202507Activity,0
 1701,2701,2,0,0,0,0,0,,0,0,card_202507Activity_01,1,5,,0,0,1,0,,0
 1702,2702,2,0,0,0,0,0,,0,0,card_202507Activity_02,1,5,,0,0,1,0,,0
+1703,2703,1,0,0,0,0,80,508-2000,1,0,profilePic_BattlePass_Six12,1,5,,30032,0,4,0,,0
+1704,2704,2,0,0,0,0,0,,0,0,card_BattlePass_Six12,1,5,,0,0,,0,,0
+1705,2705,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season21_1,1,5,,0,0,1,200008,logo_flightchess_major,0
+1706,2706,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season21_2,1,5,,0,0,1,200007,logo_flightchess_general,0
+1707,2707,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season21_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0
@@ -1747,3 +1752,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100054,200054,4,0,0,0,0,150,508-3750,0,0,profileFrame_BattlePass_LTLX7000,1,5,,0,0,5,0,,0
 100055,200055,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_FO12,1,5,,0,0,5,0,,0
 100056,200056,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_STG44,1,5,,0,0,5,0,,0
+100057,200057,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Six12,1,5,,0,0,5,0,,0

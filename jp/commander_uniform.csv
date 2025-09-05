@@ -226,6 +226,7 @@ id,name,description,code,icon,type,gender,uniform_class,color_normal,color_0,col
 5852,commander_uniform-10005852,commander_uniform-20005852,Foot2,commander_5852_icon,5,2,58,Commander_5852_N,,,,,,0,,0,0.0,,957
 5940,commander_uniform-10005940,commander_uniform-20005940,BodyAcco,commander_5940_icon,4,0,59,Commander_5940_N,,,,,,0,BodyBinder1,0,0.2,-0.172|0.008,958
 6133,commander_uniform-10006133,commander_uniform-20006133,Body,commander_6133_icon,3,0,11,Commander_6133_N,,,,,,0,,0,0.0,,960
+6240,commander_uniform-10006240,commander_uniform-20006240,BodyAcco,commander_6240_icon,4,0,62,Commander_6240_N,,,,,,0,BodyBinder1,0,0.2,-0.17|0,961
 6311,commander_uniform-10006311,commander_uniform-20006311,Head1,commander_6311_icon,1,1,63,Commander_6311_N,Commander_6311_0,Commander_6311_1,Commander_6311_2,Commander_6311_3,Commander_6311_4,0,,0,0.0,,962
 6312,commander_uniform-10006312,commander_uniform-20006312,Head2,commander_6312_icon,1,2,63,Commander_6312_N,Commander_6312_0,Commander_6312_1,Commander_6312_2,Commander_6312_3,Commander_6312_4,0,,0,0.0,,963
 6320,commander_uniform-10006320,commander_uniform-20006320,HeadAcco,commander_6320_icon,2,0,63,Commander_6320_N,Commander_6320_0,Commander_6320_1,Commander_6320_2,Commander_6320_3,Commander_6320_4,0,HairBinder2,0,0.2,-0.066|0.214,964
