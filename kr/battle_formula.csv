@@ -4259,6 +4259,9 @@ id,formula
 9922,sbuffidtier(9910)>0?580:290
 9923,sbuffidtier(9910)>0?600:300
 9924,sbuffidtier(9910)>0?1:0
+9925,sbuffidtier(9912)=1&sbuffidtier(9913)=1?1:0
+9926,sbuffidtier(9915)=1&sbuffidtier(9916)=1?1:0
+9927,#enemytype=1?$1:sbuffidtier(9914)>0?#distancex<7?((#distancez<1)&(#distancex<1)?999999*(1-#def/#maxdef):($1*(4-(#distancex-1)*0.5))):$1:$1
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0

@@ -1,7 +1,10 @@
 id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,event_prize_level,rank_id
 19,-33,normal_activity-10000019,7,normal_activity-20000019,normal_activity-30000019,active_Reversible,#000000C7|#3D415166|#2B9487|#FFFFFFFF,normal_activity-40000019,Reversiblelogo,0,
+21,-41,normal_activity-10000021,9,normal_activity-20000021,normal_activity-30000021,active_DualRandomness,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000021,DualRandomnesslogo,0,
 22,-44,normal_activity-10000022,10,normal_activity-20000022,normal_activity-30000022,active_mirrorstage,#000000C7|#3D415166|#A3BD13|#FFFFFFFF,normal_activity-40000022,mirrorstagelogo,0,
 23,-48,normal_activity-10000023,11,normal_activity-20000023,normal_activity-30000023,active_PoincareRecurrence,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000023,PoincareRecurrencelogo,0,
+25,-35,normal_activity-10000025,100,normal_activity-20000025,normal_activity-30000025,active_19Xmas,#000000C7|#3D415166|#D9531A|#FFFFFFFF,normal_activity-40000025,,0,
+26,-37,normal_activity-10000026,101,normal_activity-20000026,normal_activity-30000026,active_WhiteDay2020,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000026,active_WhiteDay2020logo,0,
 27,-40,normal_activity-10000027,101,normal_activity-20000027,normal_activity-30000027,active_Bikini2020,#000000C7|#3D415166|#2975fd|#FFFFFFFF,normal_activity-40000027,,0,
 28,-47,normal_activity-10000028,102,normal_activity-20000028,normal_activity-30000028,active_Bikini2021,#000000C7|#3D415166|#22d0ab|#FFFFFFFF,normal_activity-40000028,,0,
 30,-42,normal_activity-10000030,101,normal_activity-20000030,normal_activity-30000030,active_Halloween2020,#000000C7|#3D415166|#E64801FF|#FFFFFFFF,normal_activity-40000030,Halloween2020logo,0,
@@ -11,6 +14,7 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 37,-51,normal_activity-10000037,12,normal_activity-20000037,normal_activity-30000037,active_FixedPoint,#000000C7|#3D415166|#A3BD13|#FFFFFFFF,normal_activity-40000037,FixedPointlogo,0,
 38,-52,normal_activity-10000038,103,normal_activity-20000038,normal_activity-30000038,active_Bikini_2022,#000000C7|#3D415166|#c62424|#FFFFFFFF,normal_activity-40000038,Bikini_2022logo,0,
 39,-56,normal_activity-10000039,14,normal_activity-20000039,normal_activity-30000039,active_eclipses,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000039,active_eclipseslogo,0,
+40,-63,normal_activity-10000040,9,normal_activity-20000040,normal_activity-30000040,missionselect_DualRandomness_RE,,normal_activity-40000040,,10008,308
 41,-65,normal_activity-10000041,10,normal_activity-20000041,normal_activity-30000041,missionselect_MirrorStage_RE,,normal_activity-40000041,,10009,309
 42,-67,normal_activity-10000042,11,normal_activity-20000042,normal_activity-30000042,missionselect_PoincareRecurrenceRemake,,normal_activity-40000042,,10010,310
 43,-40401,normal_activity-10000043,12,normal_activity-20000043,normal_activity-30000043,missionselect_FixedPoint_RE,,normal_activity-40000043,,10011,311
