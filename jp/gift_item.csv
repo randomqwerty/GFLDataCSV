@@ -26,6 +26,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 208,gift_item-10000208,2,6,50000,-1,208,0,gift_bundle_kalina_208,gift_item-20000208,gift_item-30000208,gift_item-50000208,0,0,0,,gift_item-40000208,2000,0
 209,gift_item-10000209,2,6,50000,-1,209,0,gift_bundle_kalina_209,gift_item-20000209,gift_item-30000209,gift_item-50000209,0,0,0,,gift_item-40000209,2000,0
 210,gift_item-10000210,2,6,50000,-5,210,0,gift_bundle_Persica_210,gift_item-20000210,gift_item-30000210,gift_item-50000210,0,0,0,,gift_item-40000210,2000,0
+212,gift_item-10000212,2,6,50000,-1,212,0,gift_bundle_kalina_212,gift_item-20000212,gift_item-30000212,gift_item-50000212,0,0,0,,gift_item-40000212,2000,0
 301,gift_item-10000301,2,6,50000,1,301,30301,gift_bundle_xmas_M1873,gift_item-20000301,gift_item-30000301,gift_item-50000301,0,0,0,,gift_item-40000301,2000,6
 302,gift_item-10000302,2,6,50000,36,302,30302,gift_bundle_xmas_M1903,gift_item-20000302,gift_item-30000302,gift_item-50000302,0,0,0,,gift_item-40000302,2000,6
 303,gift_item-10000303,2,6,50000,37,303,30303,gift_bundle_xmas_M14,gift_item-20000303,gift_item-30000303,gift_item-50000303,0,0,0,,gift_item-40000303,2000,6

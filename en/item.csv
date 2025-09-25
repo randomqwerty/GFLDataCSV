@@ -1090,6 +1090,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2022,5,1,profilePic_rank5_XM8Mod,item-10002022,item-20002022,1,0,,,0,0,,item-30002022,0,0
 2023,5,1,profilePic_rank6_AK15Mod,item-10002023,item-20002023,1,0,,,0,0,,item-30002023,0,0
 2025,5,1,profilePic_sangvis_Destroyer_Christmas,item-10002025,item-20002025,1,0,,,0,0,,item-30002025,0,0
+2026,5,1,profilePic_sangvis_Guard_chm,item-10002026,item-20002026,1,0,,,0,0,,item-30002026,0,0
 2027,5,1,profilePic_Winter2022_coremask,item-10002027,item-20002027,1,0,,,0,0,,item-30002027,0,0
 2028,5,1,profilePic_Winter2022_01,item-10002028,item-20002028,1,0,,,0,0,,item-30002028,0,0
 2029,5,1,profilePic_Winter2022_02,item-10002029,item-20002029,1,0,,,0,0,,item-30002029,0,0
@@ -1742,6 +1743,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 7036,7,7036,qjyd_20220601,item-10007036,item-20007036,1,0,,,0,0,,item-30007036,0,0
 7037,7,7037,qjyd_20220602,item-10007037,item-20007037,1,0,,,0,0,,item-30007037,0,0
 7038,7,7038,qjyd_20220603,item-10007038,item-20007038,1,0,,,0,0,,item-30007038,0,0
+7039,7,7039,qjyd_20220901,item-10007039,item-20007039,1,0,,,0,0,,item-30007039,0,0
+7040,7,7040,qjyd_20220902,item-10007040,item-20007040,1,0,,,0,0,,item-30007040,0,0
+7041,7,7041,qjyd_20220903,item-10007041,item-20007041,1,0,,,0,0,,item-30007041,0,0
 7201,7,7201,se_f_SpadeStorm,item-10007201,item-20007201,1,0,,,0,0,,item-30007201,0,0
 8001,8,8001,Coin,item-10008001,item-20008001,1,0,200;30000,250;0,0,0,,item-30008001,0,0
 8002,8,8002,Coin,item-10008002,item-20008002,1,0,1000;30000,100;0,0,0,,item-30008002,0,0
@@ -2018,6 +2022,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100234,4,100234,Platinum_medal,item-10100234,item-20100234,1,0,,,0,0,,item-30100234,0,0
 100235,9,100235,Coin_202408AngularGyrus,item-10100235,item-20100235,1,0,,60,0,0,,item-30100235,0,0
 100236,4,100236,coremask2_202408AngularGyrus,item-10100236,item-20100236,1,0,,,0,0,,item-30100236,0,0
+100239,4,100239,Bumdle_October3,item-10100239,item-20100239,1,0,,,0,0,,item-30100239,0,0
 100240,4,100240,core_mask_24Hallowmas_NA,item-10100240,item-20100240,1,0,,,0,0,,item-30100240,0,0
 100241,4,100241,Nova_medal,item-10100241,item-20100241,1,0,,,0,0,,item-30100241,0,0
 100242,4,100242,Platinum_medal,item-10100242,item-20100242,1,0,,,0,0,,item-30100242,0,0
