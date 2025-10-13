@@ -1901,6 +1901,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 20173,furniture-10020173,20,302,0,11|11|0|0|0|0,1000,100003,furniture-20020173,pv_202505activity,1,5,0|0.05|0,3,0,0,0,0,0,0
 20174,furniture-10020174,19,201,0,4|4|0|0|0|0,1000,100003,furniture-20020174,202507Activity_Kalina_Cat,2,0,0.000|0.188|0.000,2,0,0,0,2|2|2,0,0
 20175,furniture-10020175,19,302,0,2|5|1|1|1|0,1000,100003,furniture-20020175,202507Activity_Medal,1,0,0|0|0,3,0,0,0,0,0,0
+20176,furniture-10020176,19,201,0,3|3|0|0|0|0,750,100003,furniture-20020176,2025NationalDay_Dinergate,2,15,-0.008|0.083|0.000,2,0,0,0,3|3|3,0,0
 30001,furniture-10030001,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030001,poster_pm_halloween,1,5,0|0|0,2,0,0,0,0,0,0
 30002,furniture-10030002,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030002,poster_vector_halloween,1,5,0|0|0,2,0,0,0,0,0,0
 30003,furniture-10030003,300,303,0,3|6|1|1|1|0,750,100003,furniture-20030003,poster_mp5_halloween,1,5,0|0|0,2,0,0,0,0,0,0
@@ -3052,6 +3053,7 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 330030,furniture-10330030,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330030,poster_BattlePass_FO12,1,5,0|0|0,3,0,0,0,0,0,0
 330031,furniture-10330031,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330031,poster_BattlePass_STG44,1,5,0|0|0,3,0,0,0,0,0,0
 330032,furniture-10330032,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330032,poster_BattlePass_Six12,1,5,0|0|0,3,0,0,0,0,0,0
+330033,furniture-10330033,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330033,poster_BattlePass_HK416,1,5,0|0|0,3,0,0,0,0,0,0
 350001,furniture-10350001,300,303,0,3|6|1|1|1|0,750,100003,furniture-20350001,poster_Anniversary2024_88type,1,5,0|0|0,3,0,0,0,0,0,0
 350002,furniture-10350002,300,303,0,3|6|1|1|1|0,750,100003,furniture-20350002,poster_ArenaBreakout_Evita,1,5,0|0|0,3,0,0,0,0,0,0
 350003,furniture-10350003,300,303,0,3|6|1|1|1|0,750,100003,furniture-20350003,poster_ArenaBreakout_Hecate,1,5,0|0|0,3,0,0,0,0,0,0

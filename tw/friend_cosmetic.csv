@@ -1028,8 +1028,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1030,2030,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_03,1,5,,0,0,1,200005,logo_22winter,4139
 1031,2031,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_04,1,5,,0,0,1,200005,logo_22winter,4140
 1032,2032,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_05,1,5,,0,0,1,200005,logo_22winter,4141
-1033,2033,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_06,1,5,,0,0,1,200005,logo_22winter,0
-1034,2034,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_07,1,5,,0,0,1,200005,logo_22winter,0
+1033,2033,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_06,1,5,,0,0,1,200005,logo_22winter,4157
+1034,2034,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_07,1,5,,0,0,1,200005,logo_22winter,4158
 1035,2035,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_01,1,5,,0,0,1,0,,3878
 1036,2036,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_02,1,5,,0,0,1,0,,3879
 1037,2037,2,0,0,0,0,400,508-10000,1,0,card_Winter2022_03,1,5,,0,0,1,0,,3880
@@ -1054,7 +1054,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1056,2056,1,0,0,0,0,80,508-2000,1,0,profilePic_WhiteV2022_M1,1,5,,6907,0,4,200005,,0
 1057,2057,1,0,0,0,0,80,508-2000,1,0,profilePic_WhiteV2022_Falcon,1,5,,6908,0,4,200005,,0
 1058,2058,1,0,0,0,0,40,508-1000,1,0,profilePic_WhiteV2022_LWMMG,1,5,,6909,0,4,200005,,0
-1059,2059,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_01,1,5,,0,0,1,200005,logo_22whiteV,0
+1059,2059,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_01,1,5,,0,0,1,200005,logo_22whiteV,4159
 1060,2060,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_02,1,5,,0,0,1,200005,logo_22whiteV,0
 1061,2061,1,0,0,0,0,200,508-5000,1,0,profilePic_WhiteV2022Activity_03,1,5,,0,0,1,200005,logo_22whiteV,0
 1062,2062,2,0,0,0,0,400,508-10000,1,0,card_WhiteV2022Activity_01,1,5,,0,0,1,0,,3889
@@ -1301,7 +1301,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1312,2312,1,0,0,0,0,200,508-5000,1,0,profilePic_Anniversary2023_SR2,1,5,,8307,0,4,0,,0
 1313,2313,1,0,0,0,0,80,508-2000,1,0,profilePic_Anniversary2023_M1,1,5,,8309,0,4,0,,0
 1314,2314,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_PA15,1,5,,0,0,,0,,0
-1315,2315,2,0,0,0,0,320,508-8000,1,0,card_friendmall_PA15,1,5,,0,0,,0,,0
+1315,2315,2,0,0,0,0,320,508-8000,1,0,card_friendmall_PA15,1,5,,0,0,,0,,4154
 1316,2316,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_QBZ191,1,5,,0,0,,0,,0
 1317,2317,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_QBZ191,1,5,,30008,0,4,0,,0
 1318,2318,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season11_1,1,5,,0,0,1,200008,logo_flightchess_major,0
@@ -1316,7 +1316,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1327,2327,1,0,0,0,0,80,508-2000,1,0,profilePic_Children2023_C96,1,5,,8405,0,4,0,,0
 1328,2328,1,0,0,0,0,40,508-1000,1,0,profilePic_Children2023_M1911,1,5,,8406,0,4,0,,0
 1329,2329,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_MK3A1,1,5,,0,0,,0,,0
-1330,2330,2,0,0,0,0,320,508-8000,1,0,card_friendmall_MK3A1,1,5,,0,0,,0,,0
+1330,2330,2,0,0,0,0,320,508-8000,1,0,card_friendmall_MK3A1,1,5,,0,0,,0,,4155
 1331,2331,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_Saiga12,1,5,,0,0,,0,,0
 1332,2332,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_Saiga12,1,5,,30009,0,4,0,,0
 1333,2333,1,0,0,0,0,200,508-5000,1,0,profilePic_Carnival2023_RO635,1,5,,596,0,4,0,,0
@@ -1328,7 +1328,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1339,2339,1,0,0,0,0,200,508-5000,1,0,profilePic_Swimsuit2023_LAMG,1,5,,8505,0,4,0,,0
 1340,2340,1,0,0,0,0,160,508-4000,1,0,profilePic_Swimsuit2023_SuperShorty,1,5,,8506,0,4,0,,0
 1341,2341,1,0,0,0,0,200,508-5000,1,0,profilePic_friendmall_HK416,1,5,,0,0,,0,,0
-1342,2342,2,0,0,0,0,320,508-8000,1,0,card_friendmall_HK416,1,5,,0,0,,0,,0
+1342,2342,2,0,0,0,0,320,508-8000,1,0,card_friendmall_HK416,1,5,,0,0,,0,,4156
 1343,2343,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_M1895,1,5,,0,0,,0,,0
 1344,2344,1,0,0,0,0,40,508-1000,1,0,profilePic_BattlePass_M1895,1,5,,30010,0,4,0,,0
 1345,2345,1,0,0,0,0,200,508-5000,1,0,profilePic_OfficeLady2023_DP12,1,5,,8601,0,4,0,,0
@@ -1694,6 +1694,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1705,2705,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season21_1,1,5,,0,0,1,200008,logo_flightchess_major,0
 1706,2706,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season21_2,1,5,,0,0,1,200007,logo_flightchess_general,0
 1707,2707,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season21_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
+1708,2708,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_HK416,1,5,,30033,0,4,0,,0
+1709,2709,2,0,0,0,0,0,,0,0,card_BattlePass_HK416,1,5,,0,0,,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0
@@ -1753,3 +1755,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100055,200055,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_FO12,1,5,,0,0,5,0,,0
 100056,200056,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_STG44,1,5,,0,0,5,0,,0
 100057,200057,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Six12,1,5,,0,0,5,0,,0
+100058,200058,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_HK416,1,5,,0,0,5,0,,0

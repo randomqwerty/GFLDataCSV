@@ -1394,3 +1394,4 @@ id,mission_id,description,scripts,campaign,bgm,title,is_util,start,round,point,f
 1441,11943,story_util-10001441,-76-A-16,-76,,story_util-20001441,0,-76-A-16,,,,,,,,
 1442,11944,story_util-10001442,-76-A-18,-76,,story_util-20001442,0,-76-A-18,,,,,,,,
 1443,11945,story_util-10001443,-76-A-20,-76,,story_util-20001443,0,-76-A-20,,,,,,,,
+1444,11946,story_util-10001444,,-77,,story_util-20001444,0,-77-1-1,,,,,,,,

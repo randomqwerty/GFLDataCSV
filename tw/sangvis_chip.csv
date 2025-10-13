@@ -12,3 +12,4 @@ id,name,unlock_furniture_level,type,equip_boss,dev_specialitem_num,code,des,dev_
 3004,sangvis_chip-10003004,4,3,0,,Defence,sangvis_chip-20003004,1000,2400,,,,,3004,,,0,0,
 3005,sangvis_chip-10003005,3,3,0,,ArmyPower,sangvis_chip-20003005,1000,1800,,,,,3007,,,0,0,
 3006,sangvis_chip-10003006,3,3,0,,SupportPower,sangvis_chip-20003006,1000,1800,,,,,3008,,,0,0,
+4001,sangvis_chip-10004001,0,3,0,,Support,sangvis_chip-20004001,1000,300,,,,,4001,,,0,0,

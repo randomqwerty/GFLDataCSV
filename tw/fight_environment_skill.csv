@@ -156,6 +156,7 @@ id,name,desc,if_display,code,skill_group
 1160301,fight_environment_skill-11160301,fight_environment_skill-21160301,1,JJH_GF,330001
 1160302,fight_environment_skill-11160302,fight_environment_skill-21160302,1,JJH_RH,330002
 1160303,fight_environment_skill-11160303,fight_environment_skill-21160303,1,JJH_ZY,330003
+1194601,fight_environment_skill-11194601,fight_environment_skill-21194601,0,,450702
 12020101,fight_environment_skill-22020101,fight_environment_skill-32020101,1,daily_game_01,120201
 12020201,fight_environment_skill-22020201,fight_environment_skill-32020201,1,daily_game_02,120202
 12020301,fight_environment_skill-22020301,fight_environment_skill-32020301,1,daily_game_03,120203
