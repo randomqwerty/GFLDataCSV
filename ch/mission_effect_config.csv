@@ -34,6 +34,9 @@ id,name,code,description,priority,duration,delay,size,sound,spine,if_starting,re
 660003,mission_effect_config-10660003,TZD_kxz,mission_effect_config-20660003,1,0.0,0.0,2.0,,0,0,0,0|0,,0,0
 740001,mission_effect_config-10740001,Fly_tornado,mission_effect_config-20740001,1,4.0,0.0,2.0,Blackjack_flying,0,4,0|0;0|0;0|0;1|1,-5500|5500;6500|-6500,0|0|-45;0|0|-45,2|0.5|2,0
 740002,mission_effect_config-10740002,Fly_tu95,mission_effect_config-20740002,1,4.0,0.0,2.0,Blackjack_flying,0,4,0|0;0|0;0|0;1|1,-5500|-5500;6500|6500,0|0|45;0|0|45,2|0.5|2,0
+780902,mission_effect_config-10780902,LNXY_bj_piao01,mission_effect_config-20780902,1,0.0,0.0,1.0,,0,0,0,0|0,,0,0
+780903,mission_effect_config-10780903,LNXY_bj_piao03,mission_effect_config-20780903,1,0.0,0.0,1.0,,0,0,0,0|0,,0,0
+780904,mission_effect_config-10780904,LNXY_bj_piao02,mission_effect_config-20780904,1,0.0,0.0,1.0,,0,0,0,0|0,,0,0
 900001,mission_effect_config-10900001,effectPowerup,mission_effect_config-20900001,0,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 900002,mission_effect_config-10900002,effectNoDrop,mission_effect_config-20900002,3,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 900003,mission_effect_config-10900003,Mission_gas,mission_effect_config-20900003,9,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
