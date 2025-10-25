@@ -31,9 +31,9 @@ id,story_campaign_id,name,chapter,type,game_chronicle,description,is_hide,tag,or
 30,-34,story_playback-10000030,story_playback-20000030,3,,story_playback-30000030,0,story_playback-40000030,50,story_playback-50000030
 31,-35,story_playback-10000031,story_playback-20000031,3,,story_playback-30000031,0,story_playback-40000031,51,story_playback-50000031
 32,-37,story_playback-10000032,story_playback-20000032,3,,story_playback-30000032,0,story_playback-40000032,52,story_playback-50000032
-33,-49,story_playback-10000033,story_playback-20000033,3,,story_playback-30000033,0,story_playback-40000033,53,story_playback-50000033
+33,-49,story_playback-10000033,story_playback-20000033,3,,story_playback-30000033,0,story_playback-40000033,56,story_playback-50000033
 34,-56,story_playback-10000034,story_playback-20000034,2,,story_playback-30000034,0,story_playback-40000034,29,story_playback-50000034
-35,-40,story_playback-10000035,story_playback-20000035,3,,story_playback-30000035,0,story_playback-40000035,54,story_playback-50000035
+35,-40,story_playback-10000035,story_playback-20000035,3,,story_playback-30000035,0,story_playback-40000035,53,story_playback-50000035
 36,-47,story_playback-10000036,story_playback-20000036,3,,story_playback-30000036,0,story_playback-40000036,55,story_playback-50000036
 37,-68,story_playback-10000037,story_playback-20000037,2,,story_playback-30000037,0,story_playback-40000037,31,story_playback-50000037
 38,-69,story_playback-10000038,story_playback-20000038,2,,story_playback-30000038,0,story_playback-40000038,32,story_playback-50000038
@@ -41,9 +41,12 @@ id,story_campaign_id,name,chapter,type,game_chronicle,description,is_hide,tag,or
 40,-71,story_playback-10000040,story_playback-20000040,2,,story_playback-30000040,0,story_playback-40000040,34,story_playback-50000040
 41,-72,story_playback-10000041,story_playback-20000041,2,,story_playback-30000041,0,story_playback-40000041,35,story_playback-50000041
 42,-74,story_playback-10000042,story_playback-20000042,2,,story_playback-30000042,0,story_playback-40000042,36,story_playback-50000042
-43,-52,story_playback-10000043,story_playback-20000043,3,,story_playback-30000043,0,story_playback-40000043,56,story_playback-50000043
-44,-61,story_playback-10000044,story_playback-20000044,3,,story_playback-30000044,0,story_playback-40000044,58,story_playback-50000044
-45,-62,story_playback-10000045,story_playback-20000045,3,,story_playback-30000045,0,story_playback-40000045,59,story_playback-50000045
+43,-52,story_playback-10000043,story_playback-20000043,3,,story_playback-30000043,0,story_playback-40000043,58,story_playback-50000043
+44,-61,story_playback-10000044,story_playback-20000044,3,,story_playback-30000044,0,story_playback-40000044,60,story_playback-50000044
+45,-62,story_playback-10000045,story_playback-20000045,3,,story_playback-30000045,0,story_playback-40000045,61,story_playback-50000045
 46,-75,story_playback-10000046,story_playback-20000046,2,,story_playback-30000046,0,story_playback-40000046,37,story_playback-50000046
 47,-76,story_playback-10000047,story_playback-20000047,2,,story_playback-30000047,0,story_playback-40000047,38,story_playback-50000047
 48,-78,story_playback-10000048,story_playback-20000048,2,,story_playback-30000048,0,story_playback-40000048,39,story_playback-50000048
+49,-42,story_playback-10000049,story_playback-20000049,3,,story_playback-30000049,0,story_playback-40000049,54,story_playback-50000049
+50,-50,story_playback-10000050,story_playback-20000050,3,,story_playback-30000050,0,story_playback-40000050,57,story_playback-50000050
+51,-59,story_playback-10000051,story_playback-20000051,3,,story_playback-30000051,0,story_playback-40000051,59,story_playback-50000051

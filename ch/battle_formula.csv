@@ -4393,6 +4393,10 @@ id,formula
 10010,sbuffidtier(9976)>0?8:4
 10011,sbuffidtier(9976)>0?8:4
 10012,sbuffidtier(9976)>0?10:5
+10013,sbuffidtier(11003)>0?1:0
+10014,sbuffidtier(11003)>0?tbuffidtier(4669)>0?$1*2:$1:$1
+10015,sbuffidtier(11005)=1&sbuffidtier(11006)=1?1:0
+10016,sbuffidtier(11008)=1&sbuffidtier(11009)=1?1:0
 13280,100-tbuffidtier(3560)*75
 13310,sbuffidtier(3600)%sbuffidtier(360401)=0?3601:0
 13311,sbuffidtier(3600)%sbuffidtier(360401)=0?3602:0
@@ -4445,6 +4449,9 @@ id,formula
 20045,#armor>0?sbuffidtier(2721)>0?1:0:0
 20046,$1>@life?(@life-1):$1
 20047,@Life=1?1:0
+20048,sbuffidtier(2755)>0?0:1
+20049,sbuffidtier(2755)>0?($1-30):$1
+20050,sbuffidtier(2755)>0?1:0
 38731,@Maxlife*((5+sbuffidtier(721601))*0.01)
 38732,@pow*((30+sbuffidtier(721602))*0.01)
 38733,@rate*((30+sbuffidtier(721603))*0.01)
