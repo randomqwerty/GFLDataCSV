@@ -1453,6 +1453,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2393,5,1,profilePic_Dining2023_Falcon,item-10002393,item-20002393,1,0,,,0,0,,item-30002393,0,0
 2394,5,1,card_BattlePass_HK433,item-10002394,item-20002394,1,0,,,0,0,,item-30002394,0,0
 2395,5,1,profilePic_BattlePass_HK433,item-10002395,item-20002395,1,0,,,0,0,,item-30002395,0,0
+2396,5,1,profilePic_sangvis_Dreamer_Halloween,item-10002396,item-20002396,1,0,,,0,0,,item-30002396,0,0
 2397,5,1,profilePic_friendmall_NTW20,item-10002397,item-20002397,1,0,,,0,0,,item-30002397,0,0
 2398,5,1,card_friendmall_NTW20,item-10002398,item-20002398,1,0,,,0,0,,item-30002398,0,0
 2399,5,1,profilePic_Christmas2023_M26MASS,item-10002399,item-20002399,1,0,,,0,0,,item-30002399,0,0
@@ -2100,6 +2101,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100254,4,100254,Nova_medal_black,item-10100254,item-20100254,1,0,,,0,0,,item-30100254,0,0
 100255,4,100255,Platinum_medal_black,item-10100255,item-20100255,1,0,,,0,0,,item-30100255,0,0
 100256,9,100256,Coin_202404Shapeofmemory,item-10100256,item-20100256,1,0,,90;270,0,0,,item-30100256,0,0
+100259,4,100259,Nova_medal,item-10100259,item-20100259,1,0,,,0,0,,item-30100259,0,0
+100260,4,100260,Platinum_medal,item-10100260,item-20100260,1,0,,,0,0,,item-30100260,0,0
+100261,9,100261,Coin_202406CartesianTheatre,item-10100261,item-20100261,1,0,,90;270,0,0,,item-30100261,0,0
 100268,4,100268,Nova_medal,item-10100268,item-20100268,1,0,,,0,0,,item-30100268,0,0
 100269,4,100269,Platinum_medal,item-10100269,item-20100269,1,0,,,0,0,,item-30100269,0,0
 100270,9,100270,Coin_202505RocheLimit,item-10100270,item-20100270,1,0,,60;180,0,0,,item-30100270,0,0

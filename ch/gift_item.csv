@@ -869,11 +869,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 30031,gift_item-10030031,2,6,50000,61,30031,330031,gift_bundle_BattlePass_STG44,gift_item-20030031,gift_item-30030031,gift_item-50030031,0,0,0,,gift_item-40030031,2000,6
 30032,gift_item-10030032,2,6,50000,278,30032,330032,gift_bundle_BattlePass_Six12,gift_item-20030032,gift_item-30030032,gift_item-50030032,0,0,0,,gift_item-40030032,2000,6
 30033,gift_item-10030033,2,6,50000,65,30033,330033,gift_bundle_BattlePass_HK416,gift_item-20030033,gift_item-30030033,gift_item-50030033,0,0,0,,gift_item-40030033,2000,6
+30034,gift_item-10030034,2,6,50000,162,30034,330034,gift_bundle_BattlePass_SPAS12,gift_item-20030034,gift_item-30030034,gift_item-50030034,0,0,0,,gift_item-40030034,2000,6
 50001,gift_item-10050001,2,6,50000,95,50001,350001,gift_bundle_Anniversary2024_88type,gift_item-20050001,gift_item-30050001,gift_item-50050001,0,0,0,,gift_item-40050001,2000,6
 50002,gift_item-10050002,2,6,50000,1045,50002,350002,gift_bundle_ArenaBreakout_Evita,gift_item-20050002,gift_item-30050002,gift_item-50050002,0,0,0,,gift_item-40050002,2000,6
 50003,gift_item-10050003,2,6,50000,1046,50003,350003,gift_bundle_ArenaBreakout_Hecate,gift_item-20050003,gift_item-30050003,gift_item-50050003,0,0,0,,gift_item-40050003,2000,6
 50004,gift_item-10050004,2,6,50000,245,50004,350004,gift_bundle_ArenaBreakout_P90,gift_item-20050004,gift_item-30050004,gift_item-50050004,0,0,0,,gift_item-40050004,2000,6
 50005,gift_item-10050005,2,6,50000,215,50005,350005,gift_bundle_ArenaBreakout_MDR,gift_item-20050005,gift_item-30050005,gift_item-50050005,0,0,0,,gift_item-40050005,2000,6
+50006,gift_item-10050006,2,6,50000,55,50006,350006,gift_bundle_ArtBook_M4A1,gift_item-20050006,gift_item-30050006,gift_item-50050006,0,0,0,,gift_item-40050006,2000,6
 100001,gift_item-10100001,1,2,1000,0,0,0,gift_item_lollipop_N,gift_item-20100001,gift_item-30100001,gift_item-50100001,0,0,0,21,gift_item-40100001,1001,5
 100002,gift_item-10100002,1,3,3000,0,0,0,gift_item_icecream_R,gift_item-20100002,gift_item-30100002,gift_item-50100002,0,0,0,21,gift_item-40100002,1002,5
 100003,gift_item-10100003,1,4,10000,0,0,0,gift_item_cake_SR,gift_item-20100003,gift_item-30100003,gift_item-50100003,0,0,0,21|19|11|2,gift_item-40100003,1003,5

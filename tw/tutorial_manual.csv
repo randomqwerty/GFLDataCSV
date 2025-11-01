@@ -1,5 +1,5 @@
 id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
-100,1,101|102|103|104|105|106|107|108|109,tutorial_manual-10000100,tutorial_manual-20000100,manual_base,,0,0
+100,1,101|102|103|104|105|106|107|108|109|110,tutorial_manual-10000100,tutorial_manual-20000100,manual_base,,0,0
 101,2,,tutorial_manual-10000101,tutorial_manual-20000101,,c0fa72ded06a377a_draw_200820163.jpg|6ae3216c2baf87e5_draw_200820162.jpg,0,0
 102,2,,tutorial_manual-10000102,tutorial_manual-20000102,,ca469916ddcbf62f_draw_220908040.jpg|5756b3d46c9d23b5_draw_220908041.jpg|760c1251cd12e864_draw_220908043|afc0388804a36d6b_draw_220908042.jpg|dd9a4861a0e3b46f_draw_220908044.jpg,0,0
 103,2,,tutorial_manual-10000103,tutorial_manual-20000103,,2f3b8ee135b7e1bd_draw_200820161.jpg,0,252
@@ -9,6 +9,7 @@ id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
 107,2,,tutorial_manual-10000107,tutorial_manual-20000107,,86ce31837729813c_draw_220908020.jpg|87f5d483fa87a6dd_draw_220908022.jpg|bfe5f8db4889658e_draw_220908021.jpg|77918c2cdb296faa_draw_220908038.jpg|6b5e44f025428a53_draw_2008204072.jpg,0,254
 108,2,,tutorial_manual-10000108,tutorial_manual-20000108,,d51860a7282cbf78_draw_2008204078.jpg,0,255
 109,2,,tutorial_manual-10000109,tutorial_manual-20000109,,c5670e08f57375ce_draw_2008204080.jpg|2c7b6b011f924805_draw_2008204079.jpg|27ed3159f040506c_draw_2008204081.jpg|4a046ff763aad7b6_draw_2008204082.jpg,0,256
+110,2,,tutorial_manual-10000110,tutorial_manual-20000110,,,33,0
 200,1,201|202|203|204|205|206|207|208|209|210|211|212,tutorial_manual-10000200,tutorial_manual-20000200,manual_develop,,0,0
 201,2,,tutorial_manual-10000201,tutorial_manual-20000201,,7a8a88a0a1cae398_draw_2008204156.jpg|980f4186f5c1eddb_draw_2008204157.jpg|311c959f08cbeca4_draw_2008204158.jpg,0,0
 202,2,,tutorial_manual-10000202,tutorial_manual-20000202,,19586e45c72026d0_draw_2008204152.jpg|a19fecb3a358d57c_draw_2008204153.jpg|ca38720ba689fb19_draw_2008204151.jpg|5b13751fd40dff1d_draw_2008204154.jpg|c218d525ed56ee07_draw_2008204155.jpg,0,25
@@ -154,7 +155,7 @@ id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
 1703,2,,tutorial_manual-10001703,tutorial_manual-20001703,,8de2f32d15e7b903_draw_2008204134.jpg,17,0
 1800,1,1801|1802,tutorial_manual-10001800,tutorial_manual-20001800,manual_fetter,,22,0
 1801,2,,tutorial_manual-10001801,tutorial_manual-20001801,,69fce31c18ab8cd0_draw_2008204090.jpg|c65b0d7f2f1ca498_draw_2008204091.jpg|61132e6a76ef84ef_draw_2008204092.jpg,22,247
-1802,2,,tutorial_manual-10001802,tutorial_manual-20001802,,b9fa5b8540969736_draw_220908030.jpg|192b6320dd078c24_draw_220908029.jpg|b91e74ca02741678_draw_220908028.jpg|e5f2ea2cd10970b1_draw_220908027.jpg,22,0
+1802,2,,tutorial_manual-10001802,tutorial_manual-20001802,,a4027f4a80e9a198_draw_200818004.jpg|c271b38eed238fd4_draw_200818005.jpg|e5f2ea2cd10970b1_draw_220908027.jpg|b91e74ca02741678_draw_220908028.jpg|192b6320dd078c24_draw_220908029.jpg|b9fa5b8540969736_draw_220908030.jpg,22,0
 1900,1,1901|1902|1903|1904|1905|1906|1907|1908|1909|1910,tutorial_manual-10001900,tutorial_manual-20001900,manual_chess,,26,0
 1901,2,,tutorial_manual-10001901,tutorial_manual-20001901,,4fdc00d8b7041e75_draw_210513322.jpg|7a5eff8c48b5921c_draw_210513323.jpg|5d595233edd3b367_draw_210513324.jpg|84a7c5e26694a94a_draw_210513321.jpg,26,0
 1902,2,,tutorial_manual-10001902,tutorial_manual-20001902,,8073ac5b97ac88ef_draw_210513298.jpg|20576aad8def2bbe_draw_210513297.jpg|8ff73cda2555fccc_draw_210513299.jpg|57caf942b81e6f8e_draw_210513296.jpg,26,0
@@ -165,7 +166,7 @@ id,type,child_ids,title,sub_title,code,content,function_control_id,goto_page
 1907,2,,tutorial_manual-10001907,tutorial_manual-20001907,,72a426d3f7904e8a_draw_210513311.jpg|a9aa4f0075b4af35_draw_210513308.jpg|0acfe3ed28d3b948_draw_210513310.jpg|51f7288b77614254_draw_210513312.jpg|1499adc98657b4dd_draw_210513309.jpg|67d84b70eaf2080f_draw_210513307.jpg,26,0
 1908,2,,tutorial_manual-10001908,tutorial_manual-20001908,,940b033d7a97b129_draw_210513301.jpg|876e3c0f2a48c288_draw_210513305.jpg|1d70207d5d375a84_draw_210513303.jpg|98abb9bd9a7e46be_draw_210513300.jpg|b3ffc936b2293e8f_draw_210513304.jpg|6d2c27e52432a300_draw_210513302.jpg,26,0
 1909,2,,tutorial_manual-10001909,tutorial_manual-20001909,,d5defa1229c96f8f_draw_210513314.jpg|85d22c01c981330a_draw_210513313.jpg,26,0
-1910,2,,tutorial_manual-10001910,tutorial_manual-20001910,,,26,0
+1910,2,,tutorial_manual-10001910,tutorial_manual-20001910,,58beb796216c573b_draw_251027001.jpg|70b088f6afd0334e_draw_251027003.jpg,26,0
 2000,1,2001|2002|2003|2004|2005|2006|2007|2008|2009|2010,tutorial_manual-10002000,tutorial_manual-20002000,manual_theater,,16,0
 2001,2,,tutorial_manual-10002001,tutorial_manual-20002001,,1ea3657a13f1de60_draw_211008633.jpg|51ec7b35891aedfb_draw_211008634.jpg|3a0485ecac897474_draw_211008635.jpg|0f39ac7c62c359d3_draw_211008636.jpg|f9aadd4562ee8304_draw_211008637.jpg|3fd5b288e88c278e_draw_211008638.jpg,16,0
 2002,2,,tutorial_manual-10002002,tutorial_manual-20002002,,0d754b4facbae1e1_draw_211008627.jpg|bbaf739f47ebecd5_draw_211008628.jpg,16,0

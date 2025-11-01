@@ -1718,6 +1718,10 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1729,2729,3,0,0,0,0,0,,0,0,cg_202509Activity_03,1,5,,0,0,1,0,,0
 1730,2730,3,0,0,0,0,600,508-15000,1,0,cg_AA02M,1,5,,0,0,1,0,,0
 1731,2731,3,0,0,0,0,600,508-15000,1,0,cg_Tank,1,5,,0,0,,0,,0
+1732,2732,1,0,0,0,0,0,,0,0,profilePic_sangvis_Teal,1,5,,0,0,5,200002,,0
+1733,2733,1,0,0,0,0,160,508-4000,1,0,profilePic_BattlePass_SPAS12,1,5,,30034,0,4,0,,0
+1734,2734,2,0,0,0,0,0,,0,0,card_BattlePass_SPAS12,1,5,,0,0,,0,,0
+1735,2735,1,0,0,0,0,160,508-4000,1,0,profilePic_ArtBook_M4A1,1,5,,50006,0,4,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0
@@ -1779,3 +1783,4 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 100056,200056,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_STG44,1,5,,0,0,5,0,,0
 100057,200057,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_Six12,1,5,,0,0,5,0,,0
 100058,200058,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_HK416,1,5,,0,0,5,0,,0
+100059,200059,4,0,0,0,0,0,,0,0,profileFrame_BattlePass_SPAS12,1,5,,0,0,5,0,,0

@@ -57,8 +57,8 @@ id,type,unlock_lv,unlock_ids,unlock_label,count,prize_id,title,content,unlock_co
 167,up_mod2,60,,,1,775,career_quest-10000167,career_quest-20000167,97,1,14,112,,,0
 168,up_mod3,60,,,1,776,career_quest-10000168,career_quest-20000168,97,1,15,121,,,0
 169,upgrade2,60,,,1,777,career_quest-10000169,career_quest-20000169,,1,14,113,,,0
-170,sun_friend_team_into,,,,1,778,career_quest-10000170,career_quest-20000170,100,1,54,395,,,0
-171,night_friend_team_into,,,,1,779,career_quest-10000171,career_quest-20000171,100,1,54,396,,,0
+170,sun_friend_team_into,,,,1,778,career_quest-10000170,career_quest-20000170,,1,54,395,,,0
+171,night_friend_team_into,,,,1,779,career_quest-10000171,career_quest-20000171,,1,54,396,,,0
 172,squad_base_data_analyse,,,,20,780,career_quest-10000172,career_quest-20000172,,1,29,206,,,0
 173,squad_senior_data_analyse,,,,20,781,career_quest-10000173,career_quest-20000173,,1,29,207,,,0
 176,squad_get_type1_unit,,,,1,784,career_quest-10000176,career_quest-20000176,,1,29,210,,,0
@@ -72,8 +72,8 @@ id,type,unlock_lv,unlock_ids,unlock_label,count,prize_id,title,content,unlock_co
 188,explore_replay,20,,,1,796,career_quest-10000188,career_quest-20000188,,1,48,365,,,0
 189,explore_get_prize,20,,,1,797,career_quest-10000189,career_quest-20000189,,1,48,366,,,0
 190,explore_change_item,20,,,1,798,career_quest-10000190,career_quest-20000190,,1,48,367,,,0
-191,uniform_get_color,,,,1,799,career_quest-10000191,career_quest-20000191,130,1,56,410,,,0
-192,activation_uniform_skill,,,,1,800,career_quest-10000192,career_quest-20000192,130,1,54,392,,,0
+191,uniform_get_color,,,,1,799,career_quest-10000191,career_quest-20000191,,1,56,410,,,0
+192,activation_uniform_skill,,,,1,800,career_quest-10000192,career_quest-20000192,,1,54,392,,,0
 193,change_gender,,,,1,11002,career_quest-10000193,career_quest-20000193,,1,54,393,,,0
 194,mission_emergency_0_1_3,,,mission:5,1,11003,career_quest-10000194,career_quest-20000194,,2,2,7,,,0
 195,mission_emergency_0_1_5,,,,1,11004,career_quest-10000195,career_quest-20000195,,2,2,8,,,0

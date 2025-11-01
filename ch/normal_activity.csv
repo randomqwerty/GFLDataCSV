@@ -1,4 +1,14 @@
 id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,event_prize_level,rank_id
+7,-10,normal_activity-10000007,3,normal_activity-20000007,normal_activity-30000007,active_depthmap,#000000C7|#00000033|#A3BD13FF|#FFFFFFFF,normal_activity-40000007,,0,
+8,-11,normal_activity-10000008,3,normal_activity-20000008,normal_activity-30000008,active_depthmap,#000000C7|#00000033|#A3BD13FF|#FFFFFFFF,normal_activity-40000008,,0,
+9,-12,normal_activity-10000009,3,normal_activity-20000009,normal_activity-30000009,active_depthmap,#000000C7|#00000033|#A3BD13FF|#FFFFFFFF,normal_activity-40000009,,0,
+11,-16,normal_activity-10000011,4,normal_activity-20000011,normal_activity-30000011,active_collapse,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000011,activitylogo,0,
+12,-17,normal_activity-10000012,4,normal_activity-20000012,normal_activity-30000012,active_collapse,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000012,activitylogo,0,
+13,-18,normal_activity-10000013,4,normal_activity-20000013,normal_activity-30000013,active_collapse,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000013,activitylogo,0,
+14,-24,normal_activity-10000014,5,normal_activity-20000014,normal_activity-30000014,active_orderly,#000000C7|#3D415166|#FF5200|#FFFFFFFF,normal_activity-40000014,continuumturbulencelogo,0,
+15,-25,normal_activity-10000015,5,normal_activity-20000015,normal_activity-30000015,active_orderly,#000000C7|#3D415166|#FF5200|#FFFFFFFF,normal_activity-40000015,continuumturbulencelogo,0,
+16,-26,normal_activity-10000016,5,normal_activity-20000016,normal_activity-30000016,active_orderly,#000000C7|#3D415166|#FF5200|#FFFFFFFF,normal_activity-40000016,continuumturbulencelogo,0,
+17,-28,normal_activity-10000017,5,normal_activity-20000017,normal_activity-30000017,active_orderly,#000000C7|#3D415166|#FF5200|#FFFFFFFF,normal_activity-40000017,continuumturbulencelogo,0,
 18,-31,normal_activity-10000018,6,normal_activity-20000018,normal_activity-30000018,active_isomer,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000018,isomerlogo,0,
 19,-33,normal_activity-10000019,7,normal_activity-20000019,normal_activity-30000019,active_Reversible,#000000C7|#3D415166|#2B9487|#FFFFFFFF,normal_activity-40000019,Reversiblelogo,0,
 20,-36,normal_activity-10000020,8,normal_activity-20000020,normal_activity-30000020,active_Polarizedlight,#000000C7|#3D415166|#D92B1A|#FFFFFFFF,normal_activity-40000020,Polarizedlightlogo,0,
@@ -10,8 +20,10 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 26,-37,normal_activity-10000026,101,normal_activity-20000026,normal_activity-30000026,active_WhiteDay2020,#000000C7|#3D415166|#E64801|#FFFFFFFF,normal_activity-40000026,active_WhiteDay2020logo,0,
 27,-40,normal_activity-10000027,101,normal_activity-20000027,normal_activity-30000027,active_Bikini2020,#000000C7|#3D415166|#2975fd|#FFFFFFFF,normal_activity-40000027,,0,
 28,-47,normal_activity-10000028,102,normal_activity-20000028,normal_activity-30000028,active_Bikini2021,#000000C7|#3D415166|#22d0ab|#FFFFFFFF,normal_activity-40000028,,0,
+29,-39,normal_activity-10000029,4,normal_activity-20000029,normal_activity-30000029,missionselect_Sing_RE,,normal_activity-40000029,,10003,303
 30,-42,normal_activity-10000030,101,normal_activity-20000030,normal_activity-30000030,active_Halloween2020,#000000C7|#3D415166|#E64801FF|#FFFFFFFF,normal_activity-40000030,Halloween2020logo,0,
 31,-50,normal_activity-10000031,103,normal_activity-20000031,normal_activity-30000031,active_WhiteDay2022,#000000C7|#3D415166|#D00001FF|#FFFFFFFF,normal_activity-40000031,active_WhiteDay2022logo,0,
+32,-45,normal_activity-10000032,5,normal_activity-20000032,normal_activity-30000032,missionselect_ContinuumTurbulenceRemake,,normal_activity-40000032,,10004,304
 33,-53,normal_activity-10000033,6,normal_activity-20000033,normal_activity-30000033,missionselect_PolarizedLight_RE,,normal_activity-40000033,,10005,305
 34,-59,normal_activity-10000034,104,normal_activity-20000034,normal_activity-30000034,active_2023Rouge,#000000C7|#3D415166|#5065bdFF|#FFFFFFFF,normal_activity-40000034,active_2023Rougelogo,0,
 35,-55,normal_activity-10000035,7,normal_activity-20000035,normal_activity-30000035,missionselect_Reversible_RE,,normal_activity-40000035,,10006,306

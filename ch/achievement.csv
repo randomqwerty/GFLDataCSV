@@ -1185,3 +1185,6 @@ identity,type,count,user_exp,mp,ammo,mre,part,core,gem,gun_id,item_ids,equip_ids
 1269,c_mission_win_type,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001269,achievement-20001269,100,340,清道夫,0,,11953:1195302|11958:1195302|11963:1195302,achievement-30001269,0,0,0,
 1270,c_no_skip_activity,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001270,achievement-20001270,100,341,感恩有你,0,,11985,achievement-30001270,0,0,0,
 1271,speical_mission_final,1,1000,1000,1000,1000,1000,5,0,0,,,,,achievement-10001271,achievement-20001271,100,342,更新世界锋芒,0,,,achievement-30001271,0,0,0,
+1272,c_mission,1,0,0,0,0,0,0,0,0,,,,,achievement-10001272,achievement-20001272,100,334,,0,,11916,achievement-30001272,0,1,1,c_mission_15.7
+1273,c_mission,1,0,0,0,0,0,0,0,0,,,,,achievement-10001273,achievement-20001273,100,334,,0,,11945,achievement-30001273,0,1,1,c_mission_15.8
+1274,c_mission,1,0,0,0,0,0,0,0,0,,,,,achievement-10001274,achievement-20001274,100,334,,0,,11985,achievement-30001274,0,1,1,c_mission_15.9
