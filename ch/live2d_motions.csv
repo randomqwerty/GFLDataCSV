@@ -548,7 +548,7 @@ id,type,motion_name,touch_area,hold_time,probability,voice,text,expression,face_
 56009,200,motions/wedding_touch.mtn,head,0,1.0,GUN|M4 SOPMOD IIMod|DIALOGUEWEDDING,GUN|M4 SOPMOD IIMod|DIALOGUEWEDDING,,,live2d_motions-10056009,1,0,0,0,0,,DIALOGUEWEDDING
 56010,500,motions/wedding.mtn,0,0,1.0,GUN|M4 SOPMOD IIMod|SOULCONTRACT,GUN|M4 SOPMOD IIMod|SOULCONTRACT,,,live2d_motions-10056010,1,0,0,0,0,,SOULCONTRACT
 56011,300,motions/shake.mtn,0,0,1.0,,,,,live2d_motions-10056011,1,0,0,0,0,,
-56012,1000,motions/login.mtn,0,0,1.0,GUN|M4 SOPMOD IIMod|HELLO,GUN|M4 SOPMOD IIMod|HELLO,,,live2d_motions-10056012,1,0,0,0,0,,HELLO
+56012,1000,motions/Login.mtn,0,0,1.0,GUN|M4 SOPMOD IIMod|HELLO,GUN|M4 SOPMOD IIMod|HELLO,,,live2d_motions-10056012,1,0,0,0,0,,HELLO
 56013,401,motions/daiji_idle_01.mtn,0,0,1.0,,,,,live2d_motions-10056013,0,1,0,0,0,,
 56014,402,motions/broken_1.mtn,head,0,1.0,GUN|M4 SOPMOD IIMod|WIN,GUN|M4 SOPMOD IIMod|WIN,,,live2d_motions-10056014,1,1,0,0,0,,WIN
 56015,402,motions/broken_2.mtn,body,0,1.0,GUN|M4 SOPMOD IIMod|MEET,GUN|M4 SOPMOD IIMod|MEET,,,live2d_motions-10056015,1,1,0,0,0,,MEET

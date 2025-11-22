@@ -123,6 +123,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 593,gift_item-10000593,2,6,50000,1035,593,30593,gift_bundle_Saga2023_Tae,gift_item-20000593,gift_item-30000593,gift_item-50000593,0,0,0,,gift_item-40000593,2000,6
 594,gift_item-10000594,2,6,50000,152,594,30594,gift_bundle_ChessBonus_M1897,gift_item-20000594,gift_item-30000594,gift_item-50000594,0,0,0,,gift_item-40000594,2000,6
 595,gift_item-10000595,2,6,50000,283,595,30595,gift_bundle_AprilFool2023_Liberator,gift_item-20000595,gift_item-30000595,gift_item-50000595,0,0,0,,gift_item-40000595,2000,6
+597,gift_item-10000597,2,6,50000,86,597,30597,gift_bundle_ChessBonus_MG42,gift_item-20000597,gift_item-30000597,gift_item-50000597,0,0,0,,gift_item-40000597,2000,6
 598,gift_item-10000598,2,6,50000,1043,598,30598,gift_bundle_Ghost2024_Ezaki,gift_item-20000598,gift_item-30000598,gift_item-50000598,0,0,0,,gift_item-40000598,2000,6
 599,gift_item-10000599,2,6,50000,1044,599,30599,gift_bundle_Ghost2024_Mizukinn,gift_item-20000599,gift_item-30000599,gift_item-50000599,0,0,0,,gift_item-40000599,2000,6
 600,gift_item-10000600,2,6,50000,1042,600,30600,gift_bundle_Ghost2024_Motoko,gift_item-20000600,gift_item-30000600,gift_item-50000600,0,0,0,,gift_item-40000600,2000,6
@@ -831,6 +832,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 30029,gift_item-10030029,2,6,50000,323,30029,330029,gift_bundle_BattlePass_LTLX7000,gift_item-20030029,gift_item-30030029,gift_item-50030029,0,0,0,,gift_item-40030029,2000,6
 30030,gift_item-10030030,2,6,50000,350,30030,330030,gift_bundle_BattlePass_FO12,gift_item-20030030,gift_item-30030030,gift_item-50030030,0,0,0,,gift_item-40030030,2000,6
 30031,gift_item-10030031,2,6,50000,61,30031,330031,gift_bundle_BattlePass_STG44,gift_item-20030031,gift_item-30030031,gift_item-50030031,0,0,0,,gift_item-40030031,2000,6
+30032,gift_item-10030032,2,6,50000,278,30032,330032,gift_bundle_BattlePass_Six12,gift_item-20030032,gift_item-30030032,gift_item-50030032,0,0,0,,gift_item-40030032,2000,6
 50001,gift_item-10050001,2,6,50000,95,50001,350001,gift_bundle_Anniversary2024_88type,gift_item-20050001,gift_item-30050001,gift_item-50050001,0,0,0,,gift_item-40050001,2000,6
 50002,gift_item-10050002,2,6,50000,1045,50002,350002,gift_bundle_ArenaBreakout_Evita,gift_item-20050002,gift_item-30050002,gift_item-50050002,0,0,0,,gift_item-40050002,2000,6
 50003,gift_item-10050003,2,6,50000,1046,50003,350003,gift_bundle_ArenaBreakout_Hecate,gift_item-20050003,gift_item-30050003,gift_item-50050003,0,0,0,,gift_item-40050003,2000,6

@@ -1867,6 +1867,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2733,5,1,profilePic_BattlePass_SPAS12,item-10002733,item-20002733,1,0,,,0,0,,item-30002733,0,0
 2734,5,1,card_BattlePass_SPAS12,item-10002734,item-20002734,1,0,,,0,0,,item-30002734,0,0
 2735,5,1,profilePic_ArtBook_M4A1,item-10002735,item-20002735,1,0,,,0,0,,item-30002735,0,0
+2736,5,1,profilePic_ChessFlight_season22_1,item-10002736,item-20002736,1,0,,,0,0,,item-30002736,0,0
+2737,5,1,profilePic_ChessFlight_season22_2,item-10002737,item-20002737,1,0,,,0,0,,item-30002737,0,0
+2738,5,1,profilePic_ChessFlight_season22_3,item-10002738,item-20002738,1,0,,,0,0,,item-30002738,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -2435,6 +2438,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 110077,4,110077,PT,item-10110077,item-20110077,1,0,,,0,0,,item-30110077,0,0
 110078,4,110078,EventPT7,item-10110078,item-20110078,1,0,,,0,0,,item-30110078,0,0
 110079,4,110079,PT,item-10110079,item-20110079,1,0,,,0,0,,item-30110079,0,0
+110080,4,110080,PT,item-10110080,item-20110080,1,0,,,0,0,,item-30110080,0,0
 120001,10,1,bondage_lines_icon,item-10120001,item-20120001,1,0,,,0,0,,item-30120001,0,0
 120002,10,2,bondage_lines_icon,item-10120002,item-20120002,1,0,,,0,0,,item-30120002,0,0
 120003,10,3,bondage_lines_icon,item-10120003,item-20120003,1,0,,,0,0,,item-30120003,0,0
@@ -3024,6 +3028,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500290,15,1500290,Bumdle_ChristmasCoupons1,item-11500290,item-21500290,1,-1,,,0,0,,item-31500290,0,1
 1500291,15,1500291,Bumdle_ChristmasCoupons2,item-11500291,item-21500291,1,-1,,,0,0,,item-31500291,0,1
 1500292,15,1500292,Bumdle_ChristmasCoupons3,item-11500292,item-21500292,1,-1,,,0,0,,item-31500292,0,1
+1500293,15,1500293,package_choose,item-11500293,item-21500293,1,-1,,,0,0,,item-31500293,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0

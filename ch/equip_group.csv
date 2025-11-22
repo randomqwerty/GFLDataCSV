@@ -65,3 +65,5 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 64,equip_group-10000064,equip_group-20000064,EgroupF1,214|0|470,2:1009303,20178,0
 65,equip_group-10000065,equip_group-20000065,EgroupVSK94,474|0|354,2:1009603,312,0
 66,equip_group-10000066,equip_group-20000066,EgroupRibeyrolles,261|0|475,2:1009703,20171,0
+67,equip_group-10000067,equip_group-20000067,EgroupLewis,483|447|0,2:1011003,253,0
+68,equip_group-10000068,equip_group-20000068,EgroupM1897,484|206|0,2:1011103,20152,0

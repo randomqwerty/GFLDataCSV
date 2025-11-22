@@ -283,6 +283,52 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 1500290,2,PakcageImage_ChristmasCoupons1,0,0,2703,2026-02-04 23:59:59,7395,present-11500290,0
 1500291,2,PakcageImage_ChristmasCoupons2,0,0,2704,2026-02-04 23:59:59,7396,present-11500291,0
 1500292,1,PakcageImage_ChristmasCoupons3,0,13211,0,2026-02-04 23:59:59,2885,present-11500292,0
+1500293,1,PackageImage_16labEquip,0,13265,0,,0,present-11500293,0
+1500294,2,PackageImage_JPnewyear1,0,0,2705,,0,present-11500294,0
+1500295,2,PackageImage_JPnewyear2,0,0,2706,,0,present-11500295,0
+1500296,1,PackageImage_JPnewyear3,0,13273,0,,0,present-11500296,0
+1500297,2,PackageImage_SpringFestivalCoupons1,0,0,2707,,0,present-11500297,0
+1500298,2,PackageImage_SpringFestivalCoupons2,0,0,2708,,0,present-11500298,0
+1500299,1,PackageImage_SpringFestivalCoupons3,0,13290,0,,0,present-11500299,0
+1500300,2,PackageImage_WhiteValentineCoupons1,0,0,2709,,0,present-11500300,0
+1500301,2,PackageImage_WhiteValentineCoupons2,0,0,2710,,0,present-11500301,0
+1500302,1,PackageImage_WhiteValentineCoupons3,0,13302,0,,0,present-11500302,0
+1500303,2,PackageImage_FantasyCoupons1,0,0,2711,,0,present-11500303,0
+1500304,2,PackageImage_FantasyCoupons2,0,0,2712,,0,present-11500304,0
+1500305,1,PackageImage_FantasyCoupons3,0,13336,0,,0,present-11500305,0
+1500306,2,PackageImage_9thAnniversary_1,0,0,2713,,0,present-11500306,0
+1500307,2,PackageImage_9thAnniversary_2,0,0,2714,,0,present-11500307,0
+1500308,1,PackageImage_9thAnniversary_3,0,13348,0,,0,present-11500308,0
+1500309,2,PackageImage_ChildrenDayCoupons1,0,0,2593,,0,present-11500309,0
+1500310,2,PackageImage_ChildrenDayCoupons2,0,0,2594,,0,present-11500310,0
+1500311,1,PackageImage_ChildrenDayCoupons3,0,2994,0,,0,present-11500311,0
+1500312,2,PackageImage_SummerdayCoupons1,0,0,2596,,0,present-11500312,0
+1500313,2,PackageImage_SummerdayCoupons2,0,0,2597,,0,present-11500313,0
+1500314,1,PackageImage_SummerdayCoupons3,0,13005,0,,0,present-11500314,0
+1500315,2,PackageImage_UrbanBeautyCoupons1,0,0,2715,,0,present-11500315,0
+1500316,2,PackageImage_UrbanBeautyCoupons2,0,0,2716,,0,present-11500316,0
+1500317,1,PackageImage_UrbanBeautyCoupons3,0,13370,0,,0,present-11500317,0
+1500318,2,PackageImage_Halloween1,0,0,2674,,0,present-11500318,0
+1500319,2,PackageImage_Halloween2,0,0,2675,,0,present-11500319,0
+1500320,1,PackageImage_Halloween3,0,13077,0,,0,present-11500320,0
+1500321,2,PakcageImage_ChristmasCoupons1,0,0,2717,,0,present-11500321,0
+1500322,2,PakcageImage_ChristmasCoupons2,0,0,2718,,0,present-11500322,0
+1500323,1,PakcageImage_ChristmasCoupons3,0,13383,0,,0,present-11500323,0
+1500324,2,PackageImage_JPnewyear1,0,0,2719,,0,present-11500324,0
+1500325,2,PackageImage_JPnewyear2,0,0,2720,,0,present-11500325,0
+1500326,1,PackageImage_JPnewyear3,0,13392,0,,0,present-11500326,0
+1500327,2,PackageImage_SpringFestivalCoupons1,0,0,2721,,0,present-11500327,0
+1500328,2,PackageImage_SpringFestivalCoupons2,0,0,2722,,0,present-11500328,0
+1500329,1,PackageImage_SpringFestivalCoupons3,0,13403,0,,0,present-11500329,0
+1500330,2,PackageImage_WhiteValentineCoupons1,0,0,2723,,0,present-11500330,0
+1500331,2,PackageImage_WhiteValentineCoupons2,0,0,2724,,0,present-11500331,0
+1500332,1,PackageImage_WhiteValentineCoupons3,0,13412,0,,0,present-11500332,0
+1500333,2,PackageImage_9thAnniversary_1,0,0,2725,,0,present-11500333,0
+1500334,2,PackageImage_9thAnniversary_2,0,0,2726,,0,present-11500334,0
+1500335,1,PackageImage_9thAnniversary_3,0,13423,0,,0,present-11500335,0
+1500336,2,PackageImage_UrbanBeautyCoupons1,0,0,2727,,0,present-11500336,0
+1500337,2,PackageImage_UrbanBeautyCoupons2,0,0,2728,,0,present-11500337,0
+1500338,1,PackageImage_UrbanBeautyCoupons3,0,13433,0,,0,present-11500338,0
 1700001,1,,0,150089,0,2023-11-19 00:00:00,140073,present-11700001,0
 1700002,1,,0,150090,0,2023-11-19 00:00:00,140074,present-11700002,0
 1700003,1,,0,150091,0,2023-11-19 00:00:00,140075,present-11700003,0
@@ -364,6 +410,9 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 1700079,1,,0,150167,0,2025-12-20 00:00:00,140073,present-11700079,0
 1700080,1,,0,150168,0,2025-12-20 00:00:00,140074,present-11700080,0
 1700081,1,,0,150169,0,2025-12-20 00:00:00,140075,present-11700081,0
+1700082,1,,0,150170,0,2026-01-18 00:00:00,140073,present-11700082,0
+1700083,1,,0,150171,0,2026-01-18 00:00:00,140074,present-11700083,0
+1700084,1,,0,150172,0,2026-01-18 00:00:00,140075,present-11700084,0
 1800001,2,,0,0,2000001,,0,present-11800001,30
 1800002,2,,0,0,2000002,,0,present-11800002,30
 1800003,2,,0,0,2000003,,0,present-11800003,30
