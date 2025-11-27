@@ -65,6 +65,8 @@ id,type,arguments,extra_language,is_hidden,is_show_count
 10230,1101,80575,mission_win_type_config-10010230,0,1
 10240,1303,2863:1,mission_win_type_config-10010240,0,1
 10241,1301,12,mission_win_type_config-10010241,0,1
+13501,1402,2,mission_win_type_config-10013501,0,0
+13502,1106,2,mission_win_type_config-10013502,0,0
 260900,1404,2,mission_win_type_config-10260900,0,1
 260901,1405,1,mission_win_type_config-10260901,0,1
 330800,1303,330804:3,mission_win_type_config-10330800,0,1
