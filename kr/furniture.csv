@@ -3046,6 +3046,12 @@ id,name,classes,type,position,space,deco_rate,decompose_gift,description,code,te
 311605,furniture-10311605,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311605,poster_2025Afterword_LWMMG,1,5,0|0|0,3,0,0,0,0,0,0
 311606,furniture-10311606,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311606,poster_2025Afterword_G28,1,5,0|0|0,3,0,0,0,0,0,0
 311608,furniture-10311608,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311608,poster_2025Afterword_M2HB,1,5,0|0|0,3,0,0,0,0,0,0
+311609,furniture-10311609,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311609,poster_202511_88type,1,5,0|0|0,3,0,0,0,0,0,0
+311701,furniture-10311701,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311701,poster_TacticalAcademy_Type64-AR,1,5,0|0|0,3,0,0,0,0,0,0
+311702,furniture-10311702,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311702,poster_TacticalAcademy_UKM2000,1,5,0|0|0,3,0,0,0,0,0,0
+311703,furniture-10311703,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311703,poster_TacticalAcademy_Tabuk,1,5,0|0|0,3,0,0,0,0,0,0
+311704,furniture-10311704,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311704,poster_TacticalAcademy_CETME556,1,5,0|0|0,3,0,0,0,0,0,0
+311705,furniture-10311705,300,303,0,3|6|1|1|1|0,750,100003,furniture-20311705,poster_TacticalAcademy_Z62,1,5,0|0|0,3,0,0,0,0,0,0
 330001,furniture-10330001,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330001,poster_BattlePass_AR15,1,5,0|0|0,3,0,0,0,0,0,0
 330002,furniture-10330002,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330002,poster_BattlePass_DSR50,1,5,0|0|0,3,0,0,0,0,0,0
 330003,furniture-10330003,300,303,0,3|6|1|1|1|0,750,100003,furniture-20330003,poster_BattlePass_Lewis,1,5,0|0|0,3,0,0,0,0,0,0

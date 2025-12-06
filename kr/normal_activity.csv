@@ -54,3 +54,5 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 53,-71,normal_activity-10000053,19,normal_activity-20000053,normal_activity-30000053,active_202408,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000053,active_202408logo,0,
 54,-72,normal_activity-10000054,19,normal_activity-20000054,normal_activity-30000054,active_202410,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000054,active_202410logo,0,
 55,-49,normal_activity-10000055,102,normal_activity-20000055,normal_activity-30000055,active_Xmas2021,#000000C7|#3D415166|#22d0ab|#FFFFFFFF,normal_activity-40000055,active_Xmas2021logo,0,
+56,-74,normal_activity-10000056,20,normal_activity-20000056,normal_activity-30000056,active_202412,#000000C7|#3D415166|#196689|#FFFFFFFF,normal_activity-40000056,active_202412logo,0,
+57,-40404,normal_activity-10000057,20,normal_activity-20000057,normal_activity-30000057,missionselect_202412activityExt,,normal_activity-40000057,,10014,314

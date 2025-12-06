@@ -26,6 +26,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 208,gift_item-10000208,2,6,50000,-1,208,0,gift_bundle_kalina_208,gift_item-20000208,gift_item-30000208,gift_item-50000208,0,0,0,,gift_item-40000208,2000,0
 209,gift_item-10000209,2,6,50000,-1,209,0,gift_bundle_kalina_209,gift_item-20000209,gift_item-30000209,gift_item-50000209,0,0,0,,gift_item-40000209,2000,0
 210,gift_item-10000210,2,6,50000,-5,210,0,gift_bundle_Persica_210,gift_item-20000210,gift_item-30000210,gift_item-50000210,0,0,0,,gift_item-40000210,2000,0
+211,gift_item-10000211,2,6,50000,-1,211,0,gift_bundle_kalina_211,gift_item-20000211,gift_item-30000211,gift_item-50000211,0,0,0,,gift_item-40000211,2000,0
 212,gift_item-10000212,2,6,50000,-1,212,0,gift_bundle_kalina_212,gift_item-20000212,gift_item-30000212,gift_item-50000212,0,0,0,,gift_item-40000212,2000,0
 301,gift_item-10000301,2,6,50000,1,301,30301,gift_bundle_xmas_M1873,gift_item-20000301,gift_item-30000301,gift_item-50000301,0,0,0,,gift_item-40000301,2000,6
 302,gift_item-10000302,2,6,50000,36,302,30302,gift_bundle_xmas_M1903,gift_item-20000302,gift_item-30000302,gift_item-50000302,0,0,0,,gift_item-40000302,2000,6
@@ -781,6 +782,13 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 11005,gift_item-10011005,2,6,50000,400,11005,311005,gift_bundle_Mahoushaojiu2024_M1851N,gift_item-20011005,gift_item-30011005,gift_item-50011005,0,0,0,,gift_item-40011005,2000,6
 11006,gift_item-10011006,2,6,50000,226,11006,311006,gift_bundle_Mahoushaojiu2024_Mk12,gift_item-20011006,gift_item-30011006,gift_item-50011006,0,0,0,,gift_item-40011006,2000,6
 11007,gift_item-10011007,2,6,50000,6,11007,311007,gift_bundle_Mahoushaojiu2024_TT33,gift_item-20011007,gift_item-30011007,gift_item-50011007,0,0,0,,gift_item-40011007,2000,6
+11101,gift_item-10011101,2,6,50000,376,11101,311101,gift_bundle_Christmas2024_Erma,gift_item-20011101,gift_item-30011101,gift_item-50011101,0,0,0,,gift_item-40011101,2000,6
+11102,gift_item-10011102,2,6,50000,128,11102,311102,gift_bundle_Christmas2024_M99,gift_item-20011102,gift_item-30011102,gift_item-50011102,0,0,0,,gift_item-40011102,2000,6
+11103,gift_item-10011103,2,6,50000,28,11103,311103,gift_bundle_Christmas2024_MP7,gift_item-20011103,gift_item-30011103,gift_item-50011103,0,0,0,,gift_item-40011103,2000,6
+11104,gift_item-10011104,2,6,50000,401,11104,311104,gift_bundle_Christmas2024_P50,gift_item-20011104,gift_item-30011104,gift_item-50011104,0,0,0,,gift_item-40011104,2000,6
+11105,gift_item-10011105,2,6,50000,262,11105,311105,gift_bundle_Christmas2024_EM2,gift_item-20011105,gift_item-30011105,gift_item-50011105,0,0,0,,gift_item-40011105,2000,6
+11106,gift_item-10011106,2,6,50000,256,11106,311106,gift_bundle_Christmas2024_Falcon,gift_item-20011106,gift_item-30011106,gift_item-50011106,0,0,0,,gift_item-40011106,2000,6
+11107,gift_item-10011107,2,6,50000,2,11107,311107,gift_bundle_Christmas2024_M1911,gift_item-20011107,gift_item-30011107,gift_item-50011107,0,0,0,,gift_item-40011107,2000,6
 11201,gift_item-10011201,2,6,50000,366,11201,311201,gift_bundle_NewYear2025_SPAS15,gift_item-20011201,gift_item-30011201,gift_item-50011201,0,0,0,,gift_item-40011201,2000,6
 11202,gift_item-10011202,2,6,50000,4,11202,311202,gift_bundle_NewYear2025_Python,gift_item-20011202,gift_item-30011202,gift_item-50011202,0,0,0,,gift_item-40011202,2000,6
 11203,gift_item-10011203,2,6,50000,334,11203,311203,gift_bundle_NewYear2025_Savage99,gift_item-20011203,gift_item-30011203,gift_item-50011203,0,0,0,,gift_item-40011203,2000,6

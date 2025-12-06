@@ -1678,7 +1678,14 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2620,5,1,cg_202412Activity_02,item-10002620,item-20002620,1,0,,,0,0,,item-30002620,0,0
 2621,5,1,cg_202412Activity_03,item-10002621,item-20002621,1,0,,,0,0,,item-30002621,0,0
 2622,5,1,profilePic_202412Activity_coremask,item-10002622,item-20002622,1,0,,,0,0,,item-30002622,0,0
+2623,5,1,profilePic_Christmas2024_M1911,item-10002623,item-20002623,1,0,,,0,0,,item-30002623,0,0
 2624,5,1,profilePic_NewYear2025JP_coremask,item-10002624,item-20002624,1,0,,,0,0,,item-30002624,0,0
+2625,5,1,profilePic_Christmas2024_Erma,item-10002625,item-20002625,1,0,,,0,0,,item-30002625,0,0
+2626,5,1,profilePic_Christmas2024_M99,item-10002626,item-20002626,1,0,,,0,0,,item-30002626,0,0
+2627,5,1,profilePic_Christmas2024_MP7,item-10002627,item-20002627,1,0,,,0,0,,item-30002627,0,0
+2628,5,1,profilePic_Christmas2024_P50,item-10002628,item-20002628,1,0,,,0,0,,item-30002628,0,0
+2629,5,1,profilePic_Christmas2024_EM2,item-10002629,item-20002629,1,0,,,0,0,,item-30002629,0,0
+2630,5,1,profilePic_Christmas2024_Falcon,item-10002630,item-20002630,1,0,,,0,0,,item-30002630,0,0
 2631,5,1,profilePic_NewYear2025_SPAS15,item-10002631,item-20002631,1,0,,,0,0,,item-30002631,0,0
 2632,5,1,profilePic_NewYear2025_Python,item-10002632,item-20002632,1,0,,,0,0,,item-30002632,0,0
 2633,5,1,profilePic_NewYear2025_Savage99,item-10002633,item-20002633,1,0,,,0,0,,item-30002633,0,0
@@ -1899,6 +1906,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10723,18,10723,daily_points,item-10010723,item-20010723,1,0,,,0,0,,item-30010723,0,0
 10724,18,10724,daily_points,item-10010724,item-20010724,1,0,,,0,0,,item-30010724,0,0
 10725,18,10725,daily_points,item-10010725,item-20010725,1,0,,,0,0,,item-30010725,0,0
+10726,18,10726,daily_points,item-10010726,item-20010726,1,0,,,0,0,,item-30010726,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0
@@ -2779,6 +2787,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700052,15,1700052,package_choose,item-11700052,item-21700052,1,-1,,,0,0,,item-31700052,0,1
 1700053,15,1700053,package_choose,item-11700053,item-21700053,1,-1,,,0,0,,item-31700053,0,1
 1700054,15,1700054,package_choose,item-11700054,item-21700054,1,-1,,,0,0,,item-31700054,0,1
+1700055,15,1700055,package_choose,item-11700055,item-21700055,1,-1,,,0,0,,item-31700055,0,1
+1700056,15,1700056,package_choose,item-11700056,item-21700056,1,-1,,,0,0,,item-31700056,0,1
+1700057,15,1700057,package_choose,item-11700057,item-21700057,1,-1,,,0,0,,item-31700057,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1
@@ -2859,3 +2870,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9500060,15,9500060,Bumdle_invocation_2,item-19500060,item-29500060,1,-1,,,0,0,,item-39500060,0,1
 9500061,15,9500061,Bumdle_sangvischoose,item-19500061,item-29500061,1,-1,,,0,0,,item-39500061,0,1
 9500062,15,9500062,Bumdle_equipment,item-19500062,item-29500062,1,-1,,,0,0,,item-39500062,0,1
+9500063,15,9500063,Bumdle_ChristmasCoupons1,item-19500063,item-29500063,1,-1,,,0,0,,item-39500063,0,1
+9500064,15,9500064,Bumdle_ChristmasCoupons2,item-19500064,item-29500064,1,-1,,,0,0,,item-39500064,0,1
+9500065,15,9500065,Bumdle_ChristmasCoupons3,item-19500065,item-29500065,1,-1,,,0,0,,item-39500065,0,1

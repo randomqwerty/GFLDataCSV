@@ -70,4 +70,4 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 69,equip_group-10000069,equip_group-20000069,EgrouC96,167|488|353,3:1011204,20012,0
 70,equip_group-10000070,equip_group-20000070,EgroupASVAL,497|135|360,3:1011504,20060,0
 71,equip_group-10000071,equip_group-20000071,EgroupMLEMK1,298|160|495,3:1011304,20050,0
-72,equip_group-10000072,equip_group-20000072,Egroup98K,496.105|297,3:1011404,20046,0
+72,equip_group-10000072,equip_group-20000072,Egroup98K,496|105|297,3:1011404,20046,0

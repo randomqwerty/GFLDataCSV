@@ -1658,6 +1658,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2620,5,1,cg_202412Activity_02,item-10002620,item-20002620,1,0,,,0,0,,item-30002620,0,0
 2621,5,1,cg_202412Activity_03,item-10002621,item-20002621,1,0,,,0,0,,item-30002621,0,0
 2622,5,1,profilePic_202412Activity_coremask,item-10002622,item-20002622,1,0,,,0,0,,item-30002622,0,0
+2623,5,1,profilePic_Christmas2024_M1911,item-10002623,item-20002623,1,0,,,0,0,,item-30002623,0,0
+2625,5,1,profilePic_Christmas2024_Erma,item-10002625,item-20002625,1,0,,,0,0,,item-30002625,0,0
+2626,5,1,profilePic_Christmas2024_M99,item-10002626,item-20002626,1,0,,,0,0,,item-30002626,0,0
+2627,5,1,profilePic_Christmas2024_MP7,item-10002627,item-20002627,1,0,,,0,0,,item-30002627,0,0
+2628,5,1,profilePic_Christmas2024_P50,item-10002628,item-20002628,1,0,,,0,0,,item-30002628,0,0
+2629,5,1,profilePic_Christmas2024_EM2,item-10002629,item-20002629,1,0,,,0,0,,item-30002629,0,0
+2630,5,1,profilePic_Christmas2024_Falcon,item-10002630,item-20002630,1,0,,,0,0,,item-30002630,0,0
 2631,5,1,profilePic_NewYear2025_SPAS15,item-10002631,item-20002631,1,0,,,0,0,,item-30002631,0,0
 2632,5,1,profilePic_NewYear2025_Python,item-10002632,item-20002632,1,0,,,0,0,,item-30002632,0,0
 2633,5,1,profilePic_NewYear2025_Savage99,item-10002633,item-20002633,1,0,,,0,0,,item-30002633,0,0
@@ -2754,3 +2761,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000036,15,9000036,Bumdle_HalloweenCoupons1,item-19000036,item-29000036,1,-1,,,0,0,,item-39000036,0,1
 9000037,15,9000037,Bumdle_HalloweenCoupons2,item-19000037,item-29000037,1,-1,,,0,0,,item-39000037,0,1
 9000038,15,9000038,Bumdle_HalloweenCoupons3,item-19000038,item-29000038,1,-1,,,0,0,,item-39000038,0,1
+9000039,15,9000039,Bumdle_ChristmasCoupons1,item-19000039,item-29000039,1,-1,,,0,0,,item-39000039,0,1
+9000040,15,9000040,Bumdle_ChristmasCoupons2,item-19000040,item-29000040,1,-1,,,0,0,,item-39000040,0,1
+9000041,15,9000041,Bumdle_ChristmasCoupons3,item-19000041,item-29000041,1,-1,,,0,0,,item-39000041,0,1
