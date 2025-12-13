@@ -283,7 +283,7 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 1500290,2,PakcageImage_ChristmasCoupons1,0,0,2703,2026-01-21 23:59:59,7395,present-11500290,0
 1500291,2,PakcageImage_ChristmasCoupons2,0,0,2704,2026-01-21 23:59:59,7396,present-11500291,0
 1500292,1,PakcageImage_ChristmasCoupons3,0,13211,0,2026-01-21 23:59:59,2885,present-11500292,0
-1500293,1,PackageImage_Equip,0,13265,0,,0,present-11500293,0
+1500293,1,PackageImage_16labEquip,0,13265,0,,0,present-11500293,0
 1500294,2,PackageImage_JPnewyear1,0,0,2705,,0,present-11500294,0
 1500295,2,PackageImage_JPnewyear2,0,0,2706,,0,present-11500295,0
 1500296,1,PackageImage_JPnewyear3,0,13273,0,,0,present-11500296,0
@@ -336,6 +336,10 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 1500343,1,PackageImage_SangvisAvatar2,0,4337,0,,0,present-11500343,0
 1500344,1,PackageImage_SangvisAvatar1,0,4338,0,,0,present-11500344,0
 1500345,1,PackageImage_SangvisUnit3,0,4339,0,,0,present-11500345,0
+1500346,1,,0,140001,0,2026-01-25 23:59:59,140016,present-11500346,0
+1500347,1,,0,140003,0,2026-01-25 23:59:59,140016,present-11500347,0
+1500348,2,,0,0,2729,2026-01-25 23:59:59,140016,present-11500348,0
+1500349,2,,0,0,945,2026-01-25 23:59:59,140016,present-11500349,0
 1700001,1,,0,150089,0,2023-12-11 00:00:00,140073,present-11700001,0
 1700002,1,,0,150090,0,2023-12-11 00:00:00,140074,present-11700002,0
 1700003,1,,0,150091,0,2023-12-11 00:00:00,140075,present-11700003,0
