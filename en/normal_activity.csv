@@ -31,6 +31,7 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 30,-42,normal_activity-10000030,101,normal_activity-20000030,normal_activity-30000030,active_Halloween2020,#000000C7|#3D415166|#E64801FF|#FFFFFFFF,normal_activity-40000030,Halloween2020logo,0,
 31,-50,normal_activity-10000031,103,normal_activity-20000031,normal_activity-30000031,active_WhiteDay2022,#000000C7|#3D415166|#D00001FF|#FFFFFFFF,normal_activity-40000031,active_WhiteDay2022logo,0,
 32,-45,normal_activity-10000032,5,normal_activity-20000032,normal_activity-30000032,missionselect_ContinuumTurbulenceRemake,,normal_activity-40000032,,10004,304
+33,-53,normal_activity-10000033,6,normal_activity-20000033,normal_activity-30000033,missionselect_PolarizedLight_RE,,normal_activity-40000033,,10005,305
 34,-59,normal_activity-10000034,104,normal_activity-20000034,normal_activity-30000034,active_2023Rouge,#000000C7|#3D415166|#5065bdFF|#FFFFFFFF,normal_activity-40000034,active_2023Rougelogo,0,
 37,-51,normal_activity-10000037,12,normal_activity-20000037,normal_activity-30000037,active_FixedPoint,#000000C7|#3D415166|#A3BD13|#FFFFFFFF,normal_activity-40000037,FixedPointlogo,0,
 44,-54,normal_activity-10000044,13,normal_activity-20000044,normal_activity-30000044,active_2022Summer,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000044,active_2022Summerlogo,0,
