@@ -3109,6 +3109,11 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1500347,15,1500347,package_choose,item-11500347,item-21500347,1,-1,,,0,0,,item-31500347,0,1
 1500348,15,1500348,package_random,item-11500348,item-21500348,1,-1,,,0,0,,item-31500348,0,1
 1500349,15,1500349,package_random,item-11500349,item-21500349,1,-1,,,0,0,,item-31500349,0,1
+1500350,15,1500350,Bumdle_invocation_1,item-11500350,item-21500350,1,-1,,,0,0,,item-31500350,0,1
+1500351,15,1500351,Bumdle_invocation_3,item-11500351,item-21500351,1,-1,,,0,0,,item-31500351,0,1
+1500352,15,1500352,Bumdle_invocation_2,item-11500352,item-21500352,1,-1,,,0,0,,item-31500352,0,1
+1500353,15,1500353,Bumdle_sangvischoose,item-11500353,item-21500353,1,-1,,,0,0,,item-31500353,0,1
+1500354,15,1500354,Bumdle_equipment,item-11500354,item-21500354,1,-1,,,0,0,,item-31500354,0,1
 1600001,1,1600001,anchor_contract,item-11600001,item-21600001,1,0,,,0,0,,item-31600001,0,0
 1600002,1,1600002,ReturnPlayer_activity,item-11600002,item-21600002,1,0,,,0,0,,item-31600002,0,0
 1600050,1,1600050,lucky_ticket,item-11600050,item-21600050,1,0,,,0,0,,item-31600050,0,0

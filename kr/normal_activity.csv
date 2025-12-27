@@ -58,3 +58,5 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 57,-40404,normal_activity-10000057,20,normal_activity-20000057,normal_activity-30000057,missionselect_202412activityExt,,normal_activity-40000057,,10014,314
 58,-75,normal_activity-10000058,21,normal_activity-20000058,normal_activity-30000058,active_202505,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000058,active_202505logo,0,
 59,-76,normal_activity-10000059,22,normal_activity-20000059,normal_activity-30000059,active_202507,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000059,active_202507logo,0,
+60,-78,normal_activity-10000060,23,normal_activity-20000060,normal_activity-30000060,active_202509,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000060,active_202509logo,0,
+61,-77,normal_activity-10000061,23,normal_activity-20000061,normal_activity-30000061,missionselect_202509rabbit,,normal_activity-40000061,,10015,315
