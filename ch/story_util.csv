@@ -949,8 +949,8 @@ id,mission_id,description,scripts,campaign,bgm,title,is_util,start,round,point,f
 995,11105|11106,story_util-10000995,-52-5-1,-52,,story_util-20000995,0,-52-5-1,,,,,,,,,1,2022_Stall
 996,11099|11100,story_util-10000996,-52-6-1,-52,,story_util-20000996,0,-52-6-1,,,,,,,,,1,BG-Beach
 997,11166,story_util-10000997,-54-O-1,-54,,story_util-20000997,0,-54-O-1,,,,,,,,,10,2022summer_Map
-998,11164,story_util-10000998,-54-0-1,-54,,story_util-20000998,0,-54-0-1,,,,,,,,,0,
-999,11165,story_util-10000999,-54-0-2,-54,,story_util-20000999,0,-54-0-2,,,,,,,,,0,
+998,11164,story_util-10000998,,-54,,story_util-20000998,0,-54-0-1,,,,,,,,,0,
+999,11165,story_util-10000999,,-54,,story_util-20000999,0,-54-0-2,,,,,,,,,0,
 1000,11167,story_util-10001000,-54-A-1,-54,,story_util-20001000,0,-54-A-1,,,,,,,,,1,17xh-ShootingRange
 1001,11168,story_util-10001001,-54-A-3,-54,,story_util-20001001,0,-54-A-3,,,,,,,,,1,17xh-ShootingRange
 1002,11169,story_util-10001002,-54-A-4,-54,,story_util-20001002,0,-54-A-4,,,,,,,,,1,2022summer_TrainStation
