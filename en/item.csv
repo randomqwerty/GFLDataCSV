@@ -79,6 +79,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 145,3,46,Medal_202412Activity_rank,item-10000145,item-20000145,1,0,,,0,0,,item-30000145,0,0
 146,3,47,Medal_Theater14th_NA,item-10000146,item-20000146,1,0,,,0,0,,item-30000146,0,0
 147,3,48,Medal_Theater14th_rank_NA,item-10000147,item-20000147,1,0,,,0,0,,item-30000147,0,0
+149,3,50,Medal_202505Activity,item-10000149,item-20000149,1,0,,,0,0,,item-30000149,0,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0,0
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303,0,0
@@ -1693,8 +1694,18 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2659,5,1,profilePic_WhiteValentina2025_M1895,item-10002659,item-20002659,1,0,,,0,0,,item-30002659,0,0
 2663,5,1,profilePic_BattlePass_Beowulf,item-10002663,item-20002663,1,0,,,0,0,,item-30002663,0,0
 2664,5,1,card_BattlePass_Beowulf,item-10002664,item-20002664,1,0,,,0,0,,item-30002664,0,0
+2665,5,1,profilePic_202505Activity_01,item-10002665,item-20002665,1,0,,,0,0,,item-30002665,0,0
+2666,5,1,profilePic_202505Activity_02,item-10002666,item-20002666,1,0,,,0,0,,item-30002666,0,0
+2667,5,1,profilePic_202505Activity_03,item-10002667,item-20002667,1,0,,,0,0,,item-30002667,0,0
+2668,5,1,card_202505Activity_01,item-10002668,item-20002668,1,0,,,0,0,,item-30002668,0,0
+2669,5,1,card_202505Activity_02,item-10002669,item-20002669,1,0,,,0,0,,item-30002669,0,0
+2670,5,1,card_202505Activity_03,item-10002670,item-20002670,1,0,,,0,0,,item-30002670,0,0
+2671,5,1,cg_202505Activity_01,item-10002671,item-20002671,1,0,,,0,0,,item-30002671,0,0
+2672,5,1,cg_202505Activity_02,item-10002672,item-20002672,1,0,,,0,0,,item-30002672,0,0
 2673,5,1,profilePic_BattlePass_LTLX7000,item-10002673,item-20002673,1,0,,,0,0,,item-30002673,0,0
 2674,5,1,card_BattlePass_LTLX7000,item-10002674,item-20002674,1,0,,,0,0,,item-30002674,0,0
+2686,5,1,profilePic_202505Activity_04,item-10002686,item-20002686,1,0,,,0,0,,item-30002686,0,0
+2687,5,1,card_202505Activity_04,item-10002687,item-20002687,1,0,,,0,0,,item-30002687,0,0
 2689,5,1,profilePic_BattlePass_FO12,item-10002689,item-20002689,1,0,,,0,0,,item-30002689,0,0
 2690,5,1,card_BattlePass_FO12,item-10002690,item-20002690,1,0,,,0,0,,item-30002690,0,0
 2694,5,1,profilePic_BattlePass_STG44,item-10002694,item-20002694,1,0,,,0,0,,item-30002694,0,0
@@ -1703,6 +1714,11 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2704,5,1,card_BattlePass_Six12,item-10002704,item-20002704,1,0,,,0,0,,item-30002704,0,0
 2708,5,1,profilePic_BattlePass_HK416,item-10002708,item-20002708,1,0,,,0,0,,item-30002708,0,0
 2709,5,1,card_BattlePass_HK416,item-10002709,item-20002709,1,0,,,0,0,,item-30002709,0,0
+2750,5,1,profilePic_TacticalAcademy_Type64-AR,item-10002750,item-20002750,1,0,,,0,0,,item-30002750,0,0
+2751,5,1,profilePic_TacticalAcademy_UKM2000,item-10002751,item-20002751,1,0,,,0,0,,item-30002751,0,0
+2752,5,1,profilePic_TacticalAcademy_Tabuk,item-10002752,item-20002752,1,0,,,0,0,,item-30002752,0,0
+2753,5,1,profilePic_TacticalAcademy_CETME556,item-10002753,item-20002753,1,0,,,0,0,,item-30002753,0,0
+2754,5,1,profilePic_TacticalAcademy_Z62,item-10002754,item-20002754,1,0,,,0,0,,item-30002754,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -2796,3 +2812,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000042,15,9000042,Bumdle_SpringFestivalCoupons1,item-19000042,item-29000042,1,-1,,,0,0,,item-39000042,0,1
 9000043,15,9000043,Bumdle_SpringFestivalCoupons2,item-19000043,item-29000043,1,-1,,,0,0,,item-39000043,0,1
 9000044,15,9000044,Bumdle_SpringFestivalCoupons3,item-19000044,item-29000044,1,-1,,,0,0,,item-39000044,0,1
+9000045,15,9000045,Bumdle_invocation_3,item-19000045,item-29000045,1,-1,,,0,0,,item-39000045,0,1
+9000046,15,9000046,Bumdle_invocation_2,item-19000046,item-29000046,1,-1,,,0,0,,item-39000046,0,1
+9000047,15,9000047,Bumdle_sangvischoose,item-19000047,item-29000047,1,-1,,,0,0,,item-39000047,0,1
+9000048,15,9000048,Bumdle_equipment,item-19000048,item-29000048,1,-1,,,0,0,,item-39000048,0,1

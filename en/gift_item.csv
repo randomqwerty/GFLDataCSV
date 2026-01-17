@@ -26,6 +26,7 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 208,gift_item-10000208,2,6,50000,-1,208,0,gift_bundle_kalina_208,gift_item-20000208,gift_item-30000208,gift_item-50000208,0,0,0,,gift_item-40000208,2000,0
 209,gift_item-10000209,2,6,50000,-1,209,0,gift_bundle_kalina_209,gift_item-20000209,gift_item-30000209,gift_item-50000209,0,0,0,,gift_item-40000209,2000,0
 210,gift_item-10000210,2,6,50000,-5,210,0,gift_bundle_Persica_210,gift_item-20000210,gift_item-30000210,gift_item-50000210,0,0,0,,gift_item-40000210,2000,0
+212,gift_item-10000212,2,6,50000,-1,212,0,gift_bundle_kalina_212,gift_item-20000212,gift_item-30000212,gift_item-50000212,0,0,0,,gift_item-40000212,2000,6
 301,gift_item-10000301,2,6,50000,1,301,30301,gift_bundle_xmas_M1873,gift_item-20000301,gift_item-30000301,gift_item-50000301,0,0,0,,gift_item-40000301,2000,6
 302,gift_item-10000302,2,6,50000,36,302,30302,gift_bundle_xmas_M1903,gift_item-20000302,gift_item-30000302,gift_item-50000302,0,0,0,,gift_item-40000302,2000,6
 303,gift_item-10000303,2,6,50000,37,303,30303,gift_bundle_xmas_M14,gift_item-20000303,gift_item-30000303,gift_item-50000303,0,0,0,,gift_item-40000303,2000,6
@@ -809,6 +810,11 @@ id,name,type,rank,favor,fit_gun,skin,poster,code,normal_description,bonus_descri
 11405,gift_item-10011405,2,6,50000,118,11405,311405,gift_bundle_WhiteValentina2025_9A91,gift_item-20011405,gift_item-30011405,gift_item-50011405,0,0,0,,gift_item-40011405,2000,6
 11406,gift_item-10011406,2,6,50000,95,11406,311406,gift_bundle_WhiteValentina2025_88type,gift_item-20011406,gift_item-30011406,gift_item-50011406,0,0,0,,gift_item-40011406,2000,6
 11407,gift_item-10011407,2,6,50000,5,11407,311407,gift_bundle_WhiteValentina2025_M1895,gift_item-20011407,gift_item-30011407,gift_item-50011407,0,0,0,,gift_item-40011407,2000,6
+11701,gift_item-10011701,2,6,50000,243,11701,311701,gift_bundle_TacticalAcademy_Type64-AR,gift_item-20011701,gift_item-30011701,gift_item-50011701,0,0,0,,gift_item-40011701,2000,6
+11702,gift_item-10011702,2,6,50000,254,11702,311702,gift_bundle_TacticalAcademy_UKM2000,gift_item-20011702,gift_item-30011702,gift_item-50011702,0,0,0,,gift_item-40011702,2000,6
+11703,gift_item-10011703,2,6,50000,305,11703,311703,gift_bundle_TacticalAcademy_Tabuk,gift_item-20011703,gift_item-30011703,gift_item-50011703,0,0,0,,gift_item-40011703,2000,6
+11704,gift_item-10011704,2,6,50000,223,11704,311704,gift_bundle_TacticalAcademy_CETME556,gift_item-20011704,gift_item-30011704,gift_item-50011704,0,0,0,,gift_item-40011704,2000,6
+11705,gift_item-10011705,2,6,50000,116,11705,311705,gift_bundle_TacticalAcademy_Z62,gift_item-20011705,gift_item-30011705,gift_item-50011705,0,0,0,,gift_item-40011705,2000,6
 30001,gift_item-10030001,2,6,50000,57,30001,330001,gift_bundle_BattlePass_AR15,gift_item-20030001,gift_item-30030001,gift_item-50030001,0,0,0,,gift_item-40030001,2000,6
 30002,gift_item-10030002,2,6,50000,179,30002,330002,gift_bundle_BattlePass_DSR50,gift_item-20030002,gift_item-30030002,gift_item-50030002,0,0,0,,gift_item-40030002,2000,6
 30003,gift_item-10030003,2,6,50000,253,30003,330003,gift_bundle_BattlePass_Lewis,gift_item-20030003,gift_item-30030003,gift_item-50030003,0,0,0,,gift_item-40030003,2000,6
