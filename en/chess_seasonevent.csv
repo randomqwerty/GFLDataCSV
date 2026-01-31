@@ -13,3 +13,4 @@ id,name,start_time,end_time,mission_id
 12,chess_seasonevent-10000012,2025-06-03,2025-08-11 23:59:59,1
 13,chess_seasonevent-10000013,2025-08-19,2025-10-28 23:59:59,2
 14,chess_seasonevent-10000014,2025-11-11,2026-01-19 23:59:59,3
+15,chess_seasonevent-10000015,2026-01-27,2026-04-06 23:59:59,1
