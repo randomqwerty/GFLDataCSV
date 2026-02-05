@@ -1415,3 +1415,4 @@ id,mission_id,description,scripts,campaign,bgm,title,is_util,start,round,point,f
 1462,11984,story_util-10001462,-77-A-44,-78,,story_util-20001462,0,-77-A-44,,,,,,,,,3,202509_Lunasia2
 1463,11985,story_util-10001463,-77-A-46,-78,,story_util-20001463,0,-77-A-46,,,,,,,,,3,202509_Girls
 1464,11986,story_util-10001464,-77-A-48,-78,,story_util-20001464,0,-77-A-48,,,,,,,,,3,202410_Nele_d
+1465,11987,story_util-10001465,,-79,,story_util-20001465,0,-79-1-1,,,,,,,,,3,BG-BurnCity

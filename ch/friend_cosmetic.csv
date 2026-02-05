@@ -1745,6 +1745,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1756,2756,2,0,0,0,0,0,,0,0,card_BattlePass_MK18,1,5,,0,0,,0,,0
 1757,2757,1,0,0,0,0,200,508-5000,1,0,profilePic_BattlePass_JS9mm,1,5,,30036,0,4,0,,0
 1758,2758,2,0,0,0,0,0,,0,0,card_BattlePass_JS9mm,1,5,,0,0,,0,,0
+1759,2759,1,0,0,0,0,0,,0,0,profilePic_2026SpringJP_coremask,1,5,,0,0,1,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0

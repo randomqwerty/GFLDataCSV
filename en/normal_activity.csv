@@ -38,4 +38,5 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 39,-56,normal_activity-10000039,14,normal_activity-20000039,normal_activity-30000039,active_eclipses,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000039,active_eclipseslogo,0,
 44,-54,normal_activity-10000044,13,normal_activity-20000044,normal_activity-30000044,active_2022Summer,#000000C7|#3D415166|#FF9000|#FFFFFFFF,normal_activity-40000044,active_2022Summerlogo,0,
 45,-61,normal_activity-10000045,104,normal_activity-20000045,normal_activity-30000045,active_202307,#000000C7|#3D415166|#4a62f7|#FFFFFFFF,normal_activity-40000045,active_202307logo,0,
+47,-62,normal_activity-10000047,104,normal_activity-20000047,normal_activity-30000047,active_2023se,#000000C7|#3D415166|#0084FF|#FFFFFFFF,normal_activity-40000047,active_2023selogo,0,
 55,-49,normal_activity-10000055,102,normal_activity-20000055,normal_activity-30000055,active_Xmas2021,#000000C7|#3D415166|#22d0ab|#FFFFFFFF,normal_activity-40000055,active_Xmas2021logo,0,

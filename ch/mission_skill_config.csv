@@ -2440,6 +2440,16 @@ id,name,code,description,lvup_description,skill_group_id,level,train_coin_type,t
 780904,mission_skill_config-10780904,,mission_skill_config-20780904,mission_skill_config-30780904,780904,1,0,0,0,-1,-1,-1,0,1,0,0,0,0,0,0,,,,,1,780904:1,,,,,0,,0,,,0,,,,,0
 780905,mission_skill_config-10780905,,mission_skill_config-20780905,mission_skill_config-30780905,780905,1,0,0,0,-1,-1,-1,0,1,0,0,0,0,0,0,,,,,1,780905:1,,,,,0,,0,,,0,,,,,0
 783700,mission_skill_config-10783700,,mission_skill_config-20783700,mission_skill_config-30783700,783700,1,0,0,0,-1,-1,-1,0,1,0,0,0,0,0,0,,,,,1,783700:1,,,,,0,,0,,,0,,,,,0
+800001,mission_skill_config-10800001,,mission_skill_config-20800001,mission_skill_config-30800001,800001,1,0,0,0,-1,-1,-1,0,1,0,0,0,0,0,0,,,,,1,800001:1,,,,,0,,0,,,0,,,,,0
+800002,mission_skill_config-10800002,,mission_skill_config-20800002,mission_skill_config-30800002,800002,1,0,0,0,-1,-1,-1,0,1,0,99,0,0,0,0,,,800101,100007201,80000401,800002:1,800004:1,,,1000073|800005|800009,800002,,0,,,0,,,,,0
+800003,mission_skill_config-10800003,,mission_skill_config-20800003,mission_skill_config-30800003,800003,1,0,0,0,3|7,-1,-1,0,1,0,2,0,0,0,0,,,,,,800003:1,,,,,0,,0,,,0,,,,,0
+800004,mission_skill_config-10800004,,mission_skill_config-20800004,mission_skill_config-30800004,800004,1,0,0,0,-1,-1,-1,0,1,0,0,0,0,0,0,,,,80000101,1,800004:1,,,,800003|800008,800004,,0,,9053:-1,0,,,,,0
+800005,mission_skill_config-10800005,,mission_skill_config-20800005,mission_skill_config-30800005,800005,1,0,0,0,-1,-1,-1,0,1,0,99,0,0,0,0,,,,,80000301,800005:1,800003:1,,,,0,,0,,,0,,,,,0
+800006,mission_skill_config-10800006,,mission_skill_config-20800006,mission_skill_config-30800006,800006,1,0,0,0,-1,-1,-1,0,1,0,99,0,0,0,0,,,,100007201,,,,,,,0,,0,,9053:1,0,,,,,0
+800007,mission_skill_config-10800007,,mission_skill_config-20800007,mission_skill_config-30800007,800007,1,0,0,0,-1,-1,-1,0,1,0,0,0,0,0,0,,,,,1,,,,,1000072,0,,0,,9053:-99,0,,,,,0
+800008,mission_skill_config-10800008,,mission_skill_config-20800008,mission_skill_config-30800008,800008,1,0,0,0,5,-1,-1,0,1,0,2,0,0,0,0,,,,,,800008:1,,,,,0,,0,,,0,,,,,0
+800009,mission_skill_config-10800009,,mission_skill_config-20800009,mission_skill_config-30800009,800009,1,0,0,0,-1,-1,-1,0,1,0,99,0,0,0,0,,,,,80000801,800009:1,800008:1,,,,0,,0,,,0,,,,,0
+800010,mission_skill_config-10800010,,mission_skill_config-20800010,mission_skill_config-30800010,800010,1,0,0,0,-1,-1,-1,0,1,0,0,0,0,0,0,,,,80000901&&80001000,1,,,800010:1,,,800010,,0,,,0,,,,20|20|200,0
 900001,mission_skill_config-10900001,1,mission_skill_config-20900001,mission_skill_config-30900001,900001,1,0,0,0,3|7|-3|-7,2,-1,0,0,0,2,0,0,0,0,0,0,0,,,900001:1,,,,,0,,0,,,0,,,,,0
 900002,mission_skill_config-10900002,2,mission_skill_config-20900002,mission_skill_config-30900002,900002,1,0,0,0,3|7|-3|-7|1,-1,-1,0,0,0,2,0,0,0,0,0,0,0,,,900002:1,,,,,0,,0,,,0,,,,,0
 900003,mission_skill_config-10900003,3,mission_skill_config-20900003,mission_skill_config-30900003,900003,1,0,0,0,-1,-1,-1,0,0,0,2,0,0,0,0,0,0,0,,,900003:1,,,,,0,,0,,,0,,,,,0
