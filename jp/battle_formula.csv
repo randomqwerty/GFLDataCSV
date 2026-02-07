@@ -3780,7 +3780,7 @@ id,formula
 6512,sbuffidtier(6502)>0?(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(208))>0?388:194:194
 6513,sbuffidtier(6502)>0?(tbufftypetier(201)+tbufftypetier(202)+tbufftypetier(203)+tbufftypetier(204)+tbufftypetier(205)+tbufftypetier(208))>0?400:200:200
 6514,(sbuffidtier(9572)+sbuffidtier(9573)+sbuffidtier(6503))=3?1:0
-6515,tbuffidtier(459)>0?#def<#maxdef?#enemytype=1?$1:#enemytype=3?#life<100000?99999:$1:$1:0:$1
+6515,#def<#maxdef?#life<100000?(tbuffidtier(459)>0?#enemytype=3?99999:#enemytype=5?99999:$1:$1):$1:0
 6516,(sbuffidtier(9549)+sbuffidtier(9550)+sbuffidtier(6507))=3?1:0
 6517,sbuffidtier(6508)>0?180:90
 6518,sbuffidtier(6508)>0?186:96

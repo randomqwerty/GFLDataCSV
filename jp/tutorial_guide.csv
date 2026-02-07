@@ -12,10 +12,11 @@ id,type,child_ids,title,title_code,sub_title,tutorial_manual_id,rank
 300,1,301|302,tutorial_guide-10000300,guide_advance,tutorial_guide-20000300,0,0
 301,2,,tutorial_guide-10000301,,tutorial_guide-20000301,402,5
 302,2,,tutorial_guide-10000302,,tutorial_guide-20000302,709,4
-400,1,401|402|403,tutorial_guide-10000400,guide_higher,tutorial_guide-20000400,0,0
+400,1,401|402|403|404,tutorial_guide-10000400,guide_higher,tutorial_guide-20000400,0,0
 401,2,,tutorial_guide-10000401,,tutorial_guide-20000401,212,5
 402,2,,tutorial_guide-10000402,,tutorial_guide-20000402,501,5
 403,2,,tutorial_guide-10000403,,tutorial_guide-20000403,503,4
+404,2,,tutorial_guide-10000404,,tutorial_guide-20000404,2201,5
 500,1,501|502|503|504,tutorial_guide-10000500,guide_skin,tutorial_guide-20000500,0,0
 501,2,,tutorial_guide-10000501,,tutorial_guide-20000501,1103,4
 502,2,,tutorial_guide-10000502,,tutorial_guide-20000502,1102,5

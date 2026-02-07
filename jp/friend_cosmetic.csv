@@ -1438,13 +1438,13 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1522,2522,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season16_1,1,5,,0,0,1,200008,logo_flightchess_major,0
 1523,2523,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season16_2,1,5,,0,0,1,200007,logo_flightchess_general,0
 1524,2524,1,0,0,0,0,0,,0,0,profilePic_ChessFlight_season16_3,1,5,,0,0,1,200006,logo_flightchess_chief,0
-1525,2525,1,0,0,0,0,0,,0,0,profilePic_202407Activity_01,1,5,,0,0,1,0,logo_202407Activity,0
-1526,2526,1,0,0,0,0,0,,0,0,profilePic_202407Activity_02,1,5,,0,0,1,0,logo_202407Activity,0
+1525,2525,1,0,0,0,0,200,508-5000,1,0,profilePic_202407Activity_01,1,5,,0,0,1,0,logo_202407Activity,0
+1526,2526,1,0,0,0,0,200,508-5000,1,0,profilePic_202407Activity_02,1,5,,0,0,1,0,logo_202407Activity,0
 1527,2527,1,0,0,0,0,0,,0,0,profilePic_202407Activity_03,1,5,,0,0,1,0,logo_202407Activity,0
-1528,2528,2,0,0,0,0,0,,0,0,card_202407Activity_01,1,5,,0,0,1,0,,0
+1528,2528,2,0,0,0,0,400,508-10000,1,0,card_202407Activity_01,1,5,,0,0,1,0,,0
 1529,2529,2,0,0,0,0,0,,0,0,card_202407Activity_02,1,5,,0,0,1,0,,0
 1530,2530,1,0,0,0,0,0,,0,0,profilePic_rank6_AK12Mod,1,5,,0,0,5,200003,,0
-1531,2531,3,0,0,0,0,0,,0,0,cg_202407Activity_01,1,5,,0,0,1,0,,0
+1531,2531,3,0,0,0,0,600,508-15000,1,0,cg_202407Activity_01,1,5,,0,0,1,0,,0
 1532,2532,3,0,0,0,0,0,,0,0,cg_202407Activity_02,1,5,,0,0,1,0,,0
 1533,2533,1,0,0,0,0,200,508-5000,1,0,profilePic_Detective2024_SCARH,1,5,,10601,0,,0,,0
 1534,2534,1,0,0,0,0,200,508-5000,1,0,profilePic_Detective2024_LAMG,1,5,,10602,0,,0,,0
@@ -1616,6 +1616,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1752,2752,1,0,0,0,0,160,508-4000,1,0,profilePic_TacticalAcademy_Tabuk,1,5,,11703,0,4,0,,0
 1753,2753,1,0,0,0,0,80,508-2000,1,0,profilePic_TacticalAcademy_CETME556,1,5,,11704,0,4,0,,0
 1754,2754,1,0,0,0,0,80,508-2000,1,0,profilePic_TacticalAcademy_Z62,1,5,,11705,0,4,0,,0
+1759,2759,1,0,0,0,0,0,,0,0,profilePic_2026SpringJP_coremask,1,5,,0,0,1,0,,0
 2501,3501,1,0,0,0,0,0,,0,0,profilePic_rank5_SPAS12Mod,1,5,,0,0,5,200002,,0
 2502,3502,1,0,0,0,0,0,,0,0,profilePic_rank6_ZastavaM21Mod,1,5,,0,0,5,200003,,0
 2503,3503,1,0,0,0,0,0,,0,0,profilePic_rank5_CR21Mod,1,5,,0,0,5,200002,,0

@@ -1759,6 +1759,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2752,5,1,profilePic_TacticalAcademy_Tabuk,item-10002752,item-20002752,1,0,,,0,0,,item-30002752,0,0
 2753,5,1,profilePic_TacticalAcademy_CETME556,item-10002753,item-20002753,1,0,,,0,0,,item-30002753,0,0
 2754,5,1,profilePic_TacticalAcademy_Z62,item-10002754,item-20002754,1,0,,,0,0,,item-30002754,0,0
+2759,5,1,profilePic_2026SpringJP_coremask,item-10002759,item-20002759,1,0,,,0,0,,item-30002759,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -1926,6 +1927,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 10725,18,10725,daily_points,item-10010725,item-20010725,1,0,,,0,0,,item-30010725,0,0
 10726,18,10726,daily_points,item-10010726,item-20010726,1,0,,,0,0,,item-30010726,0,0
 10727,18,10727,daily_points,item-10010727,item-20010727,1,0,,,0,0,,item-30010727,0,0
+10728,18,10728,daily_points,item-10010728,item-20010728,1,0,,,0,0,,item-30010728,0,0
 30023,1,30023,gift_bundle_BattlePass_MartiniHenry,item-10030023,item-20030023,1,0,,,0,0,,item-30030023,0,0
 30024,1,30024,gift_bundle_BattlePass_SAT8,item-10030024,item-20030024,1,0,,,0,0,,item-30030024,0,0
 30025,1,30025,gift_bundle_BattlePass_PK,item-10030025,item-20030025,1,0,,,0,0,,item-30030025,0,0
@@ -2470,6 +2472,8 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 140064,14,1,Y_Z_zhihuiguan_Chessman,item-10140064,item-20140064,1,0,,,0,0,,item-30140064,0,0
 140065,14,1,Y_Z_zhihuiguan_Chessman,item-10140065,item-20140065,1,0,,,0,0,,item-30140065,0,0
 140066,14,1,Y_Z_zhihuiguan_Chessman,item-10140066,item-20140066,1,0,,,0,0,,item-30140066,0,0
+140067,14,1,Y_Z_zhihuiguan_Chessman,item-10140067,item-20140067,1,0,,,0,0,,item-30140067,0,0
+140068,14,1,Y_Z_zhihuiguan_Chessman,item-10140068,item-20140068,1,0,,,0,0,,item-30140068,0,0
 160001,1,1,PT,item-10160001,item-20160001,1,0,,,0,0,,item-30160001,0,0
 161000,1,1,PT,item-10161000,item-20161000,1,0,,,0,0,,item-30161000,0,0
 161001,1,1,PT,item-10161001,item-20161001,1,0,,,0,0,,item-30161001,0,0
@@ -2831,6 +2835,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 1700058,15,1700058,package_choose,item-11700058,item-21700058,1,-1,,,0,0,,item-31700058,0,1
 1700059,15,1700059,package_choose,item-11700059,item-21700059,1,-1,,,0,0,,item-31700059,0,1
 1700060,15,1700060,package_choose,item-11700060,item-21700060,1,-1,,,0,0,,item-31700060,0,1
+1700061,15,1700061,package_choose,item-11700061,item-21700061,1,-1,,,0,0,,item-31700061,0,1
+1700062,15,1700062,package_choose,item-11700062,item-21700062,1,-1,,,0,0,,item-31700062,0,1
+1700063,15,1700063,package_choose,item-11700063,item-21700063,1,-1,,,0,0,,item-31700063,0,1
 1800001,15,1800001,package_random,item-11800001,item-21800001,5,-1,,,0,0,,item-31800001,0,1
 1800002,15,1800002,package_random,item-11800002,item-21800002,5,-1,,,0,0,,item-31800002,0,1
 1800003,15,1800003,package_random,item-11800003,item-21800003,4,-1,,,0,0,,item-31800003,0,1
@@ -2917,3 +2924,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9500066,15,9500066,Bumdle_JPnewyear1,item-19500066,item-29500066,1,-1,,,0,0,,item-39500066,0,1
 9500067,15,9500067,Bumdle_JPnewyear2,item-19500067,item-29500067,1,-1,,,0,0,,item-39500067,0,1
 9500068,15,9500068,Bumdle_JPnewyear3,item-19500068,item-29500068,1,-1,,,0,0,,item-39500068,0,1
+9500069,4,9500069,core_mask,item-19500069,item-29500069,1,0,,,0,0,,item-39500069,0,0
+9500070,15,9500066,Bumdle_SpringFestivalCoupons1,item-19500070,item-29500070,1,-1,,,0,0,,item-39500070,0,1
+9500071,15,9500067,Bumdle_SpringFestivalCoupons2,item-19500071,item-29500071,1,-1,,,0,0,,item-39500071,0,1
+9500072,15,9500068,Bumdle_SpringFestivalCoupons3,item-19500072,item-29500072,1,-1,,,0,0,,item-39500072,0,1

@@ -45,4 +45,5 @@ id,campaign_id,tag,order,name,chapter_name,bg_code,bg_config,desc,scene_name,eve
 48,-58,normal_activity-10000048,15,normal_activity-20000048,normal_activity-30000048,active_Slowshock,#000000C7|#3D415166|#0084FF|#FFFFFFFF,normal_activity-40000048,active_Slowshocklogo,0,
 50,-68,normal_activity-10000050,16,normal_activity-20000050,normal_activity-30000050,active_202404,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000050,active_202404logo,0,
 51,-69,normal_activity-10000051,17,normal_activity-20000051,normal_activity-30000051,active_202406,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000051,active_202406logo,0,
+52,-70,normal_activity-10000052,18,normal_activity-20000052,normal_activity-30000052,active_202407,#000000C7|#3D415166|#FF4800|#FFFFFFFF,normal_activity-40000052,active_202407logo,0,
 55,-49,normal_activity-10000055,102,normal_activity-20000055,normal_activity-30000055,active_Xmas2021,#000000C7|#3D415166|#22d0ab|#FFFFFFFF,normal_activity-40000055,active_Xmas2021logo,0,
