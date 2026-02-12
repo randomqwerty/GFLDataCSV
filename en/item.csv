@@ -1724,6 +1724,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2752,5,1,profilePic_TacticalAcademy_Tabuk,item-10002752,item-20002752,1,0,,,0,0,,item-30002752,0,0
 2753,5,1,profilePic_TacticalAcademy_CETME556,item-10002753,item-20002753,1,0,,,0,0,,item-30002753,0,0
 2754,5,1,profilePic_TacticalAcademy_Z62,item-10002754,item-20002754,1,0,,,0,0,,item-30002754,0,0
+2759,5,1,profilePic_2026SpringJP_coremask,item-10002759,item-20002759,1,0,,,0,0,,item-30002759,0,0
 3501,5,1,profilePic_rank5_SPAS12Mod,item-10003501,item-20003501,1,0,,,0,0,,item-30003501,0,0
 3502,5,1,profilePic_rank6_ZastavaM21Mod,item-10003502,item-20003502,1,0,,,0,0,,item-30003502,0,0
 3503,5,1,profilePic_rank5_CR21Mod,item-10003503,item-20003503,1,0,,,0,0,,item-30003503,0,0
@@ -2108,6 +2109,9 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100250,9,100250,Coin_202412ConvolutionalKernel,item-10100250,item-20100250,1,0,,60;180,0,0,,item-30100250,0,0
 100251,4,100251,coremask2_202412ConvolutionalKernel,item-10100251,item-20100251,1,0,,,0,0,,item-30100251,0,0
 100252,4,100252,coremask_202412ConvolutionalKernel,item-10100252,item-20100252,1,0,,,0,0,,item-30100252,0,0
+100254,4,100254,Nova_medal_black,item-10100254,item-20100254,1,0,,,0,0,,item-30100254,0,0
+100255,4,100255,Platinum_medal_black,item-10100255,item-20100255,1,0,,,0,0,,item-30100255,0,0
+100256,9,100256,Coin_202404Shapeofmemory,item-10100256,item-20100256,1,0,,60;180,0,0,,item-30100256,0,0
 100258,4,100258,Bumdle_2025NewYear_NA,item-10100258,item-20100258,1,0,,,0,0,,item-30100258,0,0
 100268,4,100268,Nova_medal,item-10100268,item-20100268,1,0,,,0,0,,item-30100268,0,0
 100269,4,100269,Platinum_medal,item-10100269,item-20100269,1,0,,,0,0,,item-30100269,0,0
@@ -2833,3 +2837,11 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000046,15,9000046,Bumdle_invocation_2,item-19000046,item-29000046,1,-1,,,0,0,,item-39000046,0,1
 9000047,15,9000047,Bumdle_sangvischoose,item-19000047,item-29000047,1,-1,,,0,0,,item-39000047,0,1
 9000048,15,9000048,Bumdle_equipment,item-19000048,item-29000048,1,-1,,,0,0,,item-39000048,0,1
+9000049,4,9000049,core_mask,item-19000049,item-29000049,1,0,,,0,0,,item-39000049,0,0
+9000050,15,9000050,Bumdle_invocation_3,item-19000050,item-29000050,1,-1,,,0,0,,item-39000050,0,1
+9000051,15,9000051,Bumdle_invocation_2,item-19000051,item-29000051,1,-1,,,0,0,,item-39000051,0,1
+9000052,15,9000052,Bumdle_sangvischoose,item-19000052,item-29000052,1,-1,,,0,0,,item-39000052,0,1
+9000053,15,9000053,Bumdle_equipment,item-19000053,item-29000053,1,-1,,,0,0,,item-39000053,0,1
+9000054,15,9000054,Bumdle_JPnewyear1,item-19000054,item-29000054,1,-1,,,0,0,,item-39000054,0,1
+9000055,15,9000055,Bumdle_JPnewyear2,item-19000055,item-29000055,1,-1,,,0,0,,item-39000055,0,1
+9000056,15,9000056,Bumdle_JPnewyear3,item-19000056,item-29000056,1,-1,,,0,0,,item-39000056,0,1

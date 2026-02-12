@@ -56,4 +56,5 @@ id,name,description,group_id,code,bonus_plastic,skill_id,path,is_class,des_year,
 65,commander_class-10000065,commander_class-20000065,103,commander_6520_icon,,0,CLASS65,0,commander_class-30000065,2,commander_class-40000065
 66,commander_class-10000066,commander_class-20000066,104,commander_6620_icon,,0,CLASS66,0,commander_class-30000066,2,commander_class-40000066
 67,commander_class-10000067,commander_class-20000067,105,commander_6720_icon,,0,CLASS67,0,commander_class-30000067,2,commander_class-40000067
+68,commander_class-10000068,commander_class-20000068,106,commander_6831_icon,,109,CLASS68,1,commander_class-30000068,2,commander_class-40000068
 99,commander_class-10000099,commander_class-20000099,60,commander_9920_icon,,0,EMOJI,0,commander_class-30000099,2,commander_class-40000099
