@@ -242,4 +242,13 @@ id,name,description,code,icon,type,gender,uniform_class,color_normal,color_0,col
 6440,commander_uniform-10006440,commander_uniform-20006440,BodyAcco,commander_6440_icon,4,0,64,Commander_6440_N,,,,,,0,BodyBinder1,0,0.16,0.020|0.070,961
 6520,commander_uniform-10006520,commander_uniform-20006520,HeadAcco,commander_6520_icon,2,0,65,Commander_6520_N,,,,,,0,HairBinder2,0,0.2,-0.045|0.272,962
 6620,commander_uniform-10006620,commander_uniform-20006620,HeadAcco,commander_6620_icon,2,0,66,Commander_6620_N,,,,,,0,HairBinder2,0,0.2,-0.1|0.52,963
+6720,commander_uniform-10006720,commander_uniform-20006720,HeadAcco,commander_6720_icon,2,0,67,Commander_6720_N,,,,,,0,HairBinder2,0,0.18,-0.1|0.250,964
+6811,commander_uniform-10006811,commander_uniform-20006811,Head1,commander_6811_icon,1,1,68,Commander_6811_N,,,,,,0,,0,0.0,,965
+6812,commander_uniform-10006812,commander_uniform-20006812,Head2,commander_6812_icon,1,2,68,Commander_6812_N,,,,,,0,,0,0.0,,966
+6820,commander_uniform-10006820,commander_uniform-20006820,HeadAcco,commander_6820_icon,2,0,68,Commander_6820_N,,,,,,0,HairBinder2,0,0.2,-0.137|0.207,967
+6831,commander_uniform-10006831,commander_uniform-20006831,Body1,commander_6831_icon,3,1,68,Commander_6831_N,,,,,,0,,0,0.0,,968
+6832,commander_uniform-10006832,commander_uniform-20006832,Body2,commander_6832_icon,3,2,68,Commander_6832_N,,,,,,0,,0,0.0,,969
+6840,commander_uniform-10006840,commander_uniform-20006840,BodyAcco,commander_6840_icon,4,0,68,Commander_6840_N,,,,,,0,BodyBinder1,0,0.2,0.020|0.070,970
+6851,commander_uniform-10006851,commander_uniform-20006851,Foot1,commander_6851_icon,5,1,68,Commander_6851_N,,,,,,0,,0,0.0,,971
+6852,commander_uniform-10006852,commander_uniform-20006852,Foot2,commander_6852_icon,5,2,68,Commander_6852_N,,,,,,0,,0,0.0,,972
 9920,commander_uniform-10009920,commander_uniform-20009920,HeadAcco,commander_9920_icon,2,0,99,Commander_9920_N,,,,,,0,HairBinder2,0,0.4,-0.051|0.187,277

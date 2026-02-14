@@ -1886,6 +1886,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9046,1,9046,ActivityTarot1,item-10009046,item-20009046,1,0,,,0,0,,item-30009046,1,0
 9047,1,9047,ActivityTarot3,item-10009047,item-20009047,1,0,,,0,0,,item-30009047,1,0
 9048,1,9048,mind_PT,item-10009048,item-20009048,1,0,,,0,0,,item-30009048,0,0
+9049,1,9049,mind_PT,item-10009049,item-20009049,1,0,,,0,0,,item-30009049,0,0
+9050,1,9050,Griffin,item-10009050,item-20009050,1,0,,,0,0,,item-30009050,1,0
+9051,1,9051,Griffin,item-10009051,item-20009051,1,0,,,0,0,,item-30009051,1,0
+9052,1,9052,Griffin,item-10009052,item-20009052,1,0,,,0,0,,item-30009052,1,0
 9301,1,9301,intelligence1,item-10009301,item-20009301,1,0,,,0,0,,item-30009301,0,0
 9302,1,9302,intelligence2,item-10009302,item-20009302,1,0,,,0,0,,item-30009302,0,0
 9303,1,9303,intelligence3,item-10009303,item-20009303,1,0,,,0,0,,item-30009303,0,0

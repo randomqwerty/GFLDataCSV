@@ -925,7 +925,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 987,1987,1,0,0,0,0,0,,0,0,profilePic_sangvis_Intruder_Holloween,1,5,,0,0,5,200002,,0
 988,1988,1,0,0,0,0,0,,0,0,profilePic_sangvis_Jaeger_SWAP,1,5,,0,0,5,200001,,0
 990,1990,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2021_MK23,1,5,,0,0,1,200005,logo_21christmas,4165
-991,1991,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2021_KAC,1,5,,0,0,1,200005,logo_21christmas,0
+991,1991,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2021_KAC,1,5,,0,0,1,200005,logo_21christmas,4282
 992,1992,2,0,0,0,0,400,508-10000,1,0,card_Christmas2021_CG,1,5,,0,0,1,0,,4052
 993,1993,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2021_HowaType89,1,5,,6601,0,4,200005,,0
 994,1994,1,0,0,0,0,200,508-5000,1,0,profilePic_Christmas2021_Python,1,5,,6603,0,4,200005,,0
@@ -961,8 +961,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1025,2025,1,0,0,0,0,0,,0,0,profilePic_sangvis_Destroyer_Christmas,1,5,,0,0,5,200002,,0
 1026,2026,1,0,0,0,0,0,,0,0,profilePic_sangvis_Guard_chm,1,5,,0,0,5,200001,,0
 1027,2027,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_coremask,100,5,,0,0,1,200005,logo_22winter,0
-1028,2028,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_01,1,5,,0,0,1,200005,logo_22winter,0
-1029,2029,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_02,1,5,,0,0,1,200005,logo_22winter,0
+1028,2028,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_01,1,5,,0,0,1,200005,logo_22winter,4283
+1029,2029,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_02,1,5,,0,0,1,200005,logo_22winter,4284
 1030,2030,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_03,1,5,,0,0,1,200005,logo_22winter,0
 1031,2031,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_04,1,5,,0,0,1,200005,logo_22winter,0
 1032,2032,1,0,0,0,0,200,508-5000,1,0,profilePic_Winter2022_05,1,5,,0,0,1,200005,logo_22winter,0
@@ -1121,7 +1121,7 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1199,2199,1,0,0,0,0,0,,0,0,profilePic_EclipseActivity2022_06,1,5,,0,0,1,0,logo_Eclipse22,0
 1200,2200,1,0,0,0,0,200,508-5000,1,0,profilePic_EclipseActivity2022_07,1,5,,0,0,1,0,logo_Eclipse22,0
 1201,2201,1,0,0,0,0,200,508-5000,1,0,profilePic_EclipseActivity2022_08,1,5,,0,0,1,0,logo_Eclipse22,0
-1202,2202,2,0,0,0,0,400,508-10000,1,0,card_EclipseActivity2022_01,1,5,,0,0,1,0,,0
+1202,2202,2,0,0,0,0,400,508-10000,1,0,card_EclipseActivity2022_01,1,5,,0,0,1,0,,4279
 1203,2203,2,0,0,0,0,0,,0,0,card_EclipseActivity2022_02,1,5,,0,0,1,0,,0
 1204,2204,3,0,0,0,0,600,508-15000,1,0,cg_EclipseActivity2022_01,1,5,,0,0,1,0,,0
 1205,2205,2,0,0,0,0,400,508-10000,0,0,card_BattlePass_Lewis,1,5,,0,0,,0,,0
@@ -1212,8 +1212,8 @@ id,item_id,sub_type,mp,ammo,mre,part,gem,item_ids,onsale,in_gasha,code,order,rar
 1292,2292,1,0,0,0,0,200,508-5000,1,0,profilePic_SlowShockActivity2023_06,1,5,,0,0,1,0,logo_23winter,0
 1293,2293,1,0,0,0,0,200,508-5000,1,0,profilePic_SlowShockActivity2023_07,1,5,,0,0,1,0,logo_23winter,0
 1294,2294,1,0,0,0,0,200,508-5000,1,0,profilePic_SlowShockActivity2023_08,1,5,,0,0,1,0,logo_23winter,0
-1295,2295,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_01,1,5,,0,0,1,0,,0
-1296,2296,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_02,1,5,,0,0,1,0,,0
+1295,2295,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_01,1,5,,0,0,1,0,,4280
+1296,2296,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_02,1,5,,0,0,1,0,,4281
 1297,2297,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_03,1,5,,0,0,1,0,,0
 1298,2298,2,0,0,0,0,400,508-10000,1,0,card_SlowShockActivity2023_04,1,5,,0,0,1,0,,0
 1299,2299,3,0,0,0,0,600,508-15000,1,0,cg_SlowShockActivity2023_01,1,5,,0,0,1,0,,0

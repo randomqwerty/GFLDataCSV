@@ -37,6 +37,7 @@ id,name,code,description,priority,duration,delay,size,sound,spine,if_starting,re
 780902,mission_effect_config-10780902,LNXY_bj_piao01,mission_effect_config-20780902,1,0.0,0.0,1.0,,0,0,0,0|0,,0,0
 780903,mission_effect_config-10780903,LNXY_bj_piao03,mission_effect_config-20780903,1,0.0,0.0,1.0,,0,0,0,0|0,,0,0
 780904,mission_effect_config-10780904,LNXY_bj_piao02,mission_effect_config-20780904,1,0.0,0.0,1.0,,0,0,0,0|0,,0,0
+800101,mission_effect_config-10800101,GQ_yanhua2,mission_effect_config-20800101,0,4.0,0.0,1.0,2022_Bikini_Fireworks,0,0,0,0|0,,0,0
 900001,mission_effect_config-10900001,effectPowerup,mission_effect_config-20900001,0,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 900002,mission_effect_config-10900002,effectNoDrop,mission_effect_config-20900002,3,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
 900003,mission_effect_config-10900003,Mission_gas,mission_effect_config-20900003,9,0.0,0.0,1.0,0,0,0,0,0|0,,0,0
