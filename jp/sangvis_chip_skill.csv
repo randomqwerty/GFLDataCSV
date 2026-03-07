@@ -7,3 +7,4 @@ id,trigger_target_type,trigger_range,trigger_formula,target_type,target_range,ba
 3006,4|5|6;1|2|3|8,2;3,<0;>0,1|2|3|8,3,199001,SpotTarget0
 3007,,,,8,0,610008,SpotTarget0
 3008,,,,1|2|3|8,2,610009,SpotTarget0
+4001,,,,1|8|10|301,5,450316,SpotTarget0
