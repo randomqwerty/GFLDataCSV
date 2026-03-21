@@ -80,6 +80,7 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 146,3,47,Medal_Theater14th_NA,item-10000146,item-20000146,1,0,,,0,0,,item-30000146,0,0
 147,3,48,Medal_Theater14th_rank_NA,item-10000147,item-20000147,1,0,,,0,0,,item-30000147,0,0
 149,3,50,Medal_202505Activity,item-10000149,item-20000149,1,0,,,0,0,,item-30000149,0,0
+150,3,51,Medal_202507Activity,item-10000150,item-20000150,1,0,,,0,0,,item-30000150,0,0
 301,1,1,CentreDataBGM71,item-10000301,item-20000301,1,0,,,0,0,,item-30000301,0,0
 302,1,1,CentreDataAGS30,item-10000302,item-20000302,1,0,,,0,0,,item-30000302,0,0
 303,1,1,CentreData2B14,item-10000303,item-20000303,1,0,,,0,0,,item-30000303,0,0
@@ -1713,6 +1714,13 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 2690,5,1,card_BattlePass_FO12,item-10002690,item-20002690,1,0,,,0,0,,item-30002690,0,0
 2694,5,1,profilePic_BattlePass_STG44,item-10002694,item-20002694,1,0,,,0,0,,item-30002694,0,0
 2695,5,1,card_BattlePass_STG44,item-10002695,item-20002695,1,0,,,0,0,,item-30002695,0,0
+2696,5,1,profilePic_202507Activity_01,item-10002696,item-20002696,1,0,,,0,0,,item-30002696,0,0
+2697,5,1,profilePic_202507Activity_02,item-10002697,item-20002697,1,0,,,0,0,,item-30002697,0,0
+2698,5,1,profilePic_202507Activity_03,item-10002698,item-20002698,1,0,,,0,0,,item-30002698,0,0
+2699,5,1,profilePic_202507Activity_04,item-10002699,item-20002699,1,0,,,0,0,,item-30002699,0,0
+2700,5,1,profilePic_202507Activity_05,item-10002700,item-20002700,1,0,,,0,0,,item-30002700,0,0
+2701,5,1,card_202507Activity_01,item-10002701,item-20002701,1,0,,,0,0,,item-30002701,0,0
+2702,5,1,card_202507Activity_02,item-10002702,item-20002702,1,0,,,0,0,,item-30002702,0,0
 2703,5,1,profilePic_BattlePass_Six12,item-10002703,item-20002703,1,0,,,0,0,,item-30002703,0,0
 2704,5,1,card_BattlePass_Six12,item-10002704,item-20002704,1,0,,,0,0,,item-30002704,0,0
 2708,5,1,profilePic_BattlePass_HK416,item-10002708,item-20002708,1,0,,,0,0,,item-30002708,0,0
@@ -2121,6 +2129,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 100269,4,100269,Platinum_medal,item-10100269,item-20100269,1,0,,,0,0,,item-30100269,0,0
 100270,9,100270,Coin_202505RocheLimit,item-10100270,item-20100270,1,0,,60;180,0,0,,item-30100270,0,0
 100271,4,100271,coremask2_202505RocheLimit,item-10100271,item-20100271,1,0,,,0,0,,item-30100271,0,0
+100280,4,100280,Nova_medal_black,item-10100280,item-20100280,1,0,,,0,0,,item-30100280,0,0
+100281,4,100281,Platinum_medal_black,item-10100281,item-20100281,1,0,,,0,0,,item-30100281,0,0
+100282,9,100282,Coin_202507VirtualPair​,item-10100282,item-20100282,1,0,,60;180,0,0,,item-30100282,0,0
+100283,4,100283,coremask2_202507VirtualPair​,item-10100283,item-20100283,1,0,,,0,0,,item-30100283,0,0
 100284,4,100284,Nova_medal,item-10100284,item-20100284,1,0,,,0,0,,item-30100284,0,0
 100285,4,100285,Platinum_medal,item-10100285,item-20100285,1,0,,,0,0,,item-30100285,0,0
 100286,9,100286,Coin_202411LorenzButterfly,item-10100286,item-20100286,1,0,,60;180,0,0,,item-30100286,0,0
@@ -2859,3 +2871,10 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9000054,15,9000054,Bumdle_JPnewyear1,item-19000054,item-29000054,1,-1,,,0,0,,item-39000054,0,1
 9000055,15,9000055,Bumdle_JPnewyear2,item-19000055,item-29000055,1,-1,,,0,0,,item-39000055,0,1
 9000056,15,9000056,Bumdle_JPnewyear3,item-19000056,item-29000056,1,-1,,,0,0,,item-39000056,0,1
+9000057,15,9000057,Bumdle_invocation_3,item-19000057,item-29000057,1,-1,,,0,0,,item-39000057,0,1
+9000058,15,9000058,Bumdle_invocation_2,item-19000058,item-29000058,1,-1,,,0,0,,item-39000058,0,1
+9000059,15,9000059,Bumdle_sangvischoose,item-19000059,item-29000059,1,-1,,,0,0,,item-39000059,0,1
+9000060,15,9000060,Bumdle_equipment,item-19000060,item-29000060,1,-1,,,0,0,,item-39000060,0,1
+9000061,15,9000061,Bumdle_WhiteValentineCoupons1,item-19000061,item-29000061,1,-1,,,0,0,,item-39000061,0,1
+9000062,15,9000062,Bumdle_WhiteValentineCoupons2,item-19000062,item-29000062,1,-1,,,0,0,,item-39000062,0,1
+9000063,15,9000063,Bumdle_WhiteValentineCoupons3,item-19000063,item-29000063,1,-1,,,0,0,,item-39000063,0,1

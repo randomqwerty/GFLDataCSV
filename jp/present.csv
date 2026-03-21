@@ -199,6 +199,13 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 1500287,1,,0,140002,0,2026-03-15 23:59:59,140016,present-11500287,0
 1500288,2,,0,0,2702,2026-03-15 23:59:59,140016,present-11500288,0
 1500289,2,,0,0,945,2026-03-15 23:59:59,140016,present-11500289,0
+1500339,1,PackageImage_SangvisUnit3,0,4333,0,,0,present-11500339,0
+1500340,1,PackageImage_SangvisUnit2,0,4334,0,,0,present-11500340,0
+1500341,1,PackageImage_SangvisUnit1,0,4335,0,,0,present-11500341,0
+1500342,1,PackageImage_SangvisAvatar3,0,4336,0,,0,present-11500342,0
+1500343,1,PackageImage_SangvisAvatar2,0,4337,0,,0,present-11500343,0
+1500344,1,PackageImage_SangvisAvatar1,0,4338,0,,0,present-11500344,0
+1500345,1,PackageImage_SangvisUnit3,0,4339,0,,0,present-11500345,0
 1500346,1,,0,140001,0,2026-04-19 23:59:59,140016,present-11500346,0
 1500347,1,,0,140003,0,2026-04-19 23:59:59,140016,present-11500347,0
 1500348,2,,0,0,2729,2026-04-19 23:59:59,140016,present-11500348,0
@@ -362,3 +369,6 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 9500074,1,PackageImage_rank5,0,331856,0,2026-09-06 23:59:59,1994,present-19500074,0
 9500075,1,PackageImage_Sangvis,0,331857,0,2026-09-06 23:59:59,2598,present-19500075,0
 9500076,1,PackageImage_Equip,0,331858,0,2026-09-06 23:59:59,2599,present-19500076,0
+9500077,2,PackageImage_whitedayjp_1,0,0,20143,2026-05-13 23:59:59,7405,present-19500077,0
+9500078,2,PackageImage_whitedayjp_2,0,0,20144,2026-05-13 23:59:59,7406,present-19500078,0
+9500079,1,PackageImage_whitedayjp_3,0,331910,0,2026-05-13 23:59:59,331211,present-19500079,0
