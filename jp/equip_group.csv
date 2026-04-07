@@ -55,3 +55,15 @@ id,name,des,code,equip_unit,group_skill,fit_gun,is_addition
 54,equip_group-10000054,equip_group-20000054,EgroupAR,0|453|205,2:1006503,20071,0
 55,equip_group-10000055,equip_group-20000055,EgroupMG5,0|386|455,2:1006703,109,0
 56,equip_group-10000056,equip_group-20000056,EgroupRMB93,240|0|456,2:1006803,20159,0
+57,equip_group-10000057,equip_group-20000057,EgroupP90,458|0|277,2:1007003,245,0
+58,equip_group-10000058,equip_group-20000058,EgroupK5,459|0|334,2:1007103,20212,0
+59,equip_group-10000059,equip_group-20000059,EgroupAUG,295|0|462,2:1007903,73,0
+60,equip_group-10000060,equip_group-20000060,EgroupM1903,59|0|463,2:1008003,36,0
+61,equip_group-10000061,equip_group-20000061,EgroupSaiga12,465|0|292,2:1008203,160,0
+62,equip_group-10000062,equip_group-20000062,EgroupPK,466|264|0,2:1008303,85,0
+63,equip_group-10000063,equip_group-20000063,EgroupCZ75,270|469|0,2:1009203,166,0
+64,equip_group-10000064,equip_group-20000064,EgroupF1,214|0|470,2:1009303,20178,0
+65,equip_group-10000065,equip_group-20000065,EgroupVSK94,474|0|354,2:1009603,312,0
+66,equip_group-10000066,equip_group-20000066,EgroupRibeyrolles,261|0|475,2:1009703,20171,0
+67,equip_group-10000067,equip_group-20000067,EgroupLewis,483|447|0,2:1011003,253,0
+68,equip_group-10000068,equip_group-20000068,EgroupM1897,484|206|0,2:1011103,20152,0
