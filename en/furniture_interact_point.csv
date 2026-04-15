@@ -189,3 +189,6 @@ id,gun_action,is_cover,sorting,furiniture_action_interact,direction,bone_name,in
 82013709,wait,-1,-10,|tarot_RO635,1,,0,wait,,820137
 82013710,wait,-1,-10,|tarot_RexZero1,1,,0,wait,,820137
 82013711,wait,-1,-10,|tarot_Scarecrow,1,,0,wait,,820137
+82017901,wait,-1,-10,play1,1,,0,wait,,820179
+82017902,wait,-1,-10,play2,1,,0,wait,,820179
+82017903,wait,-1,-10,play3,1,,0,wait,,820179
