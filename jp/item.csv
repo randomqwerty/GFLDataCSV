@@ -3023,3 +3023,6 @@ id,type,arg,code,item_name,introduction,rank,sort,initial_num,daily_limit,upper_
 9500077,15,9500077,Bumdle_WhiteValentineCoupons1,item-19500077,item-29500077,1,-1,,,0,0,,item-39500077,0,1
 9500078,15,9500078,Bumdle_WhiteValentineCoupons2,item-19500078,item-29500078,1,-1,,,0,0,,item-39500078,0,1
 9500079,15,9500079,Bumdle_WhiteValentineCoupons3,item-19500079,item-29500079,1,-1,,,0,0,,item-39500079,0,1
+9500080,15,9500080,Bumdle_FantasyCoupons1,item-19500080,item-29500080,1,-1,,,0,0,,item-39500080,0,1
+9500081,15,9500081,Bumdle_FantasyCoupons2,item-19500081,item-29500081,1,-1,,,0,0,,item-39500081,0,1
+9500082,15,9500082,Bumdle_FantasyCoupons3,item-19500082,item-29500082,1,-1,,,0,0,,item-39500082,0,1

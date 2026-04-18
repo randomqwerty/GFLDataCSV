@@ -380,3 +380,6 @@ item_id,type,poster,multi_num,prize_id,drop_package_id,due_time,due_prize_id,pre
 9500077,2,PackageImage_whitedayjp_1,0,0,20143,2026-05-13 23:59:59,7405,present-19500077,0
 9500078,2,PackageImage_whitedayjp_2,0,0,20144,2026-05-13 23:59:59,7406,present-19500078,0
 9500079,1,PackageImage_whitedayjp_3,0,331910,0,2026-05-13 23:59:59,331211,present-19500079,0
+9500080,2,PackageImage_whitedayjp_1,0,0,20145,2026-06-17 23:59:59,7405,present-19500080,0
+9500081,2,PackageImage_whitedayjp_2,0,0,20146,2026-06-17 23:59:59,7406,present-19500081,0
+9500082,1,PackageImage_whitedayjp_3,0,332000,0,2026-06-17 23:59:59,331211,present-19500082,0
